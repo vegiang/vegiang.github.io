@@ -48,24 +48,14 @@ slider: true # NOTE - By default, the slider is set to display featured posts. T
 gallery:
   name: Gallery
   images:
-    - alt: 'Minimalism'
-      url: '/images/02.jpg'
-    - alt: 'Minimalism'
-      url: '/images/04.jpg'
-    - alt: 'Minimalism'
-      url: '/images/05.jpg'
-    - alt: 'Minimalism'
-      url: '/images/11.jpg'
-    - alt: 'Minimalism'
-      url: '/images/08.jpg'
-    - alt: 'Minimalism'
-      url: '/images/09.jpg'
-    - alt: 'Minimalism'
-      url: '/images/bao-tang-my-thuat-tphcm.jpg'
-    - alt: 'Minimalism'
-      url: '/images/13.jpg'
-    - alt: 'Minimalism'
-      url: '/images/14.jpg'
+    - alt: 'Toa Nha 1'
+      url: '/images/bao-tang-1.jpg'
+    - alt: 'Toa Nha 2'
+      url: '/images/bao-tang-2.jpg'
+    - alt: 'Xep Hinh 1'
+      url: '/images/xep-hinh-1.jpg'
+    - alt: 'Xep Hinh 2'
+      url: '/images/xep-hinh-2.jpg'
 
 
 #-------------------------------

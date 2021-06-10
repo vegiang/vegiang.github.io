@@ -8,8 +8,6 @@ permalink: bao-tang-my-thuat-thanh-pho-ho-chi-minh
 featured: true
 ---
 
-# Bảo Tàng Mỹ Thuật TP.HCM, tư dinh lộng lẫy đến ngôi nhà của nghệ thuật
-
 _Chưa có tòa tư dinh nào ở Sài Gòn sở hữu vị trí và kiến trúc xuất sắc như Nhà Bảo Tàng Mỹ Thuật. Tham quan Bảo Tàng Mỹ Thuật Thành Phố hôm nay, bạn sẽ cảm nhận được lý do nơi đây là một trong những điểm đến nổi bật nhất ở Sài Gòn._
 
 ## Tòa nhà Bảo Tàng Mỹ Thuật Thành phố Hồ Chí Minh - Dinh Thự Nhà Họ Hứa nổi tiếng một thời

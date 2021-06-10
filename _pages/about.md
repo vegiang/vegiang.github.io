@@ -6,7 +6,7 @@ description: Chào mừng bạn đến với blog của Vệ Giang, đây là tr
 image: '/images/about_me.jpg'
 ---
 
-Chào mừng bạn đến với [Vegiang.com](www.vegiang.com), đây là trang blog cá nhân, nơi mình chia sẻ những trải nghiệm sống của mình. Hy vọng bài viết trên trang này sẽ có ích cho bất kỳ vị khách nào ghé thăm góc nhỏ này của mình.
+Chào mừng bạn đến với Vegiang.com, đây là trang blog cá nhân, nơi mình chia sẻ những trải nghiệm sống của mình. Hy vọng bài viết trên trang này sẽ có ích cho bất kỳ vị khách nào ghé thăm góc nhỏ này của mình.
 
 ## Bạn tìm thấy gì ở Blog của Vệ Giang?
 
