@@ -5,7 +5,7 @@ permalink: /kham-pha/
 ---
 <div>
   {% for category in site.categories %}
-    {% if category[0] == "Jekyll" %}
+    {% if category[0] == "kham-pha" %}
       <div class="container">
         <div class="row">
           <div class="col col-12 col-d-10 col-m-12 push-m-0 push-d-1">

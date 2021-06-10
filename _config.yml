@@ -40,7 +40,7 @@ slider: true # NOTE - By default, the slider is set to display featured posts. T
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+# disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
@@ -61,7 +61,7 @@ gallery:
     - alt: 'Minimalism'
       url: '/images/09.jpg'
     - alt: 'Minimalism'
-      url: '/images/10.jpg'
+      url: '/images/bao-tang-my-thuat-tphcm.jpg'
     - alt: 'Minimalism'
       url: '/images/13.jpg'
     - alt: 'Minimalism'
@@ -70,7 +70,7 @@ gallery:
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: UA-96364919-2 # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------

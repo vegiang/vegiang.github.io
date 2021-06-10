@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /tag/Jekyll
+permalink: /tag/Sai-Gon-Trong-Toi
 ---
 <div>
   {% assign tag_name = page.permalink | split: "/" | last %}

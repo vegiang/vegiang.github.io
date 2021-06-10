@@ -5,7 +5,7 @@ permalink: /nhat-ky/
 ---
 <div>
   {% for category in site.categories %}
-    {% if category[0] == "Travels" %}
+    {% if category[0] == "nhat-ky" %}
       <div class="container">
         <div class="row">
           <div class="col col-12 col-d-10 col-m-12 push-m-0 push-d-1">
