@@ -4,7 +4,7 @@ title:  Bảo Tàng Mỹ Thuật TP.HCM
 image:  '/images/bao-tang-my-thuat-tphcm.jpg'
 tags: Sai-Gon-Trong-Toi
 categories: kham-pha
-permalink: bao-tang-my-thuat-thanh-pho-ho-chi-minh
+permalink: bao-tang-my-thuat-thanh-pho-ho-chi-minh/
 featured: true
 ---
 

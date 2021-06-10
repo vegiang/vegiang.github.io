@@ -5,7 +5,7 @@ description: Cách chơi Jigsaw Puzzle - tranh ghép hình, kinh nghiệm chọn
 image:  '/images/xep_hinh.jpg'
 tags: kinh-nghiem
 categories: kinh-nghiem
-permalink: bi-kip-choi-ghep-hinh-jigsaw-puzzle-cho-nguoi-moi
+permalink: bi-kip-choi-ghep-hinh-jigsaw-puzzle-cho-nguoi-moi/
 featured: true
 ---
 
