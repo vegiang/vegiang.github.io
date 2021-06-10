@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /tag/Sai-Gon-Trong-Toi
+permalink: /tag/sai-gon-trong-toi
 ---
 <div>
   {% assign tag_name = page.permalink | split: "/" | last %}
