@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'Hướng dẫn dùng Photoshop, Canva cơ bản'
 image: /images/nghe-content.jpg
-tags: Nghe-Content
+tags: nghe-content
 categories: kinh-nghiem
 permalink: huong-dan-dung-photoshop-canva-co-ban-cho-content/
 description: >-
