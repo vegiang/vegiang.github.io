@@ -9,7 +9,7 @@ description: Download sách Les 500 exercices de grammaire niveau A1 PDF, giới
 featured: false
 ---
 
-Là cuốn sách bài tập ngữ pháp đầu tiên mình học, Les 500 Exercices de Grammaire phù hợp với người học muốn đạt trình độ A1. Bản thân mình rất thích cuốn sách này nên muốn chia sẻ để bạn nào mới bước đầu học tiếng Pháp có thêm tài liệu hay để tự học hiệu quả hơn.
+_Là cuốn sách bài tập ngữ pháp đầu tiên mình học, Les 500 Exercices de Grammaire phù hợp với người học muốn đạt trình độ A1. Bản thân mình rất thích cuốn sách này nên muốn chia sẻ để bạn nào mới bước đầu học tiếng Pháp có thêm tài liệu hay để tự học hiệu quả hơn._
 
 ## Khám phá Les 500 Exercices de Grammaire có gì?
 
