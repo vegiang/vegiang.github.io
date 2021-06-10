@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 'Hướng dẫn dùng Photoshop, Canva cơ bản'
 image: /images/nghe-content.jpg
