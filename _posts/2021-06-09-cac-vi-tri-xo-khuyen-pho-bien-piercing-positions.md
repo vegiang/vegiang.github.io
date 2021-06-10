@@ -2,7 +2,7 @@
 layout: post
 title:  Các vị trí xỏ khuyên phổ biến
 image:  '/images/piercing.jpg'
-tags: Tips
+tags: tips
 categories: kinh-nghiem
 permalink: cac-vi-tri-xo-khuyen-pho-bin-piercing-positions/
 description: Nên xỏ khuyên vị trí nào vừa đẹp vừa ít đau? Mình đã tổng hợp để gợi ý cho bạn một số vị trí xỏ khuyên và phối khuyên đẹp ở bài này.
