@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /tag/tips
+permalink: /tag/nghe-content
 ---
 <div>
   {% assign tag_name = page.permalink | split: "/" | last %}
