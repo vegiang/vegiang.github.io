@@ -1,5 +1,15 @@
 ---
 published: false
+layout: post
+title: 'Hướng dẫn dùng Photoshop, Canva cơ bản'
+image: /images/nghe-content.jpg
+tags: Nghe-Content
+categories: kinh-nghiem
+permalink: huong-dan-dung-photoshop-canva-co-ban-cho-content/
+description: >-
+  Hơn 10 kỹ năng xử lý và thiết kế hình ảnh, Artword cơ bản bằng photoshop và
+  Canva, mình sẽ hướng dẫn chi tiết các bước để content writer thực hiện dễ
+  dàng.
 ---
 _Bản thân mình không thành thạo Photoshop (PS) lắm, nhưng cũng đủ dùng. Những thao tác làm hình minh họa cho bài website cơ bản, hay Artword đơn giản cho kênh social mình có thể làm được mà không cần phải 100% nhờ designer. Các kỹ năng chỉnh sửa hình ảnh này là gì? Cùng mình học và thực hành nhé!_
 
