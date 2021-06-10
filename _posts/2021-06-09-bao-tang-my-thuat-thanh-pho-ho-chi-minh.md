@@ -20,10 +20,8 @@ Dinh thự nổi tiếng này gắn liền với các huyền thoại và tên t
 
 Nhắc đến Chú Hỏa, người Sài Gòn vẫn truyền nhau câu chuyện của ông từ nghèo khó xây dựng nên cơ ngơi đồ sộ. Cụ Vương Hồng Sển có nhắc đến chú Hỏa trong cuốn Sài Gòn Năm Xưa rằng: "Tuy làm giàu cho mình đã đành, nhưng cũng giúp ích rất nhiều cho sự mở mang thịnh vượng kinh tế miền Nam".
 
-{:refdef: style="text-align: center;"}
 ![](/images/cua-sau-dinh-thu.jpg)
 _Cửa sau của dinh thử còn bảng tên dinh Chú Hỏa bằng Tiếng Pháp._
-{:refdef}
 
 Ngoài tư dinh của mình – cũng là Bảo tàng Mỹ Thuật ngày nay, các công trình dân dụng khác mà Chú Hỏa xây dựng như khách sạn Majestic, Bệnh Viện Từ Dũ, Nhà Khách Chính Phủ (đường Lý Thái Tổ), Trung Tâm Cấp Cứu Sài Gòn và Chùa Kỳ Viên đã góp phần không nhỏ vào sự phát triển của thành phố.
 
