@@ -17,10 +17,12 @@ layout: default
       <div class="container__inner">
         <div class="contaniner__inner-box">
           <div class="row grid">
-            {% for post in page.posts %}
-            <div class="article col col-4 col-d-6 col-m-12 grid__post">
-              {% include article.html %}
-            </div>
+            {% for post in site.posts %}
+              {% if post.tags contains page.tag %}
+                <div class="article col col-4 col-d-6 col-m-12 grid__post">
+                  {% include article.html %}
+                </div>
+              {% endif %}
             {% endfor %}
           </div>
         </div>

@@ -4,7 +4,9 @@
     <h4 class="widget__title">Tags<span>.</span></h4>
   </div>
   <div class="tag__cloud">
-    {{ site | tag_cloud }}
+    {% for tag in site.tags %}
+      <a href="/tag/{{tag[0]}}/" class="set-2">{{ tag[0] }}</a>
+    {% endfor %}
   </div>
 </div>
 {% endif %}
