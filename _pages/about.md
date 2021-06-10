@@ -2,8 +2,11 @@
 layout: page
 title: Giới thiệu
 permalink: /about-me1/
-description: Chào mừng bạn đến với blog của Vệ Giang, đây là trang cá nhân, nơi mình chia sẻ những trải nghiệm sống, câu chuyện và điểm đến
-image: '/images/about_me.jpg'
+description: >-
+  Chào mừng bạn đến với blog của Vệ Giang, đây là trang cá nhân, nơi mình chia
+  sẻ những trải nghiệm sống, câu chuyện và điểm đến
+image: /images/about_me.jpg
+published: true
 ---
 
 Chào mừng bạn đến với Vegiang.com, đây là trang blog cá nhân, nơi mình chia sẻ những trải nghiệm sống của mình. Hy vọng bài viết trên trang này sẽ có ích cho bất kỳ vị khách nào ghé thăm góc nhỏ này của mình.
