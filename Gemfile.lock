@@ -267,7 +267,8 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
-  github-pages (~> 215)
+  github-pages
+  jekyll (~> 3.9.0)
   jekyll-paginate
   jekyll-sitemap
   webrick
