@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Làm sao để sống tối giản trong xã hội hiện đại'
-image: '/images/toi-giang.jpg'
+image: '/images/toi-gian.jpg'
 description: Sống đơn giản là lối sống mình muốn theo đuổi. Mình muốn chia sẻ bài viết về chủ đề này của tác giả Ray Arya – Caspersen.
 permalink: lam-sao-de-song-toi-gian/
 tags: tips
