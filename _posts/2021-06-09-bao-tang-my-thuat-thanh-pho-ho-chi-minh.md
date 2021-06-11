@@ -2,6 +2,7 @@
 layout: post
 title:  Bảo Tàng Mỹ Thuật TP.HCM
 image:  '/images/bao-tang-my-thuat-tphcm.jpg'
+description: "Cùng khám phá Bảo Tàng Mỹ Thuật Thành Phố Hồ Chí Minh để xem nơi này có gì đặc sắc. Bài viết chia sẻ kinh nghiệm tham quan từ A-Z: giá vé, địa chỉ, giờ mở cửa của bảo tàng."
 tags: sai-gon-trong-toi
 categories: kham-pha
 permalink: bao-tang-my-thuat-thanh-pho-ho-chi-minh/
