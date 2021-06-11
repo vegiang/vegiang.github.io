@@ -44,7 +44,7 @@ Nhìn thẳng vào tòa nhà, lấy đồng hồ làm trục chính, ta có th�
 Chưa hết, Bưu điện thành phố còn có nhiều bức phù điêu của nam – nữ thần đều đội vòng nguyệt quế vô cùng ấn tượng. Bên dưới là đồng hồ không số được treo ở vị trí đặc biệt nhất, mỗi phút nó nhảy một số. Năm xây dựng và năm khánh thành Bưu điện cũng được khắc bên dưới cái đồng hồ này. 
 
 ![Đồng Hồ Bưu Điện](/images/dong-ho-buu-dien-thanh-pho.JPG)
-_Đồng hồ đặc biệt đặc ngay chính diện tòa nhà_
+_Đồng hồ đặc biệt đặt ngay chính diện tòa nhà_
 
 ![Phù điêu Bưu điện](/images/ten-danh-nhan-Phap-Buu-Dien-Thanh-pho.JPG)
 _Phù điêu cùng tên danh nhân người Pháp_
