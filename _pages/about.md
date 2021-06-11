@@ -9,12 +9,11 @@ image: /images/about_me.jpg
 published: true
 ---
 
-Chào mừng bạn đến với Vegiang.com, đây là trang blog cá nhân, nơi mình chia sẻ những trải nghiệm sống của mình. Hy vọng bài viết trên trang này sẽ có ích cho bất kỳ vị khách nào ghé thăm góc nhỏ này của mình.
+Chào mừng bạn đến với Vegiang.com, đây là trang blog cá nhân, nơi mình chia sẻ những trải nghiệm sống. Hy vọng bài viết trên trang này sẽ có ích cho bất kỳ vị khách nào ghé thăm góc nhỏ này.
 
 ## Bạn tìm thấy gì ở Blog của Vệ Giang?
 
-Mình bắt đầu viết lách từ những năm đại học. Lúc đó mình viết cho vui, cho xả bớt cơn bực dọc. Sau đó đọc lại, mình lại thấy vớ vẩn rồi xóa đi. Những năm gần đây, mình ấp ủ dự định viết blog để ghi lại những câu chuyện, kỷ niệm hay bài học mình có được. Vừa để mình đọc vừa có thể giúp ích được cho ai đó cần.
-Nội dung chính vegiang.com đem đến cho bạn được chia thành 3 mục:
+Mình bắt đầu viết lách từ những năm đại học. Lúc đó mình viết cho vui, cho xả bớt cơn bực dọc. Sau đó đọc lại, mình lại thấy vớ vẩn rồi xóa đi. Gần đây, mình ấp ủ dự định viết blog để ghi lại những câu chuyện, kỷ niệm hay bài học mình có được. Vừa để đọc vừa có thể giúp ích được cho ai đó cần.
 
 Nội dung chính vegiang.com đem đến cho bạn được chia thành 3 mục:
 
