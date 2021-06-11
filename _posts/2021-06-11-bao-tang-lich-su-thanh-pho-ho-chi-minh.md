@@ -4,7 +4,7 @@ image: /images/bao-tang-lich-su.jpg
 title: "Bảo Tàng Lịch Sử Thành Phố Hồ Chí Minh - Bảo tàng đầu tiên của miền Nam"
 description: Khám phá nét độc đáo của Bảo Tàng Lịch Sử TPHCM, điểm đến lạ mà quen. Kinh nghiệm tham quan cũng như thông tin địa chỉ, giá vé và giờ mở của của Bảo Tàng.
 permalink: bao-tang-lich-su-thanh-pho-ho-chi-minh/
-tags: sai-gon-tron-toi
+tags: sai-gon-trong-toi
 categories: kham-pha
 ---
 
