@@ -4,7 +4,7 @@ title: Don đặc sản Quảng Ngãi
 description: >-
   Tìm hiểu về món ăn đặc sản của vùng đất Quảng Ngãi – Món don. Từ cách đánh
   bắt, cách nấy đúng chuẩn cho đến cách thưởng thức.
-permalink: 'https://vegiang.com/don-dac-san-quang-ngai/'
+permalink: don-dac-san-quang-ngai/
 tags: quang-ngai-nho-thuong
 categories: kham-pha
 layout: post
