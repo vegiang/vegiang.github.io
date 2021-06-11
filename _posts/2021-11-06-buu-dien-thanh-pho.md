@@ -46,7 +46,7 @@ Chưa hết, Bưu điện thành phố còn có nhiều bức phù điêu của 
 ![Đồng Hồ Bưu Điện](/images/dong-ho-buu-dien-thanh-pho.JPG)
 _Đồng hồ đặc biệt đặc ngay chính diện tòa nhà_
 
-![Phù điêu Bưu điện](/images/ten-danh-nhan-Phap-Buu-Dien-Thanh-pho.JPG0
+![Phù điêu Bưu điện](/images/ten-danh-nhan-Phap-Buu-Dien-Thanh-pho.JPG)
 _Phù điêu cùng tên danh nhân người Pháp_
 
 Tiếp đến, đi vào bên trong, ta sẽ cảm nhận được kiến trúc Bưu Điện Thành Phố khoa học như thế nào. Tòa nhà được xây dựng với trần dạng vòm rất cao, để khí nóng dễ thoát lên trên, giữ cho nơi đây luôn mát mẻ quanh năm. Với không gian mở, dù có cửa kính nhưng Tòa nhà Bưu Điện vẫn rất thông thoáng.
