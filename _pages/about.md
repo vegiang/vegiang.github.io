@@ -5,7 +5,7 @@ permalink: /about-me1/
 description: >-
   Chào mừng bạn đến với blog của Vệ Giang, đây là trang cá nhân, nơi mình chia
   sẻ những trải nghiệm sống, câu chuyện và điểm đến
-image: /images/about_me.jpg
+image: '/images/about_me.jpg'
 published: true
 ---
 
