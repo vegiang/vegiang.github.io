@@ -8,7 +8,7 @@ permalink: don-dac-san-quang-ngai/
 tags: quang-ngai-nho-thuong
 categories: kham-pha
 layout: post
-image: images/don-quang-ngai.jpg
+image: /images/don-quang-ngai.jpg
 ---
 ## A New Post
 
