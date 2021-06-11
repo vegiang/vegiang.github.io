@@ -3,7 +3,7 @@ layout: post
 title: Bánh xèo Quảng Ngãi thơm ngon cho ngày mưa gió
 image:  '/images/banh-xeo-quang-ngai-o-sai-gon.JPG'
 description: "Cùng tìm hiểu về món bánh xèo Quảng Ngãi với hương vị khác biệt. Nguyên liệu, cách làm bánh xèo cũng như địa chỉ bán bánh xèo Quảng Ngãi ngon."
-tags: Quang-Ngai-Nho-thuong
+tags: quang-ngai-nho-thuong
 categories: kham-pha
 permalink: banh-xeo-quang-ngai/
 featured: true
