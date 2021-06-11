@@ -8,8 +8,6 @@ tags: tai-lieu-hay
 categories: kinh-nghiem
 ---
 
-# Cẩm nang ngữ pháp Tiếng Pháp: Nouvelle Grammaire du Français (PDF)
-
 _Nouvelle Grammaire du Français được coi là một trong những cuốn sách lý thuyết ngữ pháp gối đầu giường của không ít dân học tiếng Pháp. Trình bày khoa học, đầy đủ chủ điểm ngữ pháp và nêu rõ các trường hợp ngoại lệ là ưu điểm nổi bật của cuốn sách này._
 
 Tương tự như hai tài liệu học tiếng Pháp mình chia sẻ trước đó, cuốn sách này mình chỉ giới thiệu sơ qua cấu trúc để bạn dễ dàng tra cứu.
