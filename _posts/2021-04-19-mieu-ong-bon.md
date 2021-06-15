@@ -29,7 +29,7 @@ _Làng Tân Sơn Nhì xưa có ấp Tân Kỳ, nơi đây có ngôi miếu thờ
 
 _Cả hai ngôi miếu có giá trị tiêu biểu về kiến trúc nghệ thuật với vì kèo gỗ gồm: các cột, kèo, xà có chạm khắc, cửa gỗ kiểu thượng song hạ bản, mái miếu đều lợp ngói âm dương, bờ nóc mái trang trí tượng lưỡng long triều nhật, miếu lưu giữ một số di vật, cổ vật có giá trị như các bàn thờ, hoàng phi, liễu cùng một số cổ vật và di vật khác.” (Theo trungtamvanhoathethaotanbinh.vn)_
 
-> Có thể bạn quan tâm: [Điều gì thú vị ở Bảo Tàng Lịch Sử TPHCM]( https://vegiang.com/dieu-gi-khien-bao-tang-lich-su-tp-hcm-dac-biet/
+> Có thể bạn quan tâm: [Điều gì thú vị ở Bảo Tàng Lịch Sử TPHCM]( https://vegiang.com/dieu-gi-khien-bao-tang-lich-su-tp-hcm-dac-biet/)
 
 ## Và thực tế ghé thăm
 
