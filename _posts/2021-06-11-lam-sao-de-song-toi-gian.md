@@ -6,6 +6,7 @@ description: Sống đơn giản là lối sống mình muốn theo đuổi. Mì
 permalink: lam-sao-de-song-toi-gian-trong-xa-hoi-5-0/
 tags: tips
 categories: kinh-nghiem
+featured: false
 ---
 
 _Sống đơn giản là lối sống mình muốn theo đuổi. Tuy hiện tại mình chưa thực hiện nó nghiêm túc nhất, nhưng mình rất hứng thú tìm hiểu về phong cách sống này. Do đó, mình lược dịch và chia sẻ bài viết về chủ đề này của tác giả Ray Arya – Caspersen đến các bạn ghé thăm blog của mình._
