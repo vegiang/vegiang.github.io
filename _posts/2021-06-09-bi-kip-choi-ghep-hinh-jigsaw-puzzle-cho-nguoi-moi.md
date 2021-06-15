@@ -3,7 +3,7 @@ layout: post
 title: Bí kíp chơi ghép hình – Jigsaw Puzzle cho người mới
 description: "Cách chơi Jigsaw Puzzle - tranh ghép hình, kinh nghiệm chọn tranh Jigsaw và bí quyết chơi dành cho người lớn được chia sẻ chi tiết nhất."
 image:  '/images/xep_hinh.jpg'
-tags: kinh-nghiem
+tags: tips
 categories: kinh-nghiem
 permalink: bi-kip-choi-ghep-hinh-jigsaw-puzzle-cho-nguoi-moi/
 featured: true
