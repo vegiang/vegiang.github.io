@@ -111,7 +111,7 @@ _Em rùa tạo dáng để mình chụp nè_
 ![Khỉ ở Thảo Cầm Viên](/images/khi-Thao-Cam-vien.jpg)
 _Ban đầu định chụp hình một em thôi. Giơ máy lên chụp thì em khác tới đứng cạnh_
 
-![em khỉ dạn dĩ ở Thảo Cầm Viên](/iamges/khi-dan-di-Thao-cam-vien.jpg)
+![em khỉ dạn dĩ ở Thảo Cầm Viên](/images/khi-dan-di-Thao-cam-vien.jpg)
 _Chụp mà nơm nớp sợ ẻm nhảy bổ xuống người mình_
 
 ![Hổ trắng ở Thảo cầm viên](/images/ho-trang-thao-cam-vien.jpg)
