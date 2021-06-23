@@ -54,6 +54,7 @@ _Đính đá dưới da gần đây trở thành trào lưu trong giới trẻ_
 {:refdef}
 
 > [Kinh nghiệm lần đầu đi xỏ khuyên](https://vegiang.com/xo-khuyen-piercing-trai-nghiem-lan-dau-lam-chuyen-ay/)
+
 ## Tham khảo một vài mẫu phối khuyên tai đẹp
 
 Nếu đã xỏ từ 2 lỗ khuyên trở lên, bạn hãy tham khảo các mẫu phối khuyên tinh tế sau nhé!
