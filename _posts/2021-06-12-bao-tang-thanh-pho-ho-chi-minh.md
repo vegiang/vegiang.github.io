@@ -48,6 +48,8 @@ Sau hiệp định Geneve, tòa dinh thự lại trở thành trụ sở của c
 
 Năm 1962 sau khi Tổng thống của chính quyền Việt Nam Cộng Hòa lúc bấy giờ bị ám sát hụt tại Dinh Độc Lập đã chuyển sang sống tại Dinh Quốc Khánh. Từ đó dân Sài Gòn gọi dinh thự là Dinh Gia Long.
 
+> Có thể bạn quan tâm: [Bảo Tàng Mỹ Thuật TP.HCM, tư dinh lộng lẫy đến ngôi nhà của nghệ thuật](https://vegiang.com/bao-tang-my-thuat-thanh-pho-ho-chi-minh/)
+
 Đây cũng là giai đoạn 2, tòa dinh chứng kiến dồn dập nhiều sự kiện lịch sử.
 
 Đến năm 1963, đảo chính diễn ra, anh em Diệm, Nhu bị ám sát. Các thế lực ở miền Nam lao vào tranh giành quyền lực. Năm 1966, Tổng thống mới Nguyễn văn Thiệu lên thay. Ông chuyển về Dinh Độc Lập mới xây cất xong.Lúc này dinh Gia Long lại một lần nữa chuyển công năng thành trụ sở Tối Cao Pháp Viện, với vẻ ngoài thật bình thản trước hào khí sôi sục của cách mạng.
