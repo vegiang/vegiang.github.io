@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Bảo Tàng Mỹ Thuật TP.HCM
-image:  '/images/bao-tang-my-thuat-tphcm.jpg'
+title:  Bảo Tàng Mỹ Thuật TP.HCM, tư dinh lộng lẫy đến ngôi nhà của nghệ thuật
+image:  '/images/bao-tang-My-Thuat-Thanh-Pho-Ho-Chi-Minh.JPG'
 description: "Cùng khám phá Bảo Tàng Mỹ Thuật Thành Phố Hồ Chí Minh để xem nơi này có gì đặc sắc. Bài viết chia sẻ kinh nghiệm tham quan từ A-Z: giá vé, địa chỉ, giờ mở cửa của bảo tàng."
 tags: sai-gon-trong-toi
 categories: kham-pha
@@ -21,7 +21,7 @@ Dinh thự nổi tiếng này gắn liền với các huyền thoại và tên t
 
 Nhắc đến Chú Hỏa, người Sài Gòn vẫn truyền nhau câu chuyện của ông từ nghèo khó xây dựng nên cơ ngơi đồ sộ. Cụ Vương Hồng Sển có nhắc đến chú Hỏa trong cuốn Sài Gòn Năm Xưa rằng: "Tuy làm giàu cho mình đã đành, nhưng cũng giúp ích rất nhiều cho sự mở mang thịnh vượng kinh tế miền Nam".
 
-![](/images/cua-sau-dinh-thu.jpg)
+![Bảng tên của Tư Dinh Chú Hỏa](/images/bang-dinh-thu-Hua-bon-hoa.JPG)
 _Cửa sau của dinh thử còn bảng tên dinh Chú Hỏa bằng Tiếng Pháp._
 
 Ngoài tư dinh của mình – cũng là Bảo tàng Mỹ Thuật ngày nay, các công trình dân dụng khác mà Chú Hỏa xây dựng như khách sạn Majestic, Bệnh Viện Từ Dũ, Nhà Khách Chính Phủ (đường Lý Thái Tổ), Trung Tâm Cấp Cứu Sài Gòn và Chùa Kỳ Viên đã góp phần không nhỏ vào sự phát triển của thành phố.
@@ -37,47 +37,47 @@ Công trình có kết cấu bê tông cốt thép cao 4 tầng, với bố cụ
 Hình thức kiến trúc của tòa nhà khá uy nghi, nhưng cũng dễ gây thiện cảm bởi những chi tiết trang trí duyên dáng màu sắc rực rỡ, bắt mắt, kết hợp hài hòa phong cách Đông – Tây.
 
 {:refdef: style="text-align: center;"}
-![](/images/chinh-dien-bao-tang.jpg)
+![Tòa nhà 1 của Bảo tàng Mỹ Thuật TPHCM](/images/toa-nha-1-Bao-tang-my-thuat-thanh-pho.jpg)
 _Chính diện Tòa nhà 1 của bảo tàng, nơi thể hiện sự tinh tế trong từng chi tiết trang trí._
 {:refdef}
 
 Trong đó, những chi tiết mang đậm phong cách phương Tây phải kể đến như ban công, mái bê tông đưa ra, các trụ sảnh và hệ thống cấu kiện sắt uốn ở cầu thang, lan can. Các ô cửa phía ngoài và cửa sổ ở cầu thang được trang trí ô kính màu cũng có hoa văn đậm chất Châu Âu.
 
 {:refdef: style="text-align: center;"}
-![](/images/cua-kinh-bao-tang.jpg)
+![Cửa Kính Nhà chú Hỏa](/images/cua-kinh-hoa-van-Bao-tang-my-thuat.JPG)
 _Những ô cửa kính nhiều màu sắc đã có niên đại trăm năm_
 {:refdef}
 
 Tòa bộ sàn nhà được lát gạch hoa với hoa văn đa dạng tinh tế. Mỗi khu vực, phòng được lát một kiểu gạch khác nhau, riêng cầu thang lát đá cẩm thạch.
 
 {:refdef: style="text-align: center;"}
-![](/images/toan-bo-bao-tang.png)
+![Gạch lát sàn của Bảo Tàng](/images/gach-hoa-Bao-Tang-My-Thuat-Thanh-Pho.png)
 _Toàn bộ hai tòa nhà của Bảo Tàng Mỹ Thuật phải có hàng chục loại gạch lát tưng ứng từng gian phòng_
 {:refdef}
 
 Bên cạnh đó, phong cách Á Đông thể hiện rõ ở phần mái của dinh thự, được lợp ngói âm dương màu đỏ, men màu lam ở trụ sảnh, họa tiết trang trí ở viền mái hay câu đối chữ Hán ở hai bên cửa chính.
 
 {:refdef: style="text-align: center;"}
-![](/images/tang-cao-bao-tang.jpg)
+![Sân thượng Bảo Tàng Mỹ thuật TPHCM](/images/san-thuong-Bao-Tang-My-Thuat.jpg)
 _Trên tầng cao nhất của tòa nhà, mái ngói âm dương cùng phù điêu tinh xảo. Lối đi lên trên này vừa vắng vừa tối, mình đứng đúng 5s chụp tấm này rồi chạy nhanh xuống._
 {:refdef}
 
 Trên ống thoát nước mái có phù điêu hình cá chép hay những ô tròn trên mái có hoa văn hình chữ vạn cũng là minh chứng cho văn hóa phương Đông của kiến trúc tòa nhà.
 
 {:refdef: style="text-align: center;"}
-![](/images/phu-dieu-bao-tang.jpg)
+![Họa tiết trang trí của Bảo Tàng Mỹ Thuật TPHCM](/images/hoa-tiet-bao-tang-my-thuat-thanh-pho-ho-chi-minh.JPG)
 _Những bức phù điêu hoa văn chữ vạn_
 {:refdef}
 
 {:refdef: style="text-align: center;"}
-![](/images/cua-vom-bao-tang.jpg)
+![Cửa sau của tòa nhà 1 được trang trí phong cách phương Tây](/images/cua-sau-toa-nha-1-Bao-tang-My-Thuat.JPG)
 _Cửa vòm đặc trưng của phương Tây và trụ cẩm thạch đẹp mắt_
 {:refdef}
 
 Điểm đặc biệt tiếp theo chính là thang máy bằng gỗ của Dinh thự này. Bước vào sảnh chính, bạn sẽ nhìn thấy thang máy ngay gần cầu thang. Dinh thự của Nhà Họ Hứa được xem là một trong những công trình đầu tiên ở Sài Gòn có thang máy.
 
 {:refdef: style="text-align: center;"}
-![](/images/thang-may-bao-tang.jpg)
+![Thang máy đầu tiên của Sài Gòn](/images/thang-may-bao-tang-my-thuat-tphcm.JPG)
 _Thang máy đầu tiên tại Sài Gòn_
 {:refdef}
 
@@ -86,7 +86,7 @@ _Thang máy đầu tiên tại Sài Gòn_
 Bằng nổ lực sưu tầm của những con người làm công tác bảo tàng đầy tâm huyết, Bảo Tàng Mỹ Thuật Thành Phố ngày nay đã có hơn 21.000 hiện vật bao gồm tranh, tượng và các di vật liên quan đến các tên tuổi lớn của làng mỹ thuật nước nhà.
 
 {:refdef: style="text-align: center;"}
-![](/images/trung-bay-bao-tang.jpg)
+![Một phòng trưng bày của Bảo Tàng Mỹ Thuật TPHCM](/images/phong-trung-bay-Bao-tang-My-thuat-tphcm.JPG)
 _Một gian phòng trưng bày các tác phẩm hội họa đương đại_
 {:refdef}
 
@@ -99,7 +99,7 @@ Lẩu 1 được dùng để tổ chức các hoạt động văn hóa nghệ th
 Lẩu 2 là không gian trưng bày tác phẩm của các tác giả lớn trong nền mỹ thuật hiện đại. Ngoài ra, ở đây còn có bộ sưu tập ký họa chiến trường của nhiều nghệ sĩ – chiến sĩ. Đây là tư liệu quý vừa có giá trị nghệ thuật và lịch sử.
 
 {:refdef: style="text-align: center;"}
-![](/images/my-thuat-co-dai.jpg)
+![Tác phẩm điêu khắc](/images/tac-pham-dieu-khac-tranh-tai-bao-tang.JPG)
 {:refdef}
 
 Lầu 3 là nơi trưng bày các tác phẩm mỹ thuật cổ đại, cận đại và mỹ thuật thủ công mỹ nghệ truyền thống. Một điều đáng quý là các tác phẩm đã được lưu giữ gần như nguyên vẹn tại bảo tàng mỹ thuật.
@@ -107,7 +107,7 @@ Lầu 3 là nơi trưng bày các tác phẩm mỹ thuật cổ đại, cận đ
 Ở lầu 2 của tòa nhà 1, bạn sẽ nhận ra một không gian gồm hai phòng (được lắp cửa kính, máy lạnh) dành riêng cho danh họa Nguyễn Gia Trí và các tác phẩm, kỷ vật của ông.
 
 {:refdef: style="text-align: center;"}
-![](/images/nguyen-gia-tri-bao-tang.jpg)
+![Hai phòng trưng bày Nguyễn Gia Trí](/images/gian-trung-bay-danh-hoa-Nguyen-Gia-Tri.jpg)
 _Hai phòng trưng bày các tác phẩm và kỷ vật của Danh họa Nguyễn Gia Trí_
 {:refdef}
 
@@ -118,8 +118,8 @@ Nhắc đến hội họa nước nhà, mình chỉ biết họa sĩ Tô Ngọc 
 Khu vực đặc sắc nhất của gian phòng này chính là nơi trưng bày Bức họa sơn mài khổ lớn Vườn Xuân Trung Bắc Nam của danh họa Nguyễn Gia Trí. Vào năm 1991, bức tranh này đã gây tiếng vang lớn khi được định giá 100.000 USD. Đến nay, đây được coi là một trong những báu vật quốc gia thuộc sở hữu của Bảo Tàng Mỹ Thuật Thành Phố.
 
 {:refdef: style="text-align: center;"}
-![](/images/bac-trung-nam-bao-tang.jpg)
-_Tác phẩm Vườn Xuân Bắc Trung Nam của Danh họa Nguyễn Gia Trí_
+![Tác Phẩm Vườn Xuân Trung Bắc Nam](/images/vuon-xuan-Trung-Bac-Nam-Nguyen-Gia-Tri.jpg)
+_Tác phẩm Vườn Xuân Trung Bắc Nam của Danh họa Nguyễn Gia Trí_
 {:refdef}
 
 Không chỉ trưng bày những tác phẩm mỹ thuật, nơi đây còn diễn ra nhiều sự kiện nghệ thuật nổi tiếng trong và ngoài nước. Hôm tham quan Bảo Tàng Mỹ Thuật, mình tình cờ được tham gia triển lãm Búp Bê Truyền Thống Nhật Bản, vô cùng đa dạng và đặc sắc.
@@ -133,7 +133,7 @@ Dù làm việc ở Quận 1 vài năm, đi qua Tòa Dinh này không biết bao
 Tòa nhà nằm ở khu tứ giác với bốn mặt đường của quận 1: Phó Đức Chính, Lê Thị Hồng Gấm, Nguyễn Thái Bình và Calmette.
 
 {:refdef: style="text-align: center;"}
-![](/images/pho-duc-chinh-bao-tang.jpg)
+![Bảo Tàng Mỹ Thuật đường Lê Thị Hồng Gấm](/images/Bao-tang-my-thuat-goc-duong-Nguyen-Thi-Hong-Gam.JPG)
 {:refdef}
 
 Địa chỉ cửa chính là ở Số 97A Đường Phó Đức Chính, Phường Nguyễn Thái Bình, Quận 1.
@@ -149,7 +149,7 @@ Bảo tàng mở cửa từ Thứ Hai đến Chủ Nhật, bắt đầu 8h00 –
 Nếu không có thẻ sinh viên, vé người lớn là 30.000đ/ lượt.
 
 {:refdef: style="text-align: center;"}
-![](/images/chup-hinh-bao-tang.jpg)
+![Vé tham quan Bảo Tàng Mỹ Thuật](/images/ve-tham-quan-Bao-tang-my-thuat.JPG)
 {:refdef}
 
 **Chuyện chụp hình ở Bảo Tàng Mỹ Thuật Thành Phố**
@@ -162,41 +162,41 @@ Vì dân “vô sản” mình đành dùng cái stupid phone của mình để 
 Chắc tòa nhà 1 chiếm hơi nhiều spotlight, nhưng cả khuôn viên Bảo Tàng Mỹ thuật có tận 3 tòa nhà. Bạn xem sơ đồ được đặt ngay lối vào giữ hai Tòa 1 và 2.
 
 {:refdef: style="text-align: center;"}
-![](/images/huong-dan-bao-tang.jpg)
+![Sơ đồ ](/images/so-do-Bao-Tang-My-Thuat-TPHCM.JPG)
 {:refdef}
 
 Đầu tiên bạn tham quan từ Tòa 1, tầng 1, 2,3 rồi vòng xuống dưới sân trong và ra ngoài để tham quan tiếp Tòa 2 và tòa 3. Hôm mình tham quan hơi vắng vẻ, nhất là tòa 3 có mỗi mình vào. Tính hơi nhát nên mình không dám lên lầu hai, chỉ đi ở lầu một vì có bác bảo vệ ngồi ở đấy.
 
 {:refdef: style="text-align: center;"}
-![](/images/toa-nha-trien-lam-bao-tang.jpg)
+![Tòa nhà 2 Bảo Tàng Mỹ Thuật](/images/toa-nha-2-Bao-Tang-My-Thuat-TPHCM.JPG)
 _Tòa nhà 2 nơi diễn ra nhiều chương trình triển lãm nghệ thuật_
 {:refdef}
 
 {:refdef: style="text-align: center;"}
-![](/images/sanh-chinh-toa-nha-2.jpg)
+![Sảng Chính của tòa nhà 2](/images/sanh-trung-bay-toa-nha-2-Bao-Tang-My-Thuat.jpg)
 _Sảnh chính của tòa nhà 2_
 {:refdef}
 
 {:refdef: style="text-align: center;"}
-![](/images/sanh-chinh-toa-nha-3.jpg)
+![Tòa nhà 3 Bảo Tàng Mỹ Thuật TPHCM](/images/toa-nha-3-Bao-Tang-My-thuat-TpHCM.jpg)
 _Tòa nhà 3 của tòa nhà Mỹ Thuật, nơi trưng bày các tác phẩm điêu khắc gốm sứ là chủ yếu_
 {:refdef}
 
 {:refdef: style="text-align: center;"}
-![](/images/cau-thang-toa-nha-3.jpg)
+![Cầu thang Tòa nhà 3](/images/cau-thang-toa-3-Bao-tang-My-Thuat-thanh-pho.jpg)
 _Cầu thang lên tầng hai của tòa nhà 3_
 {:refdef}
 
 {:refdef: style="text-align: center;"}
-![](/images/tang-2-toa-nha-1.jpg)
-_Tầng hai của tòa 1, các bạn trẻ thường chụp hình checkin ở đây_
+![Tầng 3 của Bảo Tàng Mỹ Thuật TPHCM](/images/tang-3-Bao-Tang-My-Thuat-Thanh-Pho.jpg)
+_Tầng ba của tòa 1, các bạn trẻ thường chụp hình checkin ở đây_
 {:refdef}
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/san-toa-nha-1.jpg">
-    <img src="/images/bao-tang-1.jpg">
-    <img src="/images/bao-tang-2.jpg">
+    <img src="/images/san-trong-Bao-Tang-My-Thuat.JPG">
+    <img src="/images/san-trong-bao-tang-my-thuat-thanh-pho.JPG">
+    <img src="/images/san-trong-bao-tang-my-thuat-tphcm.JPG">
   </div>
   <em>Không gian khoảng sân trong của tòa 1 là nơi mình thích nhất</em>
 </div>
