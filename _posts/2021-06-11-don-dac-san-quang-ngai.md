@@ -8,7 +8,7 @@ permalink: don-dac-san-quang-ngai/
 tags: quang-ngai-nho-thuong
 categories: kham-pha
 layout: post
-image: /images/don-quang-ngai.jpg
+image: /images/don-dac-san-quang-ngai.JPG
 ---
 _Chưa có chủ đề nào trên blog này làm mình đắn đo nhiều như “món don”. Chỉ ước được Thạch Lam, Vũ Bằng “nhập” để có thể “cắt nghĩa, gọi tên” thật đắt cho món ăn này. Bởi lẽ, món don là đặc sản của đất Quảng Ngãi mà theo mình cảm nhận, nó mang đầy đủ cái đẹp, cái hồn của người quê mình._
 
@@ -16,13 +16,15 @@ _Chưa có chủ đề nào trên blog này làm mình đắn đo nhiều như �
 
 Don là loài nhuyễn thể nước ngọt. Ở Quảng Ngãi, don có nhiều nhất ở sông Trà và sông Vệ. Nhiều người lầm tưởng nó với loài hến, nhưng don có đặc trưng riêng. Nếu bạn đã từng biết đến món cơm hến, hến xào ở những vùng khác, bạn sẽ dễ hình dung về con don hơn. 
 
-![](/images/don-quang-ngai-1.jpg)
+![Con don](/images/don-Quang-Ngai.jpg)
+_Con don sau khi được chà rửa sạch cát_
 
 Don có kích thước chỉ bằng một nửa con hến mà thôi. Màu vỏ con don cũng sáng hơn con hến. Nước hến có hậu vị chan chát, trong khi nước don ngọt hơn. Thịt don cũng chắc và đậm vị hơn hến.
 
 Con don sống vùi trong tầng cát đáy sông, thức ăn của chúng là các loài thủy sinh. Bắt được chúng rất vất vả. Người dân phải vừa dò vừa cào lớp cát để tìm. Từ sau tết, thời tiết ít mưa dần, sông cạn nước cũng là mùa don xuất hiện nhiều, nên dễ cào don hơn mùa mưa, nước sông đầy.
 
-![](/images/don-quang-ngai-2.jpg)
+![Cào don Quảng Ngãi](/images/cao-don-tren-song-Ve-Quang-Ngai.jpg)
+_Người dân cào don trên sông Vệ_
 
 ## Món don được nấu như thế nào?
 
@@ -49,7 +51,8 @@ Phần cái bạn mang đi đãi vỏ, lấy phần thịt don. Nhặt từng co
 
 Phần nước luộc don, bạn để lắng lại. Sau đó bạn lấy phần trên, bỏ phần cặn ở đáy nồi, đun lên và nêm nếm muối hay bột nêm cho vừa ăn là được.
 
-![](/images/don-quang-ngai-3.jpg)
+![Thịt don](/images/thit-don-Quang-Ngai.JPG)
+_Một to don với thịt don, bánh tráng sống, hành lá, hành củ và nước don_
 
 ## Hương vị tô don gây thương nhớ
 
@@ -65,7 +68,8 @@ Ngày còn ở quê, cứ đến mùa hè - cũng là mùa don, mẹ mình hay m
 
 Thời tiết nóng bức, ăn gì cũng chẳng thấy ngon thì tô don như đánh thức vị giác, giải nhiệt cơ thể vậy.
 
-![](/images/don-quang-ngai-4.jpg)
+![Don Trứng Lộn Quảng Ngãi](/images/don-trung-vit-lon-Quang-Ngai.JPG)
+_Giờ đây bà con mình còn ăn don với trứng vịt lộn_
 
 ## Tâm sự chuyện ẩm thực quê mình
 
@@ -91,17 +95,16 @@ Mình tin rằng, ẩm thực là kết tinh văn hóa của một vùng đất 
 
 Quay lại với món don. Món don giờ đây đã có mặt ở Sài Gòn và nhiều nơi khác. Nhưng với mình, don ăn ở Quảng Ngãi là ngon nhất, đúng vị xưa nhất. Ngày nay, quán bán don giờ bán thêm ram bắp, trứng vị lộn. Người khó tính thì không thích bán chung như vậy, mình thì không khắt khe, mình thích hết. Về quê, ăn gì cũng ngon bạn ạ.
 
-![](/images/don-quang-ngai-5.jpg)
+![Quán Don Nghĩa Hòa](/images/quan-don-vit-lon-Nghia-Hoa-Quang-ngai.JPG)
 _Quán Don Cô Hoa từng xuất hiện trong vlog của Khoai Lang Thang_
 
-
-![](/images/don-quang-ngai-6.jpg)
+![Khách đến quán don](/images/quan-don-co-Hoa-Quang-Ngai.JPG)
 _Quán này lúc nào cũng đông khách, dù ở vị trí không thuận tiện chút nào_
 
-![](/images/don-quang-ngai-7.jpg)
+![Bức tường gạch đặc trưng của quán don](/images/quan-don-Nghia-Hoa-Quang-Ngai.JPG)
+_Người ta đến ăn don vào cả buổi sáng, trưa, tối_
 
-![](/images/don-quang-ngai-8.jpg)
+![Trứng vịt lộn](/images/rau-thom-an-kem-don-trung-vit-lon.JPG)
+_Trong lúc đợi don có thể ăn trứng vịt lộn, ram bắp_
 
-
-
-
+> Có thể bạn quan tâm: [Bánh xèo Quảng Ngãi thơm ngon cho ngày mưa gió](https://vegiang.com/banh-xeo-quang-ngai/)
