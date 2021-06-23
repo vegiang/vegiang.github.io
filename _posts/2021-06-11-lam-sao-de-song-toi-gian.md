@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Làm sao để sống tối giản trong xã hội hiện đại'
-image: '/images/toi-gian.jpg'
+image: '/images/phong-cach-song-don-gian-edu-lauton.jpg'
 description: Sống đơn giản là lối sống mình muốn theo đuổi. Mình muốn chia sẻ bài viết về chủ đề này của tác giả Ray Arya – Caspersen.
 permalink: lam-sao-de-song-toi-gian-trong-xa-hoi-5-0/
 tags: tips
@@ -37,7 +37,7 @@ Vậy mà với sự hỗ trợ đó, vì sao người ta không hạnh phúc h�
 
 Nhưng may mắn thay, bạn có thể lùi lại một chút và đi theo tốc độ của riêng mình. Bạn cần phải tách mình ra khỏi chuỗi thay đổi liên tục này và bắt đầu sống một cuộc sống chậm hơn và đơn giản hơn, giúp bạn thực sự sống và mãn nguyện hơn. Một cuộc sống đơn giản là nơi hạnh phúc thực sự tồn tại.
  
-![](/images/toi-gian-1.jpg)
+![Sống chậm lại hơn bằng cách tái chế vật liệu](/images/tai-che-vat-dung-priscilla-du-preez.jpg)
 
 ## Làm thế nào để tôi bắt đầu sống một cuộc sống đơn giản?
 
@@ -45,7 +45,7 @@ Bắt đầu một cuộc sống đơn giản dễ dàng hơn bạn nghĩ. Thàn
 
 Hãy cởi trói cho bản thân khỏi sự gò bó tư tưởng không cần thiết và trải nghiệm bằng cách dành thời gian, sống chậm lại và tìm kiếm ý nghĩa trong một cuộc sống vốn đã có mọi thứ để trở nên hạnh phúc.
 
-> CÓ THỂ BẠN QUAN TÂM: [Phong cách thời trang tối giản]( https://vegiang.com/phong-cach-thoi-trang-toi-gian-back-to-basic/)
+> Có thể bạn quan tâm: [Phong cách thời trang tối giản, back to basic]( https://vegiang.com/phong-cach-thoi-trang-toi-gian-back-to-basic/)
 
 Dưới đây là một số lời khuyên dành cho bạn để sống một cuộc sống tối giản.
 
@@ -77,7 +77,7 @@ Sử dụng công nghệ để cuộc sống của bạn nhẹ nhàng và tiện
 
 Hãy xây dựng thói quen ghi nhớ việc cần làm hàng ngày của bạn, kích thích não bộ nhiều hơn và tránh sử dụng các thiết bị kỹ thuật cho những nhiệm vụ đơn giản nhất. Vì thật ra, não như một loại cơ bắp có thể được rèn luyện.
  
-![](/images/toi-gian-2.jpg)
+![Tập thiền định](/images/thien-dinh-ksenia-makagonova.jpg)
 
 ## Học cách nói không và đi chậm hơn
 
@@ -105,7 +105,7 @@ Hãy làm cho nơi ở, lịch làm việc và cuộc sống của bạn thông 
 
 Bạn cần học cách tối giản và loại bỏ những thứ vô dụng và thừa thải của mình, cũng như hiểu được thế nào là đủ từ nhu cầu tình cảm và vật chất.
  
-![](/images/toi-gian-3.jpg)
+![Nội thất đơn giản](/images/noi-that-don-gian-daniel-chen.jpg)
 
 ## Đi dạo mỗi ngày và gần gũi thiên nhiên
 
@@ -113,7 +113,7 @@ Một cách khác để sống đơn giản, chậm rãi hơn là hòa mình và
 
 Rèn luyện thói quen đi bộ hoặc đạp xe đến nơi làm việc hoặc bất cứ nơi nào bạn cần đến. Bạn có thể để ô tô ở nhà và dùng phương tiên công cộng nhiều hơn.
  
-![](/images/toi-gian-4.jpg)
+![Đi bộ và hòa mình vào thiên nhiên](/images/di-dao-bo-giua-thien-nhien-juliane-liebermann.jpg)
 
 ## Cảm thấy biết ơn những gì bạn đang có và đã có
 
