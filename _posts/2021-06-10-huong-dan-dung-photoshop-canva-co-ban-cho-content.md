@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 'Hướng dẫn dùng Photoshop, Canva cơ bản'
-image: /images/nghe-content.jpg
+image: /images/huong-dan-chinh-sua-hinh-anh.jpg
 tags: nghe-content
 categories: kinh-nghiem
 permalink: huong-dan-dung-photoshop-canva-co-ban-cho-content/
@@ -17,7 +17,7 @@ _Bản thân mình không thành thạo Photoshop (PS) lắm, nhưng cũng đủ
 Ở nhóm này mình linh hoạt dùng PS, Canva và cả Paint của MS. Nếu chưa từng dùng phần mềm PS bạn cũng dễ dàng làm được ngay.
 
 {:refdef: style="text-align: center;"}
-![](/images/nghe-content-1.jpg)
+![Công cụ Photoshop, Paint và Canva](/images/Untitled%20design.png)
 {:refdef}
 
 ### Cách resize (chỉnh size) hình
@@ -25,37 +25,37 @@ _Bản thân mình không thành thạo Photoshop (PS) lắm, nhưng cũng đủ
 **Bằng Paint**: Bạn click chuột phải và chọn Open with Paint, sau đó chọn resize và điền kích thước bạn muốn. Lưu ý bạn nên nhấn chọn Pixel, Horizontal là chiều dài, Vertical là chiều cao của hình. Bạn nên chọn Maintain aspect ratio để đảm bảo tỉ lệ ảnh.
 
 {:refdef: style="text-align: center;"}
-![](/images/nghe-content-2.jpg)
+![Resize ảnh bằng Paint](/images/resize-anh-bang-paint.JPG)
 {:refdef}
 
 **Bằng PS**: Cách này giúp bạn resize chính xác kích thước hơn. Đầu tiên chọn Click vào File  New hoặc nhấn tổ hợp phím Ctrl+N cũng được. Tiếp đến, đặc tên File (nếu muốn) và điền thông số size mình muốn
 
 {:refdef: style="text-align: center;"}
-![](/images/nghe-content-3.jpg)
+![Resize ảnh bàng PS](/images/mo-hinh-resize.JPG)
 {:refdef}
 
 Width – Height (chiều rộng – chiều cao). Bước này được gọi là tạo layer.
 
 {:refdef: style="text-align: center;"}
-![](/images/nghe-content-4.jpg)
+![Chỉnh thông số Layer](/images/tao-layer-moi.JPG)
 {:refdef}
 
 Sau đó, bạn click file chọn Open hoặc nhấn Ctrl+O để mở hình bạn muốn resize. Nhìn vào cột bên trái bạn quan sát thấy đang là chế độ con chỏ chuột không, nếu chưa cần chọn chế độ này. Bên dưới góc phải màn hình, bạn click vào biểu tượng ổ khóa của hình bạn muốn resize để mở khóa, rồi kéo hình đó vào layer vừa tạo.
 
 {:refdef: style="text-align: center;"}
-![](/images/nghe-content-5.jpg)
+![Kéo hình resize gần layer](/images/keo-hinh-resize-gan-layer-mo-khoa.JPG)
 {:refdef}
 
 Bạn có thể nhìn ở dòng mình đánh dấu nắm kéo dễ hơn. Khi hình đã ở cùng mặt phẳng làm việc với layer, bạn nhấn tổ hợp Ctr+T để hiện khung hình gốc. Nếu hình quá to so với layer, bạn hãy nhấn thêm tổ hợp Ctr+ _ (dấu – trên bàn phím) để dễ thao tác hơn. Bạn rê chuột + nhấn Shift và kéo hình – cân chỉnh vào vừa layer và nhấn Enter. Cuối cùng bạn nhấn Ctrl+Shift+S để lưu hình đã resize. 
 
 {:refdef: style="text-align: center;"}
-![](/images/nghe-content-6.jpg)
+![chỉnh size hình](/images/hinh-sau-khi-ctrl-T-chinh-size.JPG)
 {:refdef}
 
 **Lưu ý**: Chọn loại file *JPEG, *PNG và giữ Shift lúc kéo hình để giữ được ratio của hình.
 
 {:refdef: style="text-align: center;"}
-![](/images/nghe-content-7.jpg)
+![Chọn định dạng file lưu](/images/chon-dinh-dang-anh-de-luu.png)
 {:refdef}
 
 Thực ra hai cách này chỉ dành cho bạn làm ít hình, chứ vài chục cái hình thì mình chưa biết. Nghe anh chị em bảo set lệnh làm hàng loạt thì phải. Mình sẽ nghiên cứu thêm và bổ sung sau nhé!
@@ -65,7 +65,7 @@ Thực ra hai cách này chỉ dành cho bạn làm ít hình, chứ vài chục
 **Dùng Canva**: Công cụ online này siêu tiện lợi cho bạn nếu không có sẵn PS trong máy. Vào trang https://www.canva.com/ sau khi chọn loại hình (Social Media và chọn Facebook Post chẳng hạn), nhìn vào cột phải bạn thấy phần Uploads, bạn chọn nơi lưu hình và tải hình cùng logo lên.
 
 {:refdef: style="text-align: center;"}
-![](/images/nghe-content-8.jpg)
+![gắn logo bằng canva](/images/gan-logo-online-bang-canva.JPG)
 {:refdef}
 
 Logo phải được tách nền bạn nhé! Nếu hỏi công ty mà không có (trường hợp này vô cùng hiếm) thì bạn có thể tham khảo phía dưới mình hướng dẫn tách nền hình.
@@ -81,7 +81,7 @@ Kỹ thuật này dành cho trường hợp bạn tải hình trên mạng, như
 Tương tự, bạn mở hình bằng Paint, sau đó chọn Rotate và click vào Flip Horizontal để xoay hình. Ấn save và bạn đã có một hình “khác” hơn một chút rồi đấy.
 
 {:refdef: style="text-align: center;"}
-![](/images/nghe-content-9.jpg)
+![Xoay hình bằng Paint](/images/lat-xoay-hinh.png)
 {:refdef}
 
 ### Cách chỉnh hình sáng hoặc tối hơn
@@ -91,7 +91,7 @@ Cũng là một cách để làm mới hình ảnh đã có, chỉnh sáng hoặ
 Trước tiên bạn cũng mở hình cần chỉnh trên PS bằng tổ hợp Ctrl+O. Tiếp đến, bạn nhấn Ctrl +L, sẽ hiện ra hộp điều chỉnh: Channel chọn RGB (màu sáng hoặc đỏ, xanh), còn Output Levels bạn kéo để điều chỉnh độ sáng của hình theo ý thích.
 
 {:refdef: style="text-align: center;"}
-![](/images/nghe-content-10.jpg)
+![Chỉnh sáng cho hình bằng PS](/images/chinh-sang-toi-cho-hinh.JPG)
 {:refdef}
 
 ### Cách ghép nhiều hình thành một hình
@@ -99,7 +99,7 @@ Trước tiên bạn cũng mở hình cần chỉnh trên PS bằng tổ hợp C
 Khi làm content website, bạn không biết lựa hình nào đẹp để minh họa cho sản phẩm, địa điểm đó mà upload hết thì nhiều quá. Cách tốt nhất là ghép chúng lại thành một hình, như mình đã làm bên dưới. 
 
 {:refdef: style="text-align: center;"}
-![](/images/nghe-content-11.jpg)
+![Ghép hình bằng Canva](/images/ghep-hinh-bang-canva.JPG)
 {:refdef}
 
 Ngày trước có một web chuyên ghép hình online, ghép được 1 lúc đến 9 hình. Nhưng giờ web đó sụp rồi. Mình dùng tạm bên canva. Bạn truy cập vào link này https://www.canva.com/vi_vn/thiet-ke/ghep-anh/
@@ -121,7 +121,7 @@ Kỹ năng này lâu lắm rồi mình không dùng, nhưng vẫn đề cập đ
 Đầu tiên, bạn mở tấm hình cần xóa logo/ vật thể bằng PS. Sau đó mở khóa hình (lúc này sẽ thành layer) ở góc dưới bên phải. Kế đến, bạn di chuyển đến cột bên trái, chọn biểu tượng Clone Stamp Tool. Bạn đến khu vực có vật cần xóa, vừa nhấn Alt vừa click vào phần nền có màu trùng với nền của vật muốn xóa. 
 
 {:refdef: style="text-align: center;"}
-![](/images/nghe-content-12.jpg)
+![Xóa logo bằng PS](/images/cach-xoa-logo.JPG)
 {:refdef}
 
 Bước đó rất quan trọng, nếu bạn chọn sai màu nền, sau khi xóa vật thể đó hình của bạn trông rất giả, nham nhở. Sau đó bạn rê chuột, nhấn chuột trái và kéo để xóa.
@@ -133,13 +133,13 @@ Bước đó rất quan trọng, nếu bạn chọn sai màu nền, sau khi xóa
 Cài Tag Geo đang được nhiều SEOer áp dụng để tối ưu SEO Local cũng như đảm bảo hình ảnh của bạn unique. Bạn có thể sử dụng phần mềm Lightroom để cài cho hàng loạt hình, như hiện tại mình không có Lightroom trên laptop nên hẹn bạn ở bài tiếp theo.
 
 {:refdef: style="text-align: center;"}
-![](/images/nghe-content-13.jpg)
+![Gắn geo tag cho hình](/images/gan-taggeo-online.JPG)
 {:refdef}
 
 Cài tag geo online, mình thấy có web http://kiemtradaovan.com/tool-geotag-hinh-anh, bạn tải hình cần gắn tag, sau đó điền Vĩ độ - Kinh độ. Số liệu này bạn lấy từ địa chỉ công ty trên google map, bằng cách click chuột phải vào địa điểm.
 
 {:refdef: style="text-align: center;"}
-![](/images/nghe-content-14.jpg)
+![Xác định vị trí trên bản đồ](/images/cach-xac-dinh-kinh-do-vi-do.JPG)
 {:refdef}
 
 Điền đủ form xong bạn nhấn gắn geo tag ảnh. Cười cùng bạn tải ảnh về là xong.
@@ -151,7 +151,7 @@ Cài tag geo online, mình thấy có web http://kiemtradaovan.com/tool-geotag-h
 Tiếp theo, bạn chọn công cụ Quick Selection Tool bên cột trái. Bạn rê chuột đến chủ thể và nhấn chặt chuột trái, tránh nhấn vào phần nền nhé. Bạn sẽ thấy phần được chọn có viền chuyển động.
 
 {:refdef: style="text-align: center;"}
-![](/images/nghe-content-15.jpg)
+![Chọn chủ thể tách nền](/images/phan-chon-chu-the-muon-tach-nen.png)
 {:refdef}
 
 Nếu chọn nhầm, bạn nhất alt và click thêm lần nữa vào chỗ bị sai đó để bỏ chọn. Tiếp theo, bạn nhìn ở thanh ngang có ô Refine Edge, bạn nhấn vào đó sẽ có ô mở ra.
@@ -159,16 +159,16 @@ Nếu chọn nhầm, bạn nhất alt và click thêm lần nữa vào chỗ b�
 Bạn chọn view là Show Original, kéo thanh Radius nếu muốn mở rộng phần chọn, kéo Smooth để viền mượt hơn, Feather để làm mờ viền, kéo Contrast để tăng giảm tưởng phản, Shift edge để di chuyển viền.
 
 {:refdef: style="text-align: center;"}
-![](/images/nghe-content-16.jpg)
+![Di chuyển layer tách nền](/images/di-chuyen-layer-tach-nen-den-background-moi.JPG)
 {:refdef}
 
 Sau đó chọn Output – New layer with mask để xuất ra. Bạn có thể open nền khác vào và kéo thả layer mới vừa tách vào. Cuối cùng là lưu hình mới về. Lưu ý: nếu tách nền xong, chủ thể vẫn còn dính ít nền, bạn có thể dùng công cụ xóa (mình đã hướng dẫn ở phần xóa logo) để chuốt thêm cho đẹp.
 
 {:refdef: style="text-align: center;"}
-![](/images/nghe-content-17.jpg)
+![Inputlayer vừa tách nền](/images/cach-input-layer-vua-tach-nen.JPG)
 {:redef}
 
-### Cách tự làm artword đơn giản
+### Cách tự làm artwork đơn giản
 
 Dễ nhất là bạn làm với canva. Dùng template có sẵn, bạn có thể thêm bớt, import hình và text của mình vào cho phù hợp. Tuy vậy, hạn chế của nó là không thể theo ý bạn 100%, size AW cũng phải cố định theo mẫu.
 
@@ -180,19 +180,19 @@ Background mình tìm trên Unplash để có hình có độ phân giải cao.
 _Text_: Bạn nhìn vào cột trái có biểu tượng chữ T, click vào và gõ text mình muốn, sau đó bôi đen và chọn font chữ phù hợp. Nếu không có font Việt hóa, bạn có thể search bộ font tiếng Việt, download về giải nén là được.
 
 {:refdef: style="text-align: center;"}
-![](/images/nghe-content-18.jpg)
+![Viết chữ trên PS](/images/viet-text-tren-PS.JPG)
 {:refdef}
 
 _Icon_: Mình truy cập freepik.com, search hình mình muốn và chọn nguồn free – file psd hoặc vector. Sau đó giải nén file, tải lên PS, ungroup (nếu nó dính với các icon khác), chọn icon và di chuyển nó đến vị trí trên backgroup phù hợp.
 
 {:refdef: style="text-align: center;"}
-![](/images/nghe-content-19.jpg)
+![Icon, vector trên freepik](/images/chon-vector-file-psd-tren-freepik.JPG)
 {:refdef}
 
 Nhờ cách này mà mình đã làm được các AW ở bên dưới:
 
 {:refdef: style="text-align: center;"}
-![](/images/nghe-content-20.jpg)
+![Hình thumail bằng PS](/images/hinh-thumail-cho-video.JPG)
 {:refdef}
 
 ### Cách chỉnh màu ảnh bằng Photoshop
@@ -202,7 +202,7 @@ Nếu thích chụp hình bằng máy ảnh, chỉnh màu ảnh gốc là điề
 Không sao, có PS bạn cũng làm được việc này, chỉ là hơi lâu một tí.
 
 {:refdef: style="text-align: center;"}
-![](/images/nghe-content-21.jpg)
+![Chỉnh màu ảnh trên PS](/images/thong-so-chinh-mau-anh-tren-PS.JPG)
 {:refdef}
 
 Tương tự, bạn mở hình cần chỉnh màu, sau đó nhấn tổ hợp phím Ctrl+Alt+A. Lúc này, màn hình hiện lên cửa sổ có các thông số:
@@ -216,6 +216,7 @@ Tương tự, bạn mở hình cần chỉnh màu, sau đó nhấn tổ hợp ph
 Bạn có thể di chuyển các thông số này và xem preview hình ở bên trái, đến khi ưng ý hãy nhấn OK. Sau đó bạn hãy lưu ảnh mới về máy.
 
 ## Và cuối cùng, làm thế nào để cài phần mềm Photoshop cho laptop
+
 Lời khuyên chân thành của mình là đừng download file PS free trên mạng. Dù mình đã làm theo các chỉ dẫn để crack, nhưng thất bại, chỉ tốn thời gian gỡ phần mềm ra mà thôi. Nhiều lần như vậy, laptop của bạn cũng yếu đi trông thấy.
 
 Tốt nhất là mang laptop ra tiệm uy tín, mua dịch vụ cài phần mềm, tầm 100-160K cho tiện. Mình thấy dùng cũng ổn, “trộm vía” vẫn tốt sau gần 1 năm.
