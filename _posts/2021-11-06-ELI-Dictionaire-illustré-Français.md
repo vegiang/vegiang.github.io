@@ -31,4 +31,4 @@ _Mục lục các chủ đề từ vựng trong cuốn sách_
 
 ![Bài học cuốn ELI Dictionaire illustré Français](/images/sach-hoc-tu-vung-tieng-phap.png)
 
-> LINK DOWNLOAD SÁCH: https://bom.to/PeJCIp3KzLHRa
+> LINK DOWNLOAD SÁCH: [ELI Dictionaire illustré Français](https://drive.google.com/file/d/1K92RRSgMo17o67ilhrBGoaTsTK4d0DgU/view)
