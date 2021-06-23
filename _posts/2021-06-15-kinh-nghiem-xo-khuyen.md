@@ -60,7 +60,7 @@ Mình vừa ăn kẹo, vừa đợi bạn ấy chuẩn bị dụng cụ, vừa q
 ![Cái ghế cho khách ngồi xỏ khuyên](/images/noi-xo-khuyen-an-toan-tai-tphcm.jpg)
 _Cái ghế xinh xinh bên góc phải là nơi mình ngồi cho thợ xỏ khuyên_
 
-> CÓ THỂ BẠN QUAN TÂM: Các vị trí xỏ khuyên phổ biến và các mẫu phối khuyên tai thời thượng
+> CÓ THỂ BẠN QUAN TÂM: [Các vị trí xỏ khuyên phổ biến và các mẫu phối khuyên tai thời thượng](https://vegiang.com/cac-vi-tri-xo-khuyen-pho-bin-piercing-positions/)
 
 Đến phần hồi hộp nhất đây. Tiến hành xỏ. Mình ngồi vào ghế, bạn thợ thì sắp xếp dụng cụ, giới thiệu thêm cho mình, đánh dấu vị trí lỗ xỏ. Bạn nói rằng: Vị trí xỏ khuyên sẽ phụ thuộc vào tai, chứ không phải so 2 bên tai vì 2 tai mình hình dạng khác nhau. Đoạn đối thoại trước khi xỏ của mình và bạn như sau:
 
