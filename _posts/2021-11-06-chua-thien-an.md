@@ -108,24 +108,24 @@ _Giếng cổ ở chùa Thiên Ấn vẫn còn đến hôm nay. Ảnh: ST_
 
 “Tương truyền, do phật tử lên núi ngày càng đông, vị sư trụ trì đã nghĩ cách đào giếng. Nhà sư được báo mộng khi đào ở phía đông chùa sẽ gặp tảng đá bàn, dưới tảng đá này sẽ có nước. Nhưng việc cạy tảng đá rất khó khăn, lúc đó có một vị sự trẻ đến chùa nói sẽ giúp việc đào giếng. Khi mạch nước ngầm phun lên, vị sư già vục mặt, uống thỏa thích, bình tâm lại thì không thấy vì sư trẻ đâu cả. Về sau dân gian lưu truyền hai câu thơ: 
 
-> Ông thầy đào giếng trên non
+_"Ông thầy đào giếng trên non
 
-Đến khi có nước không còn tăm hơi
+_Đến khi có nước không còn tăm hơi"
 
 ![Cổ tranh không còn trên núi Thiên Ấn](/images/cay-co-nui-Thien-An-Quang-Ngai.JPG)
 _Núi Thiên Ấn giờ đây không còn cỏ tranh nữa_
 
 Đến câu ca dao về cỏ tranh núi Ấn…
 
->Ngó lên Thiên Ấn nhiều tranh
+_"Ngó lên Thiên Ấn nhiều tranh
 
-Liều mình lén mẹ theo anh phen này.
+_Liều mình lén mẹ theo anh phen này."
 
 Hay 
 
-> Bao giờ núi Ấn hết tranh
+_"Bao giờ núi Ấn hết tranh
 
-Sông Trà hết nước anh đành xa em.
+_Sông Trà hết nước anh đành xa em."
 
 Cỏ tranh trên núi Thiên Ấn giờ chỉ còn là dĩ vãng. “Ngày xưa, Thiên Ấn bốn bề là cỏ tranh bao phủ. Đứng dưới chân núi nhìn lên, sẽ được thấy những đám tranh xanh mướt gặp gió nhấp nhô, gợn sóng. Rồi mỗi độ tháng Giêng về, khi cỏ tranh nở hoa; cả ngọn núi được nhuộm sắc trắng hoa tranh. Khung cảnh ngày ấy thanh bình, u tịch lắm”. Lời kể của Đại Đức Thích Đồng Hoàng – chùa Thiên Ấn.
 
