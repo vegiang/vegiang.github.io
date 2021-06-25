@@ -6,7 +6,7 @@ description: "ELI Dictionaire illustré Français, sách từ vựng Tiếng Ph�
 tags: tai-lieu-hay
 categories: kinh-nghiem
 permalink: sach-tu-vung-tieng-phap-eli-dictionaire-illustre-francais-pdf/
-featured: true
+featured: false
 ---
 _Nếu bạn đang tìm tài liệu học hoặc dạy tiếng Pháp, đừng bỏ qua cuốn này nhé. Khi bắt đầu học tiếng Pháp, ELI Dictionaire illustré Français sẽ hỗ trợ bạn học một số từ vựng phổ biến hàng ngày._
 
