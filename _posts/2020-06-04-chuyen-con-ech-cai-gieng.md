@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Con ếch và cái giếng  
-image: '/images/ech-va-cai-gieng-vegiangcom'
+image: '/images/ech-va-cai-gieng-vegiangcom.jpg'
 description: "Mỗi người nhìn chung đều như con ếch ở trong giếng. Quan trọng là cái giếng đó như thế nào và ếch có biết mình chỉ đang ở trong đó hay không mà thôi" 
 permalink: con-ech-va-cai-gieng/
 tags: nhat-ky-truong-thanh
