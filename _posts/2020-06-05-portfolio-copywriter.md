@@ -42,7 +42,7 @@ _Đây là mẫu Portfolio của một Content Writer. Vị trí công việc m�
 
 ![Post sản phẩm mùa đông](/images/facebook-tocotoco3.JPG)
 
-![Post Instagram của ToCoToCo](/images/facebook-tocotoco3.JPG)
+![Post Instagram của ToCoToCo](/images/instagram-tocotoco.JPG)
 
 ![Post zalo của ToCoToCo](/images/zalo-official-tocotoco.jpg)
 
@@ -51,6 +51,8 @@ _Đây là mẫu Portfolio của một Content Writer. Vị trí công việc m�
 ![Món signature của quán lẩu](/images/facbook-jianghu.JPG)
 
 ![Concept không gian nhà hàng](/images/facebook-jianghu2.JPG)
+
+![Instagram Janghu](/images/instagram-jianghu.JPG)
 
 + **Vietnam Booking – Đại lý dịch vụ du lịch (tháng 7/2019)**
 
@@ -119,7 +121,7 @@ _Link bài viết: https://zingnews.vn/thuong-thuc-vi-tra-dam-da-sua-beo-ngay-tu
 
 + **Vietnambooking.com (tháng 12/2019)**
 
-![PR doanh nghiệp VNBK- VNexpress)(/images/bai-pr-tren-vnexpress.png)
+![PR doanh nghiệp VNBK- VNexpress](/images/bai-pr-tren-vnexpress.png)
 _Link bài viết: https://vnexpress.net/vietnam-booking-chao-san-du-lich-giam-30-gia-tour-thang-11-3833458.html_
 
 ![PR sản phẩm VNBK- kenh14](/images/bai-pr-tren-kenh14.png)
