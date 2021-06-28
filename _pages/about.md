@@ -2,6 +2,7 @@
 layout: page
 title: Giới thiệu
 permalink: /about-me1/
+tags: about-me
 description: >-
   Chào mừng bạn đến với blog của Vệ Giang, đây là trang cá nhân, nơi mình chia
   sẻ những trải nghiệm sống, câu chuyện và điểm đến
@@ -31,3 +32,5 @@ Nội dung chính vegiang.com đem đến cho bạn được chia thành 3 mục
 
 Mình là người Quảng Ngãi, học tập và làm việc tại TPHCM. Những lĩnh vực mình chia sẻ ở blog này như học Ngoại ngữ, chụp ảnh, Sáng tạo nội dung là mảng mình có đam mê và hứng thú tìm hiểu.
 Hãy giao lưu nhiều hơn với mình qua Trang blog vegiang.com này nhé!
+
+> Có thể bạn quan tâm: [PORTFOLIO CỦA GIANG](https://vegiang.com/porfolio-copywriter/)
