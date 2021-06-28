@@ -28,7 +28,7 @@ _Đây là mẫu Portfolio của một Content Writer. Vị trí công việc m�
 
 ### Social Media (fanpage, Zalo, Instagram)
 
-+ **Star Kombucha – Thương hiệu sản xuất nước uống tốt cho sức khỏe (tháng 4/2021)**
++ **Star Kombucha – Thương hiệu trà lên men Kombucha (tháng 4/2021)**
 
 ![Bài post về UPS](/images/fb-star-kombucha.JPG)
 
@@ -46,7 +46,7 @@ _Đây là mẫu Portfolio của một Content Writer. Vị trí công việc m�
 
 ![Post zalo của ToCoToCo](/images/zalo-official-tocotoco.jpg)
 
-+ **Janghu Hotspot – Nhà hàng lẩu Trung Hoa (tháng 12/2020)**
++ **Jianghu Heroes Hotpot – Nhà hàng lẩu Trung Hoa (tháng 12/2020)**
 
 ![Món signature của quán lẩu](/images/facbook-jianghu.JPG)
 
@@ -106,7 +106,7 @@ _Link bài viết: https://viettourist.com/blog/kham-pha-thien-duong-rung-xanh-m
 
 ### PR doanh nghiệp trên báo
 
-+ **Star Kombucha – Hãng sản xuất nước uống tốt cho sức khỏe (tháng 4/2021)**
++ **Star Kombucha – Thương hiệu trà lên men Kombucha (tháng 4/2021)**
 
 ![bài PR của Star KBC trên eva](/images/pr-star-kombucha.JPG)
 _Link bài viết: https://eva.vn/suc-khoe/mach-ban-6-cach-tang-cuong-suc-khoe-chong-lai-cai-nong-mua-he-c131a478085.html_
