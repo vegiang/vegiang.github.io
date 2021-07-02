@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Chứng tích Sơn Mỹ Quảng Ngãi, nơi nỗi đau chiến tranh chẳng thể chôn vùi
+title:  Khu Chứng tích Sơn Mỹ Quảng Ngãi, nơi nỗi đau chiến tranh chẳng thể chôn vùi
 image:  '/images/chung-tich-son-my-quang-ngai-avt.jpg'
-description: "Khám phá Khu Chứng Tích Sơn Mỹ Quảng Ngãi, một trong những địa danh nổi tiếng. Tìm hiểu câu chuyện lịch sử đã qua. Kinh nghiệm tham quan: địa chỉ, giá vé"
+description: "Tham quan Khu Chứng Tích Sơn Mỹ Quảng Ngãi, một trong những địa danh nổi tiếng. Tìm hiểu về những câu chuyện lịch sử đau thương đã qua. Kinh nghiệm tham quan: địa chỉ, giá vé"
 tags: quang-ngai-nho-thuong
 categories: kham-pha
 permalink: khu-chung-tich-son-my-quang-ngai/
