@@ -48,15 +48,24 @@ slider: true # NOTE - By default, the slider is set to display featured posts. T
 gallery:
   name: Gallery
   images:
-    - alt: 'Toa Nha 1'
-      url: '/images/bao-tang-1.jpg'
-    - alt: 'Toa Nha 2'
-      url: '/images/bao-tang-2.jpg'
-    - alt: 'Xep Hinh 1'
-      url: '/images/xep-hinh-1.jpg'
-    - alt: 'Xep Hinh 2'
-      url: '/images/xep-hinh-2.jpg'
-
+    - alt: 'Hình Giang Chụp 1'
+      url: '/images/hinh-giang-chup1.jpg'
+    - alt: 'Hình Giang Chup 2'
+      url: '/images/hinh-giang-chup2.jpg'
+    - alt: 'Hình Giang Chup 3'
+      url: '/images/hinh-giang-chup3.jpg'
+    - alt: 'Hình Giang Chup 4'
+      url: '/images/hinh-giang-chup4.jpg'
+    - alt: 'Hình Giang Chup 5'
+      url: '/images/hinh-giang-chup5.jpg'
+    - alt: 'Hình Giang Chup 6'
+      url: '/images/hinh-giang-chup6.jpg'
+    - alt: 'Hình Giang Chup 7'
+      url: '/images/hinh-giang-chup7.jpg'
+    - alt: 'Hình Giang Chup 8'
+      url: '/images/hinh-giang-chup8.JPG'
+    - alt: 'Hình Giang Chup 9'
+      url: '/images/hinh-giang-chup-9.JPG'
 
 #-------------------------------
 # Google Analytics

@@ -2,19 +2,19 @@
 layout: page
 title: Giới thiệu
 permalink: /about-me1/
+tags: about-me
 description: >-
   Chào mừng bạn đến với blog của Vệ Giang, đây là trang cá nhân, nơi mình chia
   sẻ những trải nghiệm sống, câu chuyện và điểm đến
-image: /images/about_me.jpg
+image: '/images/about_me.jpg'
 published: true
 ---
 
-Chào mừng bạn đến với Vegiang.com, đây là trang blog cá nhân, nơi mình chia sẻ những trải nghiệm sống của mình. Hy vọng bài viết trên trang này sẽ có ích cho bất kỳ vị khách nào ghé thăm góc nhỏ này của mình.
+Chào mừng bạn đến với Vegiang.com, đây là trang blog cá nhân, nơi mình chia sẻ những trải nghiệm sống. Hy vọng bài viết trên trang này sẽ có ích cho bất kỳ vị khách nào ghé thăm góc nhỏ này.
 
 ## Bạn tìm thấy gì ở Blog của Vệ Giang?
 
-Mình bắt đầu viết lách từ những năm đại học. Lúc đó mình viết cho vui, cho xả bớt cơn bực dọc. Sau đó đọc lại, mình lại thấy vớ vẩn rồi xóa đi. Những năm gần đây, mình ấp ủ dự định viết blog để ghi lại những câu chuyện, kỷ niệm hay bài học mình có được. Vừa để mình đọc vừa có thể giúp ích được cho ai đó cần.
-Nội dung chính vegiang.com đem đến cho bạn được chia thành 3 mục:
+Mình bắt đầu viết lách từ những năm đại học. Lúc đó mình viết cho vui, cho xả bớt cơn bực dọc. Sau đó đọc lại, mình lại thấy vớ vẩn rồi xóa đi. Gần đây, mình ấp ủ dự định viết blog để ghi lại những câu chuyện, kỷ niệm hay bài học mình có được. Vừa để đọc vừa có thể giúp ích được cho ai đó cần.
 
 Nội dung chính vegiang.com đem đến cho bạn được chia thành 3 mục:
 
@@ -32,3 +32,5 @@ Nội dung chính vegiang.com đem đến cho bạn được chia thành 3 mục
 
 Mình là người Quảng Ngãi, học tập và làm việc tại TPHCM. Những lĩnh vực mình chia sẻ ở blog này như học Ngoại ngữ, chụp ảnh, Sáng tạo nội dung là mảng mình có đam mê và hứng thú tìm hiểu.
 Hãy giao lưu nhiều hơn với mình qua Trang blog vegiang.com này nhé!
+
+> Có thể bạn quan tâm: [PORTFOLIO CỦA GIANG](https://vegiang.com/porfolio-copywriter/)
