@@ -73,15 +73,15 @@ Sau khi chọn được bức tranh ưng ý rồi, để tiến hành xếp hìn
 
 7.	Hồ dán và miếng mút – Có những hộp Jigsaw Puzzle bạn được tặng kèm 2 cái này, nhất là với tranh có nhiều pieces, dùng để dán những mảnh đang ghép, tránh rơi mất khi bức tranh đang thực hiện dang dở.
 
-8.	Cuộn bao platics trong, mỏng - Mình dùng luôn màn bọc thực phẩm – Để phủ ra ngoài tranh sau khi hoàn thành, để bảo vệ bề mặt tranh, nếu bạn chưa có điều kiện hoặc không muốn đóng khung tranh.
+8.	Cuộn bao plastic trong, mỏng - Mình dùng luôn màn bọc thực phẩm – Để phủ ra ngoài tranh sau khi hoàn thành, để bảo vệ bề mặt tranh, nếu bạn chưa có điều kiện hoặc không muốn đóng khung tranh.
 
 9.	Kéo – băng keo – Để cố định mành bọc tranh và tấm bìa carton sau khi đã ghép xong tranh.
 
-Ngoài ra, bạn cần thêm cái hộp hay mảnh ni lông để phân loai mảnh ghép, bạn có chỗ bày mảnh ghép ra đỡ lẫn lộn và lạc mất.
+Ngoài ra, bạn cần thêm hộp giấy, cái rổ nhỏ hay túi ni lông để phân loai mảnh ghép. Nếu bạn có chỗ bày mảnh ghép ra sẽ đỡ lẫn lộn và lạc mất.
 
 ## Chiến lược chung khi chơi Jigsaw Puzzle áp dụng cho mọi tranh
 
-Theo kinh nghiệm của mình, cách chơi ghép hình cơ bản bạn có thể áp dụng từ tranh dễ đến khó như sau (nhớ làm theo thứ tự cách bước nhé )
+Theo kinh nghiệm của mình, cách chơi ghép hình cơ bản bạn có thể áp dụng từ tranh dễ đến khó như sau (nhớ làm theo thứ tự các bước nhé )
 
 1.	Tìm các mảnh cạnh, góc, viền của tranh trước.Các mảnh này dễ nhận ra nhất vì nó có 1 cạnh thẳng, bạn nhặt ra hết và tiến hành ghép vào bìa carton trước.
 
@@ -99,7 +99,7 @@ Theo kinh nghiệm của mình, cách chơi ghép hình cơ bản bạn có th�
 
 Theo chiến lược này, mình hào hứng hơn hẳn sau khi xong phần màu hồng, các mảnh xung quanh cũng dễ ghép hơn và mình nhanh chóng hoàn thành tranh này.
 
-Tùy vào từng trang, bạn cần lên chiến lược trước khi tiến hành để đỡ tốn thời gian, nên đi từ ngoài và trong hay từ trong ra ngoài, đi chi tiết chính trước khi ghép phần nền trước, v.v….
+Tùy vào từng tranh, bạn cần lên chiến lược trước khi tiến hành để đỡ tốn thời gian, nên đi từ ngoài và trong hay từ trong ra ngoài, đi chi tiết chính trước khi ghép phần nền trước, v.v….
 
 ## Tạm kết
 
