@@ -78,6 +78,9 @@ _Giờ đây bà con mình còn ăn don với trứng vịt lộn_
 Đúng là không phải ai cũng có vị giác nhạy cảm, gu ẩm thực đa dạng và tầm nhìn rộng mở để chào đón cái lạ, cái mới. Mình không kỳ vọng món ăn quê mình sẽ trở nên nổi tiếng nhưng mình mong người sành ăn sẽ cảm nhận được cái ngon, cái “đắt” giá của nó.
 
 Nhiều lần mình nghe những lời chê như nấu cá gì lạt nhách, chẳng ướp gì, sau bánh tráng nướng giòn vậy tự nhiên đi nhúng nước, món ăn gì chỉ có nước lèo với mấy cọng hành, bánh tráng vậy trời…
+
+![Tô don Quảng Ngãi](/images/don-quang-ngai-tuong-ot.jpg)
+
 Nếu bạn có cảm nhận như vậy thì cũng đúng, không có gì sai cả, chỉ là nó không phải là tất cả.
 
 Người Nhật họ quan niệm rằng: Đỉnh cao của ẩm thực là giữ nguyên được trọn vẹn hương vị sẵn có của nguyên liệu. Ấy thế mà họ tự hào với thế giới về món sushi, sashimi.
