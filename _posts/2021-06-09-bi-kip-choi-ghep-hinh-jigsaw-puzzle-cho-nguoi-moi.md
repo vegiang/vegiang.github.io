@@ -93,6 +93,8 @@ Theo kinh nghiệm của mình, cách chơi ghép hình cơ bản bạn có th�
 
 Đối với tranh có độ khó tương đối, bạn không thể máy móc thực hiện xong phần viền đến lớp thứ 2 được. Như bức hồ sen này của mình, bạn thấy màu xanh lá quá nhiều. Nếu lần lượt ghép từ ngoài vào trong sẽ cực kỳ vô vọng và chán nản nhanh. Chiến lược của mình đối với tranh này là “xử” nhóm màu hồng trước, tức là hoa và búp sen.
 
+![Mình đã tìm các mảnh ghép phần hoa để ghép trước](/images/cach-ghep-hinh-ho-sen.jpg)
+
 {:refdef: style="text-align: center;"}
 ![Tranh ghép hình hồ sen hoàn thiện](/images/bo-tranh-jigsaw-Puzzle-ho-sen.jpg)
 {:refdef}
