@@ -40,7 +40,7 @@ slider: true # NOTE - By default, the slider is set to display featured posts. T
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: vegiang # add your shortname for Disqus Comment. For example mr-brown
+# disqus-identifier: vegiang # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
