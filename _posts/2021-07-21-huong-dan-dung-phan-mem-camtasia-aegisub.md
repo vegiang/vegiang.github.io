@@ -7,9 +7,9 @@ tags: nghe-content
 categories: kinh-nghiem
 permalink: Huong-dan-dung-phan-mem-camtasia-Aegisub-Format-Factory/
 description: >-
-  Mình sẽ chia sẻ cho bạn cách sử dụng 3 phần mềm chỉnh sửa video mà mình sử dụng là Camtasia, Aegisub và Format Factory.
+  Cách dùng Camtasia, Aegisub và Format Factory để biên tập, chỉnh sửa video cơ bản, dễ thực hiện nhất.
 ---
-_Để tiếp nối chủ đề hướng dẫn chỉnh sửa hình ảnh lần trước, hôm nay mình sẽ chia sẻ cho bạn cách sử dụng 3 phần mềm chỉnh sửa video mà mình sử dụng là Camtasia, Aegisub và Format Factory. Mỗi phần mềm có chức năng riêng, để hoàn thành một video ưng ý, bạn cần sử dụng cả ba hoặc thêm các phần mềm khác._
+_Để tiếp nối chủ đề hướng dẫn chỉnh sửa hình ảnh lần trước, hôm nay mình sẽ chia sẻ cho bạn cách sử dụng 3 phần mềm dành cho video: Camtasia, Aegisub và Format Factory. Mỗi phần mềm có chức năng riêng, để hoàn thành một video ưng ý, bạn cần sử dụng cả ba hoặc thêm các phần mềm khác._
 
 Giờ thì cùng tìm hiểu và thực hành bạn nhé!
 
@@ -17,11 +17,11 @@ Giờ thì cùng tìm hiểu và thực hành bạn nhé!
 
 Trước khi tìm hiểu cách sử dụng, mình sẽ giới thiệu qua chức năng chính của ba phần mềm này.
 
-+ **Camtasia:** Trong rất nhiều phần mềm biên tập video như Adobe Premiere, Proshow, mình chọn dùng Camtasia trước, vì nhu cầu biên tập, dựng video của mình không cao. Với Camtasia, bạn sẽ làm được: cắt, ghép video, crop khung hình, tách nhạc/ tiếng khỏi video, chèn audio như ý muốn, thêm các hiệu ứng chuyển cảnh, hiệu ứng âm thanh…
++ **Camtasia:** Trong rất nhiều phần mềm biên tập video như Adobe Premiere, Proshow, mình chọn dùng Camtasia trước, vì nhu cầu biên tập, dựng video của mình không cao. Với Camtasia, bạn sẽ làm được: cắt, ghép video, crop khung hình, tách nhạc/ tiếng khỏi video, chèn audio như ý muốn, thêm các hiệu ứng chuyển cảnh, âm thanh…
 
 ![Phần mềm Camtasia 9, Aegisub, Format Factory](/images/cac-phan-mem-camtasia-aegisub-format-factory.png)
 
-+ **Aegisub:** Đây là phần mềm chuyên làm phụ đề cho video. Aegisub có phép người dùng canh thời gian xuất hiện, font chữ và hiệu ứng của phụ đề.
++ **Aegisub:** Đây là phần mềm chuyên làm phụ đề cho video. Aegisub có phép người dùng canh thời gian xuất hiện, font và hiệu ứng của phụ đề.
 
 + **Format Factory:** Đúng như cái tên của phần mềm, những thao tác liên quan đến các file mình hầu hết sử dụng đến nó. Điển hình: chuyển định dạng file: mkv sang mp4, ghép video và phụ đề, chuyển file mp3 sang mp4, …
 
@@ -29,9 +29,11 @@ Tuy nhiên,
 
 -   	Camtasia chỉ nhận định dạng file mp4 và không xuất được file 4K chỉ tối đa HD (1080 pxl)
 
--   	Aegisub cần tải các mẫu effect nếu bạn muốn phụ đề xuất hiện sinh động hơn, cho bài hát chẳng hạn.
+-   	Aegisub cần tải các mẫu effect nếu bạn muốn phụ đề xuất hiện sinh động hơn cho bài hát chẳng hạn.
 
--   	Format Factory: Nếu dùng chức năng convert file, bạn cần check chất lượng file thành phẩm vì thỉnh thoảng sẽ có lỗi file.
+-   	Format Factory: Nếu dùng chức năng convert file, bạn cần check chất lượng file thành phẩm vì thỉnh thoảng sẽ bị lỗi.
+
+> Có thể bạn quan tâm: [Hướng dẫn dùng Photoshop, Canva cơ bản](https://vegiang.com/huong-dan-dung-photoshop-canva-co-ban-cho-content/)
 
 ## Hướng dẫn dùng phần mềm Camtasia cơ bản
 
@@ -44,12 +46,12 @@ Trong khuôn khổ bài viết này, mình sẽ chia sẻ cách cắt, ghép, t�
 ![Mở phần mềm Camtasia](/images/mo-phan-mem-camtasia.PNG)
 _Mở phần mềm Camtasia và chọn New Project_
 
-+ Bạn click vào File trên thanh menu và chọn Import à Media để tải audio, hình ảnh, video vào Media Bin.
++ Cách 1: Bạn click vào File trên thanh menu và chọn Import -> Media để tải audio, hình ảnh, video vào Media Bin.
 
 ![Import media vào để edit](/images/import-hinhanh-video-am-thanh.png)
 _Import hình ảnh, audio vào bằng cách nhấp chuột phải chọn Import_
 
-+ Bạn rê chuột vào khoảng dưới ô Media Bin và Library, click chuột phải và chọn Import để tải hình ảnh, video, audio.
++ Cách 2: Bạn rê chuột vào khoảng dưới ô Media Bin và Library, click chuột phải và chọn Import để tải hình ảnh, video, audio.
 
 Lúc này các thành phần cần có sẽ xuất hiện dưới phần Media Bin – Library.
 
@@ -63,10 +65,10 @@ Sau khi kéo thả video cần cắt vào timeline, bạn click chọn vào ph�
 ![Phần media được chọn](/images/phan-media-duoc-chon.PNG)
 _Click vào phần video để chọn_
 
-Tiếp đến bạn kéo thanh dọc vào điểm cần cắt và nhấn vào biểu tượng cắt (Split) như hình bên dưới. Bạn sẽ được 2 phần video. Bạn click chọn phần video cần xóa, nhấn chuột phải và chọn Delete. Nếu muốn ghép 2 video, bạn chỉ cần click vào video đó, kéo giữ và thả nó vào sát video muốn ghép (như hình minh họa).
+Tiếp đến bạn kéo thanh dọc đến điểm cần cắt và nhấn vào biểu tượng cắt (Split) như hình bên dưới. Bạn sẽ được 2 phần video. Bạn click chọn phần video cần xóa, nhấn chuột phải và chọn Delete. Nếu muốn ghép 2 video, bạn chỉ cần click vào video đó, kéo giữ và thả nó vào sát video muốn ghép (như hình minh họa).
 
 ![cắt video](/images/cat-video.PNG)
-_(1) – Kéo thanh này đến vị trí bạn muốn cắt. (2) – Nhấn vào biểu tượng Split để cắt. (3) – Di chuyển phần cắt đến nơi bạn muốn hoặc xóa_
+_1 – Kéo thanh này đến vị trí bạn muốn cắt. 2 – Nhấn vào biểu tượng Split để cắt. 3 – Di chuyển phần cắt đến nơi bạn muốn hoặc xóa_
 
 ### 2. Cách tách video và audio bằng Camtasia
 
@@ -93,10 +95,10 @@ _Chọn Transition hay Animation để chèn hiệu ứng chuyển cảnh_
 
 **Lưu ý:**
 
-+ Thông thường, mình dùng vị trí track 1 cho phần video. Nếu phần video chỉ là hình ảnh, bạn có thể đặt sao cho khớp với độ dài audio. Bằng cách click chọn và giữ chuột để kéo thả hình dài ra như hình minh họa.
++ Thông thường, mình dùng vị trí track 1 cho phần video. Nếu phần video chỉ là hình ảnh, bạn có thể đặt sao cho khớp với độ dài audio. Bằng cách click chọn và giữ chuột để kéo hình dài ra như hình minh họa.
 
 ![Phần hình nền](/images/hinh-nen-duoc-keo-ra.PNG)
-_Ví dụ như video này của mình, chỉ có 1 hình ảnh làm nền, nên mình chọn và kéo dài nó ra bằng độ dài của các track audio_
+_Ví dụ như video này của mình chỉ có 1 hình ảnh làm nền nên mình chọn và kéo dài nó ra bằng độ dài của các track audio_
 
 + Cách xuất file final: Sau khi hoàn thành, bạn click vào nút play để xem từ đầu đến cuối video 1 lần nữa và thực hiện xuất file.
 
@@ -131,7 +133,7 @@ _Copy – Paste phần phụ đề_
 
 Bước tiếp theo bạn cần làm chính là canh timing. Lúc này màn hình sẽ hiện lên như bên dưới, bạn cần chú ý các vị trí sau:
 
-+ Ô video: (1) nút play, pause và biểu tượng kéo phần video để nghe lại.
++ Ô video: (1) nút play, pause và biểu tượng để xem lại video.
 
 + Ô phụ đề: (2) Start – End – Text: Thời gian bắt đầu và kết thúc của dòng text đó xuất hiện trên video.
 
