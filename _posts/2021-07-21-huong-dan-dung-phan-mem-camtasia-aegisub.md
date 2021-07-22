@@ -149,7 +149,7 @@ Trên ô (3) bạn click vào Edit, một bảng điều chỉnh sẽ hiện ra.
 ![chỉnh font phụ đề](/images/chinh-font-phu-de.PNG)
 _Điều chỉnh font phụ đề_
 
-### 2.Chèn hiệu ứng Karaoke cho các dòng phụ đề
+### 2. Chèn hiệu ứng Karaoke cho các dòng phụ đề
 
 Cuối cùng, bạn thêm effect cho phụ đề. Chỉ cần gõ từ khóa “effect cho aegisub” trên thanh tìm kiếm của Youtube, bạn sẽ tìm được rất nhiều hiệu ứng cho dòng text và xem demo trước khi tải về, giải nén và sử dụng.
 
@@ -172,12 +172,12 @@ _Canh timing dạng karaoke cho từng từ_
 
 **Lưu ý:**
 
-+ Để làm nhiều dòng phụ đề cho 1 video, bạn tạo mỗi phần phụ đề 1 file aegisub và canh vị trí dòng sub sao cho chúng không trùng nhau. Ví dụ như video bên dưới, dòng tiếng Việt bên dưới, dòng tiếng Anh bên trên. Sau đó, bạn dùng Format Factory để ghép vào, mình sẽ hướng dẫn ở phần sau.
++ Để làm nhiều dòng phụ đề cho 1 video, bạn tạo mỗi phần phụ đề 1 file aegisub và canh vị trí dòng sub sao cho chúng không trùng nhau. Ví dụ như video bên dưới, dòng tiếng Việt bên dưới, dòng tiếng Anh bên trên. Tuy là 2 file Aegisub, nhưng bạn chỉ cần copy ra 1 bản, giữ nguyên timing và thay bằng text khác. Sau đó, bạn dùng Format Factory để ghép vào, mình sẽ hướng dẫn ở phần sau.
 
 ![Video có 3 dòng phụ đề](/images/video-co-3-dong-phu-de.png)
 _Kênh Youtube của Thành Nguyễn, bạn sẽ thấy những video có 3 dòng phụ đề_
 
-+ Công đoạn canh timing tốn thời gian lắm luôn, nên phần karaoke cho từng chữ thường mình không làm, do mình làm biếng thôi.
++ Công đoạn canh timing tốn thời gian lắm luôn, nên phần karaoke cho từng chữ thường mình không làm.
 
 ![Một file Aegisub hoàn chỉnh](/images/mot-file-phu-de-hoan-chinh.PNG)
 _Một file phụ đề bài hát hoàn chỉnh_
@@ -186,7 +186,7 @@ Sau khi hoàn thành hết, bạn chọn biểu tượng Save trên thanh Menu �
 
 ## Hướng dẫn sử dụng phần mềm Format Factory
 
-Trong phần mềm Format Factory có rất nhiều chức năng, mình chưa sử dụng hết chúng. Trong khuôn khổ bài này, mình sẽ chia sẻ cho bạn cách hoàn thiện file video có phụ đề và cách convert file với Format Factory.
+Trong phần mềm Format Factory có rất nhiều chức năng, mình chưa sử dụng hết chúng. Phạm vi bài viết này, mình sẽ chia sẻ cho bạn cách hoàn thiện file video có phụ đề và cách convert file với Format Factory.
 
 ### 1. Cách ghép và xuất file video + file Aegisub bằng Format Factory
 
@@ -225,7 +225,7 @@ _Sau khi bạn click vào, nút Start sẽ chuyển thành Pause. Bạn đợi �
 
 Chỉ riêng phần Video, Format Factory cho phép người dùng có thể chuyển đổi định dạng sang mkv, gif hay WebM. Bên cạnh đó, bạn có thể record màn hình máy tính, crop khung hình,…
 
-Cách thực hiện đơn giản như sau: Click vào ô biểu tưởng à Add File à Click vào Start và đợi hoàn thành.
+Cách thực hiện đơn giản như sau: Click vào ô biểu tưởng -> Add File -> Click vào Start và đợi hoàn thành.
 
 Để điều chỉnh nơi lưu file thành phẩm, khi add file bạn chú ý góc dưới bên trái, có biểu tượng folder, bạn chỉnh sửa theo ý muốn ở đấy.
 
@@ -234,14 +234,14 @@ _Bạn chọn vị trí lưu file thành phẩm tại đây_
 
 Để mình tóm tắt là một chút,
 
-Trình tự biên tập một video có phụ đề: Chuẩn bị các thành phần của video (âm thanh, hình ảnh) à dùng Camtasia để sắp xếp chúng à Dùng Aegisub để làm phụ đề à Tìm Effect cho phụ đề (nếu muốn) à Ghép phụ đề và hiệu ứng à Dùng Format Factory để ghép video và file phụ đề Aegisub.
+Trình tự biên tập một video có phụ đề: Chuẩn bị các thành phần của video (âm thanh, hình ảnh) -> dùng Camtasia để sắp xếp chúng -> Dùng Aegisub để làm phụ đề -> Tìm Effect cho phụ đề (nếu muốn) -> Ghép phụ đề và hiệu ứng -> Dùng Format Factory để ghép video và file phụ đề Aegisub.
 
 Tạm kết,
 
-Gần đây, khi các nền tảng social ngày càng khắt khe đối với các nội dung reup, các công cụ chỉnh sửa video cơ bản ngày càng ít người dùng. Có lẽ vì thế Camtasia có ít người dùng hơn trước. Bởi nó ở giữa so với Phần mềm Adobe Premiere – chuyên dụng và các app chỉnh sửa trên điện thoại.
+Gần đây, khi các nền tảng social ngày càng khắt khe đối với các nội dung reup, các công cụ chỉnh sửa video cơ bản ngày càng ít người dùng. Có lẽ vì thế Camtasia có ít được dùng hơn trước. Bởi nó ở giữa so với Phần mềm Adobe Premiere – chuyên dụng và các app chỉnh sửa trên điện thoại.
 
 Tuy vậy, mình vẫn muốn giới thiệu nó đến bạn, nếu bạn thấy phù hợp để sử dụng. Ở bài chia sẻ khác, mình sẽ hướng dẫn cách dùng các app chỉnh video và hình ảnh mà mình thường dùng.
 
-Mình download miễn phí các phần mềm Aegisub và Format Factory trên mạng, còn Camtasia mình mang ra tiệm để cài đặt có tốn phí. Mình khuyến khích các bạn dùng phần mềm chỉnh sửa ảnh và video trải phí để đảm bảo an toàn cho máy tính và dùng được lâu dài hơn.
+Mình download miễn phí các phần mềm Aegisub và Format Factory trên mạng, còn Camtasia mình mang ra tiệm để cài đặt có tốn phí. Mình khuyến khích các bạn dùng phần mềm chỉnh sửa ảnh và video trả phí để đảm bảo an toàn cho máy tính và dùng được lâu dài hơn.
 
-Nếu có thắc mắc trong quá trình sử dụng, hãy để lại bình luận bên dưới nhé, mình sẽ giải đáp cho bạn. Chúc bạn thành công!
+Nếu có thắc mắc trong quá trình sử dụng, hãy gửi tin nhắn cho mình nhé, mình sẽ giải đáp. Chúc bạn thành công!
