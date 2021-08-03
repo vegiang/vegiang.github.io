@@ -2,7 +2,7 @@
 layout: post
 title: Lý do xin nghỉ việc và 1001 chuyện cần biết khi muốn thôi việc
 image:  '/images/ly-do-ngi-viec-luu-y-quan-trong.png'
-description: "Nếu có ý định xinh nghỉ viêc công ty, bạn hãy xem qua bài viết này nhé. Từ kinh nghiệm của mình, bạn sẽ có thêm thông tin để lần chia tay này thuận lợi và êm đẹp hơn"
+description: "Nếu có ý định xinh nghỉ việc công ty, bạn hãy xem qua bài viết này nhé. Từ kinh nghiệm của mình, bạn sẽ có thêm thông tin để lần chia tay này thuận lợi và êm đẹp hơn"
 tags: tips
 categories: kinh-nghiem
 permalink: Ly-do-xin-nghi-viec-va-1001-chuyen-can-biet-khi-muon-thoi-viec/
@@ -48,10 +48,9 @@ _Lý do nghỉ việc xuất phát từ việc cá nhân. Nguồn ảnh: ST_
 
 **Thay đổi chỗ ở**: Địa điểm công ty hiện tại quá xa nơi bạn ở hoặc bạn có kế hoạch chuyển đến thành phố khác sinh sống cũng là lý do để bạn xin nghỉ việc và tìm kiếm công việc mới thuận tiện hơn. 
 
-> Tặng bạn mẫu đơn xin nghỉ việc (Nếu công ty bạn không có form sẵn): https://drive.google.com/file/d/1wg8qv9ChoupikAF-_Y5hJiCn8-kXRmRd/view?usp=sharing
+> Tặng bạn mẫu đơn xin nghỉ việc (Nếu công ty bạn không có form sẵn): https://bom.to/mk97rakaE6ZKom
 
-> Tham khảo thêm form nghỉ việc (Hiện nay đa số các công ty đều có form tương tự như vậy): https://drive.google.com/file/d/1LN8EQJspnMaJoq3ZToWWsqPBVrX3ci4T/view?usp=sharing
-
+> Tham khảo thêm form nghỉ việc (Hiện nay đa số các công ty đều có form tương tự như vậy):https://bom.to/KwMXFor1EwE8Vh
 ## 2. Thực hiện các bước xin nghỉ việc chuyên nghiệp nhất
 
 Để được quy trình xin nghỉ việc của bạn thuận lợi, êm đẹp, hãy lưu ý những thông tin sau nhé!
@@ -73,9 +72,8 @@ _Nộp đơn xin nghỉ việc cho bộ phận liên quan. Nguồn ảnh: ST_
 
 Các mẫu đơn từ nghỉ việc bạn chỉ cần hoàn thành trước ngày làm việc cuối là được. Phần tốn thời gian hơn đó chính là bàn giao công việc. Nếu vị trí của bạn càng cao, nhiều khi bạn phải training cho người mới. Tuy vậy, đây là thỏa thuận giữa bạn và công ty mà thôi, không phải bắt buộc.
 
-> Tham khảo form đơn xin nghỉ việc bằng Tiếng Anh: https://drive.google.com/file/d/1do-VSKCJOkApW0FSy9lh9IY86ITTKMDb/view?usp=sharing
-
-> Mẫu bàn giao thiết bị, dụng cụ, công việc: https://drive.google.com/drive/folders/1ipdp31aadRezNt6F8JSH1Jw14NeJwmmS?usp=sharing
+> Tham khảo form đơn xin nghỉ việc bằng Tiếng Anh: https://bom.to/djAwySIDbdwYVT
+> Mẫu bàn giao thiết bị, dụng cụ, công việc: https://bom.to/AouZ9u2sBDvodt
 
 ## 3. Khi nào nên xin nghỉ việc
 
