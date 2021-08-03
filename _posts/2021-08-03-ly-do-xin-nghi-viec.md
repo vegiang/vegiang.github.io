@@ -73,6 +73,7 @@ _Nộp đơn xin nghỉ việc cho bộ phận liên quan. Nguồn ảnh: ST_
 Các mẫu đơn từ nghỉ việc bạn chỉ cần hoàn thành trước ngày làm việc cuối là được. Phần tốn thời gian hơn đó chính là bàn giao công việc. Nếu vị trí của bạn càng cao, nhiều khi bạn phải training cho người mới. Tuy vậy, đây là thỏa thuận giữa bạn và công ty mà thôi, không phải bắt buộc.
 
 > Tham khảo form đơn xin nghỉ việc bằng Tiếng Anh: https://bom.to/djAwySIDbdwYVT
+
 > Mẫu bàn giao thiết bị, dụng cụ, công việc: https://bom.to/AouZ9u2sBDvodt
 
 ## 3. Khi nào nên xin nghỉ việc
