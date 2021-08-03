@@ -50,7 +50,8 @@ _Lý do nghỉ việc xuất phát từ việc cá nhân. Nguồn ảnh: ST_
 
 > Tặng bạn mẫu đơn xin nghỉ việc (Nếu công ty bạn không có form sẵn): https://bom.to/mk97rakaE6ZKom
 
-> Tham khảo thêm form nghỉ việc (Hiện nay đa số các công ty đều có form tương tự như vậy):https://bom.to/KwMXFor1EwE8Vh
+> Tham khảo thêm form nghỉ việc : https://bom.to/KwMXFor1EwE8Vh
+
 ## 2. Thực hiện các bước xin nghỉ việc chuyên nghiệp nhất
 
 Để được quy trình xin nghỉ việc của bạn thuận lợi, êm đẹp, hãy lưu ý những thông tin sau nhé!
