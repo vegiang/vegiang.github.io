@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lý do xin nghỉ việc và 1001 chuyện cần biết khi muốn thôi việc
+title: Lý do xin nghỉ việc và 1001 chuyện cần biết
 image:  '/images/lua-chon-nghi-viec.jpg'
 description: "Nếu có ý định xinh nghỉ việc công ty, bạn hãy xem qua bài viết này nhé. Từ kinh nghiệm của mình, bạn sẽ có thêm thông tin để lần chia tay này thuận lợi và êm đẹp hơn"
 tags: tips
