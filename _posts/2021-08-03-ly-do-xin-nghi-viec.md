@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Lý do xin nghỉ việc và 1001 chuyện cần biết khi muốn thôi việc
-image:  '/images/ly-do-ngi-viec-luu-y-quan-trong.png'
+image:  '/images/lua-chon-nghi-viec.jpg'
 description: "Nếu có ý định xinh nghỉ việc công ty, bạn hãy xem qua bài viết này nhé. Từ kinh nghiệm của mình, bạn sẽ có thêm thông tin để lần chia tay này thuận lợi và êm đẹp hơn"
 tags: tips
 categories: kinh-nghiem
 permalink: Ly-do-xin-nghi-viec-va-1001-chuyen-can-biet-khi-muon-thoi-viec/
 featured: false
 ---
-_Cảm thấy không thoải mái với công việc hiện tại và có lựa chọn mới tốt hơn, nghỉ việc là điều bạn đang cân nhắc nghiêm túc. Các đơn từ thủ tục xin nghỉ cũng như các lưu ý quan trọng khác, mình sẽ chia sẻ kinh nghiệm của mình trong bài viết này nhé!_
+_Cảm thấy không thoải mái với công việc hiện tại và có lựa chọn mới tốt hơn, nghỉ việc là điều bạn đang cân nhắc nghiêm túc. Mình sẽ chia sẻ kinh nghiệm của mình về đơn từ thủ tục xin nghỉ việc theo văn hóa công ty tư nhân tại Việt Nam cũng như các lưu ý quan trọng khác trong bài viết này_
 
 ## 1. Các lý do xin nghỉ việc hợp lý và thuyết phục nhất
 
@@ -16,20 +16,20 @@ Một khi có ý định thôi công việc hiện tại, có lẽ điều băn 
 
 ### 1.1 Lý do nghỉ việc liên quan đến công việc:
 
-**Có nguyện vọng thay đổi môi trường làm việc**: Lý do này phù hợp với các bạn trẻ, mới ra trường. Những công việc đầu tiên thường là phép thử, các bạn có xu hướng đổi công việc và nơi làm việc nếu cảm thấy không hợp. Bên cạnh đó, nếu có cơ hội thử sức ở môi trường mới, các bạn hứng thú muốn thử. Bạn có thể trình bày chân thành điều này cho quản lý của mình và thể hiện ngắn gọn trong đơn. Ví dụ:  
+**Có nguyện vọng thay đổi môi trường làm việc**: Lý do này phù hợp với các bạn trẻ, mới ra trường. Những công việc đầu tiên thường là phép thử, các bạn có xu hướng đổi công việc và nơi làm việc nếu cảm thấy không hợp. Bên cạnh đó, nếu có cơ hội thử sức ở môi trường mới, các bạn cũng hứng thú muốn thử. Bạn có thể trình bày chân thành điều này cho quản lý của mình và thể hiện ngắn gọn trong đơn. Ví dụ:  
 
--	Lý do: Trong thời gian làm việc tại công ty, tôi đã được đồng nghiệp và quản lý hỗ trợ rất nhiều trong công việc. Tôi rất biết ơn và trân trọng điều đó. Tuy nhiên, bản thân tôi cảm thấy mình cần một môi trường làm việc đặc thù để phát triển chuyên môn… của tôi. Đó là lý do tôi muốn xin nghỉ việc tại công ty.
+-	Lý do: Trong thời gian làm việc tại công ty, tôi đã được đồng nghiệp và quản lý hỗ trợ rất nhiều. Tôi rất biết ơn và trân trọng điều đó. Tuy nhiên, bản thân tôi cảm thấy mình cần một môi trường làm việc đặc thù để phát triển chuyên môn… của tôi. Đó là lý do tôi muốn xin nghỉ việc tại công ty.
 
 **Thay đổi định hướng nghề nghiệp**: Nếu bạn đang đảm nhận công việc hành chính kiêm nhân sự ở một cty startup. Bạn mong muốn phát triển chuyên về nhân sự nhưng cty không thể đáp ứng được. Đó là một lý do xin nghỉ việc chính đáng, bạn có thể trình bày trong đơn của mình. Ví dụ:
 
 -	Lý do:  Sau một thời gian suy nghĩ nghiêm túc về mục tiêu nghề nghiệp, tôi nhận thấy mình không phù hợp với công việc hiện tại. Tôi cũng đã có định hướng phát triển mới cho mình. Đó là lý do tôi muốn xin nghỉ việc tại công ty.
 
 ![thay đổi công việc để tốt hơn cho sự nghiệp của bạn thân](/images/ban-giao-cong-viec-truoc-khi-nghi.jpg)
-_Thay đổi công việc để tốt hơn cho sự nghiệp của bạn thân. Nguồn ảnh: ST_
+_Thay đổi công việc để tốt hơn cho sự nghiệp của bản thân. Nguồn ảnh: ST_
 
-**Nhận được cơ hội việc làm mới tốt hơn**: Thu nhập cao hơn, môi trường làm việc tốt hơn là những yếu tố khiến đa số chúng ta cân nhắc chọn rời đi để nhận công việc mới. Bạn cần thể hiện thái độ chân thành, đúng mực khi gửi đơn xin nghỉ việc. Ví dụ:
+**Nhận được cơ hội việc làm mới tốt hơn**: Thu nhập cao hơn, môi trường làm việc tốt hơn là những yếu tố khiến đa số chúng ta chọn rời đi để nhận công việc mới. Bạn cần thể hiện thái độ chân thành, đúng mực khi gửi đơn xin nghỉ việc. Ví dụ:
 
--	Lý do: Theo kế hoạch sắp tới, tôi sẽ nhận công việc mới, phù hợp với tôi hơn. Do đó, tôi rất mong công ty xem xét tích cực và chấp thuận đơn xin nghỉ việc của tôi. Trong suốt thời gian qua, tôi vô cùng biết ơn công ty, quản lý và đồng nghiệp đã giúp đỡ tôi trong công việc. Tôi lấy làm tiếc khi không thể gắn bó lâu dài cùng công ty. Tôi xin chân thành cảm ơn và chúc công ty ngày càng thành công và phát triển. 
+-	Lý do: Sắp tới, tôi sẽ nhận công việc ở đơn vị mới, phù hợp với tôi hơn. Do đó, tôi rất mong công ty xem xét tích cực và chấp thuận đơn xin nghỉ việc của tôi. Trong suốt thời gian qua, tôi vô cùng biết ơn công ty, quản lý và đồng nghiệp đã giúp đỡ tôi trong công việc. Tôi lấy làm tiếc khi không thể gắn bó lâu dài cùng công ty. Tôi xin chân thành cảm ơn và chúc công ty ngày càng thành công và phát triển. 
 
 ### 1.2 Lý do nghỉ việc liên quan đến cá nhân
 
