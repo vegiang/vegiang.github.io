@@ -42,7 +42,7 @@ _Thay đổi công việc để tốt hơn cho sự nghiệp của bản thân. 
 ![Việc cá nhân đối với quyết định nghỉ việc](/images/ly-do-nghi-viec-thu-tuc-nghi-viec.PNG)
 _Lý do nghỉ việc xuất phát từ việc cá nhân. Nguồn ảnh: ST_
 
-**Hoàn cảnh gia đình**: Công việc ở nhà khiến bạn không thể đáp ứng yêu cầu của cty, bạn cũng không thể nói trước được khi nào mình có thể quay trở lại làm việc thì xin nghỉ là giải pháp được nhiều người lựa chọn. Ví dụ:
+**Hoàn cảnh gia đình**: Công việc ở nhà khiến bạn không thể đáp ứng yêu cầu công việc của cty, bạn cũng không thể nói trước được khi nào mình có thể quay trở lại làm việc thì xin nghỉ là giải pháp được nhiều người lựa chọn. Ví dụ:
 
 -	Lý do: Người thân của tôi đang bị bệnh nặng cần phải chăm sóc. Tôi không thể sắp xếp được thời gian để có mặt tại công ty và hoàn thành công việc được giao. Do đó, tôi gửi đơn này mong quý công ty xem xét cho tôi nghỉ việc.
 
@@ -54,15 +54,15 @@ _Lý do nghỉ việc xuất phát từ việc cá nhân. Nguồn ảnh: ST_
 
 ## 2. Thực hiện các bước xin nghỉ việc chuyên nghiệp nhất
 
-Để được quy trình xin nghỉ việc của bạn thuận lợi, êm đẹp, hãy lưu ý những thông tin sau nhé!
+Để việc xin nghỉ của bạn thuận lợi, êm đẹp, hãy lưu ý những thông tin sau nhé!
 
 ### 2.1 Trình bày nguyện vọng nghỉ việc với quản lý trực tiếp
 
-Đầu tiên, mình muốn nhấn mạnh điểm quan trọng: **Nếu chưa có kế hoạch nghỉ việc cụ thể, bạn không được cho bất kỳ ai trong công ty, cơ quan biết bạn muốn thôi việc.** Vì rất đơn giản, không ai muốn đầu tư và đối xử tốt với một người sẽ không gắng bó và đem lại lợi ích cho cty. 
+Đầu tiên, mình muốn nhấn mạnh: **Nếu chưa có kế hoạch nghỉ việc cụ thể, bạn không được cho bất kỳ ai trong công ty biết bạn có ý định thôi việc.** Vì rất đơn giản, không ai muốn đầu tư và đối xử tốt với một người sẽ không gắn bó và đem lại lợi ích cho cty. 
 
-Khi bạn đã xác định thời điểm và lý do xin thôi việc, người đầu tiên bạn nên nói chuyện chính là quản lý trực tiếp của bạn. Thường mình hay nhắn tin trước với sếp, kiểu: “Anh/ chị ơi, chắc khoảng cuối tháng em xin nghỉ việc, lý do….”. Sau đó, các sếp thường gọi mình nói chuyện riêng. Mình cũng chia sẻ thẳng thắn suy nghĩ và may mắn được các sếp ủng hộ. 
+Khi bạn đã xác định thời điểm và lý do xin thôi việc, người đầu tiên bạn nên nói chuyện chính là quản lý trực tiếp của bạn. Thường thì mình hay nhắn tin trước với sếp, kiểu: “Anh/ chị ơi, chắc khoảng cuối tháng em xin nghỉ việc, lý do….”. Sau đó, các sếp thường gọi mình nói chuyện riêng. Mình cũng chia sẻ thẳng thắn suy nghĩ và may mắn được các sếp ủng hộ. 
 
-Báo cho sếp trước thể hiện sự tôn trọng dành cho người quản lý đó. Không có quản lý nào vui vẻ khi cấp dưới của mình sắp nghỉ việc mà ai trong công ty cũng biết trừ sếp. Tin bạn sắp nghỉ phần nhiều sẽ thành chủ đề cho các cuộc tán gẫu công sở mà thôi.
+Báo cho sếp trước thể hiện sự tôn trọng dành cho người quản lý đó. Không có quản lý nào vui vẻ khi cấp dưới của mình sắp nghỉ việc mà ai trong công ty cũng biết trừ sếp.
 
 ### 2.2 Đơn xin nghỉ việc và các thủ tục quan trọng khác
 
@@ -79,7 +79,7 @@ Các mẫu đơn từ nghỉ việc bạn chỉ cần hoàn thành trước ngà
 
 ## 3. Khi nào nên xin nghỉ việc
 
-Hãy dành quyền chủ động trong mọi tình huống! Đặc biệt trong công việc, “cần câu cơm” của bản thân, hạn chế tối đa bị đẩy vào tình huống bị động như đột ngột mất việc. Một vài cách cũng như dấu hiệu cho thấy bạn cần chuẩn bị tìm kiếm nơi làm việc khác, bạn có thể tham khảo:
+Hãy dành quyền chủ động trong mọi tình huống! Đặc biệt trong công việc, “cần câu cơm” của bản thân, hạn chế tối đa bị đẩy vào tình huống bị động như đột ngột mất việc. Một vài cách cũng như dấu hiệu cho thấy bạn cần chuẩn bị tìm kiếm nơi làm việc mới, bạn có thể tham khảo:
 
 ### 3.1 Chủ quan – xuất phát từ chính bạn:
 
@@ -90,11 +90,11 @@ Hãy dành quyền chủ động trong mọi tình huống! Đặc biệt trong 
 ![Ngày làm việc cuối cùng tại công ty](/images/ngay-cuoi-cung-lam-viec-o-cty.jpg)
 _Hãy hoàn thành hết thủ tục trước khi nghỉ bạn nhé! Nguồn ảnh: ST_
 
-**Bạn nhận thấy mình không học hỏi hay tiến bộ gì cả**: Kỹ năng tự đánh giá sẽ phát huy tốt khi bạn thấy được điều này sao 1 thời gian làm việc. Nếu cảm thấy mình đã cố hết sức để tự học, tự tìm tòi, chủ động hết mức trong công việc nhưng vẫn không nhận cải thiện đáng kể kỹ năng thì có lẽ đây không phải là môi trường làm việc tốt. Bên cạnh đó nếu quản lý và đồng nghiệp của bạn không được thân thiện khi làm việc cùng bạn thì việc học tập cũng sẽ không hiệu quả. 
+**Bạn nhận thấy mình không học hỏi hay tiến bộ gì cả**: Kỹ năng tự đánh giá sẽ phát huy tốt khi bạn thấy được điều này sau một thời gian làm việc. Nếu cảm thấy mình đã cố hết sức để tự học, tự tìm tòi và chủ động hết mức trong công việc nhưng vẫn không cải thiện kỹ năng, mindset thì có lẽ đây không phải là môi trường làm việc tốt. Bên cạnh đó nếu quản lý và đồng nghiệp của bạn không được thân thiện khi làm việc cùng bạn thì việc học tập cũng sẽ không hiệu quả. 
 
 Điểm này rất quan trọng với các bạn mới ra trường. Trong nhiều trường hợp, nếu môi trường tốt để bạn học tập, rèn luyện, người leader dẫn dắt bạn bài bản, bạn có thể chọn những công ty như vậy cho dù lương thưởng có thể thấp hơn so với mặt bằng chung.
 
-**Mệt mỏi, chán nản, sợ hãi**: Mình không khuyên các bạn hễ đi làm chỗ nào mà chán với mệt là nghỉ việc. Vì đơn giản, đi làm kiếm tiền chưa bao giờ dễ dàng, không phải lúc nào cũng vui vẻ. Tuy nhiên, nếu ở nơi làm việc mà bạn chưa từng vui vẻ, hào hứng mà chỉ toàn bị chèn ép, dọa nạt và trù dập thì hãy cân nhắc lại. Kiếm tiền cũng quan trọng, nhưng tiền kiếm ra không đủ bạn đi bệnh viện thì không nên chút nào.    
+**Mệt mỏi, chán nản, sợ hãi**: Mình không khuyên các bạn hễ đi làm chỗ nào mà chán với mệt là nghỉ việc. Vì đơn giản, đi làm kiếm tiền chưa bao giờ dễ dàng, không phải lúc nào cũng vui vẻ. Tuy nhiên, nếu ở nơi làm việc mà bạn chưa từng vui vẻ, hào hứng mà chỉ toàn bị chèn ép, dọa nạt và trù dập thì hãy cân nhắc lại. Kiếm tiền cũng quan trọng, nhưng tiền kiếm mà không đủ để bạn đi bệnh viện thì không nên chút nào.    
 
 ![Chán nản với công việc](/images/met-moi-voi-cong-viec.jpg)
 _Mệt mỏi, chán nản kéo dài là dấu hiện cho thấy bạn không phù hợp với công việc đó. Nguồn ảnh: ST_
@@ -103,22 +103,22 @@ _Mệt mỏi, chán nản kéo dài là dấu hiện cho thấy bạn không ph�
 
 **Tình hình kinh doanh không tốt kéo dài**: Làm sao để biết tình hình kinh doanh của công ty, trong khi bạn ở bộ phận kỹ thuật chẳng hạn? Câu trả lời nằm ở kỹ năng giao tiếp của bạn. Đừng nên chỉ quan tâm mỗi việc của mình, bạn cần để ý một chút đến công việc của bộ phận mình và các phòng ban khác. Qua một thời gian bạn sẽ biết được đâu là nguồn nuôi sống công ty, định hướng cty sẽ phát triển mảng nào, sản phẩm nào và doanh số hàng tháng của cty có tốt hay không.
 
-Nếu nằm trong bộ phận phát triển sản phẩm không đem lại được đồng nào cho công ty trong vòng nhiều tháng, bạn hãy cẩn thận. Công ty mạnh vốn sẽ tiếp tục đầu tư, ngược lại việc cải tổ và cắt giảm nhân sự là chuyện đương nhiên.
+Nếu nằm trong bộ phận phát triển sản phẩm không đem lại được đồng nào cho công ty trong nhiều tháng, bạn hãy cẩn thận. Công ty mạnh vốn sẽ tiếp tục đầu tư còn ngược lại việc cải tổ và cắt giảm nhân sự là chuyện đương nhiên.
 
 **Sếp và đồng nghiệp:** Mình không phủ nhận đa số lao động trẻ nghỉ việc là vì sếp. Người quản lý không có năng lực chuyên môn lẫn quản lý sẽ không thể giữ chân được nhân viên. Nhân tố chính tạo ra môi trường làm việc chính là sếp, người quản lý. Một khi bạn đã không làm việc hiệu quả cùng sếp của mình, đó cũng là dấu hiệu cho thấy bạn chẳng thể làm việc lâu dài ở công ty đấy.
 
 ![Người quản lý tạo nên văn hóa của doanh nghiệp đó](/images/leader-dong-nghiep-kobu-agency-unsplash.jpg)
 _Người quản lý tạo nên văn hóa của doanh nghiệp đó. Nguồn ảnh: kobu agency/unsplash_
 
-Thực tế, ít có bạn nào chỉ vì một lý do mà quyết định nghỉ việc cả. Đa số đều có hơn 3,4 điều không hài lòng với công ty, quan trọng là thời điểm tích hợp lại để nghỉ mà thôi. Ở phần 1 mình chia sẻ bạn các lý do ở phần nổi, còn phần 2 là phần chìm. Nếu đi làm một thời gian, hẳn là bạn sẽ hiểu rõ hơn những gì mình đề cập ở bài này.
+Thực tế, ít khi người lao động chỉ vì một lý do mà quyết định nghỉ việc cả. Đa số đều có hơn 3,4 điều không hài lòng với công ty, quan trọng là thời điểm để nghỉ mà thôi. Ở phần 1 mình chia sẻ bạn các lý do ở phần nổi, còn phần 2 là phần chìm. Nếu đi làm một thời gian, hẳn là bạn sẽ hiểu rõ hơn những gì mình đề cập ở bài này.
 
-**Chú ý giai đoạn thử việc:** Bạn đừng nghĩ rằng bạn được đậu phỏng vấn tuyển dụng là bạn đã có công việc. Chưa đâu bạn, nếu không qua Probation, bạn vẫn bị cho nghỉ như bình thường. Nhiều bạn trẻ rất sốc khi mới làm được một tháng đã nhận được mail dừng thử việc. Đơn giản là bạn làm thuê, người ta không muốn thuê nữa thì dừng thôi. Bạn nên đọc kỹ thỏa thuận/ hợp đồng trước để không phải hụt hẫng nhé!
+**Chú ý giai đoạn thử việc:** Bạn đừng nghĩ rằng bạn đậu phỏng vấn tuyển dụng là bạn đã có công việc. Chưa đâu bạn, nếu không qua Probation, bạn vẫn bị cho nghỉ như bình thường. Nhiều bạn trẻ rất sốc khi mới làm được một tháng đã nhận được mail dừng thử việc. Đơn giản là bạn làm thuê, người ta không muốn thuê nữa thì dừng thôi. Bạn nên đọc kỹ thỏa thuận/ hợp đồng trước để không phải hụt hẫng nhé!
 
 ## 4. Những vấn đề thường gặp khi bạn xin nghỉ việc
 
 ### 4.1 Sếp không duyệt đơn xin nghỉ của bạn:
 
-Để phòng trường hợp này có thể xảy ra, bạn cần chuẩn bị thật kỹ lưỡng. Đầu tiên, bạn cần trao đổi chân thành về lý do nghỉ, để sếp thấy câu chuyện nếu bạn không được nghỉ việc như nguyện vọng sẽ ảnh hưởng như thế nào: Không kịp nhập học, không chăm sóc được người thân, lỡ cơ hội có thu nhập tốt để chăm lo cho gia đình,…
+Phòng trường hợp này có thể xảy ra, bạn cần chuẩn bị thật kỹ lưỡng. Đầu tiên, bạn cần trao đổi chân thành về lý do nghỉ, để sếp thấy câu chuyện nếu bạn không được nghỉ việc như nguyện vọng sẽ ảnh hưởng như thế nào: Không kịp nhập học, không chăm sóc được người thân, lỡ cơ hội có thu nhập tốt để chăm lo cho gia đình,…
 
 Thứ hai, bạn cho sếp thấy được nếu mình nghỉ lúc này công việc không ảnh hưởng lắm, dễ tuyển được người hoặc có người để bàn giao rồi.
 
@@ -137,17 +137,17 @@ _Trả lời phỏng vấn về lý do thôi việc cho công việc gần đây
 
 ### 4.4 Giấy tờ thủ tục sau khi nghỉ việc: 
 
-Tờ giấy quyết định chấm dứt hợp đồng kèm theo thông tin lương + thưởng còn lại bao giờ thanh toán, ngày hẹn lấy sổ bảo hiểm xã hội. Đấy là những thủ tục bạn cần phải đòi hỏi khi nghỉ, hãy giữ liên lạc với kế toán hay nhân sự nếu đến hẹn mà chưa nhận được nhé!
+Tờ giấy quyết định chấm dứt hợp đồng kèm theo thông tin lương + thưởng còn lại bao giờ thanh toán, ngày hẹn lấy sổ bảo hiểm xã hội, đấy là những thủ tục bạn cần phải đòi hỏi khi nghỉ, hãy giữ liên lạc với kế toán hay nhân sự nếu đến hẹn mà chưa nhận được nhé!
 
-> Sau khi nghỉ việc mà bạn chưa muốn tìm việc ngay, hãy tham khảo [Hướng dẫn nhận trợ cấp thất nghiệp mới nhất]( https://vegiang.com/kinh-nghiem-lam-thu-tuc-nhan-tro-cap-that-nghiep-tai-tphcm-moi-nhat-2020/)
+> Sau khi nghỉ việc mà bạn chưa muốn tìm việc ngay, hãy tham khảo --> [Hướng dẫn nhận trợ cấp thất nghiệp mới nhất]( https://vegiang.com/kinh-nghiem-lam-thu-tuc-nhan-tro-cap-that-nghiep-tai-tphcm-moi-nhat-2020/)
 
-> Muốn tìm việc để chuẩn bị cho kế hoạch nghỉ việc, hãy tham khảo bài chia sẻ [Kinh nghiệm tìm việc làm]( https://vegiang.com/kinh-nghiem-tim-viec-lam-xin-viec-khong-ma-la-tim-viec/).
+> Muốn tìm việc để chuẩn bị cho kế hoạch nghỉ việc, hãy tham khảo bài chia sẻ --> [Kinh nghiệm tìm việc làm]( https://vegiang.com/kinh-nghiem-tim-viec-lam-xin-viec-khong-ma-la-tim-viec/).
 
 ## Trái Đất tròn, hãy chừa cho bản thân một đường lui 
 
 Thời còn nông nỗi mình đã “bỏ trốn” việc vì vị trí đó đòi hỏi phải trực Tết (nghỉ Tết rất ngắn) và cùng lúc đó có công ty khác gọi mình đi nhận việc. Trong thời gian chỉ vỏn vẹn 3 ngày, mình đã thu xếp công việc, tìm một anh bàn giao, viết đơn xin nghỉ việc  và nhờ anh ấy ký duyệt hộ ( khi đó trưởng phòng mình cũng vừa nghỉ việc) rồi gửi lên phòng hành chính nhân sự. Nhanh như một cơn gió, khiến ai cũng bất ngờ. 
 
-Sau nhiều lần nhảy việc, đó là lần mình nhớ nhất. Vì mình, team mình – lúc đó chỉ còn 3 người- phải thay nhau trực, gần như không được nghỉ. Mình đến đơn vị mới cũng không như ý và mình cũng rời đi ngay sau đó. Đến tận bây giờ, nghĩ lại mình vẫn thấy áy náy. Anh chị đồng nghiệp khi đó mình vẫn giữ liên lạc, hỏi thăm nhau, đi ăn cùng nhau. Từ đó, mình rút ra một bài học quý giá về cách thức “chia tay” nơi làm việc:
+Sau nhiều lần nhảy việc, đó là lần mình nhớ nhất. Vì mình, team mình – lúc đó chỉ còn 2 người- phải thay nhau trực, gần như không được nghỉ. Mình đến đơn vị mới cũng không như ý và mình cũng rời đi ngay sau đó. Đến tận bây giờ, nghĩ lại mình vẫn thấy áy náy. Anh chị đồng nghiệp khi đó mình vẫn giữ liên lạc, hỏi thăm nhau, đi ăn cùng nhau. Từ đó, mình rút ra một bài học quý giá về cách thức “chia tay” nơi làm việc:
 
 - Thông báo trước, nó rõ lý do hợp lý và ôn hòa nhất có thể.
 
