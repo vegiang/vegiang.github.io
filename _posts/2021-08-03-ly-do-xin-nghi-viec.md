@@ -124,18 +124,28 @@ Thứ hai, bạn cho sếp thấy được nếu mình nghỉ lúc này công vi
 
 Và quan trọng là điều thứ 3, chỉ ngầm hiểu thôi, là bạn đã tuân thủ quy định của hợp đồng lao động, thông báo trước khi nghỉ 1 tháng chẳng hạn. Bạn cũng cam kết bàn giao và hỗ trợ công việc cho đến khi ngày nghỉ. 
 
-### 4.2 Có làm tiệc farewell, tặng quà cho đồng nghiệp và sếp hay không? 
+### 4.2 Sếp nói: “Em ráng làm đến khi anh (chị) tuyển được người mới được không?”
+
+Câu hỏi trên vô cùng quen thuộc khi bạn báo mình muốn nghỉ việc với quản lý. Nếu đã có kế hoạch ngày nghỉ việc cụ thể, thời gian nghỉ ngơi và ngày on board ở chỗ làm mới, bạn có 
+thể từ chối lời đề nghị này. Quan điểm của mình, nếu bạn đồng ý với sếp, phần thiệt sẽ thuộc về bạn. Vừa không biết sẽ làm đến bao giờ, vừa bị đối xử tệ hơn trước (vì bạn sắp 
+nghỉ mà).
+
+Nếu bạn nghỉ việc, sếp bạn sẽ vất vả hơn, vừa tuyển dụng, training và xử lý luôn phần công việc của bạn nếu người mới chưa thể đảm nhiệm. Nhưng sếp nhận lương thưởng cao hơn mà, 
+họ phải có trách nhiệm. Một câu nói từ sếp cũ của mình làm mình nhớ mãi (tuy không phải nói về mình): Vắng mợ chợ vẫn đông. Không có bạn công ty vẫn hoạt động bình thường, rồi 
+đâu cũng vào đấy. Khi bạn đã có kế hoạch, cứ mạnh dạn lên bạn nhé! 
+
+### 4.3 Có làm tiệc farewell, tặng quà cho đồng nghiệp và sếp hay không? 
 
 Cái này tùy vào văn hóa mỗi nơi. Tuy nhiên, nếu thấy không thoải mái, bạn không cần câu nệ chuyện này. Nếu được tặng quà, bạn nên tặng lại, còn không thì thôi. Tiệc chia tay có thể mua trái cây, bánh cho cả phòng cùng ăn cho vui là được rồi. Ngày mới đi làm, thu nhập thấp, mình rất sợ những dịp như thế này. Sau đó cứng cáp hơn thì mình thấy vui là được, không quan trọng ai nói gì.
 
-### 4.3 Khi phỏng vấn tìm việc tiếp theo, có nên nói thật nguyên nhân nghỉ việc không? 
+### 4.4 Khi phỏng vấn tìm việc tiếp theo, có nên nói thật nguyên nhân nghỉ việc không? 
 
 Bạn có thể trả lời thành thật nhưng đừng quá cụ thể. Nhà tuyển dụng tinh ý sẽ không đòi hỏi ứng viên phải kể nhiều. Tuy vậy, dù có không thích công ty cũ bạn không nên nói xấu, hạ thấp nơi bạn từng làm.
 
 ![Trả lời phỏng vấn tìm việc tiếp theo](/images/ly-do-nghi-viec-khi-phong-van.jpg)
 _Trả lời phỏng vấn về lý do thôi việc cho công việc gần đây nhất. Nguồn ảnh: ST_
 
-### 4.4 Giấy tờ thủ tục sau khi nghỉ việc: 
+### 4.5 Giấy tờ thủ tục sau khi nghỉ việc: 
 
 Tờ giấy quyết định chấm dứt hợp đồng kèm theo thông tin lương + thưởng còn lại bao giờ thanh toán, ngày hẹn lấy sổ bảo hiểm xã hội, đấy là những thủ tục bạn cần phải đòi hỏi khi nghỉ, hãy giữ liên lạc với kế toán hay nhân sự nếu đến hẹn mà chưa nhận được nhé!
 
