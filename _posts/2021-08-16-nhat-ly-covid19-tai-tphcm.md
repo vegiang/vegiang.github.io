@@ -103,19 +103,19 @@ _Những ngày đầu phong tỏa, phường hỗ trợ lương thực thực ph
 _Tòa nhà chia sẻ với nhau mùa dịch. Người dư cho kẻ thiếu và thang máy là cầu nối_
 
 ![Mình cũng góp một ít tiêu nhà trồng. Mình rang lên và chia nhỏ cho vào túi nhỏ](/images/tieu-minh-rang.png)
-_Mình cũng góp một ít tiêu nhà trồng. Mình rang lên và chia nhỏ cho vào túi nhỏ_
+_Mình cũng góp một ít tiêu nhà trồng. Mình rang lên và chia nhỏ cho vào túi_
 
 ![Danh sách những thứ sẽ đem đi nếu y tế xuống đón đi cách ly](/images/list-chuan-bi-cach-ly.jpg)
 _Danh sách những thứ mình sẽ đem đi nếu y tế xuống đón đi cách ly. List này mình cũng gửi cho bạn mình tham khảo khi chính bạn bị dính F0_
 
 ![Khu cách ly chờ điều phối giường bệnh](/images/khu-cach-ly.jpg)
-_Một nhà xưởng được trưng dụng thành nơi dừng chân tạm của F0 trước khi được bố trí giường tại bệnh viện_
+_Một nhà xưởng được trưng dụng thành nơi dừng chân tạm của F0 trước khi được bố trí giường tại bệnh viện. Ảnh bạn mình chụp_
 
 ![Bệnh viện thu dung Covid](/images/benh-vien-da-chien.jpg)
-_Bệnh viện thu dung COVID, đây vốn là một trường tiểu học, bạn mình được điều trị tại đây_
+_Bệnh viện thu dung Covid-19, đây vốn là một trường tiểu học, bạn mình được điều trị tại đây. Ảnh bạn mình chụp_
 
 ![Tiêm vaccine Sinofarm](/images/chich-vaccine-Sinofarm.png)
-_Chuyện tiêm vaccine Sinopharm thật ồn ào. Quan điểm của mình, đến lượt nên đi tiêm, vaccine đúng lúc là tốt nhất. Ảnh kèm theo câu chuyện của fb Anh Hồng Phạm (https://www.facebook.com/danquantanbinh/posts/1730863370456115 bài viết của chính chủ bị hạn chế quyền xem)_
+_Chuyện tiêm vaccine Sinopharm thật ồn ào. Quan điểm của mình: Đến lượt nên đi tiêm, vaccine đúng lúc là tốt nhất. Ảnh kèm theo câu chuyện của fb Anh Hồng Phạm (https://www.facebook.com/danquantanbinh/posts/1730863370456115 bài viết của chính chủ bị hạn chế quyền xem nên mình để link fb chia sẻ)_
 
 ![Tự cách ly hẻm](/images/vung-xanh.jpg)
 _Sau phong tỏa hẻm mình tự cách ly, lập vùng xanh an toàn_
