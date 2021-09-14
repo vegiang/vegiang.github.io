@@ -25,7 +25,7 @@ _Bộ đội hỗ trợ siêu thị phân phối hàng hóa_
 
 Thực tế bộ đội đến hỗ trợ cho phường, bệnh viện và tổ dân phố. Các hộ đăng ký mua hàng hóa qua tổ và các cán bộ sẽ đi mua hộ người dân, nhưng chỉ mua theo combo mà thôi. Bộ đội chủ yếu giúp các gia đình F0 nhận thuốc, lương thực cũng như các hộ khó khăn nhận hàng cứu trợ.
 
-![Gạo và rau xanh được các anh bộ đội giao đến tận khu nhà mình](/images/gao-luong-thuc.png)
+![Gạo và rau xanh được các anh bộ đội giao đến tận khu nhà mình](/images/quan-doi-ho-tro-van-chuyen-hang-hoa.jpg)
 _Gạo và rau xanh được các anh bộ đội giao đến tận khu nhà mình_
 
 Gia đình bình thường còn lại muốn mua hàng hóa sẽ đổ dồn vào siêu thị. Các siêu thị cũng áp dụng hình thức combo để phục vụ khách hàng. Ngày thường mình không để ý sức tiêu thụ mặt hàng nhu yếu phẩm của thành phố nó lớn cỡ nào, cho đến khi xảy ra đợt dịch bệnh này. Bạn thử tưởng tượng khi hàng quán ăn đóng cửa, 3 bữa 1 ngày bạn đều phải tự nấu ở nhà mà gia đình bạn có 5 thành viên thì số lượng thịt, cá, trứng, sữa, rau, bún, bánh nó nhiều đến mức nào.
