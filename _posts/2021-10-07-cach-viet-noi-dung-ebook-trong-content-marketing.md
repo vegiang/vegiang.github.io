@@ -12,7 +12,7 @@ _Ngoài nội dung cho các trang Social và Website, những năm gần đây, 
 
 ## 1. eBook trong Marketing doanh nghiệp
 
-Trước khi bắt tay vào viết eBook bạn cần hiểu rõ hơn vì sao mình phải thực hiện việc này và eBook mang lại lợi ích gì cho việc branding cũng như marketing cho thương hiệu và sản phẩm.
+Trước khi bắt tay vào viết eBook bạn cần hiểu rõ vì sao mình phải thực hiện việc này và eBook mang lại lợi ích gì cho branding cũng như marketing thương hiệu lẫn sản phẩm.
 
 ### 1.1 Content Marketing và eBook
 
@@ -21,7 +21,7 @@ eBook hay còn được gọi là sách điện tử - Electronic Book – đã 
 ![Kệ sách eBook](/images/ke-sach-ebook.jpg)
 _Kệ sách eBook trên iPad. Nguồn ảnh: ST_
 
-Là một phần của Content Marketing (Tiếp thị nội dung), làm nội dung cho eBook là một nhánh riêng, có hình thức, văn phong khác so với các dạng nội dung quảng cáo khác.
+Là một phần của Content Marketing (Tiếp thị nội dung), làm nội dung cho eBook là một nhánh riêng, có format khác so với các dạng nội dung quảng cáo khác.
 
 ![eBook ngành digital marketing](/images/sach-digital-marketing.jpg)
 _Chỉ riêng nich dạy digital marketing, eBook được sử dụng rộng rãi. Nguồn sách: ST_
@@ -32,13 +32,13 @@ _Chỉ riêng nich dạy digital marketing, eBook được sử dụng rộng r�
 
 **Với sản phẩm là khóa học, dịch vụ, giải pháp**
 
-Khách hàng tìm đến để sản phẩm của bạn giải quyết một vấn đề cụ thể của họ. Nhóm sản phẩm này vô hình và khách phải thanh toán trước khi được nhìn thấy hiệu quả của sản phẩm đem lại. Chính vì vậy tạo niềm tin là mục tiêu quan trọng trong các chiến dịch marketing cho ngành hàng này.
+Khách hàng tìm đến để sản phẩm của bạn giải quyết một vấn đề cụ thể của họ. Nhóm sản phẩm này là vô hình và khách phải thanh toán trước khi được nhìn thấy hiệu quả của sản phẩm đem lại. Chính vì vậy tạo niềm tin là mục tiêu quan trọng trong các chiến dịch marketing cho ngành hàng này.
 
-Trước giai đoạn tạo niềm tin – nuôi dưỡng, bạn cần thực hiện bước đầu tiên, đó chính là tạo – mở rộng tiệm khách hàng tiềm năng. Bạn cần đan cho mình tấm lưới và quăng vào đúng chỗ. Nếu “quăng lưới” vào sai tệp khách hàng dù bạn tốn công nuôi dưỡng rất lâu cũng khó lòng chuyển đổi thành khách mua hàng.
+Trước giai đoạn tạo niềm tin – nuôi dưỡng, bạn cần thực hiện bước đầu tiên, đó chính là tạo – mở rộng tiệm khách hàng tiềm năng. Bạn cần đan cho mình tấm lưới và quăng vào đúng chỗ. Nếu “quăng lưới” vào sai tệp khách hàng thì dù bạn tốn công nuôi dưỡng rất lâu cũng khó lòng chuyển đổi tệp thành khách mua hàng.
 
-Ở bước tạo và mở rộng tệp khách hàng tiềm năng, bạn cần nhắm đến đúng đối tượng có hoặc sẽ có nhu cầu mua hàng. Vẽ chân dung thật chi tiết: họ là ai (giới tính, thói quen, độ tuổi), họ quan tâm đến điều gì,… Điều này giúp bạn xác định đúng đối tượng và tạo nội dung có giá trị với khách hàng. 
+Ở bước tạo và mở rộng tệp khách hàng tiềm năng, bạn cần nhắm đến đúng đối tượng có hoặc sẽ có nhu cầu mua hàng. Vẽ chân dung thật chi tiết: họ là ai (giới tính, thói quen, độ tuổi), họ quan tâm đến điều gì,… Việc này giúp bạn xác định đúng đối tượng và tạo nội dung có giá trị với khách hàng. 
 
-Ví dụ: Sản phẩm của bạn là khóa học Tiếng Anh. Bạn cần tìm khách hàng tiềm năng là người muốn học Tiếng Anh. Người học là người đi làm, học sinh sinh viên. Họ muốn học để thi bằng TOEIC, IELTs, để đi du học, làm việc môi trường quốc tế…Nội dung chia sẻ kinh nghiệm học tập thực tế, tài liệu theo chủ đề sâu sát đề thi và có tính ứng dụng cao sẽ được đối tượng khách hàng này chú ý hơn cả. Khi khách hàng điền form đăng kí nhận eBook, bạn đã có được thông tin khách hàng tiềm năng rồi đấy.
+Ví dụ: Sản phẩm của bạn là khóa học Tiếng Anh. Bạn cần tìm khách hàng tiềm năng là người muốn học Tiếng Anh. Người học là người đi làm, học sinh sinh viên. Họ muốn học để thi bằng TOEIC, IELTS, để đi du học, làm việc môi trường quốc tế… Nội dung chia sẻ kinh nghiệm học tập thực tế, tài liệu theo chủ đề sâu sát đề thi và có tính ứng dụng cao sẽ được đối tượng khách hàng này chú ý hơn cả. Khi khách hàng điền form đăng kí nhận eBook, bạn đã có được thông tin khách hàng tiềm năng rồi đấy.
 
 ![eBook dạng tạp chí của một trung tâm luyện thi tiếng Anh](/images/ebook-tai-lieu-tieng-anh.png)
 _eBook dạng tạp chí của một trung tâm luyện thi tiếng Anh_
@@ -52,9 +52,9 @@ _eBook cũng là cách tiếp cận khách hàng mới cũng như chăm sóc kh�
 
 Mình tạm chia thành 2 nhóm: Sản phẩm phổ thông và sản phẩm mới. 
 
-Đối với nhóm phổ thông, ví dụ như nhu yếu phẩm gạo, đường, trứng sữa, bạn không thể làm nội dung eBook kiểu trực tiếp về sản phẩm, vì đơn giản ai người ta cũng biết sản phẩm đó như thế nào rồi. Nếu có điểm khác biệt rõ ràng, vượt trội về đặc điểm sản phẩm bạn có thể triển khai nội dung này trên eBook. Còn lại đa số nhóm sản phẩm này khi làm nội dung eBook chính là triển khai theo hướng gián tiếp. Ví dụ: Mặt hàng cần đẩy mạnh marketing là bột mì, thay vì lên chỉ lên outline nội dung thuần thông tin sản phẩm, bạn cần đặt sản phẩm trong nhu cầu người dùng từ đó chọn nội dung phù hợp với eBook như bộ công thức chế biến các món từ bột mì chẳng hạn.
+Đối với nhóm phổ thông, ví dụ như nhu yếu phẩm gạo, đường, trứng sữa, bạn không thể làm nội dung eBook kiểu trực tiếp về sản phẩm, vì đơn giản ai cũng biết sản phẩm đó như thế nào rồi. Nếu có điểm khác biệt rõ ràng, vượt trội về đặc điểm sản phẩm bạn có thể triển khai nội dung này trên eBook. Còn lại đa số nhóm sản phẩm này khi làm nội dung eBook chính là triển khai theo hướng gián tiếp. Ví dụ: Mặt hàng cần đẩy mạnh marketing là bột mì, thay vì lên chỉ lên outline nội dung thuần thông tin sản phẩm, bạn cần đặt sản phẩm trong nhu cầu người dùng từ đó chọn nội dung phù hợp với eBook như bộ công thức chế biến các món từ bột mì chẳng hạn.
 
-![eBook chia sẻ công thức nấu ăn](/images/ebook-cookbook.PNG)
+![eBook chia sẻ công thức nấu ăn](/images/ebook-recipe-cookbook.jpg)
 _eBook chia sẻ công thức nấu ăn_
 
 Với nhóm sản phẩm mới, thị trường nhỏ, mức độ nhận biết chưa cao, bạn cần đẩy mạnh hơn nội dung educate khách hàng thông qua eBook, brochure, leaflet,… Riêng với eBook, bạn cần xây dựng “câu chuyện” hoàn chỉnh về sản phẩm để khách hàng có cái nhìn sâu rộng nhất để củng cố thêm lòng tin và lựa chọn sử dụng. Ví dụ sản phẩm máy lọc nước ion kiềm. Đa số người tiêu dùng Việt Nam chưa biết nước ion kiềm là gì, có tác dụng ra sao, để khách hàng biết đến sản phẩm, bạn cần biên soạn tài liệu eBook đầy đủ thông tin về sản phẩm, dẫn chứng đầy đủ ý kiến, công trình nghiên cứu khoa học để tăng phần tin cậy. Riêng với nhóm hàng này, việc branding được ưu tiên cao ở giai đoạn đầu.
@@ -62,19 +62,19 @@ Với nhóm sản phẩm mới, thị trường nhỏ, mức độ nhận biết
 ![eBook hướng dẫn sử dụng sản phẩm chi tiết nhất](/images/ebook-huong-dan-su-dung.png)
 _eBook hướng dẫn sử dụng sản phẩm chi tiết nhất_
 
-## 2. Nghiên cứu, tìm kiếm ý tưởng chủ đạo và lập dàn ý cho EBook
+## 2. Nghiên cứu, tìm kiếm ý tưởng chủ đạo và lập dàn ý cho eBook
 
 Sau khi đã xác định được sản phẩm cần viết eBook thuộc nhóm nào, bước tiếp theo chính là nghiên cứu và chọn ý tưởng cụ thể để triển khai dàn ý chi tiết nhất.
 
 ### 2.1 Cách chọn content angle cho eBook
 
-Content Angle là hướng tiếp cận, góc nhìn của nội dung. Cùng một mục đích nhấn mạnh lợi ích của một sản phẩm thực phẩm chức năng, bạn có thể chọn angle: Ý kiến chuyên gia hay so sánh hàm lượng vitamin của sản phẩm với trái cây chẳng hạn.
+Content Angle là hướng tiếp cận, góc nhìn của nội dung. Cùng một mục đích nhấn mạnh lợi ích của sản phẩm thực phẩm chức năng, bạn có thể chọn các angle khác nhau như Ý kiến chuyên gia hay so sánh hàm lượng vitamin của sản phẩm với trái cây chẳng hạn.
 
-Khi bắt đầu soạn eBook, bạn cũng cần lựa chọn content angle phù hợp. Không chỉ giúp cuốn eBook của bạn khác biệt mà còn giúp thu hút đối tượng khách hàng tương tác với eBook của bạn tốt hơn. Ví dụ: Cùng là nội dung tuyển tập đề luyện thi IELTs, bạn có thể chọn angle focast – dự đoán format và đề mẫu cho các quý hay năm tới.
+Khi bắt đầu soạn eBook, bạn cũng cần lựa chọn content angle phù hợp. Không chỉ giúp cuốn eBook của bạn khác biệt mà còn giúp thu hút đối tượng khách hàng tương tác với eBook của bạn tốt hơn. Ví dụ: Cùng là nội dung tuyển tập đề luyện thi IELTS, bạn có thể chọn angle focast – dự đoán format và đề mẫu cho các quý hay năm tới.
 
 ### 2.2 Lập dàn ý cho eBook trước khi viết
 
-Ouline của eBook có thể xem là phần mục lục. Bạn có thể sắp xếp nội dung phần nào trước, phần nào sau tránh trường hợp trùng lặp hay thiếu nội dung. Bước lập dàn ý này rất quan trọng, giúp bạn biết được quy mô của eBook này cũng như tiến độ viết về sau và dễ dàng biên tập thêm – bớt chi tiết nếu muốn.
+Ouline của eBook có thể xem là phần mục lục. Bạn có thể sắp xếp nội dung phần nào trước, phần nào sau tránh trường hợp trùng lặp hay thiếu nội dung. Bước lập dàn ý này rất quan trọng, giúp bạn biết được quy mô của eBook này cũng như theo dõi được tiến độ viết về sau và dễ dàng biên tập thêm – bớt chi tiết nếu muốn.
 
 Bố cục của một cuốn sách nói chung và eBook nói riêng thường có 6 phần: bìa (2 trang), bìa lót, lời mở đầu/lời ngỏ/ thay lời tựa, mục lục, nội dung sách (chia thành nhiều chương/ phần), trang kết và lời cảm ơn. Trong đó, phần nội dung sách cần được lên dàn ý chi tiết nhất, còn lại là phần hình thức bạn có thể thực hiện sau ở bước biên tập. 
 
@@ -83,7 +83,7 @@ _Phần mục lục thể hiện ouline chính của cuốn sách_
 
 ## 3. Triển khai nội dung chi tiết và trình bày
 
-Đến công đoạn viết từng phần, tùy vào quy mô của cuốn sách, bạn có thể phân cho nhiều người viết sau đó biên tập và ghép lại hoàn thành. Ở đây, mình chỉ đề cập đến tình huống bạn chịu trách nhiệm tất cả các khâu. 
+Đến công đoạn viết từng phần, tùy vào quy mô của cuốn sách, bạn có thể phân cho nhiều người viết sau đó biên tập và ghép lại hoàn chỉnh. Ở đây, mình chỉ đề cập đến tình huống bạn chịu trách nhiệm tất cả các khâu. 
 
 ### 3.1 Kinh nghiệm viết nội dung eBook chi tiết 
 
@@ -97,13 +97,13 @@ Trong điều kiện lý tưởng, bạn có thể bắt tay vào viết từ đ
 
 + Sắp xếp công việc để viết liên tục, tránh trường hợp kéo dài thời gian viết vì nguy cơ bạn bỏ ngang rất cao đấy.
 
-### 3.2 Công cụ hỗ trợ trình bày EBook đẹp và chuyên nghiệp
+### 3.2 Công cụ hỗ trợ trình bày eBook đẹp và chuyên nghiệp
 
-Ở thời đại đòi hỏi tính visual cao của sản phẩm, cuốn eBook của bạn không chỉ cần nội dung hay mà còn cần trình bày đẹp và sinh động. Khách hàng/ người đọc sẽ bỏ qua cuốn eBook của bạn ngay nếu không có ấn tượng ban đầu tốt. Để xử lý công tác dàn trang, thêm hình minh họa và làm template cho eBook, bạn cần sử dụng một số công cụ hỗ trợ.
+Ở thời đại đòi hỏi tính visual cao của sản phẩm này, cuốn eBook của bạn không chỉ cần nội dung hay mà còn cần trình bày đẹp và sinh động. Khách hàng/ người đọc sẽ bỏ qua cuốn eBook của bạn ngay nếu không có ấn tượng ban đầu tốt. Để xử lý công tác dàn trang, thêm hình minh họa và làm template cho eBook, bạn cần sử dụng một số công cụ hỗ trợ.
 
-Nếu không thành thạo phần mềm photoshop hay AI, bạn có thể dùng các trang sau để trình bày eBook đẹp mắt hơn:
+Nếu không thành thạo phần mềm photoshop hay Ai, bạn có thể dùng các trang sau để trình bày eBook đẹp mắt hơn:
 
-**Canva**: Không chỉ cung cấp sẵn template để làm eBook Cover, Canva còn giúp bạn thiết kế mục lục, footer – header đẹp hơn. Bên cạnh đó, Canva có nhiều element theo nhiều chủ đề và style để bạn lựa chọn để lắp ghép và chỉnh sửa tùy ý. Nếu có điều kiện, bạn nên sử dụng tài khoản Pro để tha hồ thiết kế nhé!
+**Canva**: Không chỉ cung cấp sẵn template để làm eBook Cover, Canva còn giúp bạn thiết kế mục lục, footer – header đẹp hơn. Bên cạnh đó, Canva có nhiều element theo nhiều chủ đề và style để bạn lựa chọn lắp ghép và chỉnh sửa tùy ý. Nếu có điều kiện, bạn nên sử dụng tài khoản Pro để tha hồ thiết kế nhé!
 
 ![Dùng Canva thiết kế bìa sách](/images/ebook-cover-canva.PNG)
 _Dùng Canva thiết kế bìa sách_
@@ -129,13 +129,13 @@ _Soạn eBook trên Google Docs_
 
 - Bạn có thể sử dụng kết hợp nhiều công cụ để edit hình ảnh và bố cục file khoa học và thu hút nhất.
 
-- Hãy đa dạng hình thức thể hiện nội dung, thay vì chỉ toàn chữ, bạn có thể kết hợp với infographic, hình ảnh hay bảng biểu, …
+- Hãy đa dạng hình thức thể hiện nội dung. Thay vì chỉ toàn chữ, bạn có thể kết hợp với infographic, hình ảnh hay bảng biểu, …
 
 - Nếu có nhiều file PDF, bạn có thể ghép chúng lại với nhau thành 1 file bằng các công cụ online miễn phí như https://www.adobe.com/acrobat/online/merge-pdf.html hoặc chức năng Preview trên máy Mac.
 
 ## 4. Biên tập, đóng gói sản phẩm
 
-Sau khi hoàn thành hết tất cả chi tiết, đến công đoạn biên tập, gọt dũa nội dung. Nếu bạn là người thực hiện từ đầu đến cuối cuốn eBook, bạn cần nhờ người khác đọc lại và review các lỗi cũng như điểm chưa hợp lý. Bước này rất quan trọng, những lỗi nho nhỏ như chính tả, typo hay hình ảnh không cân đối sẽ kéo chất lượng sản phẩm đi xuống.
+Sau khi hoàn thành hết tất cả chi tiết, đến công đoạn biên tập, gọt giũa nội dung. Nếu bạn là người thực hiện từ đầu đến cuối cuốn eBook, bạn cần nhờ người khác đọc lại và review các lỗi cũng như điểm chưa hợp lý. Bước này rất quan trọng, những lỗi nho nhỏ như chính tả, typo hay hình ảnh không cân đối sẽ kéo chất lượng sản phẩm đi xuống.
 
 Khi đã hoàn tất, bạn cần xuất file eBook ở một số dạng file phổ biến như PDF, PRC, EPUB để khách hàng dễ đọc ở nhiều nền tảng và thiết bị số. 
 
@@ -150,4 +150,4 @@ Ví dụ: Một trung tâm Anh Ngữ dùng eBook bí quyết chinh phục TOEIC 
 
 Trên đây là bài chia sẻ về cách thực hiện eBook trong digital marketing một cách tổng quát và cơ bản. Tùy vào brief của cấp trên và khách hàng, bạn có thể tiến hành viết eBook phù hợp. Như bao format nội dung khác, khi bạn va chạm và thực hành càng nhiều, bạn sẽ có kinh nghiệm hơn, viết chắc tay hơn đấy.
 
-Đừng quên theo dõi series bài viết về nghề content marketing của mình tại vegiang.com nhé! 
+Đừng quên theo dõi series bài viết về [nghề content marketing](https://vegiang.com/tag/nghe-content) của mình tại vegiang.com nhé! 
