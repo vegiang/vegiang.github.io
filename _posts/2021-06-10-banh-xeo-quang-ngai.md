@@ -26,13 +26,21 @@ Bánh xèo Quảng Ngãi được đáng giá là ngon khi vỏ bánh mỏng ch�
 ![Bánh xèo giòn Quảng Ngãi](/images/banh-xeo-gion-mien-trung.jpg)
 _Bánh xèo loại giòn_
 
-### Món ăn dân dã nơi quê nhà
+### Kỉ niệm ngày bé với món bánh xèo
 
+Còn nhớ năm mình học lớp 2, mình có chơi thân với một cô bạn, hay sang nhà nội bạn ấy chơi. Năm đó ba bạn mua đất làm nhà mới ở riêng, cũng gần đấy. Thế là hôm tân gia bạn mời mình, mình hí hửng đi, chỉ đi bộ thôi mà mình thích lắm. Bữa tiệc đó nhà bạn đúc bánh xèo, mình nhớ không nhầm đó là lần đầu tiên mình ăn bánh xèo. Mẹ bạn ấy đúc, bánh được đem lên nóng hổi, mình không nhớ mình có ăn nhiều không, chỉ ấn tượng mãi dịp ăn ấy. Tối về mình kể cho mẹ mình nghe, là mình đi ăn tân gia, mình được ăn bánh xèo. Chắc mẹ cũng ngại nên chỉ vài ngày sau, mẹ cũng tổ chức đúc bánh xèo ở nhà, đặc biệt dặn mình nhớ mời bạn.
 
 ![Bánh xèo mềm Quảng Ngãi](/images/banh-xeo-quang-ngai.jpg)
 _Bánh xèo loại mềm không cho nghệ vào bột_
 
-Ngày nhỏ nhà mình hay tự đổ bánh xèo, lớn lên chút thì mình ra quán ăn. Sau này lớn vào Sài Gòn học đại học rồi làm việc, lần nào về quê mình cũng đi ăn bánh xèo. Ở Sài Gòn, mình cũng cố tìm vài quán bán đồ ăn Quảng Ngãi để đi ăn cho đỡ nhớ.
+Từ đấy nhà mình hay tự đổ bánh xèo, lớn lên chút thì mình ra quán ăn. Sau này lớn vào Sài Gòn học đại học rồi làm việc, lần nào về quê mình cũng đi ăn bánh xèo. Ở Sài Gòn, mình cũng cố tìm vài quán bán đồ ăn Quảng Ngãi để đi ăn cho đỡ nhớ.
+
+Ngày Sài Gòn phong tỏa vì dịch bệnh, chính quyền khu phố mình ở tặng cho dân gạo. Có đợt chị em mình nhận đúng loại gạo cứng. Loại gạo này nấu dù có nhiều nước cũng không mềm được, nấu cơm ăn không quen, nhưng lại là cực phẩm để xay bột đúc bánh xèo.
+
+Chỉ với cối xay sinh tố, chỉ em nhà mình quyết định xay bột đổ bánh xèo. Lần đầu còn lợm cợm, lần tiếp theo cải thiện tốt hơn và thành công mĩ mãn. Bánh xèo đúc được dường như ngon hơn bội phần. Bí quyết chính là ngâm gạo trước 12 tiếng, dùng nước nóng khi xay, xay và lọc trên rây tầm 3-4 lần và cho vào hộp để tủ lạnh qua ngày hôm sau mới đúc bánh. Bột nước xay xong phải được bảo quản tủ lạnh, nếu không sẽ bị chua.
+
+![Mình tự xay bột từ gạo để đổ bánh xèo](/images/banh-xeo-tai-sai-gon-dich-covid-2021.png)
+_Mình tự xay bột từ gạo để đổ bánh xèo [những ngày Sài Gòn phong tỏa vì Covid](https://vegiang.com/Covid-19-sai-gon-nhung-ngay-thang-khong-quen)_
 
 ## Nguyên liệu làm bánh xèo Quảng Ngãi
 
