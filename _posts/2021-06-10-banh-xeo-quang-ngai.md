@@ -4,13 +4,15 @@ title: Bánh xèo Quảng Ngãi thơm ngon cho ngày mưa gió
 image:  '/images/banh-xeo-quang-ngai-o-sai-gon.JPG'
 description: "Cùng tìm hiểu về món bánh xèo Quảng Ngãi với hương vị khác biệt. Nguyên liệu, cách làm bánh xèo cũng như địa chỉ bán bánh xèo Quảng Ngãi ngon."
 tags: quang-ngai-nho-thuong
-categories: kham-pha
+categories: kham-pha 
 permalink: banh-xeo-quang-ngai/
 featured: true
 ---
 _Nhắc đến món ngon Quảng Ngãi, không thể không nhắc đến bánh xèo. Thời tiết vào cuối năm ở miền Trung thường mưa lạnh. Thật tuyệt khi ở nhà cùng người thân quay quần, đổ bánh xèo và thưởng thức cùng rau, nước chấm đặc trưng_
 
-## Vài nét về món bánh xèo Quảng Ngãi gây thương nhớ 
+## Bánh xèo Quảng Ngãi gây thương nhớ 
+
+### Món bánh xèo Quảng Ngãi khác với bánh xèo miền Tây như thế nào?
 
 Miền Tây cũng có món bánh xèo, nhưng nó lại không giống với bánh xèo miền Trung từ nguyên liệu đến cách ăn và cả hương vị. Tùy vào gu của mỗi thực khách, riêng với mình, chắc vì từ nhỏ đã ăn bánh xèo ở quê nhà nên vị bánh xèo quê mình vẫn thích hơn.
 
@@ -24,10 +26,13 @@ Bánh xèo Quảng Ngãi được đáng giá là ngon khi vỏ bánh mỏng ch�
 ![Bánh xèo giòn Quảng Ngãi](/images/banh-xeo-gion-mien-trung.jpg)
 _Bánh xèo loại giòn_
 
+### Món ăn dân dã nơi quê nhà
+
+
 ![Bánh xèo mềm Quảng Ngãi](/images/banh-xeo-quang-ngai.jpg)
 _Bánh xèo loại mềm không cho nghệ vào bột_
 
-Ngày nhỏ còn ở quê, nhà mình hay tự đổ bánh xèo. Lớn lên chút thì mình ra quán ăn. Sau này lớn vào Sài Gòn học đại học rồi làm việc, lần nào về quê mình cũng đi ăn bánh xèo. Ở Sài Gòn, mình cũng cố tìm vài quán bán đồ ăn Quảng Ngãi để đi ăn cho đỡ nhớ.
+Ngày nhỏ nhà mình hay tự đổ bánh xèo, lớn lên chút thì mình ra quán ăn. Sau này lớn vào Sài Gòn học đại học rồi làm việc, lần nào về quê mình cũng đi ăn bánh xèo. Ở Sài Gòn, mình cũng cố tìm vài quán bán đồ ăn Quảng Ngãi để đi ăn cho đỡ nhớ.
 
 ## Nguyên liệu làm bánh xèo Quảng Ngãi
 
