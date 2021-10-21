@@ -20,7 +20,7 @@ _Đây là mẫu Portfolio của một Content Writer. Vị trí công việc m�
 
 **Instagram**: https://www.instagram.com/ve_giang/
 
-**Youtube**: https://www.youtube.com/channel/UCLkh6Fhs_qrsBe0n61e_DNQ
+**Youtube**: https://www.youtube.com/c/MoiSophie
 
 **Blog**: https://vegiang.com/
 
