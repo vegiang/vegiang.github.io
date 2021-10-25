@@ -8,13 +8,13 @@ categories: kham-pha
 permalink: sai-gon-duoi-tan-cay-xanh/
 featured: false
 ---
-_Những ngày Sài Gòn nắng nóng rát da được đi dưới hàng cây xanh mát mới dễ chịu làm sao. Mình yêu quý cây cổ thụ, mảng xanh ở thành phố này, như một cảnh đẹp, một di tích quý giá vậy._
+_Những ngày Sài Gòn nắng nóng rát da mà được đi dưới hàng cây xanh mát mới dễ chịu làm sao! Mình yêu quý cây cổ thụ, mảng xanh ở thành phố này, như một cảnh đẹp, một di tích quý giá._
 
-Có bao giờ đi đường bạn thắc mắc hàng cây cao lớn kia tên gì, bao nhiêu tuổi không, mình thì có. Số đông quan tâm đến mùa hoa kèn hồng, mùa hoa phượng vàng rực rỡ ở Sài Gòn, hiếm bạn trẻ biết đến câu chuyện của cây cổ thụ đất Sài Thành này.
+Có bao giờ đi đường bạn thắc mắc hàng cây cao lớn kia tên gì, bao nhiêu tuổi không? Mình thì có. Số đông chúng ta quan tâm đến mùa hoa kèn hồng, mùa hoa phượng vàng rực, hiếm bạn trẻ nào biết đến câu chuyện của cây cổ thụ đất Sài Thành này.
 
-Mình cũng thích hoa, sẽ để dành dịp đi ngắm chúng, nhưng có một thứ mình muốn ưu tiên lưu giữ lại. Đó chính là những hàng cây cổ thụ của Sài Gòn.
+Mình cũng thích hoa và sẽ để dành dịp nào đó đi ngắm chúng, nhưng có một thứ mình muốn ưu tiên lưu giữ lại hơn. Đó chính là những hàng cây cổ thụ của Sài Gòn.
 
-Sài Gòn nằm ở vùng cận nhiệt đới, nóng ẩm quanh năm. Từ thời tổng trấn thành Gia Định Lê Văn Duyệt cho đến khi thực dân Pháp đô hộ, nhiều loại cây bóng mát được trồng để giảm bớt cái nắng nóng. Trong đó phổ biến nhất phải kể đến cây xà cừ, cây sao đen, cây dầu, me và đặc biệt có những cây gỗ quý như cẩm lai, giáng hương, săng mã…
+Sài Gòn nằm ở vùng cận nhiệt đới và nóng ẩm quanh năm. Từ thời tổng trấn thành Gia Định Lê Văn Duyệt cho đến khi thực dân Pháp đô hộ, cây bóng mát đã được trồng để giảm bớt cái nắng nóng. Trong đó phổ biến nhất phải kể đến cây xà cừ, cây sao đen, cây dầu, me và đặc biệt có những cây gỗ quý như cẩm lai, giáng hương, săng mã…
 
 Được trồng từ những năm 1800, hàng cây trên đường phố như Phạm Ngọc Thạch, Pasteur, Nguyễn Đình Chiểu, Lê Duẩn, Trương Định, Huyền Trân Công Chúa, Nguyễn Bỉnh Khiêm và đường Tôn Đức Thắng – Ba Son (trước đây, giờ chỉ còn là hoài niệm) có tuổi đời lên đến trăm năm.
 
