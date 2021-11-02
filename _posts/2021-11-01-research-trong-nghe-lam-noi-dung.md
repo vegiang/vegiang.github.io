@@ -33,7 +33,7 @@ Nguyên tắc bạn cần tuân thủ: Đi từ khái niệm cơ bản đến qu
 
 Đối với content writer, công việc chính của bạn xoay quanh những format nội dung chỉnh chu, big content, do đó, khi bắt đầu viết bài cho sản phẩm nào đó, bạn buộc phải thực hiện research đúng theo Nguyên tắc trên. 
 
-Ví dụ: Khi bạn viết nội dung cho sản phẩm máy pha cà phê, bạn cần phải biết các khái niệm cơ bản như máy 1 vòi, 2 vòi, máy pha cà phê viên nén, máy pha cà phê cho quán khác gì với máy dùng trong gia đình, các hãng nổi tiếng, các loại cà phê nhân, loại cà phê trong menu, barista khác gì với bartender hay cửa hàng flagship là gì, hệ thống franchise là sao….
+Ví dụ: Khi bạn viết nội dung cho sản phẩm máy pha cà phê, bạn cần phải biết các khái niệm cơ bản như máy 1 group, 2 group, máy pha cà phê viên nén, máy pha cà phê cho quán khác gì với máy dùng trong gia đình, các hãng nổi tiếng, các loại cà phê nhân, loại cà phê trong menu, barista khác gì với bartender hay cửa hàng flagship là gì, hệ thống franchise là sao….
 
 ![Đọc nhiều tài liệu và highlight các khái niệm mới](/images/highlight-khai-niem-support-vitalsource.png)
 _Đọc thật nhiều tài liệu trước khi bắt đầu viết nội dung. Nguồn ảnh: support.vitalsource.com_
