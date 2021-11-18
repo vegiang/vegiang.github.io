@@ -50,7 +50,7 @@ _Đối với sinh viên mới ra trường hoặc quá trình làm việc full 
 Chỉ với 2 điểm này thôi, cũng giúp CV của ứng viên mới ra trường đỡ sơ sài và trông thu hút hơn.
 
 ![CV tìm việc](/images/CV-tim-viec.jpg)
-_Hãy trình bày CV thật ngắn gọn, đúng trọng tâm_
+_Hãy trình bày CV thật ngắn gọn, đúng trọng tâm. Nguồn ảnh: (*)__
 
 Tiện đây mình cũng khuyên các bạn đang theo học đại học/ cao đẳng. Hãy tận dụng tối đa thời gian đang đi học để trau dồi thật nhiều kiến thức, năng nổ tham gia các hoạt động liên quan đến lĩnh vực mình muốn làm việc sau này.
 
@@ -75,6 +75,7 @@ _4/ Nộp trực tiếp CV của mình trên Website công ty, doanh nghiệp c�
 Nếu bạn muốn mau chóng tìm được việc hay thực hiện đồng thời cả 4 cách trên nhé!
 
 ![Tìm việc làm](/images/tim-viec-lam.jpg)
+_Nguồn ảnh: (*)_
 
 Trước hàng loạt các mẫu tin tuyển dụng, bạn lựa chọn nơi apply như thế nào hay là nộp hết ? Ngoài cách thứ 4 – Khi bạn đã xác định rõ ràng nơi mong muốn làm việc, với 3 cách còn lại bạn cần có tiêu chí rõ ràng. Nhưng trước hết , theo mình, chính bản thân bạn cần xác định rõ các ý sau:
 
@@ -155,3 +156,5 @@ Và điều cuối cùng trong chủ đề này mình muốn nhắn nhủ bạn:
 Hãy đón đọc thêm những chia sẻ kinh nghiệm hữu ích khác trên vegiang.com nhé !
 
 (Sài Gòn, Ngày 20 tháng 12 năm 2019)
+
+*Photo/Ảnh: Hình ảnh này không thuộc bản quyền của mình và mình cũng không biết chính xác chủ sở hữu. Nếu đơn vị sở hữu không muốn mình sử dụng, vui lòng liên hệ với mình qua email: tranhuongvegiang@gmail.com, mình sẽ xóa hình ngay lập tức. Xin chân thành cảm ơn. (If any owner has an issue with any of this photo please get in contact (mail: tranhuongvegiang@gmail.com) and it will be deleted immediately.)
