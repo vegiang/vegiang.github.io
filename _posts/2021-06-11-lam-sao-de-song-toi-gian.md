@@ -38,6 +38,7 @@ Vậy mà với sự hỗ trợ đó, vì sao người ta không hạnh phúc h�
 Nhưng may mắn thay, bạn có thể lùi lại một chút và đi theo tốc độ của riêng mình. Bạn cần phải tách mình ra khỏi chuỗi thay đổi liên tục này và bắt đầu sống một cuộc sống chậm hơn và đơn giản hơn, giúp bạn thực sự sống và mãn nguyện hơn. Một cuộc sống đơn giản là nơi hạnh phúc thực sự tồn tại.
  
 ![Sống chậm lại hơn bằng cách tái chế vật liệu](/images/tai-che-vat-dung-priscilla-du-preez.jpg)
+_Tái chế vật dụng để trồng cây xanh. Nguồn ảnh: Priscilla Du Preez/Unsplash_
 
 ## Làm thế nào để tôi bắt đầu sống một cuộc sống đơn giản?
 
@@ -78,6 +79,7 @@ Sử dụng công nghệ để cuộc sống của bạn nhẹ nhàng và tiện
 Hãy xây dựng thói quen ghi nhớ việc cần làm hàng ngày của bạn, kích thích não bộ nhiều hơn và tránh sử dụng các thiết bị kỹ thuật cho những nhiệm vụ đơn giản nhất. Vì thật ra, não như một loại cơ bắp có thể được rèn luyện.
  
 ![Tập thiền định](/images/thien-dinh-ksenia-makagonova.jpg)
+_Tập thiền định là một cách để đầu óc thư thái thật sự. Nguồn ảnh: Ksenia Makagonova/Unsplash_
 
 ## Học cách nói không và đi chậm hơn
 
@@ -106,6 +108,7 @@ Hãy làm cho nơi ở, lịch làm việc và cuộc sống của bạn thông 
 Bạn cần học cách tối giản và loại bỏ những thứ vô dụng và thừa thải của mình, cũng như hiểu được thế nào là đủ từ nhu cầu tình cảm và vật chất.
  
 ![Nội thất đơn giản](/images/noi-that-don-gian-daniel-chen.jpg)
+_Không gian sống tối giản, giảm bớt năng lượng tiêu cực cho bạn. Nguồn ảnh: Daniel Chen/Unsplash_
 
 ## Đi dạo mỗi ngày và gần gũi thiên nhiên
 
@@ -114,6 +117,7 @@ Một cách khác để sống đơn giản, chậm rãi hơn là hòa mình và
 Rèn luyện thói quen đi bộ hoặc đạp xe đến nơi làm việc hoặc bất cứ nơi nào bạn cần đến. Bạn có thể để ô tô ở nhà và dùng phương tiên công cộng nhiều hơn.
  
 ![Đi bộ và hòa mình vào thiên nhiên](/images/di-dao-bo-giua-thien-nhien-juliane-liebermann.jpg)
+_Đi bộ và hòa mình vào thiên nhiên. Nguồn ảnh: Juliane Liebermann/Unsplash_
 
 ## Cảm thấy biết ơn những gì bạn đang có và đã có
 
