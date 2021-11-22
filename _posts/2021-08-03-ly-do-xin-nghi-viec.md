@@ -25,7 +25,7 @@ Một khi có ý định thôi công việc hiện tại, có lẽ điều băn 
 -	Lý do:  Sau một thời gian suy nghĩ nghiêm túc về mục tiêu nghề nghiệp, tôi nhận thấy mình không phù hợp với công việc hiện tại. Tôi cũng đã có định hướng phát triển mới cho mình. Đó là lý do tôi muốn xin nghỉ việc tại công ty.
 
 ![thay đổi công việc để tốt hơn cho sự nghiệp của bạn thân](/images/ban-giao-cong-viec-truoc-khi-nghi.jpg)
-_Thay đổi công việc để tốt hơn cho sự nghiệp của bản thân. Nguồn ảnh: ST_
+_Thay đổi công việc để tốt hơn cho sự nghiệp của bản thân. Nguồn ảnh*_
 
 **Nhận được cơ hội việc làm mới tốt hơn**: Thu nhập cao hơn, môi trường làm việc tốt hơn là những yếu tố khiến đa số chúng ta chọn rời đi để nhận công việc mới. Bạn cần thể hiện thái độ chân thành, đúng mực khi gửi đơn xin nghỉ việc. Ví dụ:
 
@@ -40,7 +40,7 @@ _Thay đổi công việc để tốt hơn cho sự nghiệp của bản thân. 
 **Vấn đề sức khỏe**: Bạn cần thời gian nhiều hơn quỹ ngày phép của mình để tập trung điều trị, tĩnh dưỡng hay trong kỳ thai sản thì việc xin nghỉ sẽ được đơn vị, công ty tạo điều kiện. Bạn chỉ cần trình bày lý do và báo trước cho quản lý sắp xếp nhân sự và công việc là được. 
 
 ![Việc cá nhân đối với quyết định nghỉ việc](/images/ly-do-nghi-viec-thu-tuc-nghi-viec.PNG)
-_Lý do nghỉ việc xuất phát từ việc cá nhân. Nguồn ảnh: ST_
+_Lý do nghỉ việc xuất phát từ việc cá nhân. Nguồn ảnh*_
 
 **Hoàn cảnh gia đình**: Công việc ở nhà khiến bạn không thể đáp ứng yêu cầu công việc của cty, bạn cũng không thể nói trước được khi nào mình có thể quay trở lại làm việc thì xin nghỉ là giải pháp được nhiều người lựa chọn. Ví dụ:
 
@@ -69,7 +69,7 @@ Báo cho sếp trước thể hiện sự tôn trọng dành cho người quản
 Tiếp theo bạn cần hỏi thông tin thủ tục xin nghỉ việc từ Nhân sự. Bộ phận hành chính nhân sự sẽ hướng dẫn cho bạn các bước tiếp theo như điền vào form nghỉ việc, mẫu đơn từ bàn giao công việc, công nợ, thiết bị máy móc công ty cấp. Bạn phải báo trước ngày làm việc cuối cùng của bạn ít nhất 1 tuần và lâu nhất khoảng 1 tháng, để công ty sắp xếp nhân sự.
 
 ![Nộp đơn xin nghỉ việc](/images/nop-don-nghi-viec-nhu-the-nao.jpeg)
-_Nộp đơn xin nghỉ việc cho bộ phận liên quan. Nguồn ảnh: ST_
+_Nộp đơn xin nghỉ việc cho bộ phận liên quan. Nguồn ảnh*_
 
 Các mẫu đơn từ nghỉ việc bạn chỉ cần hoàn thành trước ngày làm việc cuối là được. Phần tốn thời gian hơn đó chính là bàn giao công việc. Nếu vị trí của bạn càng cao, nhiều khi bạn phải training cho người mới. Tuy vậy, đây là thỏa thuận giữa bạn và công ty mà thôi, không phải bắt buộc.
 
@@ -88,7 +88,7 @@ Hãy dành quyền chủ động trong mọi tình huống! Đặc biệt trong 
 **Bạn không nhìn ra cơ hội thăng tiến**: Với những cá nhân tham vọng, họ sẽ không chôn chân ở một vị trí quá 3 năm. Sau từ 1 – 2 năm mà bạn không nhận được task mới, không mở rộng scope of work cũng như lương thưởng, nếu còn trẻ bạn cần xem xét chuyển việc được rồi đấy.
 
 ![Ngày làm việc cuối cùng tại công ty](/images/ngay-cuoi-cung-lam-viec-o-cty.jpg)
-_Hãy hoàn thành hết thủ tục trước khi nghỉ bạn nhé! Nguồn ảnh: ST_
+_Hãy hoàn thành hết thủ tục trước khi nghỉ bạn nhé! Nguồn ảnh*_
 
 **Bạn nhận thấy mình không học hỏi hay tiến bộ gì cả**: Kỹ năng tự đánh giá sẽ phát huy tốt khi bạn thấy được điều này sau một thời gian làm việc. Nếu cảm thấy mình đã cố hết sức để tự học, tự tìm tòi và chủ động hết mức trong công việc nhưng vẫn không cải thiện kỹ năng, mindset thì có lẽ đây không phải là môi trường làm việc tốt. Bên cạnh đó nếu quản lý và đồng nghiệp của bạn không được thân thiện khi làm việc cùng bạn thì việc học tập cũng sẽ không hiệu quả. 
 
@@ -97,7 +97,7 @@ _Hãy hoàn thành hết thủ tục trước khi nghỉ bạn nhé! Nguồn ả
 **Mệt mỏi, chán nản, sợ hãi**: Mình không khuyên các bạn hễ đi làm chỗ nào mà chán với mệt là nghỉ việc. Vì đơn giản, đi làm kiếm tiền chưa bao giờ dễ dàng, không phải lúc nào cũng vui vẻ. Tuy nhiên, nếu ở nơi làm việc mà bạn chưa từng vui vẻ, hào hứng mà chỉ toàn bị chèn ép, dọa nạt và trù dập thì hãy cân nhắc lại. Kiếm tiền cũng quan trọng, nhưng tiền kiếm mà không đủ để bạn đi bệnh viện thì không nên chút nào.    
 
 ![Chán nản với công việc](/images/met-moi-voi-cong-viec.jpg)
-_Mệt mỏi, chán nản kéo dài là dấu hiện cho thấy bạn không phù hợp với công việc đó. Nguồn ảnh: ST_
+_Mệt mỏi, chán nản kéo dài là dấu hiện cho thấy bạn không phù hợp với công việc đó. Nguồn ảnh*_
 
 ### 3.2 Khách quan – Đến từ công ty, người quản lý
 
@@ -143,7 +143,7 @@ Cái này tùy vào văn hóa mỗi nơi. Tuy nhiên, nếu thấy không thoả
 Bạn có thể trả lời thành thật nhưng đừng quá cụ thể. Nhà tuyển dụng tinh ý sẽ không đòi hỏi ứng viên phải kể nhiều. Tuy vậy, dù có không thích công ty cũ bạn không nên nói xấu, hạ thấp nơi bạn từng làm.
 
 ![Trả lời phỏng vấn tìm việc tiếp theo](/images/ly-do-nghi-viec-khi-phong-van.jpg)
-_Trả lời phỏng vấn về lý do thôi việc cho công việc gần đây nhất. Nguồn ảnh: ST_
+_Trả lời phỏng vấn về lý do thôi việc cho công việc gần đây nhất. Nguồn ảnh*_
 
 ### 4.5 Giấy tờ thủ tục sau khi nghỉ việc: 
 
@@ -166,17 +166,19 @@ Sau nhiều lần nhảy việc, đó là lần mình nhớ nhất. Vì mình, t
 - Giữ mối quan hệ tốt với đồng nghiệp ngay cả khi không làm cùng nhau. 
 
 ![Hãy giữ mối quan hệ tốt với đồng nghiệp cũ](/images/ly-do-nghi-viec-moi-truong-lam-viec-brooke-cagle-unsplash.jpg)
-_Hãy giữ mối quan hệ tốt với đồng nghiệp cũ. Nguồn ảnh: Brooke Cagle/Unsplash)_
+_Hãy giữ mối quan hệ tốt với đồng nghiệp cũ. Nguồn ảnh: Brooke Cagle/Unsplash_
 
 Bạn chán ghét sếp, công ty, bạn muốn quậy tưng bừng rồi nghỉ. Đừng nghĩ như vậy là ngầu. Khiến người khác ghét và mang tiếng trong ngành sẽ không có ích chút nào cho sự nghiệp của bạn. Rủi một ngày người bạn ghét trở thành khách hàng của bạn hoặc lại làm sếp của bạn thì sao. Vậy nên khi chia tay công ty, hãy giữ hòa khí tối đa.
 
 Đừng bịa lý do để nghỉ việc nếu như bạn không thể kiểm soát được nó. Chẳng hạn, bạn xin nghỉ việc để chữa bệnh, nhưng sau đó lại ứng tuyển cho một công ty khác. Nếu sếp cũ của bạn và sếp mới quen nhau thì sao nhỉ.
 
 ![Nghỉ việc chứ không phải trốn chạy, hãy hành xử thật chuyên nghiệp](/images/nghi-viec-tam-the-vui-ve-thoai-mai-nhat.jpg)
-_Nghỉ việc chứ không phải trốn chạy, hãy hành xử thật chuyên nghiệp. Nguồn ảnh: ST_
+_Nghỉ việc chứ không phải trốn chạy, hãy hành xử thật chuyên nghiệp. Nguồn ảnh*_
 
 Điều cuối cùng, hãy suy nghĩ thật kỹ trước khi quyết định nghỉ việc. Thời gian bắt đầu làm quen với môi trường mới, lúc nào bạn cũng thấy không thoải mái, chưa kể còn phải học thêm để bắt kịp nhịp làm việc cùng team. Nếu mới ra trường, bạn cần kiên nhẫn để học hỏi, đừng vội rời đi khi bạn chưa hiểu được môi trường làm việc ở đấy. Đến nơi làm việc mới, mình thường chủ động làm quen với anh chị em đồng nghiệp mới và không quên hỏi họ đã làm ở đây lâu chưa. Phải có lý do gì đó họ mới gắn bó với nơi này đến 4-5 năm đúng không nào.
 
 Thêm nữa, bạn cần ít nhất nhất 2 năm để thành thạo một kỹ năng nào đó. Khoảng 6 tháng đến 1 năm thì bạn chỉ ở mức biết và quen việc. Vậy nên hãy bình tĩnh nếu mới chân ướt chân ráo ra trường. Nhảy việc quá nhiều cũng ảnh hưởng nhiều khi bạn apply công việc mới.
 
 Bài chia sẻ về đề tài này cũng dài rồi, mình hy vọng các bạn trẻ có thể rút kinh nghiệm và ứng xử tốt (hơn mình ngày trước). Nếu có thắc mắc gì, bạn có hãy nhắn tin hoặc gửi mail cho mình nhé!
+
+*Photo/Ảnh: Hình ảnh này không thuộc bản quyền của mình và mình cũng không biết chính xác chủ sở hữu. Nếu đơn vị sở hữu không muốn mình sử dụng, vui lòng liên hệ với mình qua email: tranhuongvegiang@gmail.com, mình sẽ xóa hình ngay lập tức. Xin chân thành cảm ơn. (If any owner has an issue with any of this photo please get in contact (mail: tranhuongvegiang@gmail.com) and it will be deleted immediately.)
