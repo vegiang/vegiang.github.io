@@ -33,7 +33,7 @@ Bạn có biết, để tạo được thói quen, bạn phải thực hiện li
 Thói quen dậy sớm tập thể dục sẽ dần hình thành sau ít nhất 21 ngày liên tục, nhưng chỉ cần vài ngày ngủ nướng bạn sẽ nhanh chóng mất đi. Do đó, hãy nhìn về phía trước và xem lại quãng đường mình đi được. Nếu bỏ dỡ, dự định của bạn lập tức tan thành mây khói.
 
 ![Lên kế hoạch thực hiện dự định](/images/du-dinh-bo-ngo-estee-janssens-unsplash.jpg)
-_Hãy lên kế hoạch thật cụ thể và thực hiện từng bước một nhé!_
+_Hãy lên kế hoạch thật cụ thể và thực hiện từng bước một nhé!. Nguồn ảnh: Estee Janssens/Unsplash_
 
 ## Khi vấp phải khó khăn
 
