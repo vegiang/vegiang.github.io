@@ -17,14 +17,14 @@ _Chưa có chủ đề nào trên blog này làm mình đắn đo nhiều như �
 Don là loài nhuyễn thể nước ngọt. Ở Quảng Ngãi, don có nhiều nhất ở sông Trà và sông Vệ. Nhiều người lầm tưởng nó với loài hến, nhưng don có đặc trưng riêng. Nếu bạn đã từng biết đến món cơm hến, hến xào ở những vùng khác, bạn sẽ dễ hình dung về con don hơn. 
 
 ![Con don](/images/don-Quang-Ngai.jpg)
-_Con don sau khi được chà rửa sạch cát_
+_Con don sau khi được chà rửa sạch cát. Nguồn ảnh*_
 
 Don có kích thước chỉ bằng một nửa con hến mà thôi. Màu vỏ con don cũng sáng hơn con hến. Nước hến có hậu vị chan chát, trong khi nước don ngọt hơn. Thịt don cũng chắc và đậm vị hơn hến.
 
 Con don sống vùi trong tầng cát đáy sông, thức ăn của chúng là các loài thủy sinh. Bắt được chúng rất vất vả. Người dân phải vừa dò vừa cào lớp cát để tìm. Từ sau tết, thời tiết ít mưa dần, sông cạn nước cũng là mùa don xuất hiện nhiều, nên dễ cào don hơn mùa mưa, nước sông đầy.
 
 ![Cào don Quảng Ngãi](/images/cao-don-tren-song-Ve-Quang-Ngai.jpg)
-_Người dân cào don trên sông Vệ_
+_Người dân cào don trên sông Vệ. Nguồn ảnh*_
 
 ## Món don được nấu như thế nào?
 
@@ -80,6 +80,7 @@ _Giờ đây bà con mình còn ăn don với trứng vịt lộn_
 Nhiều lần mình nghe những lời chê như nấu cá gì lạt nhách, chẳng ướp gì, sau bánh tráng nướng giòn vậy tự nhiên đi nhúng nước, món ăn gì chỉ có nước lèo với mấy cọng hành, bánh tráng vậy trời…
 
 ![Tô don Quảng Ngãi](/images/don-quang-ngai-tuong-ot.jpg)
+_Don ăn cùng bánh tráng, tương ớt, hành tây, hành lá. Nguồn ảnh*_
 
 Nếu bạn có cảm nhận như vậy thì cũng đúng, không có gì sai cả, chỉ là nó không phải là tất cả.
 
@@ -111,3 +112,5 @@ _Người ta đến ăn don vào cả buổi sáng, trưa, tối_
 _Trong lúc đợi don có thể ăn trứng vịt lộn, ram bắp_
 
 > Có thể bạn quan tâm: [Bánh xèo Quảng Ngãi thơm ngon cho ngày mưa gió](https://vegiang.com/banh-xeo-quang-ngai/)
+
+*Photo/Ảnh: Hình ảnh này không thuộc bản quyền của mình và mình cũng không biết chính xác chủ sở hữu. Nếu đơn vị sở hữu không muốn mình sử dụng, vui lòng liên hệ với mình qua email: tranhuongvegiang@gmail.com, mình sẽ xóa hình ngay lập tức. Xin chân thành cảm ơn. (If any owner has an issue with any of this photo please get in contact (mail: tranhuongvegiang@gmail.com) and it will be deleted immediately.)
