@@ -17,7 +17,7 @@ _Tình cờ xem được một vài tấm ảnh được chụp cách đây gầ
 Đầu thế kỷ trước, Catinat – Tự Do – Rue no 16 là những cái tên người Pháp và chính quyền Việt Nam Cộng Hòa đặt cho đường Đồng Khởi ngày nay. Nhiều tư liệu trong và ngoài nước đã cho thấy, con đường từ Bến Sông Sài Gòn đến Nhà Thờ Đức Bà được xem là nổi tiếng xa hoa nhất lúc bấy giờ.
 
 ![Đường Đồng Khởi-Tôn Đức Thắng thời Pháp](/images/Ton-duc-thang-dong-khoi.png)
-_Hình ảnh Ngã ba Đường Đồng Khởi – Tôn Đức Thắng của thế kỷ trước._
+_Hình ảnh Ngã ba Đường Đồng Khởi – Tôn Đức Thắng của thế kỷ trước. Nguồn ảnh: Nhan's Blog_
 
 ![Tôn Đức Thắng Đồng Khởi](/images/dau-duong-Ton-Duc-Thang-Dong-Khoi.JPG)
 _Ngã ba đầu đường Đồng Khởi ngày nay_
@@ -36,7 +36,7 @@ Căn nhà số 1 đường Đồng Khởi chính là Khách sạn Majestic ngày
 Đối diện khách sạn Majestic là quán cà phê Ru Nam. Vào những năm 1800, nó có tên gọi là Café de la Rotonde, địa điểm lui tới quen thuộc của giới Thượng lưu Sài Gòn lúc bấy giờ. Đây cũng là quán cà phê có view đẹp nhất khi hướng ra Sông Sài Gòn lộng gió.
 
 ![Số 2 đường Đồng Khởi xưa](/images/cafe-de-la-rotonde.png)
-_Căn nhà số 2 Đồng Khởi, Café de la Rotonde ngày ấy_
+_Căn nhà số 2 Đồng Khởi, Café de la Rotonde ngày ấy.  Nguồn ảnh: Nhan's Blog_
 
 ![Tòa nhà số 2 đường Đồng Khởi](/images/Nha-so-2-duong-Dong-Khoi.JPG)
 _Và bây giờ_
@@ -85,7 +85,7 @@ Không may cho mình, khi ghé thăm nó đúng dịp có buổi biểu diễn l
 Cách đây trăm năm, nơi này có Nhà Hát, quán cà phê, khách sạn, hiệu thuốc, bánh mỳ kiểu Pháp và cả trạm xe điện. Luôn tấp nập xe cộ, người qua lại. Nhìn ảnh cũ mình thấy nơi này đã từng rất giống thị thành phương Tây.
 
 ![Quảng Trường Nhà Hát Xưa](/images/Cong-truong-lam-son-dong-khoi-xua.jpg)
-_Công Trường Lam Sơn thời Pháp thuộc_
+_Công Trường Lam Sơn thời Pháp thuộc.  Nguồn ảnh: Nhan's Blog_
 
 ![Quảng Trường Nhà hát lớn ngày nay](/images/Quang-Truong-Nha-Hat-Lon-Cong-Truong-Lam-Son.JPG)
 _Quảng trường Nhà hát Lớn ngày nay_ 
@@ -116,7 +116,7 @@ _Cổng Dinh Thượng Thơ xưa và bây giờ là sở Thông tin của thành
 Dinh Thự hơn 160 tuổi này là tòa nhà cổ thứ hai tại Sài Gòn. Đến nay nhìn chung tòa nhà vẫn giữ được kiến trúc Pháp tinh tế từ vòng cửa, cầu thang gỗ đến ô thông gió. Năm 2018 thì phải, dự án tháo gỡ tòa nhà cổ này vấp phải tranh cãi lớn từ cộng đồng.
 
 ![Kiến trúc dinh thượng thơ](/images/Dinh-Thuong-Tho.png)
-_Dinh Thượng Thư còn giữ nét kiến trúc Pháp đặc trưng. Ảnh:ST_
+_Dinh Thượng Thư còn giữ nét kiến trúc Pháp đặc trưng. Ảnh: Vnexpress_
 
 Nếu không bảo tồn, lại tháo gỡ xây mới Dinh Thượng Thơ thì người yêu Sài Gòn đau lòng ngang với việc chặt hàng cây cổ thụ trên đường Tôn Đức Thắng vậy. Ơn trời, dự án đó đã ngưng lại. Cá nhân mình chỉ mong chính quyền trả lại địa điểm ấy về đúng chức năng như một địa điểm tham quan, giáo dục văn hóa, thay vì làm tòa nhà công vụ như bây giờ.
 
@@ -131,7 +131,7 @@ Khi những quán cà phê, tiệm bánh mỳ, hiệu thuốc tây dần dần t
 Công trình này được xây dựng vào năm 1925, thuộc quyền sở hữu của người giàu nhất Sài Gòn lúc bấy giờ - Ông Hứa Bổn Hòa (Chú Hỏa). Khách sạn Majestic được thiết kế theo phong cách kiến trúc thời Phục Hưng đang thịnh hành. Sau khi hoàn thành, đây được xem là khách sạn sang trọng và xa hoa nhất thời điểm ấy.
 
 ![Khách sạn Majestic xưa](/images/khach-san-Majestic-xua.jpg)
-_Khách sạn Majestic những năm đầu_
+_Khách sạn Majestic những năm đầu.  Nguồn ảnh: Nhan's Blog_
 
 ![Khách sạn Majestic ngày nay](/images/khach-san-majestic-dong-khoi.JPG)
 _Khách sạn Majestic ngày nay_
@@ -148,7 +148,7 @@ Khách sạn Majestic ngày nay hướng ra sông Sài Gòn, đạt chuẩn 5 sa
 Năm 1928, Ông Henry Edouard de Lachevrotière – Tổng biên tạp chí Pháp La De Peach nổi tiếng vào những năm 1940 đã có được giấy phép xây dựng khách sạn Grand Hotel Saigon.
 
 ![Khách sạn Grand thời Pháp](/images/grand-hotel-sai-gon-dai-lu-quan.png)
-_Khách sạn được đặt tên Saigon Palace rồi Sài Gòn Lữ Quán_
+_Khách sạn được đặt tên Saigon Palace rồi Sài Gòn Lữ Quán.  Nguồn ảnh: Nhan's Blog_
 
 ![Khách sạn Grand ngày nay](/images/khach-san-Hotel-Grand-Sai-Gon-ngay-nay.JPG)
 _Và khách sạn Grand ngày nay_
@@ -163,7 +163,7 @@ Trải qua nhiều năm, nhiều thời kỳ, khách sạn này lần lượt đ
 Nằm cạnh Nhà Hát Lớn là khách sạn Continental. Năm 1878, thương gia người Pháp Pierre Cazeau đã khởi công xây dựng công trình này và hoàn thành trong hai năm sau đó.
 
 ![Khách sạn Continental xưa](/images/khach-san-continental-xua.jpg)
-_Khách sạn Continental xưa_
+_Khách sạn Continental xưa.  Nguồn ảnh: Nhan's Blog_
 
 ![Khách sạn Continental ngày nay](/images/khach-san-Continental-Dong-Khoi.JPG)
 _Hình ảnh khách sạn Continental hôm nay_
