@@ -15,7 +15,7 @@ _“Em nói em chưa đi chùa Thiên Ấn lần nào, nghe mà rớt nước m�
 Cách trung tâm thành phố Quảng Ngãi khoảng 3 km về phía Đông Bắc, Chùa Thiên Ấn hay còn được gọi là Sắc Tứ Thiên Ấn nằm trên đỉnh núi cùng tên cao khoảng 106m. Dáng núi hình thang cân, nằm bên dòng sông Trà, cái tên Thiên Ấn gắn với hình ảnh được người xưa gọi “Thiên Ấn Niêm Hà” - Ấn trời đóng trên dòng sông. 
 
 ![Núi Ấn Sông Trà](/images/nui-an-song-tra.png)
-_Núi Thiên Ấn bên dòng Sông Trà Khúc mùa nước cạn. Ảnh:ST_
+_Núi Thiên Ấn bên dòng Sông Trà Khúc mùa nước cạn. Ảnh: Vnexpress_
 
 Năm Tự Đức thứ 3, Núi Thiên Ấn được ghi vào điển tịch, hàng danh sơn. Thiên Ấn – Trà Giang được xem là biểu tượng của Quảng Ngãi, thắng cảnh thiêng liêng trong suốt chiều dài lịch sử.
 
@@ -36,7 +36,7 @@ _Hoặc có thể đi bộ theo lối này_
 Tết 2021, nhà mình ghé qua chùa, nhìn chung chùa đang được sửa sang cảnh quan, cây bị chặt đi nhiều, chắc cũng vì dư âm của trận bão hồi tháng 10/2020. Ngày xuân nên bà con đi chùa đông như trẩy hội, mình bất ngờ lắm, vì tưởng chùa sẽ yên tĩnh, âm u.
 
 ![Cổng chùa thiên ấn cũ](/images/cong-chua-thien-an-cu.jpg)
-_Cổng chùa Thiên Ấn ngày xưa_
+_Cổng chùa Thiên Ấn ngày xưa. Nguồn ảnh: Vnexpress_
 
 ![Cổng chùa thiên ấn xây mới](/images/cong-chua-Thien-An-Quang-Ngai-moi.JPG)
 _Và cổng chùa bây giờ_
@@ -59,7 +59,7 @@ _Cây đa cổ thụ, bên dưới có tượng Phật_
 Khu phía đông có vẻ mới trùng tu lại, được xây thêm tháp mới và cũng khác lạ so với cảnh trước đây.
 
 ![Bảo tháp Thiên Ấn cũ](/images/thap-chua-thien-an-Quang-Ngai-cu.jpg)
-_Bảo tháp phủ rêu phong trước đây_
+_Bảo tháp phủ rêu phong trước đây. Nguồn ảnh: Vnexpress_
 
 ![Khu Tháp mới của Thiên Ấn T](/images/bao-thap-chua-Thien-An-Quang-Ngai.JPG)
 _Và khu tháp được xây mới bây giờ_
@@ -104,7 +104,7 @@ Chùa Thiên Ấn không những được các tăng ni phật tử tôn xưng n
 Đầu tiên là tích Giếng Phật. Giếng trong chùa Chùa Thiên Ấn ngày nay vẫn giữ được những nét kiến trúc cổ kính.
 
 ![Giếng cổ trên núi thiên ấn](/images/gieng-co-chua-Thien-An-Quang-Ngai.jpg)
-_Giếng cổ ở chùa Thiên Ấn vẫn còn đến hôm nay. Ảnh: ST_
+_Giếng cổ ở chùa Thiên Ấn vẫn còn đến hôm nay. Nguồn ảnh: Vnexpress_
 
 “Tương truyền, do phật tử lên núi ngày càng đông, vị sư trụ trì đã nghĩ cách đào giếng. Nhà sư được báo mộng khi đào ở phía đông chùa sẽ gặp tảng đá bàn, dưới tảng đá này sẽ có nước. Nhưng việc cạy tảng đá rất khó khăn, lúc đó có một vị sự trẻ đến chùa nói sẽ giúp việc đào giếng. Khi mạch nước ngầm phun lên, vị sư già vục mặt, uống thỏa thích, bình tâm lại thì không thấy vì sư trẻ đâu cả. Về sau dân gian lưu truyền hai câu thơ: 
 
