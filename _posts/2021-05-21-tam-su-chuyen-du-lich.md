@@ -31,7 +31,7 @@ Nhóm khách này mong muốn được hiểu biết và khám phá nhiều đi�
 Du khách có mục đích đi du lịch này thường có thái độ hoà nhã thân thiện. Họ có cái nhìn cuộc sống dày dạng và thường tôn trọng sự khác biệt về văn hoá. Đơn cử như vị khách trải nghiệm homestay này:
 
 ![Khách du lịch tại Homestay của người bản địa](/images/luu-tru-tai-homestay.png)
-_Thay vì chê căn nhà của người dân tộc đơn sơ, không có tiện nghi hiện đại, du khách bày tỏ sự thích thú khi được sống như người địa phương. Ảnh: ST_
+_Thay vì chê căn nhà của người dân tộc đơn sơ, không có tiện nghi hiện đại, du khách bày tỏ sự thích thú khi được sống như người địa phương. Nguồn ảnh*_
 
 ### Nhóm 2: Nghỉ ngơi thư giãn
 
@@ -114,6 +114,7 @@ Lợi nhuận của dịch vụ du lịch thuần không nhiều vì cạnh tran
 Bạn có thể chọn chương trình tour No Shopping, nhưng hãy chấp nhận mức giá cao hơn nhé!
 
 ![Shopping khi đi du lịch](/images/shopping-jeremy-stenuit.jpg)
+_Nguồn ảnh: Jeremy Stenuit
 
 **Nên chọn đi du lịch tự túc hay mua tour**
 
@@ -132,6 +133,7 @@ Riêng bản thân mình, ngoài lựa chọn đi tour và tự túc, mình còn
 Ngoài những ngày đi tour (ăn trưa theo đoàn), bữa sáng và tối mình có thể ăn tùy thích, đi cà phê rong chơi tự do.
 
 ![Du lịch theo tour](/images/du-lich-theo-tou-elizeu-dias.jpg)
+_Nguồn ảnh: Elizeu Dias
 
 **Có phải đi tour sẽ được phục vụ tận răng từ A-Z?**
 
@@ -150,3 +152,5 @@ Mình đi chơi theo tour về thấy vui, có thêm bạn mới, add Facebook, 
 **Lời kết**
 
 Sơ sơ đại cương về chuyện đi du lịch mình nghĩ cũng tạm đủ. Qua chia sẻ này, hy vọng bạn sẽ có thông tin cũng như định hướng mục đích chuyến đi tốt nhất cũng như ứng xử phù hơp. Ngoài ra, bạn có thể tự lên kế hoạch đi chơi hay lựa chọn sản phẩm dịch vụ tương ứng. Cụ thể chuyện đi chơi mình sẽ tiếp tục viết thêm ở những bài sau nhé!
+
+*Photo/Ảnh: Hình ảnh này không thuộc bản quyền của mình và mình cũng không biết chính xác chủ sở hữu. Nếu đơn vị sở hữu không muốn mình sử dụng, vui lòng liên hệ với mình qua email: tranhuongvegiang@gmail.com, mình sẽ xóa hình ngay lập tức. Xin chân thành cảm ơn. (If any owner has an issue with any of this photo please get in contact (mail: tranhuongvegiang@gmail.com) and it will be deleted immediately.)
