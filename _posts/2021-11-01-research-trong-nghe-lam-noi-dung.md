@@ -21,26 +21,26 @@ Có nhiều bạn nhầm lẫn rằng thông tin có đầy trên Google, bạn 
 ![ Sai thông tin về ngành hàng](/images/sai-khai-niem-co-ban.PNG)
 _Bài viết về dịch vụ tư vấn mở quán cà phê, mà người viết không phân biệt nổi barista và bartender thì làm sao khách hàng tin tưởng được_
 
-Nội dung quảng cáo hay trước hết phải đúng. Để viết đúng bạn cần phải đọc nhiều và học nhiều. Trường lớp, các khóa học chỉ giúp bạn có kiến thức căn bản còn lại để đạt đến trình độ cao hơn trong nghề, bạn chủ động học tập.
+Nội dung quảng cáo hay trước hết phải đúng. Để viết đúng bạn cần phải đọc nhiều và học nhiều. Trường lớp, các khóa học chỉ giúp bạn có kiến thức căn bản còn lại để đạt đến trình độ cao hơn trong nghề, bạn nên chủ động học tập.
 
-Một content writer chỉ cần là chuyên gia trong 1 – 2 lĩnh vực cũng đủ để bạn tiến xa trong nghề rồi. Thời gian đầu mới vào nghề, bạn có thể viết nhiều lĩnh vực, format nội dung, nhưng khi đã có kinh nghiệm, đa số người làm nội dung quảng cáo đều chỉ tập trung vào một số dạng nội dung cũng như lĩnh vực thế mạnh của mình mà thôi.
+Một content writer chỉ cần là chuyên gia trong 1 – 2 lĩnh vực cũng đủ để bạn tiến xa trong nghề rồi. Thời gian đầu mới vào nghề, bạn có thể viết nhiều lĩnh vực và format nội dung, nhưng khi đã có kinh nghiệm, đa số người làm nội dung quảng cáo đều chỉ tập trung vào một số dạng nội dung cũng như lĩnh vực thế mạnh của mình mà thôi.
 
 ## Cách thức để research đạt hiệu quả cao cho người làm nội dung quảng cáo
 
 Trong  khuôn khổ bài viết này, mình sẽ gợi ý cho bạn – người mới vào nghề content writer và copywriter một số cách để research trước khi viết nội dung.
 
-Nguyên tắc bạn cần tuân thủ: Đi từ khái niệm cơ bản đến quá trình phát triển, mở rộng vấn đề và cập nhật trạng thái mới nhất.
+**Nguyên tắc bạn cần tuân thủ: Đi từ khái niệm cơ bản đến quá trình phát triển, mở rộng vấn đề và cập nhật trạng thái mới nhất.
 
 Đối với content writer, công việc chính của bạn xoay quanh những format nội dung chỉnh chu, big content, do đó, khi bắt đầu viết bài cho sản phẩm nào đó, bạn buộc phải thực hiện research đúng theo Nguyên tắc trên. 
 
-Ví dụ: Khi bạn viết nội dung cho sản phẩm máy pha cà phê, bạn cần phải biết các khái niệm cơ bản như máy 1 group, 2 group, máy pha cà phê viên nén, máy pha cà phê cho quán khác gì với máy dùng trong gia đình, các hãng nổi tiếng, các loại cà phê nhân, loại cà phê trong menu, barista khác gì với bartender hay cửa hàng flagship là gì, hệ thống franchise là sao….
++ Ví dụ: Khi bạn viết nội dung cho sản phẩm máy pha cà phê, bạn cần phải biết các khái niệm cơ bản như máy 1 group, 2 group, máy pha cà phê viên nén, máy pha cà phê cho quán khác gì với máy dùng trong gia đình, các hãng nổi tiếng, các loại cà phê nhân, loại cà phê trong menu, barista khác gì với bartender hay cửa hàng flagship là gì, hệ thống franchise là sao….
 
 ![Đọc nhiều tài liệu và highlight các khái niệm mới](/images/highlight-khai-niem-support-vitalsource.png)
-_Đọc thật nhiều tài liệu trước khi bắt đầu viết nội dung. Nguồn ảnh: support.vitalsource.com_
+_Đọc thật nhiều tài liệu và take note các nội dung quan trọng trước khi bắt đầu viết nội dung. Nguồn ảnh: support.vitalsource.com_
 
 Chỉ cần sau một thời gian tìm hiểu, bạn đọc bất kỳ một bài viết nào về ngành hàng FnB bạn đều hiểu, mà không cần tra cứu khái niệm thì bạn có tiến bộ rồi đấy.
 
-Do đó, **bước đầu tiên để nghiên cứu đó chính là search một số bài viết về ngành  highlight những khái niệm chưa hiểu  research để hiểu, note lại nếu cần  Quay lại đọc tài liệu một lần nữa sau khi đã nắm rõ khái niệm.**
+Do đó, **bước đầu tiên để nghiên cứu đó chính là search một số bài viết về ngành --> highlight những khái niệm chưa hiểu --> research để hiểu, note lại nếu cần --> Quay lại đọc tài liệu một lần nữa sau khi đã nắm rõ khái niệm.**
 
 Bước tiếp theo, bạn cần mở rộng phạm vi nghiên cứu để tìm hiểu rộng hơn về ngành hàng. Cũng từ ví dụ viết bài bán máy pha cà phê, các khai niệm về nguyên liệu, thành phẩm pha được và cửa hàng, quán cà phê chính là nội dung liên quan mà bạn cần phát triển đến đáp ứng trọn vẹn nhu cầu người đọc.
 
@@ -69,15 +69,15 @@ _Các bài viết content SEO đòi hỏi chỉnh chu về hình thức và già
 
 **Search nguyên keyword nhưng không ra kết quả hoặc kết quả không đáp ứng đúng thông tin thì làm sao?**
 
-_Thay đổi keyword_. Bạn dùng từ đồng nghĩa hay chia nhỏ angle xung quanh từ khóa đấy hoặc dùng tiếng Anh chẳng hạn. Theo kinh nghiệm của mình, có những keyword bạn search tiếng Việt có rất ít thông tin. Lý do có thể volume không cao nên người ta không đầu tư viết bài. Nếu bạn chuyển qua tiếng Anh bạn sẽ thu được nhiều thông tin từ nhiều nguồn. Công việc của bạn lúc này là chắc lọc lại thông tin mình cần và viết lại theo cách bạn hiểu là được.
+_Thay đổi keyword_. Bạn dùng từ đồng nghĩa hay chia nhỏ angle xung quanh từ khóa đấy hoặc dùng tiếng Anh chẳng hạn. Theo kinh nghiệm của mình, có những keyword bạn search tiếng Việt có rất ít thông tin. Lý do có thể volume không cao nên người ta không đầu tư viết bài. Nếu bạn chuyển qua tiếng Anh bạn sẽ thu được nhiều thông tin từ nhiều nguồn. Công việc của bạn lúc này là chắt lọc lại thông tin mình cần và viết lại theo cách bạn hiểu là được.
 
 **Muốn bài viết unique và nổi trội thì phải làm thế nào?**
 
-Nếu chỉ viết lại những hay thông tin có sẵn trên trang 1 kết quả tìm kiếm, bài viết của bạn sẽ không thể cạnh tranh nổi. Muốn bài của mình nổi bật hơn, bạn không chỉ học hỏi từ những bài trên top mà còn phải cập nhật thêm thông tin mới, hữu ích cho bài của mình.
+Nếu chỉ viết lại những thông tin có sẵn trên trang 1 kết quả tìm kiếm thì bài viết của bạn sẽ không thể cạnh tranh nổi. Muốn bài của mình nổi bật hơn, bạn không chỉ học hỏi từ những bài trên top mà còn phải cập nhật thêm thông tin mới, hữu ích cho bài của mình.
 
-Muốn làm được điều này, ở bước 3, bước 4 bạn cần tra cứu thêm trên các diễn đàn, hội nhóm. Không chỉ tìm keyword được giao mà bạn còn search mở rộng keyword đó thêm (gọi là keyword phụ) để làm giàu thêm thông tin cho từ heading.
+Muốn làm được điều này, ở bước 3, bước 4 bạn cần tra cứu thêm trên các diễn đàn, hội nhóm. Không chỉ tìm keyword được giao mà bạn còn search mở rộng keyword đó thêm (gọi là keyword phụ) để làm giàu thêm thông tin cho từng heading.
 
-Ví dụ: keyword “chiến lược kinh doanh quán café” sau khi search bạn chọn các angle: sản phẩm, không gian, dịch vụ, quản lý và các quy tắc. Mỗi angle bạn search thêm để tìm và chọn lọc lại thông tin. Ví dụ như “menu nước uống cho quán café như thế nào để kinh doanh hiệu quả?”
++ Ví dụ: keyword “chiến lược kinh doanh quán café”. Sau khi search bạn chọn các angle: sản phẩm, không gian, dịch vụ, quản lý và các quy tắc. Mỗi angle bạn search thêm để tìm và chọn lọc lại thông tin. Ví dụ như “menu nước uống cho quán café như thế nào để kinh doanh hiệu quả?”
 
 ![Tham khảo từ kết quả tìm kiếm trên Google](/images/tham-khao-ket-qua-tim-kiem.PNG)
 _Tham khảo từ kết quả tìm kiếm trên Google_
@@ -111,15 +111,15 @@ Có một quan niệm rằng làm content cho social không cần phải đọc 
 ![Để biết xem mọi người đang quan tâm đến gì, đừng quên Google Trends](/images/google-trend.PNG)
 _Để biết xem mọi người đang quan tâm đến gì, đừng quên Google Trends_
 
-Không phải làm social cho sản phẩm nào cũng bắt trend. Mình rất mong các bạn làm nghề hiểu được điều này. Lồng ghép câu nói hay meme đang là trend chỉ phát huy tác dụng khi người xem cũng hiểu và biết đến nó, còn không nó sẽ là thảm họa. Một nhà hàng cao cấp, một brand thực phẩm chức năng ngoại nhập hay máy lọc nước khử độc thì đối tượng khách hàng của bạn không thể biết được những câu trending từ chương trình Rap Việt được.
+Không phải làm social cho sản phẩm nào cũng bắt trend. Mình rất mong các bạn làm nghề hiểu được điều này. Lồng ghép câu nói hay meme đang là trend chỉ phát huy tác dụng khi người xem cũng hiểu và biết đến nó, còn không nó sẽ là thảm họa. Một nhà hàng cao cấp, một brand thực phẩm chức năng ngoại nhập hay máy lọc nước khử độc thì đối tượng khách hàng của bạn không thể biết được những câu trending từ chương trình Rap Việt, chẳng hạn.
 
-**Vậy làm sao để research được cách thể hiện trên social hiểu quả?** 
+**Vậy làm sao để research ra cách thể hiện trên social hiểu quả?** 
 
 _Ở bài viết này mình chia sẻ cách nghiên cứu cho content trên nền tảng Facebook còn các trang mạng xã hội về video như Youtube, Tik Tok khi nào mình làm thành công, mình sẽ chia sẻ kinh nghiệm sau nhé!_
 
 Tất cả mạng xã hội hay ứng dụng di động bây giờ đều sử dụng công nghệ AI (Artificial intelligence – Trí tuệ nhân tạo) để phân loại và cá nhân hóa từng người dùng rồi đề xuất nội dung phù hợp với từng đối tượng đó. 
 
-Vậy nên bạn muốn biết đối tượng khách hàng mục tiêu của bạn muốn xem gì và đã xem những gì trên Facebook, **bạn cần setup lại tài khoản Facebook của bạn theo đặc điểm giới tính, tuổi, sở thích như khách hàng của bạn**. Ví dụ: Bạn đang xây kênh Fanpage, Group hay nick cá nhân cho thương hiệu mỹ phẩm cao cấp. Bạn cần set nick của bạn là nữ, tuổi 35 và like các trang mỹ phẩm, làm đẹp, mua sắm online, …
+Vậy nên bạn muốn biết đối tượng khách hàng mục tiêu của bạn muốn xem gì và đã xem những gì trên Facebook, **bạn cần setup lại tài khoản Facebook cá nhân của bạn theo đặc điểm giới tính, tuổi và sở thích như khách hàng của bạn**. Ví dụ: Bạn đang xây kênh Fanpage, Group hay nick cá nhân cho thương hiệu mỹ phẩm cao cấp. Bạn cần set nick của bạn là nữ, tuổi 35 và like các trang mỹ phẩm, làm đẹp, mua sắm online, …
 
 ![Đừng quên kho ý tưởng quảng cáo Pinterest](/images/tim-y-tuong-pinterest.PNG)
 _Đừng quên kho ý tưởng quảng cáo Pinterest_
@@ -128,14 +128,14 @@ Khi bạn càng tương tác với mẫu quảng cáo về mỹ phẩm, newfeed 
 
 Hãy tạo thói quen xem Library ads của Facebook Link: https://www.facebook.com/ads/library/
 
-Chỉ cần nhập từ khóa hay tên branding đối thủ là bạn có thể xem được các bài viết đang được chạy quảng cáo. Hãy tham khảo để có thể gợi ý cho nội dung ads của mình.
+Chỉ cần nhập từ khóa hay tên brand đối thủ là bạn có thể xem được các bài viết đang được chạy quảng cáo. Hãy tham khảo để có thể gợi ý tốt cho nội dung ads của mình.
 
 ![Hãy ghé thường xuyên hơn Library Ads của Facebook](/images/library-fb-ads.PNG)
 _Hãy ghé thường xuyên hơn Library Ads của Facebook_
 
 Và cuối cùng, hãy cố gắng tham gia các cộng đồng lớn về content social cũng như marketing về ngành hàng đó để học hỏi thêm kinh nghiệm.
 
-## Tham khảo, học hỏi hay sao chép
+## Tham khảo, học hỏi hay sao chép ?
 
 Nội dung về cách research mình đã chia sẻ hết ở trên, ở hai heading cuối này, mình dành để nói nhiều hơn về mindset làm nghề content marketing nói chung. Có thể “trường phái” white hat mình theo đuổi không “được lòng” các sếp, nhưng để có career path lâu dài, không ăn xổi thì bạn có thể tham khảo.
 
