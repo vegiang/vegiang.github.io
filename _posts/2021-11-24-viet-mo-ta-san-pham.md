@@ -31,7 +31,7 @@ Nếu sử dụng lối viết bay bổng hoa mỹ dùng nhiều từ đa nghĩa
 
 Nhiều bạn làm content SEO chỉ chú trọng các bài viết trong mục tin tức, blog còn trang sản phẩm và category thì đẩy cho SEOer và kỹ thuật. Trong khi thực tế, đây mới là những trang “hái ra tiền” chủ yếu. Nó được xem như một cửa hàng online, bạn cần chăm chút thật tốt để khách hàng vào sẽ ở lại lâu hơn và quyết định mua hàng dễ dàng hơn. 
 
-Dù số lượng chữ tương đối ít đi chăng nữa, bạn cần phải chèn thêm keyword chính vào, chèn thật tự nhiên, tránh lạm dụng. Bên cạnh đó, tiêu đề các thẻ heading, decription cũng cần được chú trọng tối ưu.
+Dù số lượng chữ tương đối ít đi chăng nữa, bạn cần phải chèn thêm keyword chính vào, chèn thật tự nhiên, tránh lạm dụng. Bên cạnh đó, tiêu đề các thẻ heading, description cũng cần được chú trọng tối ưu.
 
 ![Yếu tố SEO cũng được chú trọng ở trang sản phẩm trên website](/images/san-pham-cho-tot.PNG)
 _Yếu tố SEO cũng được chú trọng ở trang sản phẩm trên website_
@@ -40,11 +40,11 @@ _Yếu tố SEO cũng được chú trọng ở trang sản phẩm trên website
 
 ## Viết mô tả sản phẩm ở đâu? 
 
-Mình đã gặp không ít trường hợp các bạn biên tập bê nguyên content sản phẩm từ website lên các trang mạng xã hội như facebook, Intagram hoặc ngược lại copy content trên social rồi paste vào web. Việc làm này gây khó chịu cho người dùng và thể hiện sự không trau chuốt về mặt content trên môi trường số của thương hiệu. 
+Mình đã gặp không ít trường hợp các bạn biên tập bê nguyên content sản phẩm từ website lên các trang mạng xã hội như Facebook, Intagram hoặc ngược lại copy content trên social rồi paste vào web. Việc làm này gây khó chịu cho người dùng và thể hiện sự không trau chuốt về mặt content trên môi trường số của thương hiệu. 
 
 Do đó, cách làm tốt nhất chính là tùy vào từng nền tảng mà nội dung mô tả sản phẩm nên khác nhau về cách triển khai và vẫn tuân thủ content direction cho sản phẩm đó. 
 
-+ Nền tảng Facebook, Instagram, Zalo: Tâm thế của người dùng khi vào 3 kênh này chủ yếu để giải trí, trò chuyện, xem tin tức và một phần nho nhỏ là để mua hàng (chỉ với những shop quen của họ). Do đó, khi bạn muốn đưa sản phẩm lên những kênh này hãy chú ý đến hình ảnh (thật chỉnh chu và thẩm mỹ cao) và nôi dung chữ ngắn gọn, ấn tượng.
++ Nền tảng Facebook, Instagram, Zalo: Tâm thế của người dùng khi vào 3 kênh này chủ yếu để giải trí, trò chuyện, xem tin tức và một phần nho nhỏ là để mua hàng (chỉ với những shop quen của họ). Do đó, khi bạn muốn đưa sản phẩm lên những kênh này hãy chú ý đến hình ảnh (thật chỉnh chu và thẩm mỹ cao) và nội dung chữ ngắn gọn, ấn tượng.
 
 ![Bài viết trên Fanpage The Coffee House về Sản phẩm tung ra dịp Tết 2021](/images/san-pham-fb-the-coffee-house.PNG)
 _Bài viết trên Fanpage The Coffee House về Sản phẩm tung ra dịp Tết 2021_
@@ -52,30 +52,30 @@ _Bài viết trên Fanpage The Coffee House về Sản phẩm tung ra dịp Tế
 ![Bài viết trên Web và App The Coffee House về Sản phẩm tung ra dịp Tết 2021](/images/san-pham-website-the-coffee-house.PNG)
 _Còn đây là bài mô tả sản phẩm trên website và App_
 
-+ Nền tảng video như Youtube, Tik Tok: Chuyển nội dung sản phẩm thành dạng content vjdeo không hề đơn giản. Bạn không thể đưa sản phẩm lên và đọc hết tất cả đặc điểm công dụng của nó. Người xem ngày nay khó tính hơn nhiều và họ sẽ không cho nội dung của bạn có cơ hội play đến giây thứ 5 đâu. Vậy nên, thay vì nhồi nhét nội dung sản phẩm, bạn hãy dùng format review, trải nghiệm chân thực sẽ hiệu quả hơn nhiều.
++ Nền tảng video như Youtube, Tik Tok: Chuyển nội dung sản phẩm thành dạng content video không hề đơn giản. Bạn không thể đưa sản phẩm lên và chỉ đọc hết tất cả đặc điểm công dụng của nó. Người xem ngày nay khó tính hơn nhiều và họ sẽ không cho nội dung của bạn có cơ hội play đến giây thứ 5 đâu. Vậy nên, thay vì nhồi nhét nội dung sản phẩm, bạn hãy dùng format review, trải nghiệm chân thực sẽ hiệu quả hơn nhiều.
 
 ![Nội dung review, trải nghiệm sản phẩm được ưa chuộng trên nền tảng video](/images/danh-gia-san-pham-video.PNG)
 _Nội dung review, trải nghiệm sản phẩm được ưa chuộng trên nền tảng video_
 
-+ Website, các sàn thương mại điện tử: So với hai dạng nền tảng trên, website và sàn TMĐT mới là kênh bán hàng đích. Khách hàng đến đây mục đích chỉ xoay quanh chuyện mua hàng mà thôi. Có thể họ đang tham khảo giá hay xem thông tin và thậm chí chốt đơn thanh toán ngay. Vậy nên bạn hãy đầu tư cho content sản phẩm ở 2 kênh này nhé! Muốn tham khảo cách làm bạn chỉ cần search các brand đầu ngành rồi xem website cũng như kênh Shopee của họ là sẽ nhận ra ngay. 
++ Website, các sàn thương mại điện tử: So với hai dạng nền tảng trên, website và sàn TMĐT mới là kênh bán hàng đích. Khách hàng đến đây mục đích chỉ xoay quanh chuyện mua hàng mà thôi. Có thể họ đang tham khảo giá hay xem thông tin và thậm chí chốt đơn thanh toán ngay. Vậy nên bạn hãy đầu tư cho content sản phẩm ở 2 kênh này nhé! Muốn tham khảo cách làm, bạn chỉ cần search các brand đầu ngành rồi xem website cũng như kênh Shopee của họ là sẽ nhận ra ngay. 
 
 ## Từ thông tin kỹ thuật đến ngôn ngữ quảng cáo
 
 Ở phần trước mình đã đề cập đến nội dung thay đổi theo nền tảng, còn ở phần này mình muốn chia sẻ khía cạnh nội dung về sản phẩm cần phù hợp với người đọc/ khách hàng. Phù hợp ở đây chính là đủ thông tin khách hàng muốn biết và cách thức trình bày hợp lý.
 
-Về thông tin sản phẩm: Nguồn gốc/Nhà sản xuất, mẫu mã, hình ảnh thực tế, thông số kỹ thuật, thành phần, giá cả, cách thức thanh toán, giao hàng/ mua hàng – là những ý cơ bản cần có của nội dung mô tả. Tuy nhiên không phải lúc nào bạn cũng mang từng ấy thông tin đặt ở các nền tảng mà bạn chỉ cần 1 landing page có đầy đủ thông tin cho khách đặt mua hàng là được.
++ Về thông tin sản phẩm: Nguồn gốc/Nhà sản xuất, mẫu mã, hình ảnh thực tế, thông số kỹ thuật, thành phần, giá cả, cách thức thanh toán, giao hàng/ mua hàng – là những ý cơ bản cần có của nội dung mô tả. Tuy nhiên không phải lúc nào bạn cũng mang từng ấy thông tin đặt ở các nền tảng mà bạn chỉ cần 1 landing page có đầy đủ thông tin cho khách đặt mua hàng là được.
 
 ![Bài viết trên fanpage về sản phẩm mới ra mắt](/images/vjshop-san-pham-moi-fb.PNG)
 _Bài viết trên fanpage về sản phẩm mới ra mắt_
 
 ![Trang nội dung sản phẩm điện tử, máy móc hiện nay](/images/vjshop-san-pham-moi-web.PNG)
-_Trang nội dung sản phẩm điện tử, máy móc hiện nay_
+_Trang nội dung sản phẩm điện tử, máy móc hiện nay thường có bố cục như thế này_
 
 Khi triển khai nội dung này, bạn không cần liệt kê hết thông tin kỹ thuật (nếu mặt hàng là máy móc) mà chọn lọc những ý cơ bản, dễ hiểu mà khách hàng cần nhất. Ngoài bản tóm tắt thông số, bạn cần diễn giải vài điểm nổi bật nhất của sản phẩm – điều mà khách hàng đang mong đợi sản phẩm có thể giải quyết được vấn đề của họ. Đây mới chính là văn phong của quảng cáo tiếp thị. 
 
-Về cách thức trình bày: Ở đây mình chỉ nói về landing page- trang đích của sản phẩm. Hãy kết hợp cùng nhân sự chuyên về UX/UI để cho ra thành phẩm giao diện tốt nhất, vừa đủ thông tin, vừa thẩm mỹ, dễ nhìn. 
++ Về cách thức trình bày: Ở đây mình chỉ nói về landing page- trang đích của sản phẩm. Hãy kết hợp cùng nhân sự chuyên về UX/UI để cho ra thành phẩm giao diện tốt nhất, vừa đủ thông tin, vừa thẩm mỹ, dễ nhìn. 
 
-Cả hai yếu tố này bạn dễ dàng nhận ra ở những brand TMĐT lớn trên thị trường. Bên cạnh đó, để giữ chân khách hàng ở lại gian hàng lâu hơn, các trang landing page sử dụng không chỉ text, hình ảnh mà còn video, infographic, quiz nhanh, đánh giá…
+Cả hai yếu tố này bạn dễ dàng nhận ra ở những brand TMĐT lớn trên thị trường. Bên cạnh đó, để giữ chân khách hàng ở lại gian hàng lâu hơn, các trang landing page sử dụng không chỉ text, hình ảnh mà còn video, infographic, quiz/game, đánh giá…
 
 ![Ghé qua một gian hàng trên sàn TMĐT Shopee](/images/san-pham-tren-shopee.PNG)
 _Ghé qua một gian hàng trên sàn TMĐT Shopee bạn sẽ học được nhiều điều._
@@ -94,6 +94,6 @@ Khi mà truyền thông đa phương tiện phát triển như vũ bão hiện n
 ![Quảng cáo marketing sản phẩm giờ đây không chỉ dựa vào khuyến mãi, giảm giá](/images/khuyen-mai-san-pham-oleoshop.png)
 _Quảng cáo marketing sản phẩm giờ đây không chỉ dựa vào khuyến mãi, giảm giá. Nguồn ảnh: oleoshop_
 
-Và điều cuối cùng mình muốn chia sẻ trong chủ đề này chính là tính thống nhất. Nội dung mô tả sản phẩm cũng thuộc content direction cho toàn chiến dịch, đừng để nó bơ vơ, lạc quẻ. Dù sáng tạo, chỉnh chu, nội dung này cũng nên là một thể thống nhất, mang đậm dấu ấn thương hiệu bạn nhé!
+Và điều cuối cùng mình muốn chia sẻ trong chủ đề này chính là tính thống nhất. Nội dung mô tả sản phẩm cũng thuộc content direction cho toàn chiến dịch, đừng để nó bơ vơ, lạc quẻ. Dù sáng tạo hay chỉnh chu, nội dung này cũng nên là một thể thống nhất, mang đậm dấu ấn thương hiệu bạn nhé!
 
 > Xem thêm nhiều chia sẻ về nghề tại: [Nghề Content](https://vegiang.com/tag/nghe-content)
