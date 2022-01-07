@@ -94,6 +94,6 @@ Khi mà truyền thông đa phương tiện phát triển như vũ bão hiện n
 ![Quảng cáo marketing sản phẩm giờ đây không chỉ dựa vào khuyến mãi, giảm giá](/images/khuyen-mai-san-pham-oleoshop.png)
 _Quảng cáo marketing sản phẩm giờ đây không chỉ dựa vào khuyến mãi, giảm giá. Nguồn ảnh: oleoshop_
 
-Và điều cuối cùng mình muốn chia sẻ trong chủ đề này chính là tính thống nhất. Nội dung mô tả sản phẩm cũng thuộc content direction cho toàn chiến dịch, đừng để nó bơ vơ, lạc quẻ. Dù sáng tạo hay chỉnh chu, nội dung này cũng nên là một thể thống nhất, mang đậm dấu ấn thương hiệu bạn nhé!
+Và điều cuối cùng mình muốn chia sẻ trong chủ đề này chính là tính thống nhất. Hãy viết nội dung mô tả sản phẩm bám sát content direction của chiến dịch, đừng để nó bơ vơ, lạc quẻ. Dù sáng tạo hay chỉnh chu, nội dung này cũng nên là một thể thống nhất, mang đậm dấu ấn thương hiệu bạn nhé!
 
 > Xem thêm nhiều chia sẻ về nghề tại: [Nghề Content](https://vegiang.com/tag/nghe-content)
