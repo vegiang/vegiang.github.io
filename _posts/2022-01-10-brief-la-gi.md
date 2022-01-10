@@ -104,4 +104,4 @@ _Quá trình thực hiện theo brief cần linh hoạt và tương tác liên t
 
 6.	Hãy giữ tinh thần chủ động và trách nhiệm trong công việc dù là người nhận brief hay là người tạo brief rồi giao cho người khác thực hiện. 
 
-Với những chia sẻ trên đây của mình về brief, hy vọng content writer, copywriter mới vào nghề sẽ có thêm thông tin và định hướng tốt hơn khi làm việc. Đừng quên theo dõi series bài viết về nghề content trên blog của mình bạn nhé!
+Với những chia sẻ trên đây của mình về brief, hy vọng content writer, copywriter mới vào nghề sẽ có thêm thông tin và định hướng tốt hơn khi làm việc. Đừng quên theo dõi series bài viết về [nghề content](https://vegiang.com/tag/nghe-content) trên blog của mình bạn nhé!
