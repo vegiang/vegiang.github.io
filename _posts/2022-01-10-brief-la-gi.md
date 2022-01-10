@@ -8,11 +8,11 @@ tags: nghe-content
 categories: kinh-nghiem
 featured: false
 ---
-_Trước khi bắt tay vào thực hiện bất kỳ dự án marketing nào, thống nhất brief luôn là bước quan trọng nhất. Với content mới vào nghề, bạn cần tìm hiểu về brief cũng như cách thức làm việc hiệu quả với công cụ này._
+_Trước khi bắt tay vào thực hiện bất kỳ dự án marketing nào, thống nhất brief luôn là bước quan trọng nhất. Với content mới vào nghề, bạn cần tìm hiểu thật kỹ về brief cũng như cách thức làm việc hiệu quả với công cụ này._
 
 ## Khái niệm Brief trong lĩnh vực Marketing
 
-Brief trong digital marketing được hiểu là bản tóm tắt tất cả những yêu cầu về sản phẩm, dịch vụ quảng cáo, truyền thông. Brief chứa đầy đủ thông tin cần thiết để các bộ phận liên quan thực hiện sản phẩm theo đúng yêu cầu đặt hàng. Như David Ogilvy đã từng nói : “give me the freedom of a tight brief” để khẳng định một brief lý tưởng nhất chính là vừa chặt chẽ mà phải đủ khoảng trống cho người làm nội dung thỏa sức sáng tạo. 
+Brief trong Marketing được hiểu là bản tóm tắt tất cả những yêu cầu về sản phẩm, dịch vụ quảng cáo, truyền thông. Brief chứa đầy đủ thông tin cần thiết để các bộ phận liên quan thực hiện sản phẩm theo đúng yêu cầu đặt hàng. Như David Ogilvy đã từng nói : “give me the freedom of a tight brief” để khẳng định một brief lý tưởng nhất chính là vừa chặt chẽ mà phải đủ khoảng trống cho người làm nội dung thỏa sức sáng tạo. 
 
 Hiện tại, brief được trình bày dưới nhiều format như văn bản, lời nói, bảng biểu và powerpoint. Tùy vào mỗi công ty sẽ có quy ước brief khác nhau để quy trình làm việc hiệu quả hơn. Mình sẽ giới thiệu chi tiết hơn về brief được sử dụng như thế nào ở cả hai môi trường inhouse và agency.
 
@@ -50,9 +50,9 @@ _Mẫu brief dùng cho copywriter và designer team marketing inhouse_
 ![brief cho content writer/ copywriter](/images/content-writer-brief.PNG)
 _Tham khảo mẫu brief bài viết blog cho content writer._
 
-## Brief trong Agency quảng cáo tiếp thị (Outsource)
+## Brief trong Agency (Phòng marketing thuê ngoài / Outsource)
 
-Môi trường agency brief đóng vai trò vô cùng quan trọng, là “đầu câu chuyện” cho mọi chiến dịch, công việc nội bộ. Với đặc thù thực hiện cùng lúc nhiều chiến dịch cho nhiều nhãn hàng, công ty (được gọi là client), agency buộc phải có quy trình rõ ràng, nhịp nhàng và hiệu quả. Trong quy trình đó, brief đóng vai trò vô cùng quan trọng. Hãy thử tưởng tượng, bạn lên một chiến dịch quảng cáo cho khách hàng nhưng chưa thống nhất rõ ràng các tiêu chí đánh giá, nội dung hạn mục cũng như timeline thì làm sao bạn có thể thanh lý hợp động và quyết toán thuận lợi. Về lâu dài, bạn cũng không giữ chân được khách hàng và cũng khó lòng có chỗ đứng riêng trên thị trường.
+Trong môi trường agency, brief đóng vai trò vô cùng quan trọng, là “đầu câu chuyện” cho mọi chiến dịch, công việc nội bộ. Với đặc thù thực hiện cùng lúc nhiều chiến dịch cho nhiều nhãn hàng, công ty (được gọi là client), agency buộc phải có quy trình rõ ràng, nhịp nhàng và hiệu quả. Trong quy trình đó, brief ở vị trí trung tâm. Hãy thử tưởng tượng, bạn lên một chiến dịch quảng cáo cho khách hàng nhưng chưa thống nhất rõ ràng các tiêu chí đánh giá, nội dung hạng mục cũng như timeline thì làm sao bạn có thể thanh lý và quyết toán hợp đồng? Về lâu dài, bạn cũng không giữ chân được khách hàng và cũng khó lòng có chỗ đứng riêng trên thị trường.
 
 ![Ở Agency account và creative team briefing cùng nhau qua các cuộc họp](/images/annie-spratt-unsplash-agency.jpg)
 _Client và Agency briefing cùng nhau qua các cuộc họp. Nguồn ảnh: Annie Spratt Unsplash_
