@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cách viết kịch bản sự kiện livestream trên Facebook, Tik Tok, Youtube
-image: '/images/su-kien-livestream-ismael-paramo'
+image: '/images/su-kien-livestream-ismael-paramo.jpg'
 description: "Nếu sếp giao cho bạn nhiệm vụ làm content livestream, tổ chức sự kiện cho cty thì bạn sẽ làm thế nào? Trong bài viết này mình gửi đến bạn thông tin cơ bản nhất để bạn lên nội dung kịch bản livestream hiệu quả nhất"
 permalink: kich-ban-livestream-/
 tags: nghe-content
