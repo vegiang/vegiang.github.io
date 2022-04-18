@@ -8,7 +8,7 @@ tags: nghe-content
 categories: kinh-nghiem
 featured: false
 ---
-_Một chủ đề nữa trong series về Nghề Content mình muốn chia sẻ đó chính là Kịch bản event và livestream. Đây là phần công việc mà một copywriter được yêu cầu thực hiện khá thường xuyên. Nếu được giao nhiệm vụ này, nhưng chưa biết bắt đầu từ đâu, bạn hãy tham khảo bài viết này của mình nhé!_
+_Một chủ đề nữa trong series về [Nghề Content](https://vegiang.com/tag/nghe-content) mình muốn chia sẻ đó chính là Kịch bản event và livestream. Đây là phần công việc mà một copywriter được yêu cầu thực hiện khá thường xuyên. Nếu được giao nhiệm vụ này, nhưng chưa biết bắt đầu từ đâu, bạn hãy tham khảo bài viết này của mình nhé!_
 
 ## Vì sao phải tổ chức sự kiện livestream trên các nền tảng mạng xã hội
 
@@ -103,7 +103,9 @@ _Link https://www.facebook.com/GocCuaHang/videos/195349279150925_
 
 **Trải nghiệm dịch vụ**
 
-Với đặc thù của ngành dịch vụ, cách tốt nhất để tăng niềm tin của khách hàng đối với thương hiệu đó chính là cho khách hàng thấy kết quả và trải nghiệm thực tế của sản phẩm càng nhiều càng tốt. Trong khi những loại hình sản phẩm khác, khách hàng có thể nhìn ngắm, sờ nắn thậm chí có thể dùng thử rồi mới thanh toán, sản phẩm dịch vụ như tour du lịch lại đòi hỏi khách hàng trả tiền rồi mới nhận được dịch vụ. Vậy nên livestream trải nghiệm thật là một cách để khách hàng hình dung được những gì mình được tận hưởng và thúc đẩy khách mua dịch vụ đó trong thời gian ngắn.
+Với đặc thù của ngành dịch vụ, cách tốt nhất để tăng niềm tin của khách hàng đối với thương hiệu đó chính là cho khách hàng thấy kết quả và trải nghiệm thực tế của sản phẩm càng nhiều càng tốt. 
+
+Trong khi những loại hình sản phẩm khác, khách hàng có thể nhìn ngắm, sờ nắn thậm chí có thể dùng thử rồi mới thanh toán, sản phẩm dịch vụ như tour du lịch lại đòi hỏi khách hàng trả tiền rồi mới nhận được dịch vụ. Vậy nên livestream trải nghiệm thật là một cách để khách hàng hình dung được những gì mình được tận hưởng và thúc đẩy khách mua dịch vụ đó trong thời gian ngắn.
 
 ![Livestream dịch vụ thực tế](/images/livestream-viettourist.PNG)
 _Link https://www.facebook.com/viettourist.viettourist/live_videos_
@@ -115,9 +117,11 @@ _Link https://www.facebook.com/viettourist.viettourist/live_videos_
 ![Sự kiện thường niên của công ty](/images/livestream-vietravel.PNG)
 _Link https://www.facebook.com/vietravel/videos/248615123348734_
 
-Ngoài ra, bạn có thể kết hợp các format với nhau trong 1 buổi livestream để thu hút thêm người xem. Bên cạnh đó, khi người xem ngày càng “bội thực” với livestream bán hàng trực tiếp, bạn cần làm content lồng ghép thông tin sản phẩm khéo léo và tinh tế hơn.
+Ngoài ra, bạn có thể kết hợp các format với nhau trong 1 buổi livestream để thu hút thêm người xem. Bên cạnh đó, khi người xem ngày càng “bội thực” với livestream bán hàng trực tuyến, bạn cần làm content lồng ghép thông tin sản phẩm khéo léo và tinh tế hơn.
 
-Trong bài viết này mình không list ra từng phần hay công thức từng bước của kịch bản. Bởi vì livestream trên mạng xã hội nó rất đa dạng, bạn không thể làm rập khuôn, làm như vậy lâu dần sẽ không có người xem và không đạt hiệu quả, nhất là dạng livestream bán hàng. Nhìn chung, nội dung của livestream bán hàng cần dẫn dắt cảm xúc của khách hàng/ người xem. Do đó, bạn có thể lên plan từng phần sẽ thực hiện trong buổi livestream đó còn lại người host sẽ làm chủ buổi livestream đó cùng ekip thực hiện thực hiện như thế nào để đạt được mục tiêu.
+Trong bài viết này mình không list ra từng phần hay công thức từng bước của kịch bản. Bởi vì livestream trên mạng xã hội nó rất đa dạng, bạn không thể làm rập khuôn, làm như vậy lâu dần sẽ không có người xem và không đạt hiệu quả, nhất là dạng livestream bán hàng. 
+
+Nhìn chung, nội dung của livestream bán hàng phải dẫn dắt được cảm xúc của khách hàng/ người xem. Do đó, bạn có thể lên plan từng phần sẽ thực hiện trong buổi livestream đó còn lại người host sẽ làm chủ buổi livestream đó cùng ekip thực hiện ăn ý để đạt được mục tiêu.
 
 ## Làm sao để tổ chức được sự kiện hay một buổi livestream thành công
 
@@ -127,9 +131,11 @@ Người người nhà nhà livestream nên bạn nghĩ trên kênh bạn phụ 
 
 Đơn giản là đạt được mục đích livestream mà ekip dự định ban đầu. Live để sale off sản phẩm thì cần càng nhiều đơn hàng càng tốt. Live để giới thiệu sản phẩm hay sự kiện của công ty thì cần nhiều mắt xem. Live để tư vấn, trải nghiệm thì cần comment, tương tác và câu hỏi của người xem.
 
-**Tổ chức sự kiện và livestream không thể thực hiện chỉ với 1 nhân sự**
+**Một mình có tổ chức được sự kiện và livestream hay không**
 
-Bạn làm content và bạn không thể gánh hết tất cả công việc của hạng mục này được. Nếu bạn dám nhận, dám làm thì hiệu quả không cao, điều này sẽ ảnh hưởng xấu đến hình ảnh thương hiệu. Do đó, để tổ chức livestream cần phải có kế hoạch cụ thể từ thời gian live, nhân sự đảm nhiệm các vị trí như kỹ thuật, nội dung, host, set up background, trả lời comment của người xem và chi phí thực hiện.
+Nếu bạn chỉ là nhân viên content thì bạn không thể gánh hết tất cả công việc của hạng mục này được. Nếu bạn dám nhận, dám làm thì hiệu quả không cao, điều này sẽ ảnh hưởng xấu đến hình ảnh thương hiệu. Do đó, để tổ chức livestream cần phải có kế hoạch cụ thể từ thời gian live, nhân sự đảm nhiệm các vị trí như kỹ thuật, nội dung, host, set up background, trả lời comment của người xem và chi phí thực hiện.
+
+Nếu bạn là chủ shop, shop của bạn quy mô rất nhỏ, bạn có thể một mình tự thực hiện livestream tâm sự hay bán hàng đều được.
 
 ![Tổ chức livestream](/images/set-up-livestream.jpg)
 _Tổ chức livestream cần có ekip làm việc ăn ý, nhịp nhàng. Nguồn ảnh: (*)_
@@ -147,6 +153,6 @@ _Livestream talk show tại phim trường. Nguồn ảnh: (*)_
 
 Vì đảm bảo lượng người xem lớn nên chi phí cũng không hề nhỏ. Nếu thương hiệu muốn tổ chức sự kiện quy mô lớn nên tham khảo cách làm này.
 
-Những chia sẻ trên của mình về nội dung livestream hy vọng sẽ giúp ích được các bạn content mới vào nghề giải quyết được task khó nhằn này. Ngoài ra, chuỗi bài viết về nghề content trên blog của mình còn có nhiều bài chia sẻ thực tế khác về nghề, bạn đừng bỏ lỡ nhé!
+Những chia sẻ trên của mình về nội dung livestream hy vọng sẽ giúp ích được các bạn content mới vào nghề giải quyết được task khó nhằn này. Ngoài ra, chuỗi bài viết về nghề content trên [blog](https://vegiang.com/) của mình còn có nhiều bài chia sẻ thực tế khác về nghề, bạn đừng bỏ lỡ nhé!
 
 (*): Photo/Ảnh: Hình ảnh này không thuộc bản quyền của mình và mình cũng không biết chính xác chủ sở hữu. Nếu đơn vị sở hữu không muốn mình sử dụng, vui lòng liên hệ với mình qua email: tranhuongvegiang@gmail.com, mình sẽ xóa hình ngay lập tức. Xin chân thành cảm ơn. (If any owner has an issue with any of this photo please get in contact (mail: tranhuongvegiang@gmail.com) and it will be deleted immediately.) 
