@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bí kíp lập kế hoạch nội dung - content marketing cho người mới
-image: '/images/lap-ke-hoach-noi-dung-avt-amy-hirschi'
+image: '/images/lap-ke-hoach-noi-dung-avt-amy-hirschi.jpg'
 description: "Bạn đã đọc hàng chục bài hướng dẫn lập kế hoạch nội dung mà vẫn chưa biết bắt đầu từ đâu, trình bày file thế nào để gửi cho sếp? Vậy thì bài viết này dành cho bạn"
 permalink: lap-ke-hoach-content-marketing/
 tags: nghe-content
