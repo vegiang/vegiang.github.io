@@ -192,7 +192,7 @@ Hiện có 6 kênh tiếp thị nội dung phổ biến, đó là Website, Sàn 
 ![Mỗi kênh bạn có thể trình bày kế hoạch nội dung theo một format riêng](/images/mau-trinh-bay-alwaysbeinnovating.png)
 _Mỗi kênh bạn có thể trình bày kế hoạch nội dung theo một format riêng. Nguồn: alwaysbeinnovating_
 
-Format content đa dạng từ blog, post, video, postcad, bài PR, [livestream](https://vegiang.com/kich-ban-livestream-su-kien/), landing page… Bạn nên cân đối mục đích để sử dụng phù hợp nhất. Chọn kênh đăng tải từng format nội dung cũng rất quan trọng. Ví dụ cùng một angle về tính năng của sản phẩm, nếu bạn đăng tải lên kênh của cty sẽ ít người tin nhưng nó được 1 KOLs hay 1 tờ báo lớn đăng tải sẽ mang lại hiệu quả truyền thông lớn hơn gấp ngàn lần.
+Format content đa dạng từ blog, post, video, podcast, bài PR, [livestream](https://vegiang.com/kich-ban-livestream-su-kien/), landing page… Bạn nên cân đối mục đích để sử dụng phù hợp nhất. Chọn kênh đăng tải từng format nội dung cũng rất quan trọng. Ví dụ cùng một angle về tính năng của sản phẩm, nếu bạn đăng tải lên kênh của cty sẽ ít người tin nhưng nó được 1 KOLs hay 1 tờ báo lớn đăng tải sẽ mang lại hiệu quả truyền thông lớn hơn gấp ngàn lần.
 
 ### 6. Đề xuất KPIs, cách đo lường, đánh giá và phân bố ngân sách
 
