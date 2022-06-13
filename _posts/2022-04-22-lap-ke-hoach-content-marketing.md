@@ -6,7 +6,7 @@ description: "Bạn đã đọc hàng chục bài hướng dẫn lập kế ho�
 permalink: lap-ke-hoach-content-marketing/
 tags: nghe-content
 categories: kinh-nghiem
-featured: true
+featured: false
 ---
 _Làm thế nào để lập kế hoạch nội dung? Bạn đã đọc hàng chục bài hướng dẫn rồi mà vẫn chưa biết bắt đầu từ đâu, trình bày file thế nào để gửi cho sếp? Vậy thì đọc tiếp bài này của mình đi, bạn sẽ không thất vọng đâu._
 
