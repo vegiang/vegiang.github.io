@@ -8,18 +8,18 @@ tags: nghe-content
 categories: kinh-nghiem
 featured: false
 ---
-_Để đảm nhiệm vị trí content marketing, bạn không thể không thành thạo làm nội dung cho các kênh social. Ở phạm vi bài viết này, mình muốn chia sẻ cách xây dựng social content cho doanh nghiệp vừa và nhỏ._
+_Để đảm nhận vị trí content marketing, bạn không thể không thành thạo làm nội dung cho các kênh social. Ở phạm vi bài viết này, mình muốn chia sẻ cách xây dựng social content cho doanh nghiệp vừa và nhỏ._
 
 ## Social Content một nhánh của nghề làm nội dung
 
 Đầu tiên bạn phải hiểu về các mạng xã hội phổ biến hiện nay. Chúng ta có Facebook (nội dung tổng hợp), Instagram (chia sẻ hình ảnh), Youtube (chia sẻ nội dung video), Tik Tok (chia sẻ nội dung video ngắn kèm nhạc), linkedin (chia sẻ việc làm, công việc), …
 
-Mỗi  nền tảng có một tệp “fan” riêng, quy định về nội dung cũng khác nhau. Nếu bạn thường dùng 1 content để đăng lên nhiều nền tảng thì bạn đã quá lạc hậu rồi đó. Những năm 2016 -2019 các doanh nghiệp thường chuộng phủ thương hiệu trên tất cả nền tảng. Từ năm 2019 đến nay, chọn lọc nền tảng mạng xã hội chủ đạo và đầu tư nội dung đúng mức mới là cách làm hiệu quả hơn cả.
+Mỗi  nền tảng có một tệp fan riêng, chính sách nội dung cũng khác nhau. Dùng một nội dung để đăng lên nhiều nền tảng, cách này đã quá lạc hậu rồi đó. Từ năm 2016 trở về trước, các doanh nghiệp ưa chuộng tăng độ phủ của thương hiệu trên tất cả nền tảng. Từ năm 2019 đến nay, chọn lọc nền tảng mạng xã hội chủ đạo và đầu tư nội dung đúng mức mới là cách làm hiệu quả hơn cả.
 
 ![Không chỉ Facebook, mạng xã hội hình ảnh và video đang lên ngôi](/images/mang-xa-hoi-arpad-czapp.jpg)
 _Nguồn ảnh: Arpad Czapp/Unplash_ 
 
-## Social Content làm những công việc gì
+## Social Content làm những công việc gì?
 
 Vị trí Social Content là người chịu trách nhiệm đưa nội dung, thông điệp tiếp thị của doanh nghiệp lên trên các nền tảng mạng xã hội. Họ thường là người sản xuất nội dung cũng như quản lý các kênh social. Công việc của một Social Content Excutive chủ yếu là:
 
@@ -35,7 +35,7 @@ Trong các đầu việc trên, mình sẽ nói cụ thể hơn hai đầu việ
 
 ## Làm thế nào để lập content calendar cho nội dung kênh social?
 
-Khi mới vào làm ở phòng marketing của bất kỳ công ty nào, mình đều hỏi mẫu content calendar hiện đang được áp dụng. Nếu công ty chưa có, mình sẽ tự dùng form mình có sẵn. Content Calendar là công cụ giúp content quản lý được lịch đăng bài và nội dung bài post. Thông thường kế hoạch content sẽ được thể hiện cụ thể qua content calendar, do đó, từ media master plan chuyển thành content calendar là một kỹ năng cần thiết của nhân viên content.
+Khi mới vào làm ở phòng marketing của bất kỳ công ty nào, mình đều hỏi mẫu content calendar hiện đang được áp dụng. Nếu công ty chưa có, mình sẽ tự dùng form mình có sẵn. Content Calendar là công cụ giúp content quản lý được lịch đăng bài và nội dung bài post. Thông thường kế hoạch content sẽ được thể hiện cụ thể qua content calendar. Do đó, từ media master plan chuyển thành content calendar là một kỹ năng cần thiết của nhân viên content.
 
 Content Calendar được lập theo tuần và tháng, một trang master cho cả tháng và 4 trang nhỏ, mỗi trang là 7 ngày trong tuần và được duyệt từ tuần trước đó theo kiểu gối đầu. Tùy vào nền tảng mạng xã hội mà chúng ta chia nội dung kênh thành 2-3 loại: daily post và campaign riêng hay key hook (Facebook, Instagram); key (label) chính – key (label) phụ - bắt trend (Tik Tok, Youtube).
 
@@ -64,7 +64,7 @@ Nội dung trong Calendar tập trung xoay quanh các hoạt động của thư�
 
 ## Cách xây dựng nội dung trên các kênh social
 
-Không có một công thức chung nào để áp dụng là có thể giúp bạn tạo được nội dung hiệu quả cho kênh social. Đặc điểm của social chính là thay đổi liên tục từ nội dung đến thuật toán. Một dạng nội dung có thể hiệu quả hôm nay nhưng hôm sau chưa chắc đã tối ưu. Do đó, ở phần này, mình sẽ giới thiệu trình tự sản xuất nội dung social, ở đây là Fanpage, Profile và Group Facebook. Tùy vào tình huống cụ thể, bạn có thể chủ động làm nội dung cho phù hợp.
+Không có một công thức chung nào để áp dụng là có thể giúp bạn tạo được nội dung hiệu quả ngay cho kênh social. Đặc điểm của social chính là thay đổi liên tục từ nội dung đến thuật toán. Một dạng nội dung có thể hiệu quả hôm nay nhưng hôm sau chưa chắc đã tối ưu. Do đó, ở phần này, mình sẽ giới thiệu trình tự sản xuất nội dung social, ở đây là Fanpage, Profile và Group Facebook. Tùy vào tình huống cụ thể, bạn có thể chủ động làm nội dung cho phù hợp.
 
 **1. Tìm angle thích hợp sau khi được duyệt pillar và calendar**
 
@@ -140,11 +140,11 @@ _Một fanpage đã có thương hiệu, sẵn tương tác cao_
 
 Sáng tạo nội dung social là công việc thu hút nhiều bạn trẻ hiện nay vì tính chất hiện đại, nhanh nhận được thành quả và cả “fame” nữa. Mình không phải chuyên social, cũng tự nhận nội dung mình sản xuất không phải trending hay viral. Song những fanpage mình chịu trách nhiệm đảm bảo lượng khách hàng tương tác, mua hàng hay cần tư vấn đạt yêu cầu. Từ những trải nghiệm cá nhân, mình có thêm vài lời khuyên cho các bạn mới vào nghề, để không phải mắc sai lầm như mình đã từng.
 
-**1. Social Content không phải lúc nào cũng phải bắt trend**
+**1. Social Content không phải lúc nào cũng cần bắt trend**
 
-Khách hàng/ Fan của thương hiệu là ai? Liệu bạn dùng những câu nói trending liệu họ có hiểu? 
+Khách hàng/ Fan của thương hiệu là ai? Bạn dùng những câu nói trending liệu họ có hiểu? 
 
-Hãy suy nghĩ thấu đáo trước khi làm nội dung, đừng vội thấy người người nhà nhà lên post “ăn theo” trend thì mình cũng phải làm như vậy. Nếu khách hàng của bạn U40 trở lên thì dùng những câu trong Rap Việt họ sẽ không hiểu. Do đó, những câu nói hay câu chuyện đang được bàn tán xôn xao ở một cộng đồng nào đó, bạn cần xem nó phù hợp với tone & mood của thương hiệu trước khi lên bài nhé!
+Hãy suy nghĩ thấu đáo trước khi làm nội dung, đừng vội thấy người người nhà nhà lên post ăn theo trend thì mình cũng phải làm như vậy. Nếu khách hàng của bạn U40 trở lên mà bạn dùng những câu trend trong Rap Việt họ sẽ không hiểu. Do đó, câu nói hay meme đang được dùng nhiều ở một cộng đồng nào đó, bạn cần xem nó có phù hợp với tone & mood của thương hiệu hay không trước khi lên bài nhé!
 
 **2. Nếu bạn là người thích ổn định, formal, có lẽ bạn sẽ khó khăn khi làm social**
 
@@ -152,11 +152,11 @@ Như đã nói ở trên, đặc điểm của nội dung social là luôn phả
 
 **3. Làm content social phải có cá tính riêng**
 
-Cá tính của bạn nếu may mắn hợp với brand thì quá tốt. Bạn thỏa mái sáng tạo, không quá “gồng” và nội dung sản xuất ra tự nhiên nhất. Tuy nhiên, để tiến xa hơn trên con đường làm copywriter và có nhiều trải nghiệm nghề nghiệp, bạn cần rèn luyện sử dụng cái “tôi” của mình. Cụ thể, bạn trẻ tuổi, nhưng nếu cần bạn vẫn có thể viết được nội dung cho các cô chú U50 đọc. Mình hay nói vui là “nhạc nào cũng nhảy được” là như vậy.
+Cá tính của bạn nếu may mắn hợp với brand thì quá tốt. Bạn thoải mái sáng tạo, không quá “gồng” và nội dung sản xuất ra tự nhiên nhất. Tuy nhiên, để tiến xa hơn trên con đường làm copywriter và có nhiều trải nghiệm nghề nghiệp, bạn cần rèn luyện sử dụng cái “tôi” của mình. Cụ thể, bạn trẻ tuổi, nhưng nếu cần bạn vẫn có thể viết được nội dung cho các cô chú U50 đọc. Mình hay nói vui là “nhạc nào cũng nhảy được” là như vậy.
 
 Cá tính cũng quan trọng, nhưng khách hàng mới là người nuôi sống doanh nghiệp. Khách hàng thích gì, cần gì, bạn hãy làm nội dung theo đó. Như vậy mới chính là sự chuyên nghiệp trong nghề content. 
 
->	Chia sẻ với các bạn 3 Fanpage doanh nghiệp làm nội dung social vừa đảm bảo yếu tố brand vừa đạt yêu cầu kinh doanh: 
+>	Chia sẻ với các bạn 3 Fanpage doanh nghiệp làm nội dung social vừa đảm bảo brand vừa đạt yêu cầu kinh doanh: 
 
 - Xéo Xọ: https://www.facebook.com/xeoxo
 
