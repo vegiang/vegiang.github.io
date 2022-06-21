@@ -60,7 +60,7 @@ Nội dung trong Calendar tập trung xoay quanh các hoạt động của thư�
 
 ![Content calendar mẫu 2](/images/content-calendar-mau-2.PNG)
 
-> Tham khảo link file chi tiết ở đây: https://bitly.com.vn/xo26tk
+> Tham khảo chi tiết: https://docs.google.com/spreadsheets/d/1Jt7ukYt4P4ftEjdxJuAtJ-HJMvRuQ1SJX-VjWR1SFbE/edit#gid=0
 
 ## Cách xây dựng nội dung trên các kênh social
 
