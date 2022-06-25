@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
 
-title: Vệ Giang's Blog
-description: Ghé thăm blog cá nhân Vegiang.com để có thêm nhiều thông tin, trải nghiệm sống chân thật nhất từ kinh nghiệm sống, làm việc, du lịch, giải trí
+title: Blog trải nghiệm của Giang - Ve Giang's Blog
+description: Trang blog này ghi lại kinh nghiệm hơn 6 năm làm content writer, chia sẻ nhiều câu chuyện du lịch khám phá, hành trình tự học và trải nghiệm sống của Giang.  
 logo: '/images/logo.jpg'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vegiang.com/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -15,7 +15,7 @@ author:
   image: '/images/15.jpg'
   avatar: '/images/01.jpg'
   # job: Designer
-  bio: Chào bạn! Mình là một Content Writer và đây là Blog của mình
+  bio: Mình là một Content Writer. Chào mừng bạn đến với blog của mình!
 
 
 #-------------------------------
