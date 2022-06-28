@@ -83,7 +83,7 @@ Hãy dành quyền chủ động trong mọi tình huống! Đặc biệt trong 
 
 ### 3.1 Chủ quan – xuất phát từ chính bạn:
 
-**Nhận thấy không phù hợp với định hướng công việc**: Khi đã xác định được [Career Path](https://vegiang.com/career-path-lo-trinh-nghe-content-marketing/) của bản thân, bạn sẽ nhận ra công việc hiện tại có thuộc lộ trình ấy hay không. Nếu không, bạn cần chuẩn bị cho sự thay đổi. Ví dụ: Bạn mong muốn đạt được vị trí Trưởng phòng nhân sự nhưng lại làm 2 năm ở vị trí admin, hành chính và chưa thực sự đảm nhận công việc nhân sự bài bản. Để vươn đến mục tiêu nghề nghiệp, bạn cần thay đổi chỗ làm và vị trí để đưa bạn về đúng lộ trình.
+**Nhận thấy không phù hợp với định hướng công việc**: Khi đã xác định được [Career Path của bản thân]((https://vegiang.com/career-path-lo-trinh-nghe-content-marketing/), bạn sẽ nhận ra công việc hiện tại có thuộc lộ trình ấy hay không. Nếu không, bạn cần chuẩn bị cho sự thay đổi. Ví dụ: Bạn mong muốn đạt được vị trí Trưởng phòng nhân sự nhưng lại làm 2 năm ở vị trí admin, hành chính và chưa thực sự đảm nhận công việc nhân sự bài bản. Để vươn đến mục tiêu nghề nghiệp, bạn cần thay đổi chỗ làm và vị trí để đưa bạn về đúng lộ trình.
 
 **Bạn không nhìn ra cơ hội thăng tiến**: Với những cá nhân tham vọng, họ sẽ không chôn chân ở một vị trí quá 3 năm. Sau từ 1 – 2 năm mà bạn không nhận được task mới, không mở rộng scope of work cũng như lương thưởng, nếu còn trẻ bạn cần xem xét chuyển việc được rồi đấy.
 
