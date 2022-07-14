@@ -110,3 +110,5 @@ Tùy vào từng tranh, bạn cần lên chiến lược trước khi tiến hà
 Hãy mua một bộ về thử thách bản thân thử đi các bạn, áp dụng những bí kíp mình đã chia sẻ ở bài này, phải nói nó “đã” lắm. Vừa rèn luyện tính kiên nhẫn, đầu óc sắp xếp, chiến lược và hơn hết là thú vui giải trí xa rời thiết bị công nghệ.
 
 Mình sẽ tiếp tục cập nhật chủ đề này nếu quá trình chơi tiếp có bí quyết gì hay hơn.
+
+> Có thể bạn thích chơi: [Cách xoay rubik 3x3x3 đơn giản nhất cho người mới bắt đầu](https://vegiang.com/cach-choi-rubik-3x3x3-don-gian-nhat/)
