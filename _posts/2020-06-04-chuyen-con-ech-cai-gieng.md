@@ -12,7 +12,11 @@ _Mỗi người nhìn chung đều như con ếch ở trong giếng …_
 
 _Quan trọng là cái giếng đó như thế nào và ếch có biết mình chỉ đang ở trong đó hay không mà thôi._ 
 
-## Hệ quy chiếu của cái giếng thời bé
+# Table of contents
+1. [Hệ quy chiếu của cái giếng thời bé](#Hệ quy chiếu của cái giếng thời bé)
+2. [Người lớn ở mãi trong 1 cá giếng liệu có an toàn?](#Người lớn ở mãi trong 1 cá giếng liệu có an toàn?)
+
+## Hệ quy chiếu của cái giếng thời bé <a name="Hệ quy chiếu của cái giếng thời bé"></a>
 
 Lúc bé, cuộc sống của bạn gói gọn trong gia đình và trường lớp. Mình cũng vậy, nỗi bận tâm lớn nhất là việc học, thành tích không tốt sẽ kéo mình vào nhiều thứ đau đầu hơn như bố mẹ khó chịu, trên lớp học mình dường như vô hình, không khí sẽ ngột ngạt vô cùng. Do đó, để tránh phiền phức mình lao đầu vào học. 
 
@@ -30,7 +34,7 @@ Môi trường trường học phổ thông nhìn chung là một cái giếng �
 
 Thỏa mãn khi làm ‘bá chủ” một cái giếng nào đó thực sự sẽ làm giới hạn bạn rất nhiều. Bởi ngoài cái giếng đó còn biết bao cái ao, hồ sông, biển bao la khác, mà bạn vô tình khước từ cơ hội vẫy vùng của chính mình.
 
-## Người lớn ở mãi trong 1 cá giếng liệu có an toàn?
+## Người lớn ở mãi trong 1 cá giếng liệu có an toàn? <a name="Người lớn ở mãi trong 1 cá giếng liệu có an toàn?"></a>
 
 Những đứa trẻ mang tư tưởng ‘cái giếng trường học’ khi lao vào thế giới việc làm, lao động tìm kiếm chỗ đứng trong xã hội, trong thời gian đầu không tránh khỏi bỡ ngỡ, lo sợ. Đa số họ muốn nhanh chóng tìm một cái giếng cố định, tranh đua để tìm kiếm cảm giác an toàn ở đấy. Cảm giác đó là gì?
 
