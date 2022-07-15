@@ -12,7 +12,7 @@ _Mỗi người nhìn chung đều như con ếch ở trong giếng …_
 
 _Quan trọng là cái giếng đó như thế nào và ếch có biết mình chỉ đang ở trong đó hay không mà thôi._ 
 
-# Table of contents
+# Mục lục
 1. [Hệ quy chiếu của cái giếng thời bé](#Hệ quy chiếu của cái giếng thời bé)
 2. [Người lớn ở mãi trong 1 cá giếng liệu có an toàn?](#Người lớn ở mãi trong 1 cá giếng liệu có an toàn?)
 
