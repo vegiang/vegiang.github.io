@@ -12,8 +12,6 @@ _Đây là mẫu Portfolio của một Content Writer. Vị trí công việc m�
 
 ## Trang cá nhân
 
-**Trần Hương Vệ Giang**
-
 **Mail**: tranhuongvegiang@gmail.com
 
 **Fanpage**: https://www.facebook.com/vegiangblog
