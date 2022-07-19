@@ -11,7 +11,15 @@ featured: false
 
 _Là cuốn sách bài tập ngữ pháp đầu tiên mình học, Les 500 Exercices de Grammaire phù hợp với người học muốn đạt trình độ A1. Bản thân mình rất thích cuốn sách này nên muốn chia sẻ để bạn nào mới bước đầu học tiếng Pháp có thêm tài liệu hay để tự học hiệu quả hơn._
 
-## Khám phá Les 500 Exercices de Grammaire có gì?
+# Mục lục
+1. [Khám phá Les 500 Exercices de Grammaire có gì?](#Khám phá Les 500 Exercices de Grammaire có gì?)
+2. [Phương pháp tự học ngữ pháp Tiếng Pháp cùng Les 500 Exercices de Grammaire](#Phương pháp tự học ngữ pháp Tiếng Pháp cùng Les 500 Exercices de Grammaire)
+    1. [Các điểm ngữ pháp trong Les 500 Exercices de Grammaire A1](#Các điểm ngữ pháp trong Les 500 Exercices de Grammaire A1)
+    2. [Quy trình học mỗi điểm ngữ pháp](#Quy trình học mỗi điểm ngữ pháp)
+    3. [Lưu ý](#Lưu ý)
+3. [Download sách Les 500 Exercices de Grammaire](#Download sách Les 500 Exercices de Grammaire)
+
+## Khám phá Les 500 Exercices de Grammaire có gì? <a name="Khám phá Les 500 Exercices de Grammaire có gì?"></a>
 
 Cuốn sách này được Hachette – Nhà xuất bản nổi tiếng với các dòng sách cho người nước ngoài học tiếng Pháp ( Francais Langue Etrangere) xuất bản, bạn có thể lưu ý để chọn mua tài liệu sau này nhé!
 
@@ -24,9 +32,8 @@ Nội dung chia thành 4 phần lớn là những chủ điểm ngữ pháp cơ 
 {:refdef: style="text-align: center;"}
 ![Mục tiêu học Ngữ Pháp Tiếng Pháp](/images/paris-cederic-vandenberghe.jpg)
 _Học ngữ pháp đúng cách ngay từ đầu giúp mình thêm hào hứng khi học Tiếng Pháp_
-{:refdef}
 
-## Phương pháp tự học ngữ pháp Tiếng Pháp cùng Les 500 Exercices de Grammaire
+## Phương pháp tự học ngữ pháp Tiếng Pháp cùng Les 500 Exercices de Grammaire <a name="Phương pháp tự học ngữ pháp Tiếng Pháp cùng Les 500 Exercices de Grammaire"></a>
 
 Để phát huy tối đa hiệu quả của cuốn sách, mình nghĩ bạn đừng bỏ qua chia sẻ này của mình. Đây là hướng dẫn của cô giáo mình kết hợp cùng trải nghiệm của bạn thân khi học cuốn Les 500 Exercices de Grammaire.
 
@@ -34,13 +41,11 @@ Thực sự, lúc mới học tiếng Pháp mình thấy khó đủ bề, đặc
 
 Không dài dòng thêm, mình đi vào chi tiết. Bạn có thể học nó dù trình độ tiếng Pháp có tệ đến thế nào, tin mình đi.
 
-### Các điểm ngữ pháp trong Les 500 Exercices de Grammaire A1
+### Các điểm ngữ pháp trong Les 500 Exercices de Grammaire A1 <a name="Các điểm ngữ pháp trong Les 500 Exercices de Grammaire A1"></a>
 
 Đầu tiên, trước khi học bạn cần xem qua phần SOMMAIRE tiếng Việt mình nôm na là mục lục.
 
-{:refdef: style="text-align: center;"}
 ![Phần Mục lục](/images/sommaire.JPG)
-{:refdef}
 
 Phần lớn nhất là partie + Tên điểm ngữ pháp, bạn không cần thiết phải dịch ra, làm quen điểm ngữ pháp bằng tiếng pháp ngay từ đầu sẽ có lợi cho bạn về sau. Tuy vậy, mình sẽ dịch ra cho bạn (dịch tiếng Việt của mình không chuẩn lắm, tham khảo thôi bạn nha), nếu có base ngôn ngữ khác bạn sẽ liên hệ, hiểu nhanh hơn. 
 
@@ -52,55 +57,43 @@ Phần lớn nhất là partie + Tên điểm ngữ pháp, bạn không cần th
 
 -	4 partie: Les différents types de phrases (các loại câu khác) gồm 2 chapitre: la phrase interrogative (câu nghi vấn), la phrase negative (câu phủ định).
 
-### Quy trình học mỗi điểm ngữ pháp
+### Quy trình học mỗi điểm ngữ pháp <a name="Quy trình học mỗi điểm ngữ pháp"></a>
 
 Trong mỗi partie sẽ có những chapitre nhỏ đi kèm. Mỗi chapitre gồm có phần Observez: được đóng khung, đây là phần lý thuyết được thể hiện dưới dạng ví dụ và các câu hỏi vrai/faux hay điền từ để bạn ôn lại.
 
-{:refdef: style="text-align: center;"}
 ![Mỗi chapitrre của sách bài tập ngữ pháp](/images/chapitre.JPG)
 _Đầu mỗi Chapitre sẽ có dạng như hình_
-{:refdef}
 
 Nếu đó là kiến thức mới, bạn hãy đến phần Précis grammatical (trang 173) để học và quay ngược lại phần này để ôn.
 
-{:refdef: style="text-align: center;"}
 ![Phần ôn lại ngữ pháp trong sách les 500](/images/precis-grammatical.JPG)
 _Một phần lý thuyết được trình bày ở mục Précis grammatical_
-{:refdef}
 
 Tiếp đến là phần “Entraînez – vous”: bài tập. Ở phần này, bạn sẽ làm các bài tập ngắn dưới dạng điền từ, nối, hoàn thành câu hay điền bảng,…
 
 Thông thường, kết thúc 1 – 2 chapitre sẽ có phần À vous. Đây cũng là bài tập, nhưng ở level cao hơn. Phần này đòi hỏi bạn áp dụng điểm ngữ pháp đó để diễn đạt (nói/ viết) trong một tình huống cụ thể. Bạn đừng bỏ qua bài tập này nhé, nó giúp bạn “học tới nơi tới chốn đó”.
 
-{:refdef: style="text-align: center;"}
 ![Phần bài tập À vous](/images/a-vous.JPG)
 _Phần À vous này yêu cầu bạn áp dụng điểm ngữ pháp vừa học để nói về sở thích cá nhân_
-{:refdef}
 
 Cuối mỗi partie sẽ có thêm phần Bilan. Bạn sẽ ôn tập toàn bộ các điểm ngữ pháp của các chapiter thuộc partie này.
 
-{:refdef: style="text-align: center;"}
 ![Phần ôn tập bilan](/images/bilan.JPG)
-{:refdef}
 
 Để biết mình làm đúng hay sai, bạn có thể lật cuối cuốn sách có phần Corrigés ( đáp án) để kiểm tra.
 
-{:refdef: style="text-align: center;"}
 ![Phần đáp án](/images/phan-corriges-dap-an.JPG)
-{:refdef}
 
-**Lưu ý**:
+### Lưu ý <a name="Lưu ý"></a>
 
 Nếu mới học tiếng Pháp, những phần đầu bạn có thể tra từ điển để hiểu yêu cầu bài tập, nhưng phải note lại. Bạn làm khoảng 2 -3 chapitre thì mình nghĩ bạn không cần phải tra từ điển nữa đâu.
 
 Bạn nên làm lần lượt từ đầu đến cuối, đừng bỏ bài cũng đừng nhảy cóc. Và nhớ là làm hết nhé!
 
-{:refdef: style="text-align: center;"}
 ![Tóm tắt trình tự tự học](/images/quy-trinh-tu-hoc.png)
 _Tóm tắt quy trình tự học ngữ pháp với cuốn Les 500 exercices de grammaire A1_
-{:refdef}
 
-## Download sách Les 500 Exercices de Grammaire
+## Download sách Les 500 Exercices de Grammaire <a name="Download sách Les 500 Exercices de Grammaire"></a>
 
 Sau khi đọc hết nội dung bạn cảm thấy cuốn sách phù hợp với bản thân, hãy nhấn down về và ra ngay hiệu photocopy in ra đóng tập và học ngay bạn nhé! Nếu chưa tìm hiểu, thấy sách tiếng Pháp free là down về rồi cất đấy thì thôi bạn ạ, chỉ tốn dung lượng của máy mà thôi bạn ạ.
 
