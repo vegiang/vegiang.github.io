@@ -11,11 +11,18 @@ featured: true
 
 _“Thảm sát Mỹ Lai” không biết bạn có từng nghe đến hay chưa, nhưng với người Quảng Ngãi đây có lẽ là một phần lịch sử đau thương nhất. Thăm khu chứng tích Sơn Mỹ, nơi xảy ra vụ thảm sát cách đây hơn 50 năm, lòng mình nặng trĩu cả khi viết những dòng chia sẻ này._
 
-## Tham quan khu Chứng tích Sơn Mỹ, những ngày đầu năm 2021
+# Mục lục
+1. [Tham quan khu Chứng tích Sơn Mỹ, những ngày đầu năm 2021](#Tham quan khu Chứng tích Sơn Mỹ, những ngày đầu năm 2021)
+2. [Điều gì đã xảy ra vào buổi sáng định mệnh ấy](#Điều gì đã xảy ra vào buổi sáng định mệnh ấy)
+3. [Tại sao quân đội Mỹ lại ra tay tàn bạo như vậy](#Tại sao quân đội Mỹ lại ra tay tàn bạo như vậy)
+4. [Thảm sát Mỹ Lai, sự thật được phơi bày và nỗi ám ảnh suốt nửa thế kỷ](#Thảm sát Mỹ Lai, sự thật được phơi bày và nỗi ám ảnh suốt nửa thế kỷ)
+5. [Tạm kết,](#Tạm kết,)
 
-Đây là lần đầu tiên mình tham quan Sơn Mỹ. Vì dịch Covid nên khu chứng tích vắng khách đến thăm. Những năm trước đây là một trong những điểm đến đông khách nước ngoài nhất của tỉnh, chủ yếu là người Mỹ. 
+## Tham quan khu Chứng tích Sơn Mỹ, những ngày đầu năm 2021 <a name="Tham quan khu Chứng tích Sơn Mỹ, những ngày đầu năm 2021"></a>
 
-Khu Chứng Tích Sơn Mỹ thuộc huyện Sơn Tịnh, nằm cùng tuyến đường với Chùa Thiên Ấn (QL24B) và hướng ra Cảng Sa Kỳ đi Đảo Lý Sơn. Nếu có dịp đến Quảng Ngãi du lịch, bạn hãy ghé thăm Sơn Mỹ, thắp cho bà con đã nằm xuống nơi đây nén hương.
+Đây là lần đầu tiên mình tham quan Sơn Mỹ. Vì dịch Covid-19 nên khu chứng tích vắng khách đến thăm. Những năm trước đây là một trong những điểm đến đông khách nước ngoài nhất của tỉnh, chủ yếu là người Mỹ. 
+
+Khu Chứng Tích Sơn Mỹ thuộc huyện Sơn Tịnh, nằm cùng tuyến đường với Chùa Thiên Ấn (QL24B) và hướng ra Cảng Sa Kỳ đi Đảo Lý Sơn. Nếu có dịp đến [Quảng Ngãi du lịch](https://vegiang.com/tag/quang-ngai-nho-thuong), bạn hãy ghé thăm Sơn Mỹ, thắp cho bà con đã nằm xuống nơi đây nén hương.
 
 ![Cổng khu di tích](/images/cong-vao-khu-chung-tich-son-my.JPG)
 _Cổng vào Khu Chứng tích Sơn Mỹ_
@@ -38,7 +45,7 @@ _Phòng vé của khu chứng tích ở ngay cổng vào._
 
 ![Khu nhà phục dựng](/images/huong-vao-ngoi-nha-dan-duoc-phuc-dung-Son-My.JPG)
 
-## Điều gì đã xảy ra vào buổi sáng định mệnh ấy
+## Điều gì đã xảy ra vào buổi sáng định mệnh ấy <a name="Điều gì đã xảy ra vào buổi sáng định mệnh ấy"></a>
 
 “Đó là sáng 16/3/1968, giữa mùa thu hoạch khoai lang ở làng Sơn Mỹ, huyện Sơn Tịnh, Quảng Ngãi. Trên những con đường và gò đất ở thôn Mỹ Lai, phơi đầy khoai lang mới xắt.
 
@@ -82,7 +89,7 @@ _Nước của con mương này từng bị nhuộm đỏ màu máu_
 Cuối ngày hôm đó, trên các bản tin của quân đội Mỹ, “128 Việt Cộng đã bị tiêu diệt sau một ngày chiến đấu khốc liệt”. Tướng William Westmoreland, tư lệnh của lực lượng Mỹ tại miền Nam Việt Nam, có lời khen đơn vị của ông đã “làm việc kiệt xuất”. 
 (Trích phóng sự của Phạm Linh – Đức Hoàng) 
 
-## Tại sao quân đội Mỹ lại ra tay tàn bạo như vậy
+## Tại sao quân đội Mỹ lại ra tay tàn bạo như vậy <a name="Tại sao quân đội Mỹ lại ra tay tàn bạo như vậy"></a>
 
 Trở lại bối cảnh lịch sử năm 1968, khi bị giáng 1 đòn đau bởi Chiến dịch Mậu Thân, lực lượng quân đội Mỹ và đồng minh đã nôn nóng củng cố lực lượng và muốn chiếm thế thượng phong tại tất cả các mặt trận thì Vĩ tuyến 17 trở vào, trong đó có Đông Bắc Quảng Ngãi.
 
@@ -104,7 +111,7 @@ _Một gia đình toàn người già, phụ nữ và trẻ em bị giết hại
 ![Nền nhà bị đốt cháy](/images/nen-nha-dan-bi-dot-chay-di-tich-son-my.JPG)
 _Nền một ngôi nhà bị đốt cháy._
 
-## Thảm sát Mỹ Lai, sự thật được phơi bày và nỗi ám ảnh suốt nửa thế kỷ
+## Thảm sát Mỹ Lai, sự thật được phơi bày và nỗi ám ảnh suốt nửa thế kỷ <a name="Thảm sát Mỹ Lai, sự thật được phơi bày và nỗi ám ảnh suốt nửa thế kỷ"></a>
 
 Ngay sau vụ thảm sát ở Mỹ Lai, Ủy ban Mặt Trận Giải Phóng Dân Tộc đã lên tiếng tố cáo tội ác của Quân đội Mỹ. Nhưng phải đến 1 năm sau, khi những người cựu binh Mỹ còn lương tâm đã gửi thư tố cáo thì sự thật diễn ra ở Mỹ Lai mới được phơi bày. 
 
@@ -123,7 +130,7 @@ _Tượng đài nạn nhân Thảm sát Mỹ Lai năm 1968. Nếu có dịp ghé
 
 Hình ảnh và câu chuyện về vụ “Thảm sát Mỹ Lai” qua ống kính của các phóng viên nước ngoài cũng đang được trưng bày tại Bảo Tàng Chứng Tích Chiến Tranh (TPHCM)
 
-**Tạm kết,**
+## Tạm kết, <a name="Tạm kết,"></a>
 
 “Chiến tranh ở đâu cũng vậy cũng chỉ mang một hình hài.” (NS. Trần Tiến)
 
@@ -131,7 +138,9 @@ Hình ảnh và câu chuyện về vụ “Thảm sát Mỹ Lai” qua ống kí
 
 Hơn nửa thế kỷ đi qua, chiến tranh vũ trang đã không còn trên đất Việt nhưng nỗi đau nó để lại vẫn còn đó. Vì lợi ích của một nhóm người mà ảnh hưởng đến cuộc sống, thậm chí cả tính mạng của hàng trăm nghìn người. Điều đó thật đáng sợ. 
 
-Xin được mượn lời ông Phạm Thành Công - nguyên giám đốc Ban Quản lý Khu chứng tích Sơn Mỹ, người mất mẹ, chị gái và em trai trong vụ thảm sát đã nói với cựu binh Ken Schiel, trong lần về thăm Sơn Mỹ để kết bài chia sẻ này.
-
 “Ở Việt Nam, chúng tôi có truyền thống rằng hãy cho qua chuyện quá khứ. Nhưng trong trái tim, chúng tôi không thể quên... Hãy dạy cho thế hệ trẻ, con cháu của ông, đừng lặp lại điều đó nữa. Và đừng gây chiến bất kỳ đâu trên thế giới".
 
+P.s: Sau khi đăng tải bài viết này, mình đã nhận được phản hồi từ bác Trần Văn Đức, người đã mất mẹ và hai chị em gái trong cuộc thảm sát Mỹ Lai và cũng là nhân vật trong bức ảnh nổi tiếng "Anh che đạn cho em". Bạn có thể xem thêm thông tin về hành trình 10 năm ròng rã đòi sự thật của bác ở một số link báo chí dưới đây để có thêm thông tin chân thực nhất:
+
++ ['Anh che đạn cho em' ở Mỹ Lai: bức ảnh trở về với sự thật](https://tuoitre.vn/anh-che-dan-cho-em-o-my-lai-buc-anh-tro-ve-voi-su-that-20190424100514892.htm)
++ [https://vtv.vn/video/theo-dong-thoi-su-29-4-2019-364532.htm](https://vtv.vn/video/theo-dong-thoi-su-29-4-2019-364532.htm)
