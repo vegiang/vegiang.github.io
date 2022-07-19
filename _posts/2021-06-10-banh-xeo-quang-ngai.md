@@ -8,11 +8,21 @@ categories: kham-pha
 permalink: banh-xeo-quang-ngai/
 featured: true
 ---
-_Nhắc đến món ngon Quảng Ngãi, không thể không nhắc đến bánh xèo. Thời tiết vào cuối năm ở miền Trung thường mưa lạnh. Thật tuyệt khi ở nhà cùng người thân quay quần, đổ bánh xèo và thưởng thức cùng rau, nước chấm đặc trưng_
+_Nhắc đến món ngon Quảng Ngãi, không thể không nhắc đến bánh xèo. Thời tiết vào cuối năm ở miền Trung thường mưa lạnh. Thật tuyệt khi ở nhà cùng người thân quay quần, đổ bánh xèo rồi thưởng thức cùng rau sống và nước chấm đặc trưng._
 
-## Bánh xèo Quảng Ngãi gây thương nhớ 
+# Mục lục
+1. [Bánh xèo Quảng Ngãi gây thương nhớ](#Bánh xèo Quảng Ngãi gây thương nhớ)
+   1. [Món bánh xèo Quảng Ngãi khác với bánh xèo miền Tây như thế nào?](#Món bánh xèo Quảng Ngãi khác với bánh xèo miền Tây như thế nào?)
+   2. [Kỉ niệm ngày bé với món bánh xèo](#Kỉ niệm ngày bé với món bánh xèo)
+2. [Nguyên liệu làm bánh xèo Quảng Ngãi](#Nguyên liệu làm bánh xèo Quảng Ngãi)
+3. [Sơ chế nguyên liệu làm bánh xèo Quảng Ngãi](#Sơ chế nguyên liệu làm bánh xèo Quảng Ngãi)
+4. [Cách làm bánh xèo Quảng Ngãi ngon](#Cách làm bánh xèo Quảng Ngãi ngon)
+5. [Cách làm nước mắm chấm bánh xèo đúng điệu Quảng Ngãi](#Cách làm nước mắm chấm bánh xèo đúng điệu Quảng Ngãi)
+6. [Địa chỉ quán bánh xèo Quảng Ngãi ngon tại TP.HCM](#Địa chỉ quán bánh xèo Quảng Ngãi ngon tại TP.HCM)
 
-### Món bánh xèo Quảng Ngãi khác với bánh xèo miền Tây như thế nào?
+## Bánh xèo Quảng Ngãi gây thương nhớ <a name="Bánh xèo Quảng Ngãi gây thương nhớ"></a>
+
+### Món bánh xèo Quảng Ngãi khác với bánh xèo miền Tây như thế nào? <a name="Món bánh xèo Quảng Ngãi khác với bánh xèo miền Tây như thế nào?"></a>
 
 Miền Tây cũng có món bánh xèo, nhưng nó lại không giống với bánh xèo miền Trung từ nguyên liệu đến cách ăn và cả hương vị. Tùy vào gu của mỗi thực khách, riêng với mình, chắc vì từ nhỏ đã ăn bánh xèo ở quê nhà nên vị bánh xèo quê mình vẫn thích hơn.
 
@@ -26,7 +36,7 @@ Bánh xèo Quảng Ngãi được đáng giá là ngon khi vỏ bánh mỏng ch�
 ![Bánh xèo giòn Quảng Ngãi](/images/banh-xeo-gion-mien-trung.jpg)
 _Bánh xèo loại giòn. Nguồn ảnh*_
 
-### Kỉ niệm ngày bé với món bánh xèo
+### Kỉ niệm ngày bé với món bánh xèo <a name="Kỉ niệm ngày bé với món bánh"></a>
 
 Còn nhớ năm mình học lớp 2, mình có chơi thân với một cô bạn, hay sang nhà nội bạn ấy chơi. Năm đó ba bạn mua đất làm nhà mới ở riêng, cũng gần đấy. Thế là hôm tân gia bạn mời mình, mình hí hửng đi, chỉ đi bộ thôi mà mình thích lắm. Bữa tiệc đó nhà bạn đúc bánh xèo, mình nhớ không nhầm đó là lần đầu tiên mình ăn bánh xèo. Mẹ bạn ấy đúc, bánh được đem lên nóng hổi, mình không nhớ mình có ăn nhiều không, chỉ ấn tượng mãi dịp ăn ấy. Tối về mình kể cho mẹ mình nghe, là mình đi ăn tân gia, mình được ăn bánh xèo. Chắc mẹ cũng ngại nên chỉ vài ngày sau, mẹ cũng tổ chức đúc bánh xèo ở nhà, đặc biệt dặn mình nhớ mời bạn.
 
@@ -42,7 +52,7 @@ Chỉ với cối xay sinh tố, chỉ em nhà mình quyết định xay bột �
 ![Mình tự xay bột từ gạo để đổ bánh xèo](/images/banh-xeo-tai-sai-gon-dich-covid-2021.png)
 _Mình tự xay bột từ gạo để đổ bánh xèo [những ngày Sài Gòn phong tỏa vì Covid](https://vegiang.com/Covid-19-sai-gon-nhung-ngay-thang-khong-quen)_
 
-## Nguyên liệu làm bánh xèo Quảng Ngãi
+## Nguyên liệu làm bánh xèo Quảng Ngãi <a name="Nguyên liệu làm bánh xèo Quảng Ngãi"></a>
 
 Bánh xèo Quảng Ngãi có nhiều loại nhân, được ưa chuộng nhất có lẽ là nhân thịt heo, tôm đất, thịt vịt, thịt bò và ngày rằm thì có bánh xèo chay nhân nấm. Mình liệt kê nguyên liệu cần thiết để làm món ăn này:
 
@@ -53,7 +63,7 @@ Bánh xèo Quảng Ngãi có nhiều loại nhân, được ưa chuộng nhất 
 -	Gia vị: dầu/mỡ, muối, tiêu, đường, nước mắm, hành ta, tỏi, ớt, chanh.
 -	Rau diếp cá, cải mầm, hung quế, tía tô, dưa leo, xà lách,…
 
-## Sơ chế nguyên liệu như sau
+## Sơ chế nguyên liệu làm bánh xèo Quảng Ngãi <a name="Sơ chế nguyên liệu làm bánh xèo Quảng Ngãi"></a>
 
 *Phần vỏ bánh*: Bạn pha bột làm bánh xèo và nước theo tỉ lệ 3:5, không đặc quá mà cũng không quá lỏng. Mình thường mua sẵn hủ bột gạo đúc bánh xèo nên công đoạn này đỡ mệt hơn. Sau đó, bạn thêm vào hỗn hợp này ít bột nghệ. Nếu nghệ tươi thì bạn giã nghệ vắt lấy nước và cho phần nước nghệ vào hỗn hợp vỏ bánh. Bạn dùng vá khoáy đều, lúc này bạn được hỗn hợp có màu vàng.
 
@@ -71,7 +81,7 @@ _Nguyên liệu đúc bánh xèo. Nguồn ảnh*_
 
 *Phần nước chấm*: bạn bóc tỏ, rửa sạch ớt, chanh để sẵn.
 
-## Cách làm bánh xèo ngon 
+## Cách làm bánh xèo Quảng Ngãi ngon <a name="Cách làm bánh xèo Quảng Ngãi ngon"></a>
 
 Sau khi chuẩn bị và sơ chế xong nguyên liệu, chúng ta bắt đầu đổ bánh xèo. Bạn cần từ 1- 2 khuôn đúc bánh xèo, bạn có thể dùng chảo bình thường, nhưng sẽ không được ngon và đúng kích thước bánh.
 
@@ -89,7 +99,7 @@ Nếu bạn muốn ăn vỏ bánh giòn, bạn có thể cho thêm vào hỗ h�
 
 Lần lượt bạn tiếp tục quết dầu vào khuôn và đúc tiếp cho đến hết bột và nhân.
 
-## Cách làm nước mắm chấm bánh xèo đúng điệu Quảng Ngãi
+## Cách làm nước mắm chấm bánh xèo đúng điệu Quảng Ngãi <a name="Cách làm nước mắm chấm bánh xèo đúng điệu Quảng Ngãi"></a>
 
 Từ nguyên liệu đặc trưng của Quảng Ngãi như tỏi Lý Sơn (có tép nhỏ, khó tróc vỏ, vị cay nồng) và nước mắm nhĩ nguyên chất, nước chấm bánh xèo làm tăng hương vị cho món bánh xèo theo cách riêng.
 
@@ -103,7 +113,7 @@ _Cách cuốn bánh xèo. Nguồn trên ảnh_
 
 Khác với bánh xèo miền Tây, bánh xèo Quảng Ngãi không có đậu xanh ở nhân, bột bánh không thêm nước cốt dừa và nước chấm không có vị thuần chua ngọt ăn cùng cà rốt bào sợi.
 
-## Địa chỉ quán bánh xèo Quảng Ngãi ngon tại TPHCM
+## Địa chỉ quán bánh xèo Quảng Ngãi ngon tại TP HCM <a name="Địa chỉ quán bánh xèo Quảng Ngãi ngon tại TP HCM"></a>
 
 Ở quê mình không khó để tìm một quán bán bánh xèo. Nếu có dịp ghé thành phố Quảng Ngãi, bạn có thể ghé quán bánh xèo vịt nổi tiếng nằm gần vòng xoay Lê Lợi – Nguyễn Trãi.
 
@@ -115,6 +125,6 @@ _Thực đơn quán Anh Năm Trà Khúc_
 ![Bánh xèo,ram bắp Quảng Ngãi](/images/banh-xeo-ram-bap.jpg)
 _Quán bánh xèo thường bán thêm ram bắp. Nguồn trên ảnh_
 
-Hy vọng bài viết đầu tiên của mình về ẩm thực sẽ cho bạn một gợi ý bữa ăn cho ngày mưa. Mình sẽ giới thiệu nhiều ăn khác mang phong vị vùng miền độc đáo trên blog Vegiang.com, hãy đón xem bạn nhé!
+Hy vọng bài viết đầu tiên của mình về ẩm thực sẽ cho bạn một gợi ý bữa ăn cho ngày mưa. Mình sẽ giới thiệu nhiều ăn khác mang phong vị vùng miền độc đáo trên blog [Vegiang.com](https://vegiang.com/), hãy đón xem bạn nhé!
 
 *Photo/Ảnh: Hình ảnh này không thuộc bản quyền của mình và mình cũng không biết chính xác chủ sở hữu. Nếu đơn vị sở hữu không muốn mình sử dụng, vui lòng liên hệ với mình qua email: tranhuongvegiang@gmail.com, mình sẽ xóa hình ngay lập tức. Xin chân thành cảm ơn. (If any owner has an issue with any of this photo please get in contact (mail: tranhuongvegiang@gmail.com) and it will be deleted immediately.)
