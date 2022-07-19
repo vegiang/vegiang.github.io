@@ -154,7 +154,7 @@ Do đó, nếu trải qua nhiều lần phỏng vấn, tìm việc bạn sẽ t�
 ![Thất bại để thành công hơn](/images/bi-tu-choi-brett-jordan.jpg)
 _Ảnh: Brett Jordan_
 
-## Kết,  <a name="Kết,"></a>
+## Kết, <a name="Kết,"></a>
 
 Mình nghĩ, mỗi cơ hội gặp gỡ trên đời này đôi khi còn có chữ “duyên” trong đó, chọn nơi làm việc cũng vậy. Nhiều trường hợp, công ty phỏng vấn rất thích ứng viên, hẹn vòng 2 để gặp giám đốc trao đổi công việc để bắt đầu làm, thì bạn ấy không đến. Lần khác, một bạn đã trải qua các vòng tuyển dụng, được nhận và đã confirm mail mời bắt đầu công việc nhưng đến ngày đi làm thì từ chối vì bạn chọn công ty khác.
 
