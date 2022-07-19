@@ -16,11 +16,22 @@ _Tự mở bussiness nhưng không thành công._
 
 _Nếu ở ba hoàn cảnh trên, đa số đều đang muốn tìm một công việc phù hợp và có thu nhập như mong muốn. Vài tháng gần đây, mình có cơ hội tham gia tuyển dụng nhân sự mảng Marketing cho công ty, do đó có một vài cảm nhận, suy nghĩ muốn chia sẻ, hy vọng sẽ giúp ích được cho ai đó đang cần._
 
-## Tìm việc làm là chuyện quan trọng, tuyệt đối đừng suy nghĩ và hành động sơ sài
+# Mục lục
+1. [Tìm việc làm là chuyện quan trọng, tuyệt đối đừng suy nghĩ và hành động sơ sài](#Tìm việc làm là chuyện quan trọng, tuyệt đối đừng suy nghĩ và hành động sơ sài)
+2. [Chuẩn bị CV / Porfolio chu đáo](#Chuẩn bị CV / Porfolio chu đáo)
+3. [Nộp CV như thế nào: Hãy tìm hiểu trước khi apply](#Nộp CV như thế nào: Hãy tìm hiểu trước khi apply)
+4. [Bước vào vòng phỏng vấn: Thái độ quyết định cơ hội của bạn](#Bước vào vòng phỏng vấn: Thái độ quyết định cơ hội của bạn)
+5. [Bạn cần tìm việc, nơi tuyển dụng cần nhân sự](#Bạn cần tìm việc, nơi tuyển dụng cần nhân sự)
+6. [Cởi mở, chân thành, tự tin thể hiện mình](#Cởi mở, chân thành, tự tin thể hiện mình)
+7. [Sau phỏng vấn : Đạt hay không đạt? Và tiếp đó….](#Sau phỏng vấn : Đạt hay không đạt? Và tiếp đó….)
+8. [Bạn bị từ chối không phải vì bạn thiếu năng lực](#Bạn bị từ chối không phải vì bạn thiếu năng lực)
+9. [Kết,](#Kết,)
+
+## Tìm việc làm là chuyện quan trọng, tuyệt đối đừng suy nghĩ và hành động sơ sài <a name="Tìm việc làm là chuyện quan trọng, tuyệt đối đừng suy nghĩ và hành động sơ sài"></a>
 
 Hiện có nhiều trang việc làm trực tuyến phát triển như Vietnam Works, My Works, CareerBuilder giúp kết nối nhà tuyển dụng và ứng viên nhanh chóng hơn. Đồng thời nhiều công cụ trực tuyến hỗ trợ làm CV hay Porfolio cho ứng viên đơn giản hơn nhiều. Tuy vậy, không phải ai cũng tận dụng tối đa những tiện ích này khi tìm kiếm việc làm.
 
-## Chuẩn bị CV / Porfolio chu đáo
+## Chuẩn bị CV / Porfolio chu đáo <a name="Chuẩn bị CV / Porfolio chu đáo"></a>
 
 Đầu tiên là chăm chút CV đúng mực. Nếu như trước kia, các ứng viên trình bày có vẻ đơn giản trên file word, dạng kẻ bảng như tờ khai Sơ yếu lý lịch, thì giờ đây các bạn trẻ có xu hướng trang trí cho CV của mình bắt mắt hơn, tuy nhiên cái cốt lõi thì còn bỏ ngõ. Nhiều ứng viên sa vào giới thiệu bản thân và mong muốn nguyện vọng thái quá. 
 
@@ -60,7 +71,7 @@ Cá nhân mình không phản đối sinh viên đi làm parttime. Nếu có th�
 
 Thực tế tuyển dụng, mình đánh giá cao ứng viên Copywriter tuy mới ra trường nhưng có thời gian cộng tác viết nội dung cho báo hay website, hơn là ứng viên cũng mới ra trường nhưng chưa từng làm việc gì liên quan đến viết lách nội dung, kinh nghiệm làm parttime ở nhà hàng, quá cà phê lúc này không có ý nghĩa.
 
-## Nộp CV như thế nào :  Hãy tìm hiểu trước khi apply
+## Nộp CV như thế nào: Hãy tìm hiểu trước khi apply <a name="Nộp CV như thế nào: Hãy tìm hiểu trước khi apply"></a>
 
 Đầu tiên, mách bạn 4 cách tìm được thông tin tuyển dụng vị trí như mong muốn:
 
@@ -97,7 +108,7 @@ Trả lời được những câu hỏi này rất có lợi cho bạn, vừa tr
 
 **Lưu ý:** Tìm kiếm thông tin về doanh nghiệp khá đơn giản, chỉ cần search trên Google, lượn 1 vòng qua website và Fanpage của công ty đó cũng đủ rồi.
 
-## Bước vào vòng phỏng vấn : Thái độ quyết định cơ hội của bạn
+## Bước vào vòng phỏng vấn: Thái độ quyết định cơ hội của bạn <a name="Bước vào vòng phỏng vấn: Thái độ quyết định cơ hội của bạn"></a>
 
 Sau khi đã nộp CV, chỉ từ 2- 3 ngày nếu nơi tuyển dụng thấy hồ sơ của bạn tiềm năng sẽ hẹn bạn phỏng vấn. Thường thì quy trình tuyển dụng  trải qua từ 2 – 3 vòng: Xét CV – Test năng lực/ Phỏng vấn vòng 1 – Phỏng vấn vòng 2 tuỳ vào công ty.
 
@@ -105,14 +116,14 @@ Bạn sẽ được giới thiệu ngay trong thư mời hoặc trong vòng ph�
 
 **Lưu ý**: Theo [kinh nghiệm tìm việc và phỏng vấn](https://vegiang.com/kinh-nghiem-tim-viec-lam-xin-viec-khong-ma-la-tim-viec/) của mình, nếu bạn đã nộp hồ sơ từ 3 – 4 ngày mà chưa thấy hồi âm hoặc sau buổi phỏng vấn 2 – 3 ngày mà cũng không thấy công ty đó liên hệ lại, thì bạn hãy tìm cơ hội khác, đừng tốn thời gian chờ đợi.
 
-### Bạn cần tìm việc, nơi tuyển dụng cần nhân sự
+### Bạn cần tìm việc, nơi tuyển dụng cần nhân sự <a name="Bạn cần tìm việc, nơi tuyển dụng cần nhân sự"></a>
 
 Phỏng vấn chẳng qua là bước để bên tuyển dụng xem thử ứng viên có phù hợp với vị trí cần tuyển hay không. Đồng thời, người tìm việc cũng xem mình có hợp với công ty này hay không. Vì quyền lợi ngang nhau nên bạn hãy tự tin và bình tĩnh nhất có thể nhé !
 
 ![Phỏng vấn xin viêc](/images/phong-van-van-tay-media.jpg)
 _Phỏng vấn tuyển dụng nhân viên. Ảnh: Vân Tay Media_
 
-### Cởi mở, chân thành, tự tin thể hiện mình
+### Cởi mở, chân thành, tự tin thể hiện mình <a name="Cởi mở, chân thành, tự tin thể hiện mình"></a>
 
 + Nếu làm bài test trên giấy : Hãy cố gắng viết rõ ràng nhất, đừng làm qua loa, lấy lệ.
 
@@ -126,13 +137,13 @@ Với những câu hỏi gợi mở: Ví dụ: “Bạn đã tìm hiểu về c�
 
 **Lưu ý:** Dù công ty nhỏ hay lớn, mình nghĩ mỗi lần phỏng vấn sẽ cho bạn thêm nhiều cơ hội. Bạn được nhiều hơn là mất: Được gặp gỡ người có kinh nghiệm hơn, trao đổi với người lạ khiến bạn thêm dạn dĩ, rút ra được điểm thiếu xót,… Do đó, đừng thể hiện thái độ hời hợt khi đi phỏng vấn, thái độ này sẽ làm hạn chế đi cơ hội của bản thân nhiều lắm đấy.
 
-## Sau phỏng vấn : Đạt hay không đạt? Và tiếp đó….
+## Sau phỏng vấn: Đạt hay không đạt? Và tiếp đó...  <a name="Sau phỏng vấn: Đạt hay không đạt? Và tiếp đó..."></a>
 
 Kết thúc cuộc phỏng vấn ra về, ngoài việc đợi kết quả, bạn nên làm gì thêm nữa? Theo mình, bạn nên viết một mail cảm ơn như một phép lịch sự. Việc này rất phổ biến trong văn hoá công sở ở các nước Âu, Mỹ, nhưng ở Việt Nam thì còn nhiều bạn chưa biết.
 
 Mail cảm ơn còn giúp bạn nhắc cho nhà tuyển dụng nhớ về bạn trong hàng chục ứng viên đã phỏng vấn. Riêng mình, nhiều lúc rảnh rỗi, ứng viên mail cảm ơn + hỏi một số vấn đề trong buổi phỏng vấn mình đều vui vẻ dành ít thời gian để reply nữa đấy.
 
-## Bạn bị từ chối không phải vì bạn thiếu năng lực
+## Bạn bị từ chối không phải vì bạn thiếu năng lực <a name="Bạn bị từ chối không phải vì bạn thiếu năng lực"></a>
 
 Sau buổi phỏng vấn, nếu bạn không thấy hồi âm hoặc nhận được thông báo không đạt, hãy tiếp tục tìm kiếm cơ hội khác. Đừng buồn ! Chẳng qua bạn chưa phù hợp với vị trí đó mà thôi.
 
@@ -143,7 +154,7 @@ Do đó, nếu trải qua nhiều lần phỏng vấn, tìm việc bạn sẽ t�
 ![Thất bại để thành công hơn](/images/bi-tu-choi-brett-jordan.jpg)
 _Ảnh: Brett Jordan_
 
-## Kết,
+## Kết,  <a name="Kết,"></a>
 
 Mình nghĩ, mỗi cơ hội gặp gỡ trên đời này đôi khi còn có chữ “duyên” trong đó, chọn nơi làm việc cũng vậy. Nhiều trường hợp, công ty phỏng vấn rất thích ứng viên, hẹn vòng 2 để gặp giám đốc trao đổi công việc để bắt đầu làm, thì bạn ấy không đến. Lần khác, một bạn đã trải qua các vòng tuyển dụng, được nhận và đã confirm mail mời bắt đầu công việc nhưng đến ngày đi làm thì từ chối vì bạn chọn công ty khác.
 
