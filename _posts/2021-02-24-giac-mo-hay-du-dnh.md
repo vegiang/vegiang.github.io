@@ -12,7 +12,13 @@ _Thời điểm năm cũ vừa khép lại, đa số chúng ta thường nhìn l
 
 Tuổi trẻ dư dả nhất là thời gian, nhiệt huyết và cả giấc mơ. Để quãng thời gian tươi đẹp ấy trôi qua với đầy dự định chưa thành hiện thực thì ắt hẳn phần nhiều là lỗi ở bạn.
 
-## Không phải ai cũng có quyết tâm để bắt đầu
+# Mục lục
+1. [Không phải ai cũng có quyết tâm để bắt đầu](#Không phải ai cũng có quyết tâm để bắt đầu)
+2. [Giữ vững động lực thực hiện đến cùng](#Giữ vững động lực thực hiện đến cùng)
+3. [Khi vấp phải khó khăn](#Khi vấp phải khó khăn)
+4. [Vài dự định của mình bị bỏ ngỏ](#Vài dự định của mình bị bỏ ngỏ)
+
+## Không phải ai cũng có quyết tâm để bắt đầu <a name="Không phải ai cũng có quyết tâm để bắt đầu"></a>
 
 Ai cũng biết tập thể dục mỗi ngày có tác dụng thế nào, học tiếng Anh sẽ mang lại lợi ích gì. Thậm chí phương pháp học, tài liệu nghiên cứu được chia sẻ rộng rãi và miễn phí, nhưng không phải ai cũng bắt tay vào rèn luyện.
 
@@ -24,7 +30,7 @@ Vậy làm sao để “chữa” bệnh trì hoãn này?
 
 Chỉ có cách kỷ luật hơn với bản thân mình thôi. Hãy tập thói quen, đã nói là làm và đừng thay đổi quyết định vào phút chót. Như vậy mọi sự bắt đầu của bạn sẽ nhẹ nhàng hơn và không bị nhiều suy nghĩ bủa vây. 
 
-## Giữ vững động lực thực hiện đến cùng
+## Giữ vững động lực thực hiện đến cùng <a name="Giữ vững động lực thực hiện đến cùng"></a>
 
 Với tinh thần của bước bắt đầu, bạn hãy duy trì nó cho đến khi đạt được mục đích hoặc ít nhất hoàn thành được kế hoạch đề ra.
 
@@ -35,7 +41,7 @@ Thói quen dậy sớm tập thể dục sẽ dần hình thành sau ít nhất 
 ![Lên kế hoạch thực hiện dự định](/images/du-dinh-bo-ngo-estee-janssens-unsplash.jpg)
 _Hãy lên kế hoạch thật cụ thể và thực hiện từng bước một nhé!. Nguồn ảnh: Estee Janssens/Unsplash_
 
-## Khi vấp phải khó khăn
+## Khi vấp phải khó khăn <a name="Khi vấp phải khó khăn"></a>
 
 Nếu mọi dự định đều dễ dàng thực hiện thì bạn đã không phải chần chừ lâu đến vậy. Khó khăn là điều tất yếu, vượt qua nó bạn mới có thể đến đích.
 
@@ -45,7 +51,7 @@ Bạn học tiếng Anh mà làm bài test hoài điểm không lên. Nếu chá
 
 Vậy nên, đừng ngại khó, khó khăn làm cho thành quả của bạn thêm ngọt ngào. Hãy nhìn về kết quả mình sẽ đạt được mà cố gắng, bạn sẽ tìm được cách vượt qua chứ không phải là lý do để bạn bỏ cuộc.
 
-## Vài dự định của mình bị bỏ ngỏ
+## Vài dự định của mình bị bỏ ngỏ <a name="Vài dự định của mình bị bỏ ngỏ"></a>
 
 Rời xa gia đình, trường học, trước một chân trời mới bạn có ôm nhiều giấc mơ không? Với mình thì có, nhiều lắm. Thế rồi dòng đời xô đẩy – Có thể là lý do biện minh – mình đã lãng quên nó hay chăng nó chẳng còn là thứ mình muốn đạt được.
 
