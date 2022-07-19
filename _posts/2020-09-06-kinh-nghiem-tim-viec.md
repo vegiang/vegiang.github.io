@@ -25,7 +25,7 @@ _Nếu ở ba hoàn cảnh trên, đa số đều đang muốn tìm một công 
 6. [Cởi mở, chân thành, tự tin thể hiện mình](#Cởi mở, chân thành, tự tin thể hiện mình)
 7. [Sau phỏng vấn : Đạt hay không đạt? Và tiếp đó….](#Sau phỏng vấn : Đạt hay không đạt? Và tiếp đó….)
 8. [Bạn bị từ chối không phải vì bạn thiếu năng lực](#Bạn bị từ chối không phải vì bạn thiếu năng lực)
-9. [Kết,](#Kết,)
+9. [Kết,](# Kết,)
 
 ## Tìm việc làm là chuyện quan trọng, tuyệt đối đừng suy nghĩ và hành động sơ sài <a name="Tìm việc làm là chuyện quan trọng, tuyệt đối đừng suy nghĩ và hành động sơ sài"></a>
 
