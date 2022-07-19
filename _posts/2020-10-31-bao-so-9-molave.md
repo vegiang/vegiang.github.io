@@ -12,13 +12,21 @@ _Có lẽ mãi về sau, cái ngày ấy mình sẽ chẳng quên. Cả nhà mì
 
 Bão lũ với miền Trung nói chung, quê mình Quảng Ngãi nói riêng không có gì lạ lẫm. Bão thì năm nào cũng đón. Trung bình 10 đến 15 cơn bão vào biển Đông thì ảnh hưởng hoặc đổ bộ vào quê mình tầm 9-10 trận. Thế mà cơn bão số 9 năm nay khiến cả người lớn tuổi ở quê mình khiếp sợ, nhìn cảnh tượng tan hoang sau bão mà thẫn thờ.
 
-## D-2: Hai ngày trước bão số 9 đổ bộ
+# Mục lục
+1. [D-2: Hai ngày trước bão số 9 đổ bộ](#D-2: Hai ngày trước bão số 9 đổ bộ)
+2. [D-1: Ngày 27/10/2020](#D-1: Ngày 27/10/2020)
+3. [D-Day: Bão số 9 đổ bộ](#D-Day: Bão số 9 đổ bộ)
+   1.[11h đến 13h trưa](#11h đến 13h trưa)
+   2.[Bão số 9 quét qua – Nước sông Vệ dâng cao](#Bão số 9 quét qua – Nước sông Vệ dâng cao)
+5. [Hai ngày hậu bão lũ](#Hai ngày hậu bão lũ)
+
+## D-2: Hai ngày trước bão số 9 đổ bộ <a name="D-2: Hai ngày trước bão số 9 đổ bộ"></a>
 
 Chiều tối 26/10, mình lướt tin trên Facebook đọc được cảnh báo của tiến sĩ Huy Nguyễn về cơn bão số 9. Ngay lập tức, mình báo liền cho bố mẹ đang ở quê (vùng hạ lưu sông, ven biển Quảng Ngãi). Theo dự báo, bão sẽ ảnh hưởng đến Nam Trung Bộ từ tối ngày 27 đến ngày 28/10. Tức là nhà mình còn chưa đến 24 tiếng để chuẩn bị phòng chống bão.
 
 Hôm ấy, bác mình từ Hà Nội vào Quảng Ngãi dự đám cưới người quen, tiện thể ghé thăm nhà mình. Không may cho bác, gặp đúng thời điểm bão vào.
 
-## D-1 : Ngày 27/10/2020
+## D-1: Ngày 27/10/2020 <a name="D-1: Ngày 27/10/2020"></a>
 
 Sáng hôm ấy, mình lại nhắn bố mẹ tranh thủ mua nước, đồ ăn dự trữ cho 3, 4 ngày, chạy nước sinh hoạt và mua thêm nến vì dễ bị cắt điện. Trong lúc đó, báo đài và các trang mạng xã hội đưa tin hình ảnh người dân các huyện gần bên đi di dân vì bão, làm mình càng lo hơn. Bố mẹ mình lại chở bác mình ra thị xã ăn sáng đi cà phê !?!?
 
@@ -36,7 +44,7 @@ Bởi sau khi bão đi, gọi điện cho mẹ, mẹ mới kể rằng nhà mìn
 
 22h00 tối, tranh thủ lúc chưa cúp điện mình gửi cho bố mẹ số điện thoại khẩn tìm kiếm cứu nạn. Gần như có thông tin gì mình cũng gửi. Bố mẹ nhắn lúc này trời đã bắt đầu mưa, có gió cấp 4, cấp 5.
 
-## D-Day: Bão số 9 đổ bộ
+## D-Day: Bão số 9 đổ bộ <a name="D-Day: Bão số 9 đổ bộ"></a>
 
 6h sáng bố gọi điện thoại cho mình. Mình không bắt máy được, phải nửa tiếng sau mới gọi lại cho bố. Bố nói 2h sáng đã cúp điện, trời đã mưa gió to dần lên. Mình nạp tiền điện thoại cho bố mẹ để tiện liên lạc.
 
@@ -50,7 +58,7 @@ Lúc này, chị em mình ở Sài Gòn xem trên tin tức biết rằng bão v
 
 ![Bão số 9 vào Quảng Ngãi](/images/bao-so-9-11h.jpg)
 
-### 11h đến 13h trưa
+### 11h đến 13h trưa <a name="11h đến 13h trưa"></a>
 
 Chưa bao giờ mình thấy 2 giờ đồng hồ trôi qua chậm đến vậy, cũng chưa bao giờ mình F5 các trang báo điện tử, Facebook điên cuồng đến vậy, cũng chẳng có tâm trí nào làm việc. Lúc này bão đã chính thức vào vùng ven biển tỉnh Quảng Ngãi.
 
@@ -69,7 +77,7 @@ Mình ở Sài Gòn lo nhà các dì, cậu không biết có sao không, vì nh
 ![Người dân trốn bão số 9](/images/nguoi-dan-tron-bao-so-9.jpg)
 _Người dân tìm mọi chỗ an toàn để tránh bão số 9_
 
-### Bão số 9 quét qua – Nước sông Vệ dâng cao
+### Bão số 9 quét qua – Nước sông Vệ dâng cao <a name="Bão số 9 quét qua – Nước sông Vệ dâng cao"></a>
 
 Đến chiều, nước sông Vệ lên nhanh không tưởng. Theo báo đài, nước sông đã trên báo động 3 hơn 1m. Mình gọi về nhà, bố nói nước lớn rồi, đã băng qua đường. Khoảng 6h tối, nước lụt đã vào sân nhà mình, chỉ còn 10 phân là vào nhà.
 
@@ -87,7 +95,7 @@ _Bên trên bão tốc mái, bên dưới nước lũ lên._
 
 Cũng may, nước lụt không lên thêm, không vào nhà mình. Sáng hôm sau, bố mẹ phải tranh thủ cào rửa bùn, sợ có khô lại khó dọn rửa.
 
-## Hai ngày hậu bão lũ  
+## Hai ngày hậu bão lũ <a name="Hai ngày hậu bão lũ"></a>
 
 Sau bão, cảnh quê mình không thể tan nát hơn. Cây cối trụ điện gãy đổ đầy đường. Mái tôn, biển quảng cáo, ngói vỡ nằm ngổn ngang. Ở vùng trũng nước còn chưa rút, nhà cửa thêm hoang tàn.
 
