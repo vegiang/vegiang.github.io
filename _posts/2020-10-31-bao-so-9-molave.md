@@ -16,9 +16,9 @@ Bão lũ với miền Trung nói chung, quê mình Quảng Ngãi nói riêng kh�
 1. [D-2: Hai ngày trước bão số 9 đổ bộ](#D-2: Hai ngày trước bão số 9 đổ bộ)
 2. [D-1: Ngày 27/10/2020](#D-1: Ngày 27/10/2020)
 3. [D-Day: Bão số 9 đổ bộ](#D-Day: Bão số 9 đổ bộ)
-   1.[11h đến 13h trưa](#11h đến 13h trưa)
-   2.[Bão số 9 quét qua – Nước sông Vệ dâng cao](#Bão số 9 quét qua – Nước sông Vệ dâng cao)
-5. [Hai ngày hậu bão lũ](#Hai ngày hậu bão lũ)
+ 1.[11h đến 13h trưa](#11h đến 13h trưa)
+  2.[Bão số 9 quét qua – Nước sông Vệ dâng cao](#Bão số 9 quét qua – Nước sông Vệ dâng cao)
+4. [Hai ngày hậu bão lũ](#Hai ngày hậu bão lũ)
 
 ## D-2: Hai ngày trước bão số 9 đổ bộ <a name="D-2: Hai ngày trước bão số 9 đổ bộ"></a>
 
