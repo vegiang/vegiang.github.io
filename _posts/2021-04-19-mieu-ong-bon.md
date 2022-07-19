@@ -10,11 +10,16 @@ featured: false
 ---
 _Cạnh tuyến đường sầm uất bậc nhất Sài Gòn, ngôi miếu, có tuổi đời hơn 140 năm, thờ đức tin của người Hoa, nằm yên tĩnh cách biệt. Hẳn có ít người biết đến nơi đây, ngay cả mình, sống cách đó tầm 80 số nhà cũng chẳng để ý._
 
-## Tình cờ tìm thấy địa điểm văn hóa ngay gần nhà
+# Mục lục
+1. [Tình cờ tìm thấy địa điểm văn hóa ngay gần nhà](#Tình cờ tìm thấy địa điểm văn hóa ngay gần nhà)
+2. [Tìm kiếm thông tin trên Internet về Miếu Ông Bổn – Miếu Tân Kỳ](#Tìm kiếm thông tin trên Internet về Miếu Ông Bổn – Miếu Tân Kỳ)
+3. [Và thực tế ghé thăm](#Và thực tế ghé thăm)
+
+## Tình cờ tìm thấy địa điểm văn hóa ngay gần nhà <a name="Tình cờ tìm thấy địa điểm văn hóa ngay gần nhà"></a>
 
 Một lần tìm kiếm thông tin về các điểm đến văn hóa của TP.HCM, mình phát hiện ra ở Quận Tân Bình có một ngôi miếu được công nhận là Di tích văn hóa cấp thành phố. Ngôi miếu đó nằm gần chỗ mình ở khiến mình tò mò và muốn tranh thủ thời gian ghé qua.
 
-## Tìm kiếm thông tin trên Internet về Miếu Ông Bổn – Miếu Tân Kỳ
+## Tìm kiếm thông tin trên Internet về Miếu Ông Bổn – Miếu Tân Kỳ <a name="Tìm kiếm thông tin trên Internet về Miếu Ông Bổn – Miếu Tân Kỳ"></a>
 
 Nơi có thông tin chi tiết nhất của Miếu Ông Bổn – Miếu Tân kỳ là trang văn hóa thể thao quận Tân Bình. Bài viết tầm 700 từ không có hình minh họa, giới thiệu về di tích này từ lịch sử đến đặc điểm và giá trị văn hóa.
 
@@ -31,7 +36,7 @@ _Cả hai ngôi miếu có giá trị tiêu biểu về kiến trúc nghệ thu�
 
 > Có thể bạn quan tâm: [Điều gì thú vị ở Bảo Tàng Lịch Sử TPHCM]( https://vegiang.com/dieu-gi-khien-bao-tang-lich-su-tp-hcm-dac-biet/)
 
-## Và thực tế ghé thăm
+## Và thực tế ghé thăm <a name="Và thực tế ghé thăm"></a>
 
 Có thể nói, giá trị của ngôi miếu này nằm ở kiến trúc và các di vật cổ. Chỉ cần bảo tồn được một phần, miếu Ông Bổn – miếu Tân Kỳ sẽ là điểm đến để du khách hiểu thêm về lịch sử của vùng đất này.
 
