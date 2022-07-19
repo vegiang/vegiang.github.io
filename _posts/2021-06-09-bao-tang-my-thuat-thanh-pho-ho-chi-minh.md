@@ -11,7 +11,20 @@ featured: true
 
 _Chưa có tòa tư dinh nào ở Sài Gòn sở hữu vị trí và kiến trúc xuất sắc như Nhà Bảo Tàng Mỹ Thuật. Tham quan Bảo Tàng Mỹ Thuật Thành Phố hôm nay, bạn sẽ cảm nhận được lý do nơi đây là một trong những điểm đến nổi bật nhất ở Sài Gòn._
 
-## Tòa nhà Bảo Tàng Mỹ Thuật Thành phố Hồ Chí Minh - Dinh Thự Nhà Họ Hứa nổi tiếng một thời
+# Mục lục
+1. [Tòa nhà Bảo Tàng Mỹ Thuật Thành phố Hồ Chí Minh - Dinh Thự Nhà Họ Hứa nổi tiếng một thời](#Tòa nhà Bảo Tàng Mỹ Thuật Thành phố Hồ Chí Minh - Dinh Thự Nhà Họ Hứa nổi tiếng một thời)
+ 1. [Lịch sử Nhà Bảo Tàng Mỹ Thuật](#Lịch sử Nhà Bảo Tàng Mỹ Thuật)
+ 2. [Kiến trúc đặc sắc của Tòa nhà Bảo Tàng Mỹ Thuật thành Phố](#Kiến trúc đặc sắc của Tòa nhà Bảo Tàng Mỹ Thuật thành Phố)
+2. [Bảo Tàng Mỹ Thuật – Lát cắt của nghệ thuật đương đại Việt Nam](#Bảo Tàng Mỹ Thuật – Lát cắt của nghệ thuật đương đại Việt Nam)
+3. [Bảo Tàng Mỹ Thuật Thành Phố, kinh nghiệm lần đầu tham quan](#Bảo Tàng Mỹ Thuật Thành Phố, kinh nghiệm lần đầu tham quan)
+   1. [Địa chỉ và chỗ gửi xe tại Bảo Tàng Mỹ Thuật](#Địa chỉ và chỗ gửi xe tại Bảo Tàng Mỹ Thuật)
+   2. [Giờ mở cửa tham quan Bảo Tàng](#Giờ mở cửa tham quan Bảo Tàng)
+   3. [Giá vé vào Bảo tàng Mỹ thuật](#Giá vé vào Bảo tàng Mỹ thuật)
+   4. [Chuyện chụp hình ở Bảo Tàng Mỹ Thuật Thành Phố](#Chuyện chụp hình ở Bảo Tàng Mỹ Thuật Thành Phố)
+   5. [Sơ đồ tham quan Bảo tàng](#Sơ đồ tham quan Bảo tàng)
+4. [Vài dòng suy nghĩ,](#Vài dòng suy nghĩ,)
+
+## Tòa nhà Bảo Tàng Mỹ Thuật Thành phố Hồ Chí Minh - Dinh Thự Nhà Họ Hứa nổi tiếng một thời <a name="Hệ quy chiếu của cái giếng thời bé"></a>
 
 Ngoài câu chuyện “Con ma nhà họ Hứa” được lưu truyền, điều làm nên danh tiếng của Nhà Chú Hỏa nay là Bảo Tàng Mỹ Thuật Thành Phố Hồ Chí minh, phải kể đến hai nét chính sau:
 
@@ -128,7 +141,7 @@ Không chỉ trưng bày những tác phẩm mỹ thuật, nơi đây còn diễ
 
 Dù làm việc ở Quận 1 vài năm, đi qua Tòa Dinh này không biết bao lần, nhưng đây là lần đầu mình mua vé vào tham quan. Mình chia sẻ đến bạn vài thông tin cần thiết bên dưới, hãy cập nhật nhé!
 
-**Địa chỉ và chỗ gửi xe tại Bảo Tàng Mỹ Thuật**
+### Địa chỉ và chỗ gửi xe tại Bảo Tàng Mỹ Thuật
 
 Tòa nhà nằm ở khu tứ giác với bốn mặt đường của quận 1: Phó Đức Chính, Lê Thị Hồng Gấm, Nguyễn Thái Bình và Calmette.
 
@@ -140,11 +153,11 @@ Tòa nhà nằm ở khu tứ giác với bốn mặt đường của quận 1: P
 
 Bạn chạy xe thẳng vào cửa, rẽ trái sẽ thấy chỗ giữ xe gần quầy bán vé. Giá vé giữ xe máy là 5.000đ/ lượt.
 
-**Giờ mở cửa tham quan Bảo Tàng**
+### Giờ mở cửa tham quan Bảo Tàng
 
 Bảo tàng mở cửa từ Thứ Hai đến Chủ Nhật, bắt đầu 8h00 – 17h00.
 
-**Giá vé vào Bảo tàng Mỹ thuật**
+### Giá vé vào Bảo tàng Mỹ thuật
 
 Nếu không có thẻ sinh viên, vé người lớn là 30.000đ/ lượt.
 
@@ -152,12 +165,12 @@ Nếu không có thẻ sinh viên, vé người lớn là 30.000đ/ lượt.
 ![Vé tham quan Bảo Tàng Mỹ Thuật](/images/ve-tham-quan-Bao-tang-my-thuat.JPG)
 {:refdef}
 
-**Chuyện chụp hình ở Bảo Tàng Mỹ Thuật Thành Phố**
+### Chuyện chụp hình ở Bảo Tàng Mỹ Thuật Thành Phố
 
 Bất kể bạn mang máy ảnh to hay nhỏ, chụp hình một mình hay ekip đều phải đóng phí 300.000đ/ tiếng. Chụp hình bằng điện thoại thì không tốn phí. Điều này làm mình rất bức xúc, mình tham quan chụp hình cảnh quan, kiến trúc bằng cái smart camera cũng bắt tính phí.
 Vì dân “vô sản” mình đành dùng cái stupid phone của mình để chụp. Buồn không thể tả, bạn xem hình xấu vậy chứ bên ngoài đẹp gấp mấy lần đó.
 
-**Sơ đồ tham quan Bảo tàng**
+### Sơ đồ tham quan Bảo tàng
 
 Chắc tòa nhà 1 chiếm hơi nhiều spotlight, nhưng cả khuôn viên Bảo Tàng Mỹ thuật có tận 3 tòa nhà. Bạn xem sơ đồ được đặt ngay lối vào giữ hai Tòa 1 và 2.
 
