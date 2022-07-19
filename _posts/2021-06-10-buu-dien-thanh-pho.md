@@ -11,7 +11,12 @@ featured: true
 
 _Là một trong những địa điểm nổi tiếng ở Sài Gòn, Bưu Điện Thành Phố vẫn giữ nguyên được vẻ lộng lẫy và cổ kính của mình giữa đô thị hiện đại. Để hiểu thêm về giá trị lịch sử và kiến trúc của Tòa nhà này, hãy cùng mình khám phá nhé!_
 
-## Nhà Bưu Điện TP.HCM nơi điện thoại được sử dụng đầu tiên ở Việt Nam
+# Mục lục
+1. [Nhà Bưu Điện TP.HCM nơi điện thoại được sử dụng đầu tiên ở Việt Nam](#Nhà Bưu Điện TP.HCM nơi điện thoại được sử dụng đầu tiên ở Việt Nam)
+2. [Kiến trúc tòa nhà Bưu Điện, di sản trăm năm của Sài Gòn](#Kiến trúc tòa nhà Bưu Điện, di sản trăm năm của Sài Gòn)
+3. [Ghé thăm Bưu Điện Thành phố sáng mờ sương](#Ghé thăm Bưu Điện Thành phố sáng mờ sương)
+
+## Nhà Bưu Điện TP.HCM nơi điện thoại được sử dụng đầu tiên ở Việt Nam <a name="Nhà Bưu Điện TP.HCM nơi điện thoại được sử dụng đầu tiên ở Việt Nam"></a>
 
 Ngay sau khi chiếm được thành Gia Định, thực dân Pháp nhanh chóng cho xây dựng các công trình công cộng và thiết lập hệ thống thông tin liên lạc. Nhà Bưu Điện An Nam ra đời trong hoàn cảnh đó.
 
@@ -26,11 +31,11 @@ Con tem lúc này còn rất mới mẻ với thế giới. Năm 1844, 20 năm s
 
 Sự phát triển của bưu điện không chỉ là một tòa nhà làm việc mà còn phải là một công trình kiến trúc để lại dấu ấn lâu dài của nghệ thuật Pháp tại Việt Nam. Đó cũng là lý do năm 1886 đến năm 1891 kiến trúc sư Villedieu và phụ tá Foulhuox đã thiết kế và xây dựng tòa nhà bưu điện như dáng vẻ ngày nay.
 
-Sau khi Tòa nhà Bưu điện mang dáng vẻ mới, nó chỉ có hoạt động điện tín mà còn đưa vào sử dụng điện thoại. Năm 1894, lần đầu tiên điện thoại được sử dụng ở Việt Nam và nơi đầu tiên chính là Sài Gòn.
+Sau khi Tòa nhà Bưu điện mang dáng vẻ mới, nó chỉ có hoạt động điện tín mà còn đưa vào sử dụng điện thoại. Năm 1894, lần đầu tiên điện thoại được sử dụng ở Việt Nam và nơi đầu tiên chính là [Sài Gòn](https://vegiang.com/tag/sai-gon-trong-toi).
 
 Trải qua bao biến động của lịch sử, dù thuộc chính quyền Cách mạng non trẻ năm 1945, Việt Nam Cộng Hòa và đến tận hôm nay, Bưu Điện Thành Phố đã chứng kiến nhiều đổi thay và sự phát triển không ngừng của ngành Thông Tin liên lạc nói riêng, bộ mặt đô thị Sài Gòn – TP.HCM nói chung. 
 
-## Kiến trúc tòa nhà Bưu Điện, di sản trăm năm của Sài Gòn
+## Kiến trúc tòa nhà Bưu Điện, di sản trăm năm của Sài Gòn <a name="Kiến trúc tòa nhà Bưu Điện, di sản trăm năm của Sài Gòn "></a>
 
 Tòa nhà Bưu Điện sở hữu nhiều nét đặc sắc về kiến trúc, khiến cho nó trở nên đặc biệt giữa bao tòa nhà lộng lẫy của Sài Gòn, Đông Dương thời ấy. 
 
@@ -94,7 +99,7 @@ _Các Bốt điện thoại bằng gỗ thêm phần cổ kính cho tòa nhà_
 ![Shop hàng lưu niệm](/images/quay-luu-niem-buu-dien-thanh-pho.JPG)
 _Bên hông của Bưu điện cũng có các shop bán hàng thủ công mỹ nghệ_
 
-## Ghé thăm Bưu Điện Thành phố sáng mờ sương
+## Ghé thăm Bưu Điện Thành phố sáng mờ sương <a name=" Ghé thăm Bưu Điện Thành phố sáng mờ sương"></a>
 
 Ngày nay, tòa nhà Bưu điện vẫn ở đấy, vẫn là nơi đưa tin vui có buồn có đến cho người dân thành phố. Ở vị trí đẹp của Quận 1, bên cạnh Nhà Thờ Đức Bà và Đường Sách Nguyễn Văn Bình, Bưu Điện Sài Gòn là điểm đến luôn có mặt trong mọi cuốn hướng dẫn du lịch Sài Gòn – TP.Hồ Chí Minh.
 
@@ -119,3 +124,4 @@ _Hoa hồng trong khuôn viên của Bưu Điện_
 
 Dù thời thế có thay đổi thế nào, Bưu Điện Thành Phố đã là một phần của Sài Gòn hoa lệ, từ trong ký ức đến hiện tại và tương lai.
 
+> Có thể bạn quan tâm: [Đường Đồng Khởi, tìm về phố Catinat hoa lệ](https://vegiang.com/dao-quanh-duong-dong-khoi/)
