@@ -10,7 +10,12 @@ featured: false
 ---
 _“Em nói em chưa đi chùa Thiên Ấn lần nào, nghe mà rớt nước mắt” – Mẹ mình bảo. Thế là đợi nghỉ về quê vừa rồi, bố mẹ cho mình đi vãng cảnh chùa Thiên Ấn – Danh thắng nổi tiếng của đất Quảng Ngãi này._
 
-## Một vài thông tin về Chùa Thiên Ấn
+# Mục lục
+1. [Một vài thông tin về Chùa Thiên Ấn](#Một vài thông tin về Chùa Thiên Ấn)
+2. [Chùa Thiên Ấn xuân 2021, sau một năm bão lũ dịch bệnh hoành hành](#Chùa Thiên Ấn xuân 2021, sau một năm bão lũ dịch bệnh hoành hành)
+3. [Thiên Ấn trong tim người Quảng Ngãi](#Thiên Ấn trong tim người Quảng Ngãi)
+
+## Một vài thông tin về Chùa Thiên Ấn <a name=" Một vài thông tin về Chùa Thiên Ấn"></a>
 
 Cách trung tâm thành phố Quảng Ngãi khoảng 3 km về phía Đông Bắc, Chùa Thiên Ấn hay còn được gọi là Sắc Tứ Thiên Ấn nằm trên đỉnh núi cùng tên cao khoảng 106m. Dáng núi hình thang cân, nằm bên dòng sông Trà, cái tên Thiên Ấn gắn với hình ảnh được người xưa gọi “Thiên Ấn Niêm Hà” - Ấn trời đóng trên dòng sông. 
 
@@ -21,9 +26,9 @@ Năm Tự Đức thứ 3, Núi Thiên Ấn được ghi vào điển tịch, hà
 
 Chùa Thiên Ấn được xây dựng vào năm 1694 và hoàn thành một năm sau đó, dưới thời chúa Nguyễn Phúc Chu Đàng Trong. Đến năm 1717, chúa Nguyễn Phúc Chu là người sùng đạo Phật, đã ban cho chùa biển “Sắc Tứ Thiên Ấn Tự”.
 
-Sau 320 năm, Chùa Thiên Ấn đã trải qua 5 lần tu sửa, 16 đời trụ trì trong đó có 6 vị được tôn là sư tổ. Ngoài nhà phương trượng được xây dựng theo kiến trúc nhà rường, chùa Thiên Ấn nhìn chung không có kiến trúc đặc sắc, nhưng bù lại được tọa lạc trên ngọn núi thiêng liêng in sâu trong tâm tưởng người Quảng Ngãi.
+Sau 320 năm, Chùa Thiên Ấn đã trải qua 5 lần tu sửa, 16 đời trụ trì trong đó có 6 vị được tôn là sư tổ. Ngoài nhà phương trượng được xây dựng theo kiến trúc nhà rường, chùa Thiên Ấn nhìn chung không có kiến trúc đặc sắc, nhưng bù lại được tọa lạc trên ngọn núi thiêng liêng in sâu trong tâm tưởng người [Quảng Ngãi](https://vegiang.com/tag/quang-ngai-nho-thuong).
 
-## Chùa Thiên Ấn mùa xuân 2021, sau một năm bão lũ dịch bệnh hoành hành
+## Chùa Thiên Ấn xuân 2021, sau một năm bão lũ dịch bệnh hoành hành <a name="Chùa Thiên Ấn xuân 2021, sau một năm bão lũ dịch bệnh hoành hành"></a>
 
 Từ cầu Trà Khúc đi vào QL24B theo hướng chợ Tịnh Châu, Thành Cổ Châu Sa và Khu Chứng Tích Sơn Mỹ, Chùa Thiên Ấn thuộc xã Tịnh Ấn, huyện Sơn Tịnh. Con đường lên chùa quanh co nay đã được trải nhựa đẹp, bạn có thể đi ô tô lên đến đỉnh. Ngoài ra, chùa Thiên Ấn còn một lối đi bộ lên chùa, cũng được làm bậc cấp dễ đi.
 
@@ -97,7 +102,9 @@ _Cây ước nguyện treo nhiều dây đỏ cầu bình an_
 ![Tre trên núi Thiên Ân](/images/tre-tren-nui-Thien-An.JPG)
 _Khóm tre xanh mát ở bãi đỗ xe trên núi_
 
-## Thiên Ấn trong tim người Quảng Ngãi
+> Xem thêm: [Khu Chứng tích Sơn Mỹ Quảng Ngãi](https://vegiang.com/khu-chung-tich-son-my-quang-ngai/)
+
+## Thiên Ấn trong tim người Quảng Ngãi <a name="Thiên Ấn trong tim người Quảng Ngãi"></a>
 
 Chùa Thiên Ấn không những được các tăng ni phật tử tôn xưng ngôi vị tổ đình mà đối với người dân Quảng Ngãi còn có sự gắn bó tình cảm bền chặt thể hiện qua các giai thoại và ca dao sâu đậm nghĩa tình được truyền miệng từ đời này đến đời khác.
 
