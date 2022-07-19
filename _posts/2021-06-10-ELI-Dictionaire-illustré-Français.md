@@ -10,13 +10,18 @@ featured: false
 ---
 _Nếu bạn đang tìm tài liệu học hoặc dạy tiếng Pháp, đừng bỏ qua cuốn này nhé. Khi bắt đầu học tiếng Pháp, ELI Dictionaire illustré Français sẽ hỗ trợ bạn học một số từ vựng phổ biến hàng ngày._
 
-## Bố cục cuốn sách ELI Dictionaire illustré Français
+# Mục lục
+1. [Bố cục cuốn sách ELI Dictionaire illustré Français](#Bố cục cuốn sách ELI Dictionaire illustré Français)
+2. [Cuốn ELI Dictionaire illustré Français chỉ có từ vựng danh từ phải không?](#Cuốn ELI Dictionaire illustré Français chỉ có từ vựng danh từ phải không?)
+3. [LINK DOWNLOAD SÁCH](#LINK DOWNLOAD SÁCH)
+
+## Bố cục cuốn sách ELI Dictionaire illustré Français <a name="Bố cục cuốn sách ELI Dictionaire illustré Français"></a>
 
 Nội dung sách trải dài trong 90 trang, được chia làm 43 chủ đề. Các chủ đề này quen thuộc, được sử dụng nhiều như nhà bếp, nhà tắm, gia đình, garage, vườn đến các địa điểm công cộng như ở sân bay, nhà ga, siêu thị, nhà hàng, đến công việc như trường học, văn phòng. 
 
 ELI Dictionaire illustré Français còn có các chủ đề như trang trại, khu rừng đến sở thích như thể thao,…
 
-## Cuốn ELI Dictionaire illustré Français chỉ có từ vựng danh từ phải không?
+## Cuốn ELI Dictionaire illustré Français chỉ có từ vựng danh từ phải không? <a name="Cuốn ELI Dictionaire illustré Français chỉ có từ vựng danh từ phải không?"></a>
 
 Danh từ chiếm khoảng 80% trong cuốn sách này, tuy nhiên các động từ, tính từ cũng được hệ thống ở các mục cuối của cuốn sách.
 
@@ -31,4 +36,6 @@ _Mục lục các chủ đề từ vựng trong cuốn sách_
 
 ![Bài học cuốn ELI Dictionaire illustré Français](/images/sach-hoc-tu-vung-tieng-phap.png)
 
-> LINK DOWNLOAD SÁCH: [ELI Dictionaire illustré Français](https://drive.google.com/file/d/1K92RRSgMo17o67ilhrBGoaTsTK4d0DgU/view)
+## LINK DOWNLOAD SÁCH <a name="LINK DOWNLOAD SÁCH"></a>
+
+[ELI Dictionaire illustré Français](https://drive.google.com/file/d/1K92RRSgMo17o67ilhrBGoaTsTK4d0DgU/view)
