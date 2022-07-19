@@ -13,8 +13,8 @@ _Chưa có tòa tư dinh nào ở Sài Gòn sở hữu vị trí và kiến trú
 
 # Mục lục
 1. [Tòa nhà Bảo Tàng Mỹ Thuật Thành phố Hồ Chí Minh - Dinh Thự Nhà Họ Hứa nổi tiếng một thời](#Tòa nhà Bảo Tàng Mỹ Thuật Thành phố Hồ Chí Minh - Dinh Thự Nhà Họ Hứa nổi tiếng một thời)
- 1. [Lịch sử Nhà Bảo Tàng Mỹ Thuật](#Lịch sử Nhà Bảo Tàng Mỹ Thuật)
- 2. [Kiến trúc đặc sắc của Tòa nhà Bảo Tàng Mỹ Thuật thành Phố](#Kiến trúc đặc sắc của Tòa nhà Bảo Tàng Mỹ Thuật thành Phố)
+   1. [Lịch sử Nhà Bảo Tàng Mỹ Thuật](#Lịch sử Nhà Bảo Tàng Mỹ Thuật)
+   2. [Kiến trúc đặc sắc của Tòa nhà Bảo Tàng Mỹ Thuật thành Phố](#Kiến trúc đặc sắc của Tòa nhà Bảo Tàng Mỹ Thuật thành Phố)
 2. [Bảo Tàng Mỹ Thuật – Lát cắt của nghệ thuật đương đại Việt Nam](#Bảo Tàng Mỹ Thuật – Lát cắt của nghệ thuật đương đại Việt Nam)
 3. [Bảo Tàng Mỹ Thuật Thành Phố, kinh nghiệm lần đầu tham quan](#Bảo Tàng Mỹ Thuật Thành Phố, kinh nghiệm lần đầu tham quan)
    1. [Địa chỉ và chỗ gửi xe tại Bảo Tàng Mỹ Thuật](#Địa chỉ và chỗ gửi xe tại Bảo Tàng Mỹ Thuật)
@@ -24,11 +24,11 @@ _Chưa có tòa tư dinh nào ở Sài Gòn sở hữu vị trí và kiến trú
    5. [Sơ đồ tham quan Bảo tàng](#Sơ đồ tham quan Bảo tàng)
 4. [Vài dòng suy nghĩ,](#Vài dòng suy nghĩ,)
 
-## Tòa nhà Bảo Tàng Mỹ Thuật Thành phố Hồ Chí Minh - Dinh Thự Nhà Họ Hứa nổi tiếng một thời <a name="Hệ quy chiếu của cái giếng thời bé"></a>
+## Tòa nhà Bảo Tàng Mỹ Thuật Thành phố Hồ Chí Minh - Dinh Thự Nhà Họ Hứa nổi tiếng một thời <a name="Tòa nhà Bảo Tàng Mỹ Thuật Thành phố Hồ Chí Minh - Dinh Thự Nhà Họ Hứa nổi tiếng một thời"></a>
 
 Ngoài câu chuyện “Con ma nhà họ Hứa” được lưu truyền, điều làm nên danh tiếng của Nhà Chú Hỏa nay là Bảo Tàng Mỹ Thuật Thành Phố Hồ Chí minh, phải kể đến hai nét chính sau:
 
-### Lịch sử Nhà Bảo Tàng Mỹ Thuật
+### Lịch sử Nhà Bảo Tàng Mỹ Thuật <a name="Lịch sử Nhà Bảo Tàng Mỹ Thuật"></a>
 
 Dinh thự nổi tiếng này gắn liền với các huyền thoại và tên tuổi một doanh nhân người Hoa tên là Hứa Bổn Hòa, mà người dân nơi đây vẫn quen gọi là Chú Hỏa – Người giàu nhất Sài Gòn vào những năm đầu thế kỉ 20.
 
@@ -43,7 +43,7 @@ Riêng với tư dinh Chú Hỏa hoàn thành xây dựng vào năm 1925, đư�
 
 Bảo tàng Mỹ thuật thành phố được thành lập vào năm 1987, nhưng chính thức mở cửa đón khách tham quan vào năm 1989. Trải qua nhiều biến động của lịch sử, Nhà Chú Hỏa ngày nay trở thành Bảo Tàng Mỹ Thuật là một trong những công trình văn hóa tiêu biểu của thành phố.
 
-### Kiến trúc đặc sắc của Tòa nhà Bảo Tàng Mỹ Thuật thành Phố
+### Kiến trúc đặc sắc của Tòa nhà Bảo Tàng Mỹ Thuật thành Phố <a name="Kiến trúc đặc sắc của Tòa nhà Bảo Tàng Mỹ Thuật thành Phố"></a>
 
 Công trình có kết cấu bê tông cốt thép cao 4 tầng, với bố cục đăng đối khép kín tạo một sân trong. Tường của dinh thự được đúc kiên cố dày từ 40 – 60 cm, với 99 cửa lớn, nhỏ và cửa sổ.
 
@@ -94,7 +94,7 @@ _Cửa vòm đặc trưng của phương Tây và trụ cẩm thạch đẹp m�
 _Thang máy đầu tiên tại Sài Gòn_
 {:refdef}
 
-## Bảo Tàng Mỹ Thuật – Lát cắt của nghệ thuật đương đại Việt Nam
+## Bảo Tàng Mỹ Thuật – Lát cắt của nghệ thuật đương đại Việt Nam <a name="Bảo Tàng Mỹ Thuật – Lát cắt của nghệ thuật đương đại Việt Nam"></a>
 
 Bằng nổ lực sưu tầm của những con người làm công tác bảo tàng đầy tâm huyết, Bảo Tàng Mỹ Thuật Thành Phố ngày nay đã có hơn 21.000 hiện vật bao gồm tranh, tượng và các di vật liên quan đến các tên tuổi lớn của làng mỹ thuật nước nhà.
 
@@ -137,11 +137,11 @@ _Tác phẩm Vườn Xuân Trung Bắc Nam của Danh họa Nguyễn Gia Trí_
 
 Không chỉ trưng bày những tác phẩm mỹ thuật, nơi đây còn diễn ra nhiều sự kiện nghệ thuật nổi tiếng trong và ngoài nước. Hôm tham quan Bảo Tàng Mỹ Thuật, mình tình cờ được tham gia triển lãm Búp Bê Truyền Thống Nhật Bản, vô cùng đa dạng và đặc sắc.
 
-## Bảo Tàng Mỹ Thuật Thành Phố, kinh nghiệm lần đầu tham quan
+## Bảo Tàng Mỹ Thuật Thành Phố, kinh nghiệm lần đầu tham quan <a name="Bảo Tàng Mỹ Thuật Thành Phố, kinh nghiệm lần đầu tham quan"></a>
 
 Dù làm việc ở Quận 1 vài năm, đi qua Tòa Dinh này không biết bao lần, nhưng đây là lần đầu mình mua vé vào tham quan. Mình chia sẻ đến bạn vài thông tin cần thiết bên dưới, hãy cập nhật nhé!
 
-### Địa chỉ và chỗ gửi xe tại Bảo Tàng Mỹ Thuật
+### Địa chỉ và chỗ gửi xe tại Bảo Tàng Mỹ Thuật <a name="Địa chỉ và chỗ gửi xe tại Bảo Tàng Mỹ Thuật"></a>
 
 Tòa nhà nằm ở khu tứ giác với bốn mặt đường của quận 1: Phó Đức Chính, Lê Thị Hồng Gấm, Nguyễn Thái Bình và Calmette.
 
@@ -153,11 +153,11 @@ Tòa nhà nằm ở khu tứ giác với bốn mặt đường của quận 1: P
 
 Bạn chạy xe thẳng vào cửa, rẽ trái sẽ thấy chỗ giữ xe gần quầy bán vé. Giá vé giữ xe máy là 5.000đ/ lượt.
 
-### Giờ mở cửa tham quan Bảo Tàng
+### Giờ mở cửa tham quan Bảo Tàng <a name="Giờ mở cửa tham quan Bảo Tàng"></a>
 
 Bảo tàng mở cửa từ Thứ Hai đến Chủ Nhật, bắt đầu 8h00 – 17h00.
 
-### Giá vé vào Bảo tàng Mỹ thuật
+### Giá vé vào Bảo tàng Mỹ thuật <a name="Giá vé vào Bảo tàng Mỹ thuật"></a>
 
 Nếu không có thẻ sinh viên, vé người lớn là 30.000đ/ lượt.
 
@@ -165,12 +165,12 @@ Nếu không có thẻ sinh viên, vé người lớn là 30.000đ/ lượt.
 ![Vé tham quan Bảo Tàng Mỹ Thuật](/images/ve-tham-quan-Bao-tang-my-thuat.JPG)
 {:refdef}
 
-### Chuyện chụp hình ở Bảo Tàng Mỹ Thuật Thành Phố
+### Chuyện chụp hình ở Bảo Tàng Mỹ Thuật Thành Phố <a name=" Chuyện chụp hình ở Bảo Tàng Mỹ Thuật Thành Phố"></a>
 
 Bất kể bạn mang máy ảnh to hay nhỏ, chụp hình một mình hay ekip đều phải đóng phí 300.000đ/ tiếng. Chụp hình bằng điện thoại thì không tốn phí. Điều này làm mình rất bức xúc, mình tham quan chụp hình cảnh quan, kiến trúc bằng cái smart camera cũng bắt tính phí.
 Vì dân “vô sản” mình đành dùng cái stupid phone của mình để chụp. Buồn không thể tả, bạn xem hình xấu vậy chứ bên ngoài đẹp gấp mấy lần đó.
 
-### Sơ đồ tham quan Bảo tàng
+### Sơ đồ tham quan Bảo tàng <a name="Sơ đồ tham quan Bảo tàng"></a>
 
 Chắc tòa nhà 1 chiếm hơi nhiều spotlight, nhưng cả khuôn viên Bảo Tàng Mỹ thuật có tận 3 tòa nhà. Bạn xem sơ đồ được đặt ngay lối vào giữ hai Tòa 1 và 2.
 
@@ -214,7 +214,7 @@ _Tầng ba của tòa 1, các bạn trẻ thường chụp hình checkin ở đ�
   <em>Không gian khoảng sân trong của tòa 1 là nơi mình thích nhất</em>
 </div>
 
-## Vài dòng suy nghĩ,
+## Vài dòng suy nghĩ, <a name="Vài dòng suy nghĩ,"></a>
 
 Đây là bảo tàng thứ 5 mình có dịp đi tham quan ở TP.HCM. Cũng như Bảo Tàng Lịch Sử và Bảo Tàng Thành Phố, Bảo Tàng Mỹ Thuật ít được xuất hiện trong chương trình city tour. Mình cảm thấy rất đáng tiếc khi quảng bá cho hình ảnh du lịch của Thành phố, mà thiếu mất những điểm đến cổ kính, diễm lệ như những tòa dinh thự này.
 
