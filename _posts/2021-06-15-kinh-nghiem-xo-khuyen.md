@@ -10,9 +10,15 @@ featured: false
 ---
 _Trường hợp của mình là xỏ 4 lỗ khuyên tai 1 lúc, đối với mình – Người chưa từng xỏ bất kỳ khuyên gì cũng như xăm trổ, thì đây là một trải nghiệm khó quên. Bài viết hôm nay để ghi lại kỉ niệm này cũng như chia sẻ cho những bạn muốn xỏ khuyên giống mình có thêm thông tin nhé!_
 
+# Mục lục
+1. [Xỏ khuyên tai cho người lớn như thế nào? Xỏ ở đâu uy tín an toàn?](#Xỏ khuyên tai cho người lớn như thế nào? Xỏ ở đâu uy tín an toàn?)
+2. [Khi xỏ khuyên có đau không? Có chảy máu nhiều không?](#Khi xỏ khuyên có đau không? Có chảy máu nhiều không?)
+3. [Kinh nghiệm chăm sóc lỗ khuyên sau khi xỏ](#Kinh nghiệm chăm sóc lỗ khuyên sau khi xỏ)
+4. [Còn xỏ khuyên rốn, lưỡi, dưới da thì sao?](#Còn xỏ khuyên rốn, lưỡi, dưới da thì sao?)
+
 Trước khi vào nội dung chính, mình nói qua rằng trường hợp đi xỏ khuyên của mình là đơn giản nhất. Nhưng vì chưa xỏ lần nào, lại xỏ khuyên tai khi đã lớn đùng rồi, nên mình đã tìm hiểu vô cùng kĩ lưỡng.
 
-## Xỏ khuyên tai cho người lớn như thế nào? Xỏ ở đâu uy tín an toàn?
+## Xỏ khuyên tai cho người lớn như thế nào? Xỏ ở đâu uy tín an toàn? <a name="Xỏ khuyên tai cho người lớn như thế nào? Xỏ ở đâu uy tín an toàn?"></a>
 
 Đa số các bạn nữ mình biết đã được phụ huynh xỏ cho khuyên tai khi còn bé xíu, riêng mình vì sợ đau nên mẹ mình không xỏ cho mình từ nhỏ và thấy cũng chẳng cần thiết lắm. Mãi cho đến khi mình vào đại học, xem nhiều kênh thời trang, idol Hàn Nhật các kiểu thấy xỏ khuyên tai đẹp quá. Thế là mình ấm ủ ý định sẽ xỏ từ đó.
 
@@ -41,7 +47,7 @@ Cuối cùng mình chọn làm ở Thế Giới Xỏ khuyên – Piercing World 
 ![Quầy trưng bày khuyên của cơ sở xỏ khuyên](/images/dia-chi-xo-khuyen-tai-Tphcm.jpg)
 _Quầy trưng bày khuyên của cơ sở này_
 
-## Khi xỏ khuyên có đau không? Có chảy máu nhiều không?
+## Khi xỏ khuyên có đau không? Có chảy máu nhiều không? <a name="Khi xỏ khuyên có đau không? Có chảy máu nhiều không?"></a>
 
 Sau khi liên hệ đặt lịch hẹn, mình đi xỏ khuyên, hồi hộp kinh khủng đó quý vị. Mình sẽ kể chi tiết buổi chiều hôm ấy.
 
@@ -95,7 +101,7 @@ Hình như còn nữa nhưng mình không nhớ chi tiết. Ấn tượng đầu
 ![Kinh nghiệm xỏ khuyên lần đầu](/images/xo-khuyen-piercing-vegiang.com.jpg)
 _Mình sau hôm đi xỏ 1 ngày_
 
-## Kinh nghiệm chăm sóc lỗ khuyên sau khi xỏ
+## Kinh nghiệm chăm sóc lỗ khuyên sau khi xỏ <a name="Kinh nghiệm chăm sóc lỗ khuyên sau khi xỏ"></a>
 
 Sau khi hoàn thành xỏ khuyên, mình ngắm đã đời trong gương, đến công đoạn bạn ấy dặn dò chăm sóc sau khi xỏ khuyên. Tất cả có trong tờ phiếu này, bạn ấy nhắc đi nhắc lại không đụng chạm tay vào lỗ khuyên, không xoay khuyên trong 1 tháng đầu, vệ sinh bằng cách nhỏ nước muối sinh lý và thấm nhẹ nhàng thôi.
 
@@ -106,14 +112,14 @@ Mình thực hiện đúng không sót ý nào, kể cả mua kháng sinh về u
 
 Theo kinh nghiệm xỏ khuyên của mình là thời gian đầu, bạn cần chăm chỉ vệ sinh bên ngoài bằng nước muối sinh lý, đừng để bị viêm nặng quá nhé!
 
-## Còn xỏ khuyên rốn, lưỡi, dưới da thì sao?
+## Còn xỏ khuyên rốn, lưỡi, dưới da thì sao? <a name="Còn xỏ khuyên rốn, lưỡi, dưới da thì sao?"></a>
 
 Mình chỉ xỏ khuyên tai đã thấy vô cùng kỳ công khi chăm sóc rồi, còn những vị trí như rốn, mũi, lưỡi hay dưới da mình nghĩ phải cận thận hơn, vì thời gian lành sẽ lâu hơn nhiều. Xỏ những vị trí khó bạn cần tìm hiểu kỹ lưỡng trước khi quyết định xỏ nha.
 
-Tạm kết
+Tạm kết,
 
 Nhìn chung mình cảm thấy rất ưng ý khi đi xỏ khuyên lần đầu. Đây là trải nghiệm ấn tượng đối với mình. Xỏ khuyên hay xăm mình không xấu, chỉ là bạn cần tìm nơi xỏ chất lượng, đảm bảo y tế, để không bị lây nhiễm bệnh và quan trọng hãy suy nghĩ thật kỹ trước khi quyết định thực hiện.
 
-Và còn nhiều trải nghiệm thú vị khác mình sẽ chia sẻ trên Blog vegiang.com này, ban hãy theo dõi và đón đọc nhé !
+Và còn nhiều trải nghiệm thú vị khác mình sẽ chia sẻ trên Blog [vegiang.com](https://vegiang.com/) này, ban hãy theo dõi và đón đọc nhé !
 
 Sài Gòn, ngày 20 tháng 12 năm 2019,
