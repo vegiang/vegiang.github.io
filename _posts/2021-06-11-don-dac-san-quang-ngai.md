@@ -12,7 +12,15 @@ image: /images/don-dac-san-quang-ngai.JPG
 ---
 _Chưa có chủ đề nào trên blog này làm mình đắn đo nhiều như “món don”. Chỉ ước được Thạch Lam, Vũ Bằng “nhập” để có thể “cắt nghĩa, gọi tên” thật đắt cho món ăn này. Bởi lẽ, món don là đặc sản của đất Quảng Ngãi mà theo mình cảm nhận, nó mang đầy đủ cái đẹp, cái hồn của người quê mình._
 
-## Con don - đặc sản Quảng Ngãi
+# Mục lục
+1. [Con don - đặc sản Quảng Ngãi](#Con don - đặc sản Quảng Ngãi)
+2. [Món don được nấu như thế nào?](#Món don được nấu như thế nào?)
+   1. [Sơ chế nguyên liệu nấu món don Quảng Ngãi](#Sơ chế nguyên liệu nấu món don Quảng Ngãi)
+   2. [Cách nấu nồi don ngon đúng điệu](#Cách nấu nồi don ngon đúng điệu)
+3. [Hương vị tô don gây thương nhớ](#Hương vị tô don gây thương nhớ)
+4. [Tâm sự chuyện ẩm thực quê mình](#Tâm sự chuyện ẩm thực quê mình)
+
+## Con don - đặc sản Quảng Ngãi <a name="Con don - đặc sản Quảng Ngãi"></a>
 
 Don là loài nhuyễn thể nước ngọt. Ở Quảng Ngãi, don có nhiều nhất ở sông Trà và sông Vệ. Nhiều người lầm tưởng nó với loài hến, nhưng don có đặc trưng riêng. Nếu bạn đã từng biết đến món cơm hến, hến xào ở những vùng khác, bạn sẽ dễ hình dung về con don hơn. 
 
@@ -26,7 +34,7 @@ Con don sống vùi trong tầng cát đáy sông, thức ăn của chúng là c
 ![Cào don Quảng Ngãi](/images/cao-don-tren-song-Ve-Quang-Ngai.jpg)
 _Người dân cào don trên sông Vệ. Nguồn ảnh*_
 
-## Món don được nấu như thế nào?
+## Món don được nấu như thế nào? <a name="Món don được nấu như thế nào?"></a>
 
 Để nấu được 4 phần/ tô don, ta cần các nguyên liệu sau:
 -	2 ống bơ/lon don
@@ -36,14 +44,14 @@ _Người dân cào don trên sông Vệ. Nguồn ảnh*_
 -	02 bánh tráng sống 
 -	Gia vị: muối, bột nêm…
 
-### Sơ chế nguyên liệu nấu món don Quảng Ngãi:
+### Sơ chế nguyên liệu nấu món don Quảng Ngãi <a name="Sơ chế nguyên liệu nấu món don Quảng Ngãi"></a>
 
 Don mua về bạn ngâm với nước vo gạo hoặc ớt từ 2 – 3 tiếng để don ra hết cát. Sau đó chà rửa sạch với nước đến khi nước rửa trong (3-4 nước) 
 Hành tây bạn bổ dọc cắt mỏng dạng sợi, ngâm với nước muối loãng cho bớt hang, sau đó vớt ra để ráo nước.
 
 Hành lá cắt nhỏ.
 
-### Cách nấu nồi don ngon đúng điệu
+### Cách nấu nồi don ngon đúng điệu <a name="Cách nấu nồi don ngon đúng điệu"></a>
 
 Don sau khi được rửa sạch, bạn đem đi luộc với tỉ lệ nước 1 chén don – 2 chén nước. Đợi nước sôi, bạn khoáy cho don chin đều. Đun thêm vài phút, bạn quan sát thấy don đã tách vỏ hết thì trút nồi don này vào rỗ đặt trên một cái nồi khác, để tách riêng phần cái và nước.
 
@@ -54,7 +62,7 @@ Phần nước luộc don, bạn để lắng lại. Sau đó bạn lấy phần
 ![Thịt don](/images/thit-don-Quang-Ngai.JPG)
 _Một to don với thịt don, bánh tráng sống, hành lá, hành củ và nước don_
 
-## Hương vị tô don gây thương nhớ
+## Hương vị tô don gây thương nhớ <a name="Hương vị tô don gây thương nhớ"></a>
 
 Sau khi đã chuẩn bị xong nồi nước, thịt don, hành tây hành ta, bánh tráng, bạn bỏ nhỏ bánh tráng sống vào tô, cho thêm hành, một ít thịt don và múc nước don vào tô. Đợi vài phút khi bánh tráng ngậm nước, bạn có thể bẻ thêm bánh tráng nướng, thêm chút tương ớt Quảng Ngãi và thưởng thức.
 
@@ -71,7 +79,7 @@ Thời tiết nóng bức, ăn gì cũng chẳng thấy ngon thì tô don như �
 ![Don Trứng Lộn Quảng Ngãi](/images/don-trung-vit-lon-Quang-Ngai.JPG)
 _Giờ đây bà con mình còn ăn don với trứng vịt lộn_
 
-## Tâm sự chuyện ẩm thực quê mình
+## Tâm sự chuyện ẩm thực quê mình <a name="Tâm sự chuyện ẩm thực quê mình"></a>
 
 Điều khiến mình buồn khi giới thiệu món don với bạn bè vùng khác chính là đa phần họ không hiểu món don cũng như cách chế biến của người miền Trung nói chung.
 
