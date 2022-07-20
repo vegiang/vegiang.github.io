@@ -10,9 +10,20 @@ featured: false
 ---
 _Nằm yên tĩnh bên con đường Nam Kỳ Khởi Nghĩa – Lý Tự Trọng, Bảo tàng thành phố Hồ Chí Minh mang trong mình bao dấu ấn của lịch sử và văn hóa. Cùng mình ghé thăm Bảo tàng thành phố - Dinh Gia Long xưa và khám phá những điều thú vị bạn nhé!_
 
+# Mục lục
+1. [Bảo tàng thành phố Hồ Chí Minh – Địa danh nổi tiếng một thời](#Bảo tàng thành phố Hồ Chí Minh – Địa danh nổi tiếng một thời)
+2. [Giá trị kiến trúc của Bảo tàng TP.HCM](#Giá trị kiến trúc của Bảo tàng TP.HCM)
+3. [Các phòng trưng bày của Bảo tàng Thành Phố Hồ Chí Minh](#Các phòng trưng bày của Bảo tàng Thành Phố Hồ Chí Minh)
+4. [Thông tin từ A-Z cho chuyến tham quan Bảo tàng thành phố Hồ Chí Minh](#Thông tin từ A-Z cho chuyến tham quan Bảo tàng thành phố Hồ Chí Minh)
+   1. [Giờ mở cửa tham quan](#Giờ mở cửa tham quan)
+   2. [Địa chỉ Bảo Tàng TP.HCM](#Địa chỉ Bảo Tàng TP.HCM)
+   3. [Gửi xe tại bảo tàng](#Gửi xe tại bảo tàng)
+   4. [Giá vé tham quan Bảo tàng Thành phố Hồ Chí Minh](#Giá vé tham quan Bảo tàng Thành phố Hồ Chí Minh)
+   5. [Chuyện chụp hình ở Bảo tàng thành phố Hồ Chí Minh](#Chuyện chụp hình ở Bảo tàng thành phố Hồ Chí Minh)
+
 Nếu Bảo tàng lịch sử trưng bày những hiện vật qua các triều đại ở miền Nam, thì Bảo Tàng Thành phố tập trung các cổ vật và mô hình phục dựng điểm nổi bật của kinh tế, văn hóa lịch sử của Sài Gòn xưa và TP.HCM hiện đại. Lý do chính mình lựa chọn Bảo Tàng thành phố để khám phá chủ yếu đến từ giá trị lịch sử và kiến trúc đặc biệt của nơi đây.
 
-# Bảo tàng thành phố Hồ Chí Minh – Địa danh nổi tiếng một thời
+## Bảo tàng thành phố Hồ Chí Minh – Địa danh nổi tiếng một thời <a name="Bảo tàng thành phố Hồ Chí Minh – Địa danh nổi tiếng một thời"></a>
 
 Nửa cuối thế kỷ 19, Sài Gòn xuất hiện nhiều công trình kiến trúc đồ sộ như Dinh Nodorom (Dinh Độc Lập), Dinh Xã Tây và một tòa dinh vô cùng bề thế nữa được xây xong vào năm 1890, đó chính là Bảo tàng Thành Phố Hồ Chí Minh ngày nay.
 
@@ -60,7 +71,9 @@ Sau ngày giải phóng 30/04/1975, Ủy Ban Công Quản tiếp nhận tòa Din
 
 Trải qua gần 100 năm sóng gió của lịch sử, tòa dinh thự giờ đây đã trở lại bình lặng, đúng với mục đích xây dựng ban đầu, mang chức năng bảo tàng. Không hiểu là hữu ý hay vô tình, người ta lại chọn đúng các vùng đất có chợ của giấy bút mực nghiên để xây dựng.
 
-## Giá trị kiến trúc của Bảo tàng TP.HCM
+> Có thể xem thêm: Loạt bài [Sài Gòn trong tôi](https://vegiang.com/tag/sai-gon-trong-toi)
+
+## Giá trị kiến trúc của Bảo tàng TP.HCM <a name="Giá trị kiến trúc của Bảo tàng TP.HCM"></a>
 
 Tuy có sự thay đổi nhỏ ở cổng vào, song tòa Dinh thự vẫn bảo tồn được những nét kiến trúc ban đầu. Tòa nhà được thiết kế theo phong cách Tây phương kết hợp với nhiều chi tiết bản địa Việt Nam.
 
@@ -90,7 +103,7 @@ _Hàng cột uốn lượn bên hành lang ngoài_
 
 Chính vì sự bề thế và uy nghi đã khiến cho tòa nhà Bảo tàng Thành Phố Hồ chí Minh xứng đáng là một trong những công trình kiến trúc hoành tráng nhất của Sài Gòn.
 
-## Các phòng trưng bày của Bảo tàng Thành Phố Hồ Chí Minh
+## Các phòng trưng bày của Bảo tàng Thành Phố Hồ Chí Minh <a name="Các phòng trưng bày của Bảo tàng Thành Phố Hồ Chí Minh"></a>
 
 Đi vào bên trong Dinh thự, bạn sẽ cảm nhận rõ phong cách phương Tây đậm nét trong nội thất của tòa nhà trong không gian. Hai tầng của tòa nhà được chia thành 9 gian trưng bày cố định:
 
@@ -152,15 +165,15 @@ _Từ súng thần công…_
 ![Trực thăng tại Bảo Tàng](/images/sung-than-cong-bao-tang-thanh-pho-ho-chi-minh.JPG)
 _..đến trực thăng lịch sử được trưng bày tại Bảo Tàng Thành Phố Hồ Chí Minh_ 
 
-Thông tin từ A-Z cho chuyến tham quan Bảo tàng thành phố Hồ Chí Minh
+## Thông tin từ A-Z cho chuyến tham quan Bảo tàng thành phố Hồ Chí Minh <a name="Thông tin từ A-Z cho chuyến tham quan Bảo tàng thành phố Hồ Chí Minh"></a>
 
 Trước khi đến Bảo tàng, mình đọc nhiều thông tin trái chiều về giá vé, chuyện chụp hình ở đây nên mình cũng hơi lo lắng. 
 
-**Giờ mở cửa tham quan**
+### Giờ mở cửa tham quan <a name="Giờ mở cửa tham quan"></a>
 
 Bảo tàng mở cửa từ 7h30 đến 17h00 từ thứ Hai đến Chủ nhật, kể cả lễ tết, nên bạn không phải lo về giờ giấc đến như ở Dinh Độc Lập. 
 
-**Địa chỉ Bảo Tàng**
+### Địa chỉ Bảo Tàng TP.HCM <a name="Địa chỉ Bảo Tàng TP.HCM"></a>
 
 Số 114 Nam Kỳ Khởi Nghĩa, Quận 1
 
@@ -171,17 +184,17 @@ Bạn đi đường Nam Kỳ Khởi Nghĩa, qua Tòa Án Thành Phố đến đ�
 ![Cổng Bảo Tàng Thành Phố Hồ Chí Minh](/images/cong-vao-bao-tang-tphcm.JPG)
 _Cổng Bảo Tàng trên đường Lý Tự Trọng_ 
 
-**Gửi xe tại bảo tàng**
+### Gửi xe tại bảo tàng <a name="Gửi xe tại bảo tàng"></a>
 
 Bảo tàng có chỗ giữ xe, bạn vào cổng của bảo tàng, rẽ phải sẽ thấy chú bảo vệ giữ x echo khách ở đấy. Giá vé giữ xe ở đây là 5.000đ/ lượt, trả ngay lúc gửi.
 
-**Giá vé Bảo tàng thành phố hồ chí minh**
+### Giá vé tham quan Bảo tàng Thành phố Hồ Chí Minh <a name="Giá vé tham quan Bảo tàng Thành phố Hồ Chí Minh"></a>
 
 Vé vào cửa Bảo tàng Thành phố là 30.000đ/ lượt cho 2 tiếng tham quan. Nếu có thẻ sinh viên, bạn sẽ được giảm giá. Nếu tham quan thêm giờ, bảo tàng có niêm yết giá vé cụ thể như hình: 
 
 ![Phòng vé bảo tàng](/images/phong-ve-bao-tang-tphcm.JPG)
 
-**Chuyện chụp hình ở Bảo tàng thành phố Hồ Chí Minh**
+### Chuyện chụp hình ở Bảo tàng thành phố Hồ Chí Minh <a name="Chuyện chụp hình ở Bảo tàng thành phố Hồ Chí Minh"></a>
 
 Mình đọc nhiều review, mọi người khó chịu về việc chụp hình ở đây. Thực tế mình đi thì không bị khó khăn trong vấn đề này. Nếu bạn chụp hình bằng điện thoại hay máy ảnh như mình thì chỉ cần mua thêm vé chụp hình 20.000đ/máy là được.
 
