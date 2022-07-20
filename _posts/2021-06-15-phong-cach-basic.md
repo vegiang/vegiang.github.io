@@ -10,9 +10,14 @@ featured: false
 ---
 _Vì tính ứng dụng cao và thời thượng, phong cách tối giản được nhiều tín đồ thời trang ngày nay ưu chuộng. Cùng tìm hiểu phong cách này và bỏ túi vài tips mix & match đồ cho riêng mình nhé!_
 
+# Mục lục
+1. [Sự phát triển của phong cách minimalism](#Sự phát triển của phong cách minimalism)
+2. [Đặc điểm nhận biết của phong cách thời trang tối giản](#Đặc điểm nhận biết của phong cách thời trang tối giản)
+3. [Phong cách Minimalism biến tấu cùng gam màu trung tính](#Phong cách Minimalism biến tấu cùng gam màu trung tính)
+
 Hiếm có phong cách thời trang nào mà hợp ý đại đa số giới mộ điệu như Minimalism. Bạn có thể tìm thấy sự thoải mái, thời thượng và sang trọng ở nó. Bởi tính ứng dụng cao, phong cách thời trang tối giản (Minimalism) dễ dàng được tìm thấy từ sàn catwalk đến đường phố.
 
-## Sự phát triển của phong cách minimalism
+## Sự phát triển của phong cách minimalism <a name="Sự phát triển của phong cách minimalism"></a>
 
 Có thể nói thời kỳ hoàng kim của minimalism là thập niên 70 của thế kỉ trước. Khi các quý cô phương Tây phát cuồng với những chiếc váy đơn sắc và jumpsuit của nhà Halston. Đến khi người thừa kế Praha – Miuccia Praha nâng tầm phong cách này bằng những chất liệu cao cấp tạo nên những bộ trang phục có sức hút mạnh mẽ.
 
@@ -28,7 +33,7 @@ Tiếp nối Coco Chanel, phong cách thời trang này càng được phát tri
 
 > CÓ THỂ BẠN QUAN TÂM: [Làm sao để sống tối giản trong xã hội 4.0](https://vegiang.com/lam-sao-de-song-toi-gian-trong-xa-hoi-5-0/)
 
-## Đặc điểm nhận biết của phong cách thời trang tối giản
+## Đặc điểm nhận biết của phong cách thời trang tối giản <a name="Đặc điểm nhận biết của phong cách thời trang tối giản"></a>
 
 Để hướng đến vẻ thanh lịch và tinh tế, các trang phục mang phong cách tối giản thường có màu đơn sắc. Cùng với đó, đường nét thiết kế cơ bản và giản lược mọi thứ ở mức đơn giản nhất có thể.
 
@@ -37,7 +42,7 @@ _Phong cách minimalism được trình diễn trên sàn catwalk. Nguồn ảnh
 
 “Minimalism kiến tạo biểu hiện hình dáng cơ thể con người thông qua những đường cắt may tinh xảo, mang đến cho người mặc một sự nổi bật đầy thoải mái, hay nói theo cách bay bổng hơn: một sự thời thượng vô cùng êm ái.” (Theo tạp chí Elle Việt Nam).
 
-## Phong cách Minimalism biến tấu cùng gam màu trung tính
+## Phong cách Minimalism biến tấu cùng gam màu trung tính <a name="Phong cách Minimalism biến tấu cùng gam màu trung tính"></a>
 
 Không chỉ gói gọn trong màu đen – trắng, váy áo suông, phong cách tối giản ngày nay còn được biến tấu thêm gam màu trung tính, giúp trang phục thêm phần tươi tắn và sinh động.
 
