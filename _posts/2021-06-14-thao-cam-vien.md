@@ -8,9 +8,16 @@ categories: kham-pha
 permalink: bao-lau-roi-ban-chua-di-thao-cam-vien-choi/
 featured: false
 ---
-Mảnh xanh nằm giữa trung tâm thành phố, Thảo Cầm Viên không quá xa lạ với người dân Sài Gòn và du khách thập phương. Có lẽ vì thân quen quá, ta dường như ít quan tâm đến nơi này. Dần dần Thảo Cầm Viên chỉ còn trong kí ức – Hồi nhỏ đã từng đi rồi – với người địa phương. Còn mình bất giác tự hỏi: Bao lâu rồi chưa đi Thảo Cầm Viên chơi nhỉ?
+_Mảnh xanh nằm giữa trung tâm thành phố, Thảo Cầm Viên không quá xa lạ với người dân Sài Gòn và du khách thập phương. Có lẽ vì thân quen quá, ta dường như ít quan tâm đến nơi này. Dần dần Thảo Cầm Viên chỉ còn trong kí ức – Hồi nhỏ đã từng đi rồi – với người địa phương. Còn mình bất giác tự hỏi: Bao lâu rồi chưa đi Thảo Cầm Viên chơi nhỉ?_
 
-## Dành ngày nghỉ lễ 2/9 cho Thảo Cầm Viên
+# Mục lục
+1. [Dành ngày nghỉ lễ 2/9 cho Thảo Cầm Viên](#Dành ngày nghỉ lễ 2/9 cho Thảo Cầm Viên)
+2. [Sở Thú không chỉ có thú](#Sở Thú không chỉ có thú)
+3. [Kinh nghiệm đi chơi Thảo Cầm Viên trọn vẹn](#Kinh nghiệm đi chơi Thảo Cầm Viên trọn vẹn)
+4. [Nổi niềm của Thảo Cầm Viên và Bảo Tàng Lịch Sử](#Nổi niềm của Thảo Cầm Viên và Bảo Tàng Lịch Sử)
+5. [Một số hình ảnh tại Thảo Cầm Viên do mình chụp](#Một số hình ảnh tại Thảo Cầm Viên do mình chụp)
+
+## Dành ngày nghỉ lễ 2/9 cho Thảo Cầm Viên <a name="Dành ngày nghỉ lễ 2/9 cho Thảo Cầm Viên"></a>
 
 Tháng 8 Thảo Cầm Viên- Sở Thú hơn 156 tuổi gây chú ý dư luận bởi lời cầu cứu, xin hỗ trợ thức ăn cho hơn 1500 động vật, do COVID-19 khiến ban quản lý không kham còn đủ chi phí, dù nhân viên tình nguyện giảm 30% lương. 
 
@@ -18,7 +25,7 @@ Tháng 8 Thảo Cầm Viên- Sở Thú hơn 156 tuổi gây chú ý dư luận b
 
 Đây là lần thứ 3 mình đi Thảo Cầm Viên, lần gần nhất cách đây cũng 4 năm rồi. Tuy vậy, còn nhiều chỗ ở đây mình chưa khám phá hết. Bằng chứng là chỉ cần lượn một vòng Instagram với hastag #SaigonZoo, bạn sẽ bất ngờ vì có nhiều góc lạ vô cùng.
 
-## Sở Thú không chỉ có thú
+## Sở Thú không chỉ có thú <a name="Sở Thú không chỉ có thú"></a>
 
 Mình không thích nuôi nhốt động vật hoang dã càng không thích xem xiếc, nhưng ở Thảo Cầm Viên thì khác. Những con thú ở đây đa phần là được cứu về hoặc mất khả năng tự sinh tồn trong môi trường tự nhiên. Trước đó, còn có bài báo nói thú ở Thảo Cầm Viên bị ngược đãi, ốm giơ xương,.. Điều đó không đúng đâu, nói vậy tội cho nhân viên Sở Thú quá.
 
@@ -62,7 +69,7 @@ _Lối vào Nhà Lan của Thảo Cầm Viên_
 ![Bên trong nhà lan thảo cầm viên](/images/Vegiang-nha-lan-Thao-Cam-Vien.JPG)
 _Chờ mãi mới được một lúc nhà lan vắng khách tham quan_
 
-## Kinh nghiệm đi chơi Thảo Cầm Viên trọn vẹn
+## Kinh nghiệm đi chơi Thảo Cầm Viên trọn vẹn <a name="Kinh nghiệm đi chơi Thảo Cầm Viên trọn vẹn"></a>
 
 Để chuyến đi  hoàn hảo nhất, bạn cần chuẩn bị kỹ lưỡng và có kế hoạch. Đừng hứng lên rồi đi, bạn sẽ bị bỏ lỡ nhiều thứ hay xảy ra những sự cố không mong muốn. Điều này làm giảm chất lượng cuộc đi chơi, đi Thảo Cầm Viên cũng vậy. Sau đây là một số kinh nghiệm ‘xương máu” mình tự rút ra sau ba lần đi. 
 
@@ -81,7 +88,7 @@ _Hai bác chuẩn bị hành trang dã ngoại bài bản_
 
 **Lấy bản đồ công viên ngay khi vào cửa:** Vì không cầm bản đồ Thảo Cầm Viên mà tụi mình tự lần mò đường với hỏi thăm nhân viên loạn xạ cả lên. Để tiết kiệm thời gian và sức lực đi qua đi lại, bạn hãy lấy bản đồ công viên ngay khi mua vé vào cửa nhé !
 
-## Nổi niềm của Thảo Cầm Viên và Bảo Tàng Lịch Sử
+## Nổi niềm của Thảo Cầm Viên và Bảo Tàng Lịch Sử <a name="Nổi niềm của Thảo Cầm Viên và Bảo Tàng Lịch Sử"></a>
 
 Hôm mình đi đúng ngày lễ, có lễ vì vậy mà Sở Thú đông hơn. Khách đến đông nhân viên cũng phấn khởi. Trải qua mấy tháng dịch bệnh, ngày hôm ấy có vẻ là điểm sáng sau những ngày u tối. Cũng thuộc khuôn viên của Thảo Cầm Viên, Bảo Tàng Lịch Sử Thành Phố Hồ Chí Minh nằm khiêm tốn đối diện đền thờ Vua Hùng. Lần này, mình có ghé thăm bảo tàng, được giảm giá vé vào cửa chỉ 21K/ vé. Nghe nhân viên nói chuyện với nhau thấy thương: “Lâu lắm mới thấy khách tham quan đông vậy…”
 
@@ -91,7 +98,7 @@ Không chỉ vì dịch COVID-19, thường ngày những điểm đến văn h�
 
 Riêng mình quan niệm, thay vì đi cà phê, xem phim như bình thường, nếu có thời gian mình cũng muốn ghé thăm các bảo tàng, công viên của Thành phố. Đây là cách đơn giản để tìm hiểu một vùng đất theo chiều dài lịch sử.
 
-## Một số hình ảnh tại Thảo Cầm Viên do mình chụp
+## Một số hình ảnh tại Thảo Cầm Viên do mình chụp <a name="Một số hình ảnh tại Thảo Cầm Viên do mình chụp"></a>
 
 ![Vườn Hồng Hạc Thảo Cầm Viên](/images/vuon-hong-hac-thao-cam-vien.jpg)
 _Lối vào Vườn Hồng Hạc_
@@ -144,3 +151,5 @@ _Cây này cao lắm, hoa cũng đặc biệt_
 ![cây hoa thảo cầm viên](/images/hoa-Thao-Cam-vien.jpg)
 
 ![Cây chuối thảo cầm viên](/images/cay-chuoi-Thao-Cam-Vien.jpg)
+
+> Xem thêm: [Sài Gòn qua lăng kính của Giang](https://vegiang.com/tag/sai-gon-trong-toi)
