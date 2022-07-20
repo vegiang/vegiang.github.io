@@ -12,9 +12,15 @@ _Nếu bạn yêu thích và muốn tìm hiểu văn hóa của một vùng đ�
 
 Mình lựa chọn ghé thăm nơi này cho ngày nghỉ thay vì đi xem phim, cà phê như bình thường. Vừa muốn đổi gió vừa muốn có thêm trải nghiệm đặc biệt hơn, ý nghĩa hơn. Trước khi đến Bảo tàng Lịch Sử, mình có tìm hiểu thông tin và nhận ra: Thật tiếc khi không biết đến nơi này sớm hơn.
 
-## Từ bề dày lịch sử của Bảo Tàng
+# Mục lục
+1. [Từ bề dày lịch sử của Bảo Tàng](#Từ bề dày lịch sử của Bảo Tàng)
+2. [Kiến trúc độc đáo hiếm có của Bảo Tàng Lịch Sử Thành Phố](#Kiến trúc độc đáo hiếm có của Bảo Tàng Lịch Sử Thành Phố)
+3. [Đến cổ vật quý giá được trưng bày tại Bảo Tàng Lịch Sử TP.HCM](#Đến cổ vật quý giá được trưng bày tại Bảo Tàng Lịch Sử TP.HCM)
+4. [Ghé thăm Bảo Tàng và những trải nghiệm đặc biệt](#Ghé thăm Bảo Tàng và những trải nghiệm đặc biệt)
 
-Có thể nói đây là bảo tàng đầu tiên của Sài Gòn và của cả miền Nam Việt Nam. Ngay khi Thực dân Pháp đánh chiếm Lục Tỉnh Nam Kỳ và bắt đầu xây dựng bộ máy gồm các ủy ban nghiên cứu bản địa phục vụ quá trình khai thác thuộc địa, hoạt động thu thập cổ vật Đông Dương do tướng De La Grandière chỉ huy cũng được triển khai. Các cổ vật này được trưng bày cho công chúng xem từ năm 1868, lần đầu tại Bách Thảo Sài Gòn – Thảo Cầm Viên ngày nay.
+## Từ bề dày lịch sử của Bảo Tàng <a name="Từ bề dày lịch sử của Bảo Tàng"></a>
+
+Có thể nói đây là bảo tàng đầu tiên của Sài Gòn và của cả miền Nam Việt Nam. Ngay khi Thực dân Pháp đánh chiếm Lục Tỉnh Nam Kỳ và bắt đầu xây dựng bộ máy gồm các ủy ban nghiên cứu bản địa phục vụ quá trình khai thác thuộc địa, hoạt động thu thập cổ vật Đông Dương do tướng De La Grandière chỉ huy cũng được triển khai. Các cổ vật này được trưng bày cho công chúng xem từ năm 1868, lần đầu tại Bách Thảo Sài Gòn – [Thảo Cầm Viên](https://vegiang.com/bao-lau-roi-ban-chua-di-thao-cam-vien-choi/) ngày nay.
 
 Đó cũng chính là hoạt động bảo tàng đầu tiên ở Miền nam.
 
@@ -25,7 +31,7 @@ Mãi đến năm 1929, Bảo tàng Blanchard de la Brosse (Tên ban đầu của
 ![Cổng bảo tàng Lịch sử Thành Phố Hồ Chí Minh](/images/bao-tang-lich-su-tphcm.jpg)
 _Cổng chính của Bảo Tàng Lịch Sử nằm ngay lối ra vào của Thảo Cầm Viên_
 
-## Kiến trúc độc đáo hiếm có của Bảo Tàng Lịch Sử Thành Phố
+## Kiến trúc độc đáo hiếm có của Bảo Tàng Lịch Sử Thành Phố <a name="Kiến trúc độc đáo hiếm có của Bảo Tàng Lịch Sử Thành Phố"></a>
 
 Năm 1928, tòa nhà đầu tiên của bảo tàng được xây dựng do kiến trúc sư người Pháp Auguste Delaval thiết kế,mang đậm vẻ cổ kính Đông Dương, là sự kết hợp của kiến trúc Châu Âu và nét độc đáo của bản địa, phong cách này khá thịnh hành những năm 1920 – 1945.
 
@@ -41,7 +47,7 @@ Bảo Tàng lịch sử TPHCM còn được công nhận là Di sản kiến tr�
 
 ![Dãy nhà bảo tàng lịch sử](/images/day-nha-Bao-tang-Lich-Su.jpg)
 
-## Đến cổ vật quý giá được trưng bày tại Bảo Tàng Lịch Sử TPHCM
+## Đến cổ vật quý giá được trưng bày tại Bảo Tàng Lịch Sử TP.HCM <a name="Đến cổ vật quý giá được trưng bày tại Bảo Tàng Lịch Sử TP.HCM"></a>
 
 Từ cửa đi vào, bạn sẽ được hướng dẫn rẽ trái và bắt đầu tham quan. Từ đây bạn được dạo qua các thời kỳ lịch sử từ cổ đại đến các triều đại phong kiến và lịch sử hiện đại của nước nhà nói chung và vùng đất Phương Nam nói riêng. 
 
@@ -49,7 +55,7 @@ Với hơn 37.000 cổ vật, bảo tàng lịch sử tập trung cung cấp cho
  
 ![Gian giữa của tòa nhà bảo tàng lịch sử thành phố](/images/cua-qua-gian-khac-bao-tang-lich-su-tphcm.jpg)
 
-## Ghé thăm Bảo Tàng và những trải nghiệm đặc biệt
+## Ghé thăm Bảo Tàng và những trải nghiệm đặc biệt <a name="Ghé thăm Bảo Tàng và những trải nghiệm đặc biệt"></a>
 
 Đây là lần đầu tiên mình đến Bảo tàng lịch sử. Mình muốn tận mắt nhìn thấy súng thần công, đại bác cổ. Chị mình – bạn đồng hành của mình, lại muốn thăm xác ướp. Đây cũng là lần đầu mình tận mắt nhìn thấy xác ướp. 
 
@@ -76,3 +82,5 @@ _Lần đầu chụp chế độ Padaroma hơi thất bại xíu_
 Giá vé: 30K/ người 
 
 (Theo quy định của Bảo Tàng, khách tham quan không được chụp hình (mình nhìn thấy biển No Camera). Do đó phần cổ vật mình không thể chụp lại, các bạn thông cảm nhé!)
+
+> Xem thêm: Bài viết về [Sài Gòn](https://vegiang.com/tag/sai-gon-trong-toi) qua lăng kính của Giang
