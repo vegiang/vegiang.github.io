@@ -10,7 +10,21 @@ featured: true
 ---
 _Tình cờ xem được một vài tấm ảnh được chụp cách đây gần trăm năm của đường Đồng Khởi – TPHCM, mình chợt nhớ lại dự định dang dở. Đó là làm một tour đi bộ - khám phá con đường Catinat xưa, đường Đồng Khởi ngày nay._
 
-## Lần đầu tiên đi bộ hết con đường Đồng Khởi
+# Mục lục
+1. [Lần đầu tiên đi bộ hết con đường Đồng Khởi](#Lần đầu tiên đi bộ hết con đường Đồng Khởi)
+   1. [Tôn Đức Thắng – Đồng Khởi: Mình dừng lại đoạn giao nhau này lâu hơn cả.](#Tôn Đức Thắng – Đồng Khởi: Mình dừng lại đoạn giao nhau này lâu hơn cả.)
+   2. [Ngô Đức Kế - Đồng Khởi](#Ngô Đức Kế - Đồng Khởi)
+   3. [Mạc Thị Bưởi – Đông Du - Đồng Khởi](#Mạc Thị Bưởi – Đông Du - Đồng Khởi)
+   4. [Nguyễn Thiệp – Đồng Khởi](#Nguyễn Thiệp – Đồng Khởi)
+   5. [Công Trường Lam Sơn – Lê Lợi - Đồng Khởi](#Công Trường Lam Sơn – Lê Lợi - Đồng Khởi)
+   6. [Lê Thánh Tôn – Đồng Khởi](#Lê Thánh Tôn – Đồng Khởi)
+   7. [Lý Tự Trọng – Đồng Khởi](#Lý Tự Trọng – Đồng Khởi)
+2. [Khách sạn trên đường Đồng Khởi, những cái tên gần trăm tuổi](#Khách sạn trên đường Đồng Khởi, những cái tên gần trăm tuổi)
+   1. [Khách sạn Majestic](#Khách sạn Majestic)
+   2. [Khách sạn Grand](#Khách sạn Grand)
+   3. [Khách sạn Continental](#Khách sạn Continental)
+   
+## Lần đầu tiên đi bộ hết con đường Đồng Khởi <a name="Lần đầu tiên đi bộ hết con đường Đồng Khởi"></a>
 
 Đường Đồng Khởi chỉ dài 650m. Nếu một ngày buồn chán, bạn muốn sống chậm, dạo chơi và ngắm nhìn phố xá Sài Gòn, hãy thử một lần đi bộ hết con đường này. Từng góc phố, tòa nhà và nhịp sống ở nơi hoa lệ nhất Sài Thành sẽ cho bạn cảm nhận thật khác.
 
@@ -28,7 +42,7 @@ Sau hơn 35 năm bị Pháp chiếm đóng, khu phố Catinat mang một vẻ đ
 
 Trở lại với chuyến đi bộ của mình. Từ đường Tôn Đức Thắng, gần Bến Bạch Đằng, mình gửi xe trên đường Mạc Thị Bưởi (giá vé 5.000đ/ lượt) và bắt đầu hành trình.
 
-**Tôn Đức Thắng – Đồng Khởi**: Mình dừng lại đoạn giao nhau này lâu hơn cả. 
+### Tôn Đức Thắng – Đồng Khởi: Mình dừng lại đoạn giao nhau này lâu hơn cả. <a name="Tôn Đức Thắng – Đồng Khởi: Mình dừng lại đoạn giao nhau này lâu hơn cả."></a>
 ![](/images/Duong-Ton-Duc-Thang-Dong-Khoi.JPG)
 
 Căn nhà số 1 đường Đồng Khởi chính là Khách sạn Majestic ngày nay. Chủ nhân của khách sạn này cũng là chủ của Dinh thự Nhà chú Hoả (Bảo Tàng Mỹ Thuật Thành phố ngày nay).
@@ -48,21 +62,21 @@ _Cột đèn tín hiệu giao thông với nút xin đường xịn xò_
 
 Một lúc sau, vô tình ngắm cây cột điện mình phát hiện ra nút xin đường. Xịn như Singapore luôn! Nhấn nút, đợi nó chuyển sang màu xanh thì xe cộ dừng lại nhường mình qua thật. Tự nhiên mình thấy vui vui phấn khởi hẳn lên. 
 
-**Ngô Đức Kế - Đồng Khởi**
+### Ngô Đức Kế - Đồng Khởi <a name="Ngô Đức Kế - Đồng Khởi"></a>
 
 Ngã tư đầu tiên trên đường Đồng Khởi nổi tiếng với khách sạn Grand, mới đây có quán cà phê Cô Ba Sài Gòn concept vintage.
 
 ![Ngã tư ngô đức kê](/images/nga-tu-ngo-duc-ke-dong-khoi.JPG)
 _Ngã tư Ngô Đức Kế - Đồng Khởi_
 
-**Mạc Thị Bưởi – Đông Du - Đồng Khởi**
+### Mạc Thị Bưởi – Đông Du - Đồng Khởi <a name="Mạc Thị Bưởi – Đông Du - Đồng Khởi"></a>
 
 Kế đến là khúc giao với đường Mạc Thị Bưởi rồi đến Đông Du. Đoạn này mình thấy ấn tượng với những quán cà phê, nhà hàng xinh xắn ngay từ bên ngoài.
 
 ![Cafe đường Mạc Thị Bưởi](/images/cafe-nga-tu-Mac-Thi-Buoi-Dong-Khoi.JPG)
 _Một quán cà phê tất nập khách ra vào trên đường Mạc Thị Bưởi giao Đồng Khởi_
 
-**Nguyễn Thiệp – Đồng Khởi**
+### Nguyễn Thiệp – Đồng Khởi <a name="Nguyễn Thiệp – Đồng Khởi"></a>
 
 Đi bộ bên trái đường, mình thấy được một góc phố hơi hướng cũ kỹ. “Nhờ” dịch Covid đã biến nơi nhộp nhịp khách ra vô như quầy đổi ngoại tệ, giờ im lìm, vắng vẻ.
 
@@ -72,7 +86,7 @@ _Ngã tư Nguyễn Thiệp giao Đồng Khởi_
 ![Góc phố Nguyễn Thiệp](/images/goc-pho-Nguyen-Thiep.JPG)
 _Một góc phố Nguyễn Thiệp xưa cũ_
 
-**Công Trường Lam Sơn – Lê Lợi - Đồng Khởi**
+### Công Trường Lam Sơn – Lê Lợi - Đồng Khởi <a name="Công Trường Lam Sơn – Lê Lợi - Đồng Khởi"></a>
 
 Có thể nói, nơi đây chứng kiến bao đổi thay của Sài Gòn trong hơn thế kỷ qua. Quảng trường Francis Garnier xưa – Quảng trường Nhà hát lớn ngày nay.
 
@@ -100,20 +114,20 @@ Một điều thú vị là đến tận ngày nay, tầng trệt của khách s
 ![Văn phòng AirFrance](/images/Van-phong-Air-France-tai-khach-san-Caravelle.JPG)
 _Văn phòng hãng hàng không AirFrance tại khách sạn Caravelle_
 
-**Lê Thánh Tôn – Đồng Khởi**
+### Lê Thánh Tôn – Đồng Khởi <a name="Lê Thánh Tôn – Đồng Khởi"></a>
 
 Ngã tư Catinat – D’Espange ngày xưa nổi tiếng với thương xá Eden, công viên Chi Lăng và tiệm cà phê La Pagode – Nơi lui tới của giới nghệ sĩ, trí thức Sài Thành. Ngày nay nơi này nổi bật với tòa nhà Parkson Lê Thánh Tôn và khu vườn tiểu cảnh trước Vincom B.
 
 ![Ngã tư lê thánh tôn Đồng khởi](/images/nga-tu-Le-Thanh-Ton-Dong-Khoi.JPG)
 
-**Lý Tự Trọng – Đồng Khởi**
+### Lý Tự Trọng – Đồng Khởi <a name="Lý Tự Trọng – Đồng Khởi"></a>
 
 Một địa điểm không thể không nhắc đến ở nút giao Lý Tự Trọng – Đồng Khởi, đó chính là Dinh Thượng Thơ trước kia – Sở Thông Tin Truyền Thông Thành Phố ngày nay.
 
 ![Cổng Dinh Thượng Thơ](/images/Dinh-Thuong-Tho-So-Thong-Tin-Truyen-Thong.JPG)
 _Cổng Dinh Thượng Thơ xưa và bây giờ là sở Thông tin của thành phố_
 
-Dinh Thự hơn 160 tuổi này là tòa nhà cổ thứ hai tại Sài Gòn. Đến nay nhìn chung tòa nhà vẫn giữ được kiến trúc Pháp tinh tế từ vòng cửa, cầu thang gỗ đến ô thông gió. Năm 2018 thì phải, dự án tháo gỡ tòa nhà cổ này vấp phải tranh cãi lớn từ cộng đồng.
+Dinh Thự hơn 160 tuổi này là tòa nhà cổ thứ hai tại [Sài Gòn](https://vegiang.com/tag/sai-gon-trong-toi). Đến nay nhìn chung tòa nhà vẫn giữ được kiến trúc Pháp tinh tế từ vòng cửa, cầu thang gỗ đến ô thông gió. Năm 2018 thì phải, dự án tháo gỡ tòa nhà cổ này vấp phải tranh cãi lớn từ cộng đồng.
 
 ![Kiến trúc dinh thượng thơ](/images/Dinh-Thuong-Tho.png)
 _Dinh Thượng Thư còn giữ nét kiến trúc Pháp đặc trưng. Ảnh: Vnexpress_
@@ -122,11 +136,13 @@ Nếu không bảo tồn, lại tháo gỡ xây mới Dinh Thượng Thơ thì n
 
 Kết thúc tour, mình vòng lại đường Lê Thánh Tôn, ra Nguyễn Huệ và đi ngược lên điểm khởi đầu lấy xe, cho đỡ nhàm chán và tham quan thêm phố đi bộ Nguyễn Huệ.
 
-**Khách sạn trên đường Đồng Khởi, những cái tên gần trăm tuổi**
+> Có thể bạn quan tâm: [Bưu Điện Thành Phố, dấu ấn diễm lệ của Sài Gòn xưa](https://vegiang.com/buu-dien-thanh-pho/)
+
+## Khách sạn trên đường Đồng Khởi, những cái tên gần trăm tuổi <a name="Khách sạn trên đường Đồng Khởi, những cái tên gần trăm tuổi"></a>
 
 Khi những quán cà phê, tiệm bánh mỳ, hiệu thuốc tây dần dần thay thế bằng các cao ốc trung tâm thương mại, chỉ một vài khách sạn trên đường Đồng Khởi lại giữ nguyên vị trí và dáng vẻ của mình sau gần trăm năm. 
 
-**Khách sạn Majestic**
+### Khách sạn Majestic <a name="Khách sạn Majestic"></a>
 
 Công trình này được xây dựng vào năm 1925, thuộc quyền sở hữu của người giàu nhất Sài Gòn lúc bấy giờ - Ông Hứa Bổn Hòa (Chú Hỏa). Khách sạn Majestic được thiết kế theo phong cách kiến trúc thời Phục Hưng đang thịnh hành. Sau khi hoàn thành, đây được xem là khách sạn sang trọng và xa hoa nhất thời điểm ấy.
 
@@ -143,7 +159,7 @@ Khách sạn Majestic ngày nay hướng ra sông Sài Gòn, đạt chuẩn 5 sa
 - Địa chỉ: Số 1 Đồng Khởi, Quận 1, TPHCM
 - Giá phòng tham khảo: vào khoảng 60-200 USD/phòng/đêm
 
-**Khách sạn Grand**
+### Khách sạn Grand <a name=" Khách sạn Grand"></a>
 
 Năm 1928, Ông Henry Edouard de Lachevrotière – Tổng biên tạp chí Pháp La De Peach nổi tiếng vào những năm 1940 đã có được giấy phép xây dựng khách sạn Grand Hotel Saigon.
 
@@ -158,7 +174,7 @@ Trải qua nhiều năm, nhiều thời kỳ, khách sạn này lần lượt đ
 - Địa chỉ: Số 8 Đường Đồng Khởi, Quận 1, TPHCM
 - Giá phòng tham khảo: khoảng 55 – 150 USD/ phòng/đêm
 
-**Khách sạn Continental**
+### Khách sạn Continental <a name="Khách sạn Continental"></a>
 
 Nằm cạnh Nhà Hát Lớn là khách sạn Continental. Năm 1878, thương gia người Pháp Pierre Cazeau đã khởi công xây dựng công trình này và hoàn thành trong hai năm sau đó.
 
