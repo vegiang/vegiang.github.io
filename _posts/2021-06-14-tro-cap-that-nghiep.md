@@ -10,25 +10,40 @@ featured: false
 ---
 _Làm hồ sơ nhận trợ cấp bảo hiểm thất nghiệp ngay đúng thời kì dịch Covid là một trong những trải nghiệm “khó quên” với mình. Sau khi  tìm đọc thông tin trên mạng từ Facebook đến Google, mình đã tự đi làm thủ tục này, thực tế nó khác xa lý thuyết._
 
-## Kiểm tra xem trường hợp của mình có được nhận Trợ cấp thất nghiệp (TCTN) hay không
+# Mục lục
+1. [Kiểm tra xem trường hợp của mình có được nhận Trợ cấp thất nghiệp (TCTN) hay không](#Kiểm tra xem trường hợp của mình có được nhận Trợ cấp thất nghiệp (TCTN) hay không)
+   1. [Đã chấm dứt hợp đồng lao động hoặc hợp đồng làm việc](#Đã chấm dứt hợp đồng lao động hoặc hợp đồng làm việc)
+   2. [Đã đóng Bảo hiểm thất nghiệp](#Đã đóng Bảo hiểm thất nghiệp)
+   3. [Đã đăng kí nộp hồ sơ hưởng trợ cấp thất nghiệp tại Trung tâm dịch vụ việc làm của quận nơi bạn cư trú](#Đã đăng kí nộp hồ sơ hưởng trợ cấp thất nghiệp tại Trung tâm dịch vụ việc làm của quận nơi bạn cư trú)
+   4. [Còn thời hạn nhận hồ Sơ TCTN](#Còn thời hạn nhận hồ Sơ TCTN)
+   5. [Số tiền được nhận từ bảo hiểm thất nghiệp là bao nhiêu?](#Số tiền được nhận từ bảo hiểm thất nghiệp là bao nhiêu?)
+2. [Mình tự chuẩn bị hồ sơ hưởng bảo hiểm thất nghiệp như thế nào?](#Mình tự chuẩn bị hồ sơ hưởng bảo hiểm thất nghiệp như thế nào?)
+3. [Hành trình đi nộp Hồ sơ xin hưởng Trợ cấp của mình](#Hành trình đi nộp Hồ sơ xin hưởng Trợ cấp của mình)
+   1. [Đến trung tâm  dịch vụ việc làm Tân Bình lần 1](#Đến trung tâm  dịch vụ việc làm Tân Bình lần 1)
+   2. [Đến trung tâm  dịch vụ việc làm Tân Bình lần 2](#Đến trung tâm  dịch vụ việc làm Tân Bình lần 2)
+   3. [Đến Trung tâm dịch vụ việc làm Tân Bình lần 3](#Đến Trung tâm dịch vụ việc làm Tân Bình lần 3)
+   4. [Lần thứ 4 đến Trung tâm Giới thiệu việc làm](#Lần thứ 4 đến Trung tâm Giới thiệu việc làm)
+4. [Vài suy nghĩ riêng](#Vài suy nghĩ riêng)
+
+## Kiểm tra xem trường hợp của mình có được nhận Trợ cấp thất nghiệp (TCTN) hay không <a name="Kiểm tra xem trường hợp của mình có được nhận Trợ cấp thất nghiệp (TCTN) hay không"></a>
 
 Đầu tiên để đỡ tốn thời gian, bạn cần kiểm tra kĩ điều kiện nhận TCTN để xem mình có phù hợp không nhé! Mình tập trung vào đối tượng lao động giống mình, trong độ tuổi từ 18 – 35, không tính trường hợp hưu trí, nghỉ mất sức lao động.
 
-**1. Đã chấm dứt hợp đồng lao động hoặc hợp đồng làm việc**
+### Đã chấm dứt hợp đồng lao động hoặc hợp đồng làm việc <a name="Đã chấm dứt hợp đồng lao động hoặc hợp đồng làm việc"></a>
 
 Khi làm thủ tục bàn giao nghỉ việc, bạn phải nhận được từ công ty/ cơ quan Tờ quyết định chấm dứt hợp đồng (Nội dung nói rõ thời gian nghỉ của bạn), có chữ kí của Giám đốc, đóng mộc đỏ đầy đủ.
 
-**2. Đã đóng Bảo hiểm thất nghiệp**
+### Đã đóng Bảo hiểm thất nghiệp <a name="Đã đóng Bảo hiểm thất nghiệp"></a>
 
 Nếu cơ quan, công ty của bạn đóng Bảo hiểm xã hội đầy đủ cho bạn, đa số sẽ có thêm Bảo hiểm thất nghiệp, bạn hỏi nhân sự hoặc kế toán xác nhận phúc lợi này trước.
 
 Và điều quan trọng hơn nữa là bạn phải kiếm tra xem thời gian đóng bảo hiểm của mình đã đủ 12 tháng trở lên chưa (tính đến thời điểm chấm dứt hợp đồng lao động)
 
-**3. Đã đăng kí nộp hồ sơ hưởng trợ cấp thất nghiệp tại Trung tâm dịch vụ việc làm của quận nơi bạn cư trú**
+### Đã đăng kí nộp hồ sơ hưởng trợ cấp thất nghiệp tại Trung tâm dịch vụ việc làm của quận nơi bạn cư trú <a name="Đã đăng kí nộp hồ sơ hưởng trợ cấp thất nghiệp tại Trung tâm dịch vụ việc làm của quận nơi bạn cư trú"></a>
 
 Chưa tìm được việc làm mới sau 15 ngày kể từ ngày nộp hồ sơ hưởng Trợ cấp thất nghiệp
 
-**4. Còn thời hạn nhận hồ Sơ TCTN**
+### Còn thời hạn nhận hồ Sơ TCTN <a name="Còn thời hạn nhận hồ Sơ TCTN"></a>
 
 Trong vòng 03 tháng kể từ ngày chấm dứt hợp đồng lao động, bạn nộp hồ sơ hưởng trợ cấp thất nghiệp tại Trung tâm dịch vụ việc làm. Nếu quá 3 tháng, phúc lợi này của bạn sẽ được bảo lưu cho đợt nộp hồ sơ tiếp theo của bạn.
 
@@ -40,19 +55,19 @@ Sau khi tự kiểm tra trường hợp của bản thân đủ điều kiện n
 
 - **Quyết định chấm dứt hợp đồng lao động – Photo công chứng (1 bản)**
 
-- **Đơn xin trợ cấp thất nghiệp – Mẫu số 3 ( Bạn download và điền thông tin)**
+- **Đơn xin trợ cấp thất nghiệp – Mẫu số 3 (Bạn download và điền thông tin)**
 
 - **Sổ bảo hiểm xã hội – Photo (1 bản) đầy đủ các tờ rời**
 
 - **Sổ bảo hiểm xã hội gốc – Để đối chứng**
 
-- **01 ảnh 3×4 ( nếu bạn chưa có Tài khoản ngân hàng Đông Á)**
+- **01 ảnh 3×4 (nếu bạn chưa có Tài khoản ngân hàng Đông Á)**
 
 - **01 Chứng minh nhân dân – photo**
 
 Mình đọc nhiều trang tin bảo cần có sổ hộ khẩu, nhưng khi mình đi nộp thì bên bảo hiểm trả về, không cần loại giấy tờ này đâu nha.
 
-**Số tiền được nhận từ bảo hiểm thất nghiệp là bao nhiêu?**
+### Số tiền được nhận từ bảo hiểm thất nghiệp là bao nhiêu? <a name="Số tiền được nhận từ bảo hiểm thất nghiệp là bao nhiêu?"></a>
 
 Khoảng 60% số tiền lương đóng bảo hiểm của bạn. Nhấn mạnh là lương đóng bảo hiểm nha.
 
@@ -71,7 +86,7 @@ Thời điểm mình tiến hành việc này là 01/04/2020, đúng lúc dịch
 ![Tin mới từ TTGTVL](/images/thong-tin-cap-nhat-tro-cap-that-nghiep.JPG)
 _Hãy theo dõi trang Vieclamhcm.net để cập nhật thêm._
 
-## Mình tự chuẩn bị hồ sơ hưởng bảo hiểm thất nghiệp như thế nào?
+## Mình tự chuẩn bị hồ sơ hưởng bảo hiểm thất nghiệp như thế nào? <a name="Mình tự chuẩn bị hồ sơ hưởng bảo hiểm thất nghiệp như thế nào?"></a>
 
 Đầu tiên, về hồ sơ mình có đầy đủ rồi, chỉ còn thiếu công chứng thôi. Mình đến văn phòng công chứng tư gần nhất. Trước khi đến mình có gọi điện ( số điện thoại lấy trên Google Maps) hỏi văn phòng có làm việc không rồi mình mới đi. Nhìn vào hồ sơ của mình, nhân viên công chứng biết ngay mình làm Hồ sơ TCTN, chị ấy bảo chỉ cần công chứng quyết định thôi, sổ bảo hiểm và CMND không cần.
 
@@ -85,7 +100,7 @@ Tương tự như chỗ công chứng, vì dịch nên mình phải gọi điệ
 
 Vậy là mình đợi thêm 20 ngày.
 
-## Hành trình đi nộp Hồ sơ xin hưởng Trợ cấp của mình
+## Hành trình đi nộp Hồ sơ xin hưởng Trợ cấp của mình <a name="Hành trình đi nộp Hồ sơ xin hưởng Trợ cấp của mình"></a>
 
 Đến ngày 20 không hiểu buồn chán sao đấy, mình vào website lần nữa thì thấy thông báo chỉ nhận hồ sơ qua đường bưu điện, không tiếp trực tiếp cho đến hết dịch. Thế là ba chân bốn cẳng mình chạy ra bưu điện nộp.
 
@@ -97,7 +112,7 @@ _Danh sách các bưu điện tiếp nhận hồ sơ_
 
 Đến bưu điện, mình thấy cũng có 3 – 4 người nộp giống mình. Vì dịch bệnh, nhiều lao động mất việc hơn mình tưởng. Mình không có tài khoản Đông Á nên mình hỏi nhân viên bưu điện về việc nhận tiền mặt ( mình hỏi theo tư vấn của bạn tổng đài bên bảo hiểm tư vấn gọi hôm trước), bưu điện trả lời : “Chị hỏi lại bên bảo hiểm chứ bên em không biết ạ” – Hoang mang tập 1.
 
-Phí bưu điện của mình là 21.000đ, sáng nay nộp thì sáng hôm sau bên bảo hiểm nhận được. Mình đến bưu điện của Vnpost nên gửi xong có thể kiểm tra hành trình gói hàng của mình và tên người nhận tại http://www.vnpost.vn/ và nhập mã số bưu kiện của mình.
+Phí bưu điện của mình là 21.000đ, sáng nay nộp thì sáng hôm sau bên bảo hiểm nhận được. Mình đến bưu điện của Vnpost nên gửi xong có thể kiểm tra hành trình gói hàng của mình và tên người nhận tại [http://www.vnpost.vn/](http://www.vnpost.vn/) và nhập mã số bưu kiện của mình.
 
 ![Trang web vnpost](/images/theo-doi-buu-dien.png)
 _Theo dõi bưu kiện trên vnpost_
@@ -110,7 +125,7 @@ Khoảng 3 hôm sau khi kiện hàng của mình đến đúng người nhận, 
 
 3.	Ngày mai lên trực tiếp Trung tâm nhận hồ sơ về
 
-### Đến trung tâm  dịch vụ việc làm Tân Bình lần 1
+### Đến trung tâm  dịch vụ việc làm Tân Bình lần 1 <a name="Đến trung tâm  dịch vụ việc làm Tân Bình lần 1"></a>
 
 Trước cổng Trung tâm đông kinh khủng, bảo vệ phải giữ lại và hướng dẫn người lao động nộp qua bưu điện, mình có hẹn trước nên mình được vào.
 
@@ -131,13 +146,15 @@ Chị phó giám đốc giải quyết trong vòng 1 nốt nhạc. Lỗi này l�
 
 Tương tự lần trước, 3 ngày sau mình nhận được cuộc điện thoại, hẹn sáng hôm sau lên Trung tâm gặp trực tiếp.
 
-### Đến trung tâm  dịch vụ việc làm Tân Bình lần 2
+### Đến trung tâm  dịch vụ việc làm Tân Bình lần 2 <a name="Đến trung tâm  dịch vụ việc làm Tân Bình lần 2"></a>
 
 Quang cảnh vẫn đông đúc như lần trước, cả ngoài và trong luôn. Mình gặp người gọi hẹn mình, chị ấy check lại hồ sơ, không quên khà khịa cái tâm thư mình note kèm hỏi về việc không làm được thẻ Đông Á. Chị viết cho mình phiếu hẹn 1 tháng sau quay lại trung tâm nhận kết quả.
 
 Sau đó chị chỉ mình qua quầy ngân hàng Đông Á điền **Form mở tài khoản nộp thêm bản photo Chứng minh nhân dân + 01 hình 03×04**. Mình có kể cho chị nhân viên về đợt trước mình bị Điểm giao dịch của Đông Á khác từ chối 1 lần, nhưng có vẻ không ảnh hưởng gì.
 
-### Đến Trung tâm dịch vụ việc làm Tân Bình lần 3
+> Xem thêm: [Kinh nghiệm tìm việc làm](https://vegiang.com/kinh-nghiem-tim-viec-lam-xin-viec-khong-ma-la-tim-viec/)
+
+### Đến Trung tâm dịch vụ việc làm Tân Bình lần 3 <a name="Đến Trung tâm dịch vụ việc làm Tân Bình lần 3"></a>
 
 Sau hơn 1 tháng, đến ngày hẹn trả kết quả, mình lại đến trung tâm này lần nữa. Mình nghĩ chắc không đông đâu, mấy lần trước mình tới cũng không đông lắm, ai dè lần này đông không tưởng.
 
@@ -148,7 +165,7 @@ Thời tiết nắng nóng, mới 8h30 thôi mà mình nhận số thứ tự 16
 
 Mình đợi mòn mỏi, tám chuyện với cô chú ngồi gần đến 11h mà mới đến số 80. Cũng đúng thôi, hàng trăm hồ sơ mà chỉ có 3 nhân viên nên tốc độ không thể nhanh hơn. Mình đi về, chiều 1h30 quay trở lại ( bác bảo vệ đã nói mình trước, mà mình dai nên ở lại chờ đó thôi).
 
-### Lần thứ 4 đến Trung tâm GTVL
+### Lần thứ 4 đến Trung tâm Giới thiệu việc làm <a name="Lần thứ 4 đến Trung tâm Giới thiệu việc làm"></a>
 
 13h30 trung tâm mở cổng, 13h mình đến (rút kinh nghiệm không nhởn nhơ như lúc sáng). Trước cổng trung tâm, xe máy vây kín, tràn cả ra nửa đường. Mình ‘ được phơi nắng tập 2” vì đúng giờ người ta mới cửa. Tầm 14h00 mình vào được bên trong, bay ngay lên phòng lúc sáng vì mình đã có số rồi.
 
@@ -182,7 +199,7 @@ Nếu đã kí hợp đồng lao động mới mà bạn còn trong thời gian 
 
 Lưu ý: Nếu khai gian thông tin và cố tình không báo cho Bảo hiểm khi bạn đã có việc làm mới để nhận tiền trợ cấp, bạn sẽ bị phạt nhiều tiền hơn đó.
 
-**Vài suy nghĩ riêng**
+## Vài suy nghĩ riêng <a name="Vài suy nghĩ riêng"></a>
 
 Mình nghỉ việc theo kế hoạch của cá nhân, ai dè đúng ngay đợt dịch. Mình nghỉ vào ngày 15/02 mãi đến 30/03 mới nhận được sổ bảo hiểm làm tiến độ bị chậm và dính vào đợt cách ly xã hội. Đen không kể đâu cho hết. Bạn bè người thân chưa ai làm cái thủ tục này cả, mình như cảm tử quân vậy. Phải công nhận thủ tục hành xác thật.
 
@@ -194,5 +211,6 @@ Qua việc này, mình thấy thông tin tham khảo đúng là để tham khả
 
 Tạm kết,
 
+Bài này của mình dài quá trời dài, bạn có thể chú ý vào phần thông tin mình tô màu nổi bật cũng được. Những bạn nào dự định làm hồ sơ hưởng TCTN thời điểm sau mình nên cập nhật thông tin qua website: [vieclamhcm.net](http://vieclamhcm.net/) và gọi điện đến trung tâm hỏi cho chắc trước khi đến trung tâm để đỡ tốn công đi lại.
 
-Bài này của mình dài quá trời dài, bạn có thể chú ý vào phần thông tin mình tô màu nổi bật cũng được. Những bạn nào dự định làm hồ sơ hưởng TCTN thời điểm sau mình nên cập nhật thông tin qua website: vieclamhcm.net và gọi điện đến trung tâm hỏi cho chắc trước khi đến trung tâm để đỡ tốn công đi lại.
+> Có thể bạn quan tâm: [Lý do xin nghỉ việc và 1001 chuyện cần biết](https://vegiang.com/Ly-do-xin-nghi-viec-va-1001-chuyen-can-biet-khi-muon-thoi-viec/)
