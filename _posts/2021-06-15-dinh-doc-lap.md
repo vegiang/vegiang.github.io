@@ -10,9 +10,17 @@ featured: false
 ---
 _Dinh Độc Lập hay còn gọi là Dinh Thống Nhất được Nhà nước công nhận là di tích quốc gia hạng đặc biệt. Sống ở Sài Gòn hơn 7 năm, cũng đã đi ngang qua đây hàng trăm lần, nhưng đây là lần đầu mình vào tham quan Dinh Độc Lập._
 
+# Mục lục
+1. [Lộ trình tham quan Dinh Độc Lập](#Lộ trình tham quan Dinh Độc Lập)
+2. [Từ Dinh Norodom đến Dinh Độc Lập, hơn cả một di tích lịch sử](#Từ Dinh Norodom đến Dinh Độc Lập, hơn cả một di tích lịch sử)
+3. [Vài lưu ý nhỏ cho chuyến tham quan Dinh Độc Lập lần đầu](#Vài lưu ý nhỏ cho chuyến tham quan Dinh Độc Lập lần đầu)
+   1. [Chỗ gửi xe vào Dinh Độc Lập](#Chỗ gửi xe vào Dinh Độc Lập)
+   2. [Hãy chọn đôi giày thoải mái nhất](#Hãy chọn đôi giày thoải mái nhất )
+   3. [Tìm hiểu sơ đồ Dinh Độc Lập trước](#Tìm hiểu sơ đồ Dinh Độc Lập trước)
+
 Một ngày cuối năm, thời tiết Sài Gòn se se lạnh, mình quyết định đi thăm quan Dinh Độc Lập cho biết. Vượt qua sự mong đợi, chuyến tham quan Dinh mang đến cho mình nhiều cảm xúc.
 
-## Lộ trình tham quan Dinh Độc Lập
+## Lộ trình tham quan Dinh Độc Lập <a name="Lộ trình tham quan Dinh Độc Lập"></a>
 
 Đầu tiên, khi lên kế hoạch cho chuyến đi, bạn cần biết được thời gian bán vé và giờ tham quan Dinh Độc Lập:
 
@@ -51,7 +59,7 @@ Cuối cùng, mình ghé Nhà Trưng Bày thêm 30 phút trước khi ra về, v
 ![Đi thăm quan Dinh Độc Lập](/images/di-tham-quan-Dinh-Doc-Lap.jpg)
 _Nhìn chung mình đã có một tour đi bộ vô cùng “phê”._
 
-## Từ Dinh Norodom đến Dinh Độc Lập, hơn cả một di tích lịch sử
+## Từ Dinh Norodom đến Dinh Độc Lập, hơn cả một di tích lịch sử <a name="Từ Dinh Norodom đến Dinh Độc Lập, hơn cả một di tích lịch sử"></a>
 
 Mãi đến khi đến đây mình mới biết thêm những thông tin thú vị về Dinh, khiến cảm nhận của mình về chuyến đi thăm Dinh Độc Lập thêm sâu sắc hơn.
 
@@ -118,11 +126,13 @@ Cuối cùng, theo mình di sản quý của Dinh Thống Nhất từ thời Ph�
 ![Cây xanh trong dinh độc lập](/images/cay-xanh-trong-Dinh-Doc-Lap.jpg)
 _Cây xanh ở đây không kém cạnh Công Viên Tao Đàn gần đấy._
 
-## Vài lưu ý nhỏ cho chuyến tham quan Dinh Độc Lập lần đầu
+## Vài lưu ý nhỏ cho chuyến tham quan Dinh Độc Lập lần đầu <a name="Vài lưu ý nhỏ cho chuyến tham quan Dinh Độc Lập lần đầu"></a>
 
 Rút kinh nghiệm từ lần thăm quan Dinh này, mình chia sẻ với các bạn vài tips nho nhỏ để chuyến đi của bạn thật trọn vẹn:
 
-**1.Chỗ gửi xe vào Dinh Độc Lập:** Bạn nên chọn gửi xe máy ở trong khuôn viên Dinh luôn. Giá vé gửi xe là 4.000đ/ lượt. Đừng như mình, search trên mạng rồi đi gửi xe ở Công Viên Tao Đàn (bãi giữ xe trên đường Trương Định), làm đi bộ mệt nghỉ mà giá vé gửi xe còn đắt hơn.
+### Chỗ gửi xe vào Dinh Độc Lập <a name="Chỗ gửi xe vào Dinh Độc Lập"></a>
+
+Bạn nên chọn gửi xe máy ở trong khuôn viên Dinh luôn. Giá vé gửi xe là 4.000đ/ lượt. Đừng như mình, search trên mạng rồi đi gửi xe ở Công Viên Tao Đàn (bãi giữ xe trên đường Trương Định), làm đi bộ mệt nghỉ mà giá vé gửi xe còn đắt hơn.
 
 ![Bảng giá giữ xe Dinh Độc Lập](/images/bang-gia-giu-xe-Dinh-Doc-Lap.jpg)
 _Đây là bảng giá vé gửi xe Dinh Độc Lập 2021._
@@ -130,11 +140,15 @@ _Đây là bảng giá vé gửi xe Dinh Độc Lập 2021._
 ![Lối gửi xe trong Dinh Độc Lập](/images/loi-gui-xe-dinh-doc-lap.jpg)
 _Đến Cổng Dinh trên đường Nam Kỳ Khởi Nghĩa bạn hãy chú ý biển chỉ dẫn gửi xe này._
 
-**2. Hãy chọn đôi giày thoải mái nhất:** Nếu muốn khám phá hết mọi ngõ ngách của Dinh như mình, bạn hãy mang giày đi bộ thay vì đôi dép guốc thời trang. Ngoài đi bộ, bạn còn phải leo cầu thang khá nhiều nữa đấy.
+### Hãy chọn đôi giày thoải mái nhất <a name="Hãy chọn đôi giày thoải mái nhất"></a>
 
-**3. Tìm hiểu sơ đồ Dinh Độc Lập trước:** Ngoài Dinh chính ra, khuôn viên Dinh Độc Lập còn có khu Café de Dinh, nhà khách Dinh Độc Lập (nhà khách Nguyễn Du), café & ẩm thực 30/4 và Nhà Trưng Bày.
+Nếu muốn khám phá hết mọi ngõ ngách của Dinh như mình, bạn hãy mang giày đi bộ thay vì đôi dép guốc thời trang. Ngoài đi bộ, bạn còn phải leo cầu thang khá nhiều nữa đấy.
+
+### Tìm hiểu sơ đồ Dinh Độc Lập trước <a name="Tìm hiểu sơ đồ Dinh Độc Lập trước"></a>
+
+Ngoài Dinh chính ra, khuôn viên Dinh Độc Lập còn có khu Café de Dinh, nhà khách Dinh Độc Lập (nhà khách Nguyễn Du), café & ẩm thực 30/4 và Nhà Trưng Bày.
 
 ![Nhà trưng bày dinh độc lập](/images/nha-trung-bay-Dinh-Doc-Lap.jpg)
 _Nhà Trưng Bày hướng ra đường Nguyễn Du, được xây dựng theo phong cách cổ điện của Pháp._
 
-Hy vọng những thông tin giới thiệu cơ bản về chuyến tham quan Dinh Độc Lập của mình sẽ giúp ích cho bạn. Hãy cùng Vegiang.com khám phá thêm về Sài Gòn – Thành phố xinh đẹp và hiện đại bạn nhé!
+Hy vọng những thông tin giới thiệu cơ bản về chuyến tham quan Dinh Độc Lập của mình sẽ giúp ích cho bạn. Hãy cùng Vegiang.com khám phá thêm về [Sài Gòn](https://vegiang.com/tag/sai-gon-trong-toi) – Thành phố xinh đẹp và hiện đại bạn nhé!
