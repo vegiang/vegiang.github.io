@@ -13,12 +13,27 @@ description: >-
 ---
 _Bản thân mình không thành thạo Photoshop (PS) lắm, nhưng cũng đủ dùng. Những thao tác làm hình minh họa cho bài website cơ bản, hay Artword đơn giản cho kênh social mình có thể làm được mà không cần phải 100% nhờ designer. Các kỹ năng chỉnh sửa hình ảnh này là gì? Cùng mình học và thực hành nhé!_
 
-## Nhóm kỹ năng chỉnh ảnh sửa cơ bản nhất
+# Mục lục
+1. [Nhóm kỹ năng chỉnh ảnh sửa cơ bản nhất](#Nhóm kỹ năng chỉnh ảnh sửa cơ bản nhất)
+   1. [Cách resize (chỉnh size) hình](#Cách resize (chỉnh size) hình)
+   2. [Chèn logo/watermark vào hình](#Chèn logo/watermark vào hình)
+   3. [Cách xoay - lật hình](#Cách xoay - lật hình)
+   4. [Cách chỉnh hình sáng hoặc tối hơn](#Cách chỉnh hình sáng hoặc tối hơn)
+   5. [Cách ghép nhiều hình thành một hình](#Cách ghép nhiều hình thành một hình)
+2. [Nhóm kỹ năng chỉnh sửa hình ảnh nâng cao hơn](#Nhóm kỹ năng chỉnh sửa hình ảnh nâng cao hơn)
+   1. [Cách xóa watermark/ logo trong hình](#Cách xóa watermark/ logo trong hình)
+   2. [Cài đặt Tag Geo cho hình](#Cài đặt Tag Geo cho hình)
+   3. [Tách nền - xóa phông cho ảnh](#Tách nền - xóa phông cho ảnh)
+   4. [Cách tự làm artwork đơn giản](#Cách tự làm artwork đơn giản)
+   5. [Cách chỉnh màu ảnh bằng Photoshop](#Cách chỉnh màu ảnh bằng Photoshop)
+4. [Và cuối cùng, làm thế nào để cài phần mềm Photoshop cho laptop](#Và cuối cùng, làm thế nào để cài phần mềm Photoshop cho laptop)
+
+## Nhóm kỹ năng chỉnh ảnh sửa cơ bản nhất <a name="Nhóm kỹ năng chỉnh ảnh sửa cơ bản nhất"></a>
 Ở nhóm này mình linh hoạt dùng PS, Canva và cả Paint của MS. Nếu chưa từng dùng phần mềm PS bạn cũng dễ dàng làm được ngay.
 
 ![Công cụ Photoshop, Paint và Canva](/images/Untitled%20design.png)
 
-### Cách resize (chỉnh size) hình
+### Cách resize (chỉnh size) hình <a name="Cách resize (chỉnh size) hình"></a>
 
 **Bằng Paint**: Bạn click chuột phải và chọn Open with Paint, sau đó chọn resize và điền kích thước bạn muốn. Lưu ý bạn nên nhấn chọn Pixel, Horizontal là chiều dài, Vertical là chiều cao của hình. Bạn nên chọn Maintain aspect ratio để đảm bảo tỉ lệ ảnh.
 
@@ -46,7 +61,7 @@ Bạn có thể nhìn ở dòng mình đánh dấu nắm kéo dễ hơn. Khi hì
 
 Thực ra hai cách này chỉ dành cho bạn làm ít hình, chứ vài chục cái hình thì mình chưa biết. Nghe anh chị em bảo set lệnh làm hàng loạt thì phải. Mình sẽ nghiên cứu thêm và bổ sung sau nhé!
 
-### Chèn logo/watermark vào hình
+### Chèn logo/watermark vào hình <a name="Chèn logo/watermark vào hình"></a>
 
 **Dùng Canva**: Công cụ online này siêu tiện lợi cho bạn nếu không có sẵn PS trong máy. Vào trang https://www.canva.com/ sau khi chọn loại hình (Social Media và chọn Facebook Post chẳng hạn), nhìn vào cột phải bạn thấy phần Uploads, bạn chọn nơi lưu hình và tải hình cùng logo lên.
 
@@ -58,7 +73,7 @@ Sau đó bạn click vào hình rồi đến click vào logo, sao cho hình đ�
 
 **Dùng PS**: Tương tự như Canva, bạn nhấn Ctrl+O để upload hình và logo lên. Sau đó, bạn kéo thả logo vào hình, chỉnh sửa vị trí kích cỡ logo (tương tự với resize hình). Cuối cùng, bạn nhấn Ctr+Shift+S để lưu hình.
 
-### Cách xoay - lật hình
+### Cách xoay - lật hình <a name=" Cách xoay - lật hình"></a>
 
 Kỹ thuật này dành cho trường hợp bạn tải hình trên mạng, nhưng muốn nó khác đi một chút. Bạn có thể áp dụng lật -xoay hình, bằng cách dùng Paint.
 
@@ -66,7 +81,7 @@ Tương tự, bạn mở hình bằng Paint, sau đó chọn Rotate và click v�
 
 ![Xoay hình bằng Paint](/images/lat-xoay-hinh.png)
 
-### Cách chỉnh hình sáng hoặc tối hơn
+### Cách chỉnh hình sáng hoặc tối hơn <a name="Cách chỉnh hình sáng hoặc tối hơn"></a>
 
 Cũng là một cách để làm mới hình ảnh đã có, chỉnh sáng hoặc tối hơn cho hình có thể thực hiện bằng PS.
 
@@ -74,7 +89,9 @@ Trước tiên bạn cũng mở hình cần chỉnh trên PS bằng tổ hợp C
 
 ![Chỉnh sáng cho hình bằng PS](/images/chinh-sang-toi-cho-hinh.JPG)
 
-### Cách ghép nhiều hình thành một hình
+> Có thể bạn quan tâm: [Hướng dẫn chỉnh sửa video cơ bản](https://vegiang.com/Huong-dan-dung-phan-mem-camtasia-Aegisub-Format-Factory/)
+
+### Cách ghép nhiều hình thành một hình <a name="Cách ghép nhiều hình thành một hình"></a>
 
 Khi làm content website, bạn không biết lựa hình nào đẹp để minh họa cho sản phẩm, địa điểm đó mà upload hết thì nhiều quá. Cách tốt nhất là ghép chúng lại thành một hình, như mình đã làm bên dưới. 
 
@@ -88,11 +105,11 @@ Tương tự bạn cũng tải hết hình muốn ghép lên canva. Tiếp đó 
 
 Cuối cùng, bạn chọn tải hình về, cũng chọn định dạng PNG bạn nhé!
 
-## Nhóm kỹ năng làm hình ảnh nâng cao hơn
+## Nhóm kỹ năng chỉnh sửa hình ảnh nâng cao hơn <a name="Nhóm kỹ năng chỉnh sửa hình ảnh nâng cao hơn"></a>
 
 Sau khi đã thành thạo các kỹ năng trên, bạn hãy thực hành nâng cao hơn với hướng dẫn dưới đây. Với các tip về làm AW và chỉnh màu ảnh, cái này dựa phần lớn vào mắt thẩm mỹ của mỗi người. Theo kinh nghiệm của mình, xem càng nhiều mẫu AW và preset của anh em chuyên nghiệp, bạn sẽ tích cóp được không ích ý tưởng đấy.
 
-### Cách xóa watermark/ logo trong hình
+### Cách xóa watermark/ logo trong hình <a name="Cách xóa watermark/ logo trong hình"></a>
 
 Kỹ năng này lâu lắm rồi mình không dùng, nhưng vẫn đề cập đến để bạn có thể linh hoạt xóa 1 hoặc nhiều chủ thể trong hình mà bạn không thích.
 
@@ -104,7 +121,7 @@ Bước đó rất quan trọng, nếu bạn chọn sai màu nền, sau khi xóa
 
 **Lưu ý**: Chỉ dùng kỹ thuật này khi vật muốn xóa có kích thước nhỏ và có nền 1 màu không phức tạp.
 
-### Cài đặt Tag Geo cho hình
+### Cài đặt Tag Geo cho hình <a name="Cài đặt Tag Geo cho hình"></a>
 
 Cài Tag Geo đang được nhiều SEOer áp dụng để tối ưu SEO Local cũng như đảm bảo hình ảnh của bạn unique. Bạn có thể sử dụng phần mềm Lightroom để cài cho hàng loạt hình, như hiện tại mình không có Lightroom trên laptop nên hẹn bạn ở bài tiếp theo.
 
@@ -116,7 +133,7 @@ Cài tag geo online, mình thấy có web http://kiemtradaovan.com/tool-geotag-h
 
 Điền đủ form xong bạn nhấn gắn geo tag ảnh. Cười cùng bạn tải ảnh về là xong.
 
-### Tách nền - xóa phông cho ảnh
+### Tách nền - xóa phông cho ảnh <a name="Tách nền - xóa phông cho ảnh"></a>
 
 Để làm thao tác này trên máy tính, bạn phải dùng PS mới được. Đầu tiên, mở hình chứa chủ thể cần tách nền, tiếp đến bạn mở khóa hình và nhấn Ctrl+J để copy layer, phòng khi làm có fail quá thì còn layer để làm lại.
 
@@ -134,7 +151,7 @@ Sau đó chọn Output – New layer with mask để xuất ra. Bạn có thể 
 
 ![Inputlayer vừa tách nền](/images/cach-input-layer-vua-tach-nen.JPG)
 
-### Cách tự làm artwork đơn giản
+### Cách tự làm artwork đơn giản <a name="Cách tự làm artwork đơn giản"></a>
 
 Dễ nhất là bạn làm với canva. Dùng template có sẵn, bạn có thể thêm bớt, import hình và text của mình vào cho phù hợp. Tuy vậy, hạn chế của nó là không thể theo ý bạn 100%, size AW cũng phải cố định theo mẫu.
 
@@ -155,7 +172,7 @@ Nhờ cách này mà mình đã làm được các AW ở bên dưới:
 
 ![Hình thumail bằng PS](/images/hinh-thumail-cho-video.JPG)
 
-### Cách chỉnh màu ảnh bằng Photoshop
+### Cách chỉnh màu ảnh bằng Photoshop <a name="Cách chỉnh màu ảnh bằng Photoshop"></a>
 
 Nếu thích chụp hình bằng máy ảnh, chỉnh màu ảnh gốc là điều vô cùng cần thiết trước khi “khoe” hình. Edit màu ảnh thì Lightroom là nhất, chỉnh được một lúc nhiều hình nữa, nhưng mình chưa cài được lightroom, mới chỉ dùng được bản trial 7 ngày thôi. 
 
@@ -173,7 +190,7 @@ Tương tự, bạn mở hình cần chỉnh màu, sau đó nhấn tổ hợp ph
 
 Bạn có thể di chuyển các thông số này và xem preview hình ở bên trái, đến khi ưng ý hãy nhấn OK. Sau đó bạn hãy lưu ảnh mới về máy.
 
-## Và cuối cùng, làm thế nào để cài phần mềm Photoshop cho laptop
+## Và cuối cùng, làm thế nào để cài phần mềm Photoshop cho laptop <a name="Và cuối cùng, làm thế nào để cài phần mềm Photoshop cho laptop"></a>
 
 Lời khuyên chân thành của mình là đừng download file PS free trên mạng. Dù mình đã làm theo các chỉ dẫn để crack, nhưng thất bại, chỉ tốn thời gian gỡ phần mềm ra mà thôi. Nhiều lần như vậy, laptop của bạn cũng yếu đi trông thấy.
 
