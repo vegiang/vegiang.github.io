@@ -10,11 +10,16 @@ featured: false
 ---
 _Mình gắn bó với thành phố này gần 8 năm, từ khi lên học đại học cho tới lúc đi làm. Người ta bảo rằng chỉ cần dành 5 năm tuổi trẻ ở Sài Gòn, sẽ biết được mình muốn gì nhất cho cuộc đời. May mắn thay, mình cũng tìm được bản ngã của mình._
 
+# Mục lục
+1. [Lần đầu dậy sớm mang theo máy ảnh đến công viên Gia Định](#Lần đầu dậy sớm mang theo máy ảnh đến công viên Gia Định)
+2. [Vẻ khác lạ của cảnh vật thường ngày](#Vẻ khác lạ của cảnh vật thường ngày)
+3. [Ngày mới của người lao động Sài Gòn bắt đầu](#Ngày mới của người lao động Sài Gòn bắt đầu)
+
 Bởi lẽ, Sài Gòn gần 10 triệu người, nơi không quan tâm bạn giàu hay nghèo, xấu hay đẹp, sẽ cho bạn nhiều cơ hội và rủi ro cũng chẳng ít. Nhịp sống ở đây hối hả, guồng xoay liên tục mãi chẳng dừng. Người ta gọi nơi đây là thành phố không ngủ cũng có phần đúng. Thế giới ban ngày và về đêm sôi nổi như nhau.
 
-Mình dành một buổi sáng đi dạo công viên Gia Định và khám phá xem những người dậy thật sớm ở Sài Gòn họ làm gì nhé!
+Mình dành một buổi sáng đi dạo công viên Gia Định và khám phá xem những người dậy thật sớm ở [Sài Gòn](https://vegiang.com/tag/sai-gon-trong-toi) họ làm gì nhé!
 
-## Lần đầu dậy sớm mang theo máy ảnh đến công viên Gia Định
+## Lần đầu dậy sớm mang theo máy ảnh đến công viên Gia Định <a name="Lần đầu dậy sớm mang theo máy ảnh đến công viên Gia Định"></a>
 
 Tại sao lại là công viên Gia Định? Nó không gần chỗ mình ở cho lắm. Có một thời gian mình đi làm về hay ngang qua công viên Gia Định, thấy đẹp đẹp mà chưa vào chơi lần nào. Nhân tiện mới tậu em máy ảnh, mình mang đi dạo cùng.
 
@@ -31,7 +36,7 @@ Theo mình quan sát, công viên có cầu vượt, khu trò chơi đầy màu 
 ![Công viên Gia Định xanh mát](/images/ben-duoi-cau-vuot-cong-vien-Gia-dinh.jpg)
 _Công viên Gia định mảng xanh của quận Gò Vấp._
 
-## Vẻ khác lạ của cảnh vật thường ngày
+## Vẻ khác lạ của cảnh vật thường ngày <a name="Vẻ khác lạ của cảnh vật thường ngày"></a>
 
 Công viên Gia Định cách nơi mình ở tầm 2-3km. Từ lúc thức dậy chuẩn bị, mình đã cảm thấy khan khác mọi ngày…
 
@@ -57,7 +62,9 @@ Có một chuyện vui, trong lúc mải chụp cho bằng được một tấm 
 ![Bầu trời và chiếc lá](/images/chiec-la.jpg)
 _Canh mãi mới chụp được với chiếc lá_
 
-## Ngày mới của người lao động Sài Gòn bắt đầu
+> Có thể bạn quan tâm: [Công viên Tao Đàn và những điều thú vị có thể bạn chưa biết](https://vegiang.com/cong-vien-tao-dan/)
+
+## Ngày mới của người lao động Sài Gòn bắt đầu <a name="Ngày mới của người lao động Sài Gòn bắt đầu"></a>
 
 Để kịp cho ngày làm việc mới, nhiều người phải dậy thật sớm. Chú bán xôi đã dọn hàng ra bán từ 6h, anh công nhân vệ sinh đã có mặt tại nơi làm việc, vội ăn hộp bánh ướt rồi vào làm. Các cô dì đã đi chợ về từ 7h30 sáng…
 
@@ -93,10 +100,10 @@ _Ngồi ghế đá đọc báo ngày mới_
 ![Nghe radio trong công viên](/images/cu-gia-ben-hoa-tuong-vi.jpg)
 _Hay nghe nhạc, radio._
 
-[Tập thể dục CV Gia Định](/images/tap-the-duc-tai-Cong-vien-Gia-dinh.jpg)
+![Tập thể dục CV Gia Định](/images/tap-the-duc-tai-Cong-vien-Gia-dinh.jpg)
 _Hòa cùng nhóm đi tập thể dục_ 
 
 ![Thanh niên trong CV Gia Định](/images/anh-thanh-nien-o-cong-vien-Gia-Dinh.jpg)
 _Anh thanh niên hiếm hoi._
 
-Bắt đầu từ công viên, mình sẽ viết nhiều hơn về Sài Gòn, những điều bình dị nhất trên Blog của Vệ Giang. Bạn hãy đón xem series này của mình nhé!
+Bắt đầu từ công viên, mình sẽ viết nhiều hơn về Sài Gòn, những điều bình dị nhất trên [Blog của Vệ Giang](https://vegiang.com/). Bạn hãy đón xem series này của mình nhé!
