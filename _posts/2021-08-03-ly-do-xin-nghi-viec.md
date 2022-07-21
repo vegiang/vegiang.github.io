@@ -10,11 +10,29 @@ featured: false
 ---
 _Cảm thấy không thoải mái với công việc hiện tại và có lựa chọn mới tốt hơn, nghỉ việc là điều bạn đang cân nhắc nghiêm túc. Mình sẽ chia sẻ kinh nghiệm của mình về đơn từ thủ tục xin nghỉ việc theo văn hóa công ty tư nhân tại Việt Nam cũng như các lưu ý quan trọng khác trong bài viết này_
 
-## 1. Các lý do xin nghỉ việc hợp lý và thuyết phục nhất
+# Mục lục
+1. [Các lý do xin nghỉ việc hợp lý và thuyết phục nhất](#Các lý do xin nghỉ việc hợp lý và thuyết phục nhất)
+   1. [Lý do nghỉ việc liên quan đến công việc](#Lý do nghỉ việc liên quan đến công việc)
+   2. [Lý do nghỉ việc liên quan đến cá nhân](#Lý do nghỉ việc liên quan đến cá nhân)
+2. [Thực hiện các bước xin nghỉ việc chuyên nghiệp nhất](#Thực hiện các bước xin nghỉ việc chuyên nghiệp nhất)
+   1. [Trình bày nguyện vọng nghỉ việc với quản lý trực tiếp](#Trình bày nguyện vọng nghỉ việc với quản lý trực tiếp)
+   2. [Đơn xin nghỉ việc và các thủ tục quan trọng khác](#Đơn xin nghỉ việc và các thủ tục quan trọng khác)
+3. [Khi nào nên xin nghỉ việc](#Khi nào nên xin nghỉ việc)
+   1. [Chủ quan – xuất phát từ chính bạn](#Chủ quan – xuất phát từ chính bạn)
+   2. [Khách quan – Đến từ công ty, người quản lý](#Khách quan – Đến từ công ty, người quản lý)
+4. [Những vấn đề thường gặp khi bạn xin nghỉ việc](#Những vấn đề thường gặp khi bạn xin nghỉ việc)
+   1. [Sếp không duyệt đơn xin nghỉ của bạn](#Sếp không duyệt đơn xin nghỉ của bạn)
+   2. [Sếp nói: “Em ráng làm đến khi anh (chị) tuyển được người mới được không?”](#Sếp nói: “Em ráng làm đến khi anh (chị) tuyển được người mới được không?”)
+   3. [Có làm tiệc farewell, tặng quà cho đồng nghiệp và sếp hay không?](#Có làm tiệc farewell, tặng quà cho đồng nghiệp và sếp hay không?)
+   4. [Khi phỏng vấn tìm việc tiếp theo, có nên nói thật nguyên nhân nghỉ việc không?](#Khi phỏng vấn tìm việc tiếp theo, có nên nói thật nguyên nhân nghỉ việc không?)
+   5. [Giấy tờ thủ tục sau khi nghỉ việc](#Giấy tờ thủ tục sau khi nghỉ việc)
+5. [Trái Đất tròn, hãy chừa cho bản thân một đường lui](#Trái Đất tròn, hãy chừa cho bản thân một đường lui)
+
+## Các lý do xin nghỉ việc hợp lý và thuyết phục nhất <a name="Các lý do xin nghỉ việc hợp lý và thuyết phục nhất"></a>
 
 Một khi có ý định thôi công việc hiện tại, có lẽ điều băn khoăn nhất của bạn là tìm lý do hợp lý. Lý do này sẽ được sử dụng trong đơn xin nghỉ cũng như khi trình bày với người quản lý. Có 2 nhóm lý do phổ biến nhất, bạn có thể tham khảo: 
 
-### 1.1 Lý do nghỉ việc liên quan đến công việc:
+### Lý do nghỉ việc liên quan đến công việc <a name="Lý do nghỉ việc liên quan đến công việc"></a>
 
 **Có nguyện vọng thay đổi môi trường làm việc**: Lý do này phù hợp với các bạn trẻ, mới ra trường. Những công việc đầu tiên thường là phép thử, các bạn có xu hướng đổi công việc và nơi làm việc nếu cảm thấy không hợp. Bên cạnh đó, nếu có cơ hội thử sức ở môi trường mới, các bạn cũng hứng thú muốn thử. Bạn có thể trình bày chân thành điều này cho quản lý của mình và thể hiện ngắn gọn trong đơn. Ví dụ:  
 
@@ -31,7 +49,7 @@ _Thay đổi công việc để tốt hơn cho sự nghiệp của bản thân. 
 
 -	Lý do: Sắp tới, tôi sẽ nhận công việc ở đơn vị mới, phù hợp với tôi hơn. Do đó, tôi rất mong công ty xem xét tích cực và chấp thuận đơn xin nghỉ việc của tôi. Trong suốt thời gian qua, tôi vô cùng biết ơn công ty, quản lý và đồng nghiệp đã giúp đỡ tôi trong công việc. Tôi lấy làm tiếc khi không thể gắn bó lâu dài cùng công ty. Tôi xin chân thành cảm ơn và chúc công ty ngày càng thành công và phát triển. 
 
-### 1.2 Lý do nghỉ việc liên quan đến cá nhân
+### Lý do nghỉ việc liên quan đến cá nhân <a name="Lý do nghỉ việc liên quan đến cá nhân"></a>
 
 **Muốn tạm dừng công việc để tiếp tục học thêm**: Khi bạn muốn tập trung thời gian vào việc học, nâng cao kỹ năng hoặc chuyển sang ngành nghề khác, bạn có thể trình bày lý do này để công ty chấp thuận nguyện vọng xin nghỉ việc. Ví dụ:
 
@@ -52,11 +70,11 @@ _Lý do nghỉ việc xuất phát từ việc cá nhân. Nguồn ảnh*_
 
 > Tham khảo thêm form nghỉ việc : https://bom.to/KwMXFor1EwE8Vh
 
-## 2. Thực hiện các bước xin nghỉ việc chuyên nghiệp nhất
+## Thực hiện các bước xin nghỉ việc chuyên nghiệp nhất <a name="Thực hiện các bước xin nghỉ việc chuyên nghiệp nhất"></a>
 
 Để việc xin nghỉ của bạn thuận lợi, êm đẹp, hãy lưu ý những thông tin sau nhé!
 
-### 2.1 Trình bày nguyện vọng nghỉ việc với quản lý trực tiếp
+### Trình bày nguyện vọng nghỉ việc với quản lý trực tiếp <a name="Trình bày nguyện vọng nghỉ việc với quản lý trực tiếp"></a>
 
 Đầu tiên, mình muốn nhấn mạnh: **Nếu chưa có kế hoạch nghỉ việc cụ thể, bạn không được cho bất kỳ ai trong công ty biết bạn có ý định thôi việc.** Vì rất đơn giản, không ai muốn đầu tư và đối xử tốt với một người sẽ không gắn bó và đem lại lợi ích cho cty. 
 
@@ -64,7 +82,7 @@ Khi bạn đã xác định thời điểm và lý do xin thôi việc, người
 
 Báo cho sếp trước thể hiện sự tôn trọng dành cho người quản lý đó. Không có quản lý nào vui vẻ khi cấp dưới của mình sắp nghỉ việc mà ai trong công ty cũng biết trừ sếp.
 
-### 2.2 Đơn xin nghỉ việc và các thủ tục quan trọng khác
+### Đơn xin nghỉ việc và các thủ tục quan trọng khác <a name="Đơn xin nghỉ việc và các thủ tục quan trọng khác"></a>
 
 Tiếp theo bạn cần hỏi thông tin thủ tục xin nghỉ việc từ Nhân sự. Bộ phận hành chính nhân sự sẽ hướng dẫn cho bạn các bước tiếp theo như điền vào form nghỉ việc, mẫu đơn từ bàn giao công việc, công nợ, thiết bị máy móc công ty cấp. Bạn phải báo trước ngày làm việc cuối cùng của bạn ít nhất 1 tuần và lâu nhất khoảng 1 tháng, để công ty sắp xếp nhân sự.
 
@@ -77,13 +95,13 @@ Các mẫu đơn từ nghỉ việc bạn chỉ cần hoàn thành trước ngà
 
 > Mẫu bàn giao thiết bị, dụng cụ, công việc: https://bom.to/AouZ9u2sBDvodt
 
-## 3. Khi nào nên xin nghỉ việc
+## Khi nào nên xin nghỉ việc <a name="Khi nào nên xin nghỉ việc"></a>
 
 Hãy dành quyền chủ động trong mọi tình huống! Đặc biệt trong công việc, “cần câu cơm” của bản thân, hạn chế tối đa bị đẩy vào tình huống bị động như đột ngột mất việc. Một vài cách cũng như dấu hiệu cho thấy bạn cần chuẩn bị tìm kiếm nơi làm việc mới, bạn có thể tham khảo:
 
-### 3.1 Chủ quan – xuất phát từ chính bạn:
+### Chủ quan – xuất phát từ chính bạn <a name="Chủ quan – xuất phát từ chính bạn"></a>
 
-**Nhận thấy không phù hợp với định hướng công việc**: Khi đã xác định được [Career Path của bản thân]((https://vegiang.com/career-path-lo-trinh-nghe-content-marketing/), bạn sẽ nhận ra công việc hiện tại có thuộc lộ trình ấy hay không. Nếu không, bạn cần chuẩn bị cho sự thay đổi. Ví dụ: Bạn mong muốn đạt được vị trí Trưởng phòng nhân sự nhưng lại làm 2 năm ở vị trí admin, hành chính và chưa thực sự đảm nhận công việc nhân sự bài bản. Để vươn đến mục tiêu nghề nghiệp, bạn cần thay đổi chỗ làm và vị trí để đưa bạn về đúng lộ trình.
+**Nhận thấy không phù hợp với định hướng công việc**: Khi đã xác định được [Career Path của bản thân](https://vegiang.com/career-path-lo-trinh-nghe-content-marketing/), bạn sẽ nhận ra công việc hiện tại có thuộc lộ trình ấy hay không. Nếu không, bạn cần chuẩn bị cho sự thay đổi. Ví dụ: Bạn mong muốn đạt được vị trí Trưởng phòng nhân sự nhưng lại làm 2 năm ở vị trí admin, hành chính và chưa thực sự đảm nhận công việc nhân sự bài bản. Để vươn đến mục tiêu nghề nghiệp, bạn cần thay đổi chỗ làm và vị trí để đưa bạn về đúng lộ trình.
 
 **Bạn không nhìn ra cơ hội thăng tiến**: Với những cá nhân tham vọng, họ sẽ không chôn chân ở một vị trí quá 3 năm. Sau từ 1 – 2 năm mà bạn không nhận được task mới, không mở rộng scope of work cũng như lương thưởng, nếu còn trẻ bạn cần xem xét chuyển việc được rồi đấy.
 
@@ -99,7 +117,7 @@ _Hãy hoàn thành hết thủ tục trước khi nghỉ bạn nhé! Nguồn ả
 ![Chán nản với công việc](/images/met-moi-voi-cong-viec.jpg)
 _Mệt mỏi, chán nản kéo dài là dấu hiện cho thấy bạn không phù hợp với công việc đó. Nguồn ảnh*_
 
-### 3.2 Khách quan – Đến từ công ty, người quản lý
+### Khách quan – Đến từ công ty, người quản lý <a name="Khách quan – Đến từ công ty, người quản lý"></a>
 
 **Tình hình kinh doanh không tốt kéo dài**: Làm sao để biết tình hình kinh doanh của công ty, trong khi bạn ở bộ phận kỹ thuật chẳng hạn? Câu trả lời nằm ở kỹ năng giao tiếp của bạn. Đừng nên chỉ quan tâm mỗi việc của mình, bạn cần để ý một chút đến công việc của bộ phận mình và các phòng ban khác. Qua một thời gian bạn sẽ biết được đâu là nguồn nuôi sống công ty, định hướng cty sẽ phát triển mảng nào, sản phẩm nào và doanh số hàng tháng của cty có tốt hay không.
 
@@ -114,9 +132,9 @@ Thực tế, ít khi người lao động chỉ vì một lý do mà quyết đ�
 
 **Chú ý giai đoạn thử việc:** Bạn đừng nghĩ rằng bạn đậu phỏng vấn tuyển dụng là bạn đã có công việc. Chưa đâu bạn, nếu không qua Probation, bạn vẫn bị cho nghỉ như bình thường. Nhiều bạn trẻ rất sốc khi mới làm được một tháng đã nhận được mail dừng thử việc. Đơn giản là bạn làm thuê, người ta không muốn thuê nữa thì dừng thôi. Bạn nên đọc kỹ thỏa thuận/ hợp đồng trước để không phải hụt hẫng nhé!
 
-## 4. Những vấn đề thường gặp khi bạn xin nghỉ việc
+## Những vấn đề thường gặp khi bạn xin nghỉ việc <a name="Những vấn đề thường gặp khi bạn xin nghỉ việc"></a>
 
-### 4.1 Sếp không duyệt đơn xin nghỉ của bạn:
+### Sếp không duyệt đơn xin nghỉ của bạn <a name="Sếp không duyệt đơn xin nghỉ của bạn"></a>
 
 Phòng trường hợp này có thể xảy ra, bạn cần chuẩn bị thật kỹ lưỡng. Đầu tiên, bạn cần trao đổi chân thành về lý do nghỉ, để sếp thấy câu chuyện nếu bạn không được nghỉ việc như nguyện vọng sẽ ảnh hưởng như thế nào: Không kịp nhập học, không chăm sóc được người thân, lỡ cơ hội có thu nhập tốt để chăm lo cho gia đình,…
 
@@ -124,7 +142,7 @@ Thứ hai, bạn cho sếp thấy được nếu mình nghỉ lúc này công vi
 
 Và quan trọng là điều thứ 3, chỉ ngầm hiểu thôi, là bạn đã tuân thủ quy định của hợp đồng lao động, thông báo trước khi nghỉ 1 tháng chẳng hạn. Bạn cũng cam kết bàn giao và hỗ trợ công việc cho đến khi ngày nghỉ. 
 
-### 4.2 Sếp nói: “Em ráng làm đến khi anh (chị) tuyển được người mới được không?”
+### Sếp nói: “Em ráng làm đến khi anh (chị) tuyển được người mới được không?” <a name="Sếp nói: “Em ráng làm đến khi anh (chị) tuyển được người mới được không?”"></a>
 
 Câu hỏi trên vô cùng quen thuộc khi bạn báo mình muốn nghỉ việc với quản lý. Nếu đã có kế hoạch ngày nghỉ việc cụ thể, thời gian nghỉ ngơi và ngày on board ở chỗ làm mới, bạn có 
 thể từ chối lời đề nghị này. Quan điểm của mình, nếu bạn đồng ý với sếp, phần thiệt sẽ thuộc về bạn. Vừa không biết sẽ làm đến bao giờ, vừa bị đối xử tệ hơn trước (vì bạn sắp 
@@ -134,18 +152,18 @@ Nếu bạn nghỉ việc, sếp bạn sẽ vất vả hơn, vừa tuyển dụn
 họ phải có trách nhiệm. Một câu nói từ sếp cũ của mình làm mình nhớ mãi (tuy không phải nói về mình): Vắng mợ chợ vẫn đông. Không có bạn công ty vẫn hoạt động bình thường, rồi 
 đâu cũng vào đấy. Khi bạn đã có kế hoạch, cứ mạnh dạn lên bạn nhé! 
 
-### 4.3 Có làm tiệc farewell, tặng quà cho đồng nghiệp và sếp hay không? 
+### Có làm tiệc farewell, tặng quà cho đồng nghiệp và sếp hay không? <a name="Có làm tiệc farewell, tặng quà cho đồng nghiệp và sếp hay không?"></a>
 
 Cái này tùy vào văn hóa mỗi nơi. Tuy nhiên, nếu thấy không thoải mái, bạn không cần câu nệ chuyện này. Nếu được tặng quà, bạn nên tặng lại, còn không thì thôi. Tiệc chia tay có thể mua trái cây, bánh cho cả phòng cùng ăn cho vui là được rồi. Ngày mới đi làm, thu nhập thấp, mình rất sợ những dịp như thế này. Sau đó cứng cáp hơn thì mình thấy vui là được, không quan trọng ai nói gì.
 
-### 4.4 Khi phỏng vấn tìm việc tiếp theo, có nên nói thật nguyên nhân nghỉ việc không? 
+### Khi phỏng vấn tìm việc tiếp theo, có nên nói thật nguyên nhân nghỉ việc không? <a name="Khi phỏng vấn tìm việc tiếp theo, có nên nói thật nguyên nhân nghỉ việc không?"></a>
 
 Bạn có thể trả lời thành thật nhưng đừng quá cụ thể. Nhà tuyển dụng tinh ý sẽ không đòi hỏi ứng viên phải kể nhiều. Tuy vậy, dù có không thích công ty cũ bạn không nên nói xấu, hạ thấp nơi bạn từng làm.
 
 ![Trả lời phỏng vấn tìm việc tiếp theo](/images/ly-do-nghi-viec-khi-phong-van.jpg)
 _Trả lời phỏng vấn về lý do thôi việc cho công việc gần đây nhất. Nguồn ảnh*_
 
-### 4.5 Giấy tờ thủ tục sau khi nghỉ việc: 
+### Giấy tờ thủ tục sau khi nghỉ việc <a name="Giấy tờ thủ tục sau khi nghỉ việc"></a>
 
 Tờ giấy quyết định chấm dứt hợp đồng kèm theo thông tin lương + thưởng còn lại bao giờ thanh toán, ngày hẹn lấy sổ bảo hiểm xã hội, đấy là những thủ tục bạn cần phải đòi hỏi khi nghỉ, hãy giữ liên lạc với kế toán hay nhân sự nếu đến hẹn mà chưa nhận được nhé!
 
@@ -153,7 +171,7 @@ Tờ giấy quyết định chấm dứt hợp đồng kèm theo thông tin lư�
 
 > Muốn tìm việc để chuẩn bị cho kế hoạch nghỉ việc, hãy tham khảo bài chia sẻ --> [Kinh nghiệm tìm việc làm]( https://vegiang.com/kinh-nghiem-tim-viec-lam-xin-viec-khong-ma-la-tim-viec/).
 
-## Trái Đất tròn, hãy chừa cho bản thân một đường lui 
+## Trái Đất tròn, hãy chừa cho bản thân một đường lui <a name="Trái Đất tròn, hãy chừa cho bản thân một đường lui"></a>
 
 Thời còn nông nỗi mình đã “bỏ trốn” việc vì vị trí đó đòi hỏi phải trực Tết (nghỉ Tết rất ngắn) và cùng lúc đó có công ty khác gọi mình đi nhận việc. Trong thời gian chỉ vỏn vẹn 3 ngày, mình đã thu xếp công việc, tìm một anh bàn giao, viết đơn xin nghỉ việc  và nhờ anh ấy ký duyệt hộ ( khi đó trưởng phòng mình cũng vừa nghỉ việc) rồi gửi lên phòng hành chính nhân sự. Nhanh như một cơn gió, khiến ai cũng bất ngờ. 
 
