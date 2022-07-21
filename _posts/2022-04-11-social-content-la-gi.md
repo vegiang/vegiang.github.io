@@ -10,7 +10,27 @@ featured: false
 ---
 _Để đảm nhận vị trí content marketing, bạn không thể không thành thạo làm nội dung cho các kênh social. Ở phạm vi bài viết này, mình muốn chia sẻ cách xây dựng social content cho doanh nghiệp vừa và nhỏ._
 
-## Social Content một nhánh của nghề làm nội dung
+# Mục lục
+1. [Social Content một nhánh của nghề làm nội dung](#Social Content một nhánh của nghề làm nội dung)
+2. [Social Content làm những công việc gì?](#Social Content làm những công việc gì?)
+3. [Làm thế nào để lập content calendar cho nội dung kênh social?](#Làm thế nào để lập content calendar cho nội dung kênh social?)
+4. [Cách xây dựng nội dung trên các kênh social](#Cách xây dựng nội dung trên các kênh social)
+   1. [Bước 1. Tìm angle thích hợp sau khi được duyệt pillar và calendar](#Bước 1. Tìm angle thích hợp sau khi được duyệt pillar và calendar)
+   2. [Bước 2. Chọn tiêu đề, tagline thu hút](#Bước 2. Chọn tiêu đề, tagline thu hút)
+   3. [Bước 3. Tạo brief Art Word](#Bước 3. Tạo brief Art Word)
+   4. [Bước 4. Hoàn chỉnh nội dung bài post](#Bước 4. Hoàn chỉnh nội dung bài post)
+   5. [Bước 5. Tăng tương tác, lượt like cho page mới](#Bước 5. Tăng tương tác, lượt like cho page mới)
+5. [Để duy trì và phát triển nội dung kênh có sẵn trên các nền tảng social](#Để duy trì và phát triển nội dung kênh có sẵn trên các nền tảng social)
+   1. [Phải xem Analytics Thông tin chi tiết của trang trước khi quyết định làm gì với page](#Phải xem Analytics Thông tin chi tiết của trang trước khi quyết định làm gì với page)
+   2. [Điều chỉnh những thiếu sót của page dựa theo thông tin analytic](#Điều chỉnh những thiếu sót của page dựa theo thông tin analytic)
+   3. [Áp dụng các bước “Tăng tương tác cho fanpage”](#Áp dụng các bước “Tăng tương tác cho fanpage”)
+6. [Vài lưu ý khi làm content social cho người mới](#Vài lưu ý khi làm content social cho người mới)
+   1. [Social Content không phải lúc nào cũng cần bắt trend](#Social Content không phải lúc nào cũng cần bắt trend)
+   2. [Nếu bạn là người thích ổn định, formal, có lẽ bạn sẽ khó khăn khi làm social](#Nếu bạn là người thích ổn định, formal, có lẽ bạn sẽ khó khăn khi làm social)
+   3. [Làm content social phải có cá tính riêng](#Làm content social phải có cá tính riêng)
+   4. [Thống nhất với leader của bạn về công đoạn duyệt nội dung](#Thống nhất với leader của bạn về công đoạn duyệt nội dung)
+   
+## Social Content một nhánh của nghề làm nội dung <a name="Social Content một nhánh của nghề làm nội dung"></a>
 
 Đầu tiên bạn phải hiểu về các mạng xã hội phổ biến hiện nay. Chúng ta có Facebook (nội dung tổng hợp), Instagram (chia sẻ hình ảnh), Youtube (chia sẻ nội dung video), Tik Tok (chia sẻ nội dung video ngắn kèm nhạc), linkedin (chia sẻ việc làm, công việc), …
 
@@ -19,7 +39,7 @@ Mỗi  nền tảng có một tệp fan riêng, chính sách nội dung cũng kh
 ![Không chỉ Facebook, mạng xã hội hình ảnh và video đang lên ngôi](/images/mang-xa-hoi-arpad-czapp.jpg)
 _Nguồn ảnh: Arpad Czapp/Unplash_ 
 
-## Social Content làm những công việc gì?
+## Social Content làm những công việc gì? <a name="Social Content làm những công việc gì?"></a>
 
 Vị trí Social Content là người chịu trách nhiệm đưa nội dung, thông điệp tiếp thị của doanh nghiệp lên trên các nền tảng mạng xã hội. Họ thường là người sản xuất nội dung cũng như quản lý các kênh social. Công việc của một Social Content Excutive chủ yếu là:
 
@@ -33,7 +53,7 @@ Vị trí Social Content là người chịu trách nhiệm đưa nội dung, th
 
 Trong các đầu việc trên, mình sẽ nói cụ thể hơn hai đầu việc là “Lập Content Calendar” và “Sản xuất nội dung”. Những ý còn lại mình dự định chia sẻ ở bài viết sau với chủ đề “Lập kế hoạch nội dung”.
 
-## Làm thế nào để lập content calendar cho nội dung kênh social?
+## Làm thế nào để lập content calendar cho nội dung kênh social? <a name="Làm thế nào để lập content calendar cho nội dung kênh social?"></a>
 
 Khi mới vào làm ở phòng marketing của bất kỳ công ty nào, mình đều hỏi mẫu content calendar hiện đang được áp dụng. Nếu công ty chưa có, mình sẽ tự dùng form mình có sẵn. Content Calendar là công cụ giúp content quản lý được lịch đăng bài và nội dung bài post. Thông thường kế hoạch content sẽ được thể hiện cụ thể qua content calendar. Do đó, từ media master plan chuyển thành content calendar là một kỹ năng cần thiết của nhân viên content.
 
@@ -62,11 +82,11 @@ Nội dung trong Calendar tập trung xoay quanh các hoạt động của thư�
 
 > Tham khảo chi tiết: https://docs.google.com/spreadsheets/d/1Jt7ukYt4P4ftEjdxJuAtJ-HJMvRuQ1SJX-VjWR1SFbE/edit#gid=0
 
-## Cách xây dựng nội dung trên các kênh social
+## Cách xây dựng nội dung trên các kênh social <a name="Cách xây dựng nội dung trên các kênh social"></a>
 
 Không có một công thức chung nào để áp dụng là có thể giúp bạn tạo được nội dung hiệu quả ngay cho kênh social. Đặc điểm của social chính là thay đổi liên tục từ nội dung đến thuật toán. Một dạng nội dung có thể hiệu quả hôm nay nhưng hôm sau chưa chắc đã tối ưu. Do đó, ở phần này, mình sẽ giới thiệu trình tự sản xuất nội dung social, ở đây là Fanpage, Profile và Group Facebook. Tùy vào tình huống cụ thể, bạn có thể chủ động làm nội dung cho phù hợp.
 
-**1. Tìm angle thích hợp sau khi được duyệt pillar và calendar**
+### Bước 1. Tìm angle thích hợp sau khi được duyệt pillar và calendar <a name="Bước 1. Tìm angle thích hợp sau khi được duyệt pillar và calendar"></a>
 
 Angle vô cùng quan trọng đối với một nội dung social. Trong bài [Cách viết nội dung eBook trong Digital Marketing](https://vegiang.com/cach-viet-noi-dung-ebook-trong-digital-marketing/) mình có nhắc đến “Content Angle là hướng tiếp cận, góc nhìn của nội dung”. Ở mẫu content calendar số 2 mình có chia phần Angle ra làm 2 phần: Nội dung chính và angle thể hiện. Cùng nội dung tác dụng thanh nhiệt cho cơ thể, bạn có thể chọn nhiều angle khác nhau như: vì sao phải giải nhiệt, cơ chế giải nhiệt, các thực phẩm giải nhiệt cho cơ thể,…
 
@@ -74,24 +94,24 @@ Angle vô cùng quan trọng đối với một nội dung social. Trong bài [C
 
 > Có thể bạn quan tâm: [Kỹ năng research cho content writer]( https://vegiang.com/Ky-nang-research-cho-content-writer/)
 
-**2. Chọn tiêu đề, tagline thu hút**
+### Bước 2. Chọn tiêu đề, tagline thu hút <a name="Bước 2. Chọn tiêu đề, tagline thu hút"></a>
 
 Vừa ngắn gọn vừa giàu hình ảnh và phải tạo ấn tượng mạnh mẽ cho người đọc, đó là yêu cầu dành cho tagline. Người dùng chỉ có bạn 3s đầu tiên để thuyết phục họ xem nội dung bài post. Do đó, những vị trí đầu tiên, ấn tượng nhấn của post bạn phải cân nhắc thật kỹ lưỡng.
 
 ![Ví dụ minh họa về tiêu đề và tagline](/images/tieu-de-tagline.PNG)
 _Ví dụ minh họa về tiêu đề và tagline bài post trên Fanpage_
 
-**3. Tạo brief Art Word**
+### Bước 3. Tạo brief Art Word <a name="Bước 3. Tạo brief Art Word"></a>
 
 Khi đã hình dung được “hình hài” của bài post Facebook/ Instagram, bạn cần làm song song 2 việc đó là tạo brief cho designer thiết kế art word và wording cụ thể phần caption. Còn với content video, bạn cần hoàn thiện brief cho từng frame hình: tagline, lời thoại, bố cục… tùy từng concept của video, trước khi bước vào sản xuất quay dựng.
 
 > Xem thêm bài viết về [Brief](https://vegiang.com/brief-va-mau-brief-cho-content/)
 
-**4. Hoàn chỉnh nội dung bài post**
+### Bước 4. Hoàn chỉnh nội dung bài post <a name="Bước 4. Hoàn chỉnh nội dung bài post"></a>
 
 Sau khi đã có tất cả “nguyên liệu”, bạn tiến hành làm mockup cho bài post. Bước này giúp bạn cân chỉnh nội dung cho phù hợp trước khi on air, cũng như lên lịch theo đúng calendar. Hiện nay, đa số các trang mạng xã hội điều có hỗ trợ đăng tải bài viết nháp, hẹn giờ, bạn nên tận dụng các chức năng đó.
 
-**5. Tăng tương tác, lượt like cho page mới**
+### Bước 5. Tăng tương tác, lượt like cho page mới <a name="Bước 5. Tăng tương tác, lượt like cho page mới"></a>
 
 Nếu thực hiện các bước trên để sản xuất 7 post/ tuần cho Fanpage, liệu sẽ thu được hiệu quả ngay tức thì? Chuyện này gần như rất khó xảy ra ở thời điểm hiện tại. Facebook siết chặt tương tác tự nhiên, một fanpage mới toanh khó lòng có tương tác (engagement) nếu chỉ dựa vào nội dung bài post.
 
@@ -108,11 +128,11 @@ Với một fanpage mới tạo, việc của bạn cần làm là:
 ![Phần visual của kênh rất quan trọng](/images/trang-instagram-shop.PNG)
 _Phần visual của kênh rất quan trọng_
 
-## Để duy trì và phát triển nội dung kênh có sẵn trên các nền tảng social
+## Để duy trì và phát triển nội dung kênh có sẵn trên các nền tảng social <a name="Để duy trì và phát triển nội dung kênh có sẵn trên các nền tảng social"></a>
 
 Nếu kênh bạn chịu trách nhiệm đã có sẵn tương tác, bạn cần làm gì để duy trì và phát triển nó hơn nữa? Nếu là mình, mình sẽ làm những công việc sau:
 
-**1. Phải xem Analytics Thông tin chi tiết của trang trước khi quyết định làm gì với page**
+### Phải xem Analytics Thông tin chi tiết của trang trước khi quyết định làm gì với page <a name="Phải xem Analytics Thông tin chi tiết của trang trước khi quyết định làm gì với page"></a>
 
 Điều này vô cùng quan trọng, bạn cần “khám sức khỏe” của fanpage rồi mới “kê toa thuốc” cho phù hợp được. Có lần mình nhận fanpage của công ty khi mới vào làm, mình thấy page rất đẹp về lượt like, hình thức nhưng page đó không có tương tác, không có khách hàng liên hệ. Sau khi biết, page này đã mua like ảo, mình đã đề xuất lập page mới, page cũ để làm...kỉ niệm. Page mới lập tuy ít lượt like page hơn, nhưng chạy quảng cáo hiệu quả và lượt tương tác thật.
 
@@ -125,32 +145,32 @@ Các thông tin bạn cần nắm khi xem Analytics để định hướng làm 
 
 -	Hành động trên trang: click vào web, click vào nhắn tin, …
 
-**2. Điều chỉnh những thiếu sót của page dựa theo thông tin analytic**
+### Điều chỉnh những thiếu sót của page dựa theo thông tin analytic <a name="Điều chỉnh những thiếu sót của page dựa theo thông tin analytic"></a>
 
 Ví dụ: nếu page bán thời trang nữ mà tỉ lệ fan nam nhiều hơn nữ thì không ổn. Bạn cần điều chỉnh lại nội dung và chạy quảng cáo target khách hàng nữ để điều chỉnh tỉ lệ lại.
 
-**3. Áp dụng các bước “Tăng tương tác cho fanpage”**
+### Áp dụng các bước “Tăng tương tác cho fanpage” <a name="Áp dụng các bước “Tăng tương tác cho fanpage"></a>
 
 Như mình đã chia sẻ ở phần trên.
 
 ![Một fanpage đã có thương hiệu, sẵn tương tác cao](/images/kenh-fanpage.PNG)
 _Một fanpage đã có thương hiệu, sẵn tương tác cao_
 
-## Vài lưu ý khi làm content social cho người mới
+## Vài lưu ý khi làm content social cho người mới <a name="Vài lưu ý khi làm content social cho người mới"></a>
 
 Sáng tạo nội dung social là công việc thu hút nhiều bạn trẻ hiện nay vì tính chất hiện đại, nhanh nhận được thành quả và cả “fame” nữa. Mình không phải chuyên social, cũng tự nhận nội dung mình sản xuất không phải trending hay viral. Song những fanpage mình chịu trách nhiệm đảm bảo lượng khách hàng tương tác, mua hàng hay cần tư vấn đạt yêu cầu. Từ những trải nghiệm cá nhân, mình có thêm vài lời khuyên cho các bạn mới vào nghề, để không phải mắc sai lầm như mình đã từng.
 
-**1. Social Content không phải lúc nào cũng cần bắt trend**
+### Social Content không phải lúc nào cũng cần bắt trend <a name="Social Content không phải lúc nào cũng cần bắt trend"></a>
 
 Khách hàng/ Fan của thương hiệu là ai? Bạn dùng những câu nói trending liệu họ có hiểu? 
 
 Hãy suy nghĩ thấu đáo trước khi làm nội dung, đừng vội thấy người người nhà nhà lên post ăn theo trend thì mình cũng phải làm như vậy. Nếu khách hàng của bạn U40 trở lên mà bạn dùng những câu trend trong Rap Việt họ sẽ không hiểu. Do đó, câu nói hay meme đang được dùng nhiều ở một cộng đồng nào đó, bạn cần xem nó có phù hợp với tone & mood của thương hiệu hay không trước khi lên bài nhé!
 
-**2. Nếu bạn là người thích ổn định, formal, có lẽ bạn sẽ khó khăn khi làm social**
+### Nếu bạn là người thích ổn định, formal, có lẽ bạn sẽ khó khăn khi làm social <a name="Nếu bạn là người thích ổn định, formal, có lẽ bạn sẽ khó khăn khi làm social"></a>
 
 Như đã nói ở trên, đặc điểm của nội dung social là luôn phải thay đổi, luôn phải làm mới. Người làm social luôn chịu một áp lực đó là: Làm sao để thú vị hơn. Vậy nên, có nhiều bạn content writer quen làm nội dung blog, website hay báo chí rất khó khăn khi chuyển qua làm social content.
 
-**3. Làm content social phải có cá tính riêng**
+### Làm content social phải có cá tính riêng <a name="Làm content social phải có cá tính riêng"></a>
 
 Cá tính của bạn nếu may mắn hợp với brand thì quá tốt. Bạn thoải mái sáng tạo, không quá “gồng” và nội dung sản xuất ra tự nhiên nhất. Tuy nhiên, để tiến xa hơn trên con đường làm copywriter và có nhiều trải nghiệm nghề nghiệp, bạn cần rèn luyện sử dụng cái “tôi” của mình. Cụ thể, bạn trẻ tuổi, nhưng nếu cần bạn vẫn có thể viết được nội dung cho các cô chú U50 đọc. Mình hay nói vui là “nhạc nào cũng nhảy được” là như vậy.
 
@@ -171,11 +191,10 @@ _Những kênh Tik Tok đem về nguồn khách hàng và doanh số tốt cho d
 
 Ngoài ra, mình khuyến khích bạn tự xây dựng kênh social thể hiện cá tính của mình, vừa làm thương hiệu cá nhân vừa thỏa mãn sở thích. 
 
-**4. Thống nhất với leader của bạn về công đoạn duyệt nội dung**
+### Thống nhất với leader của bạn về công đoạn duyệt nội dung <a name="Thống nhất với leader của bạn về công đoạn duyệt nội dung"></a>
 
 Lưu ý này nhỏ thôi, nhưng lâu dần nếu không giải quyết dứt điểm, sẽ gây ức chế cho người làm nội dung dẫn đến việc chia tay team là chuyện sớm muộn. 
 
 Quá trình sản xuất content, nếu kỹ tính, bạn nên đưa cho leader duyệt từng bước, tránh tình trạng bạn miệt mài viết content và anh em designer làm artword xong rồi phải bỏ đi làm lại vì không được duyệt. Một vài lần ở các campaign quan trọng thì không sao, nhưng với daily post bạn cũng phải làm đi làm lại thì không vui vẻ chút nào cả.
 
-Nói về chuyện làm social content thì không thể nói hết trong vài ba trang word. Ở bài viết này mình chỉ nêu ra những khái niệm cơ bản nhất. Bạn có thể dựa vào đây để tìm hiểu tiếp và thực hành liên tục, mình tin bạn sẽ tiến bộ rất nhanh nếu va chạm càng nhiều. Hãy xem thêm các bài viết về [nghề content]( https://vegiang.com/tag/nghe-content)  của mình trên blog vegiang.com này nhé! Hẹn gặp lại các bạn ở bài viết tiếp theo!
-
+Nói về chuyện làm social content thì không thể nói hết trong vài ba trang word. Ở bài viết này mình chỉ nêu ra những khái niệm cơ bản nhất. Bạn có thể dựa vào đây để tìm hiểu tiếp và thực hành liên tục, mình tin bạn sẽ tiến bộ rất nhanh nếu va chạm càng nhiều. Hãy xem thêm các bài viết về [nghề content](https://vegiang.com/tag/nghe-content) của mình trên blog vegiang.com này nhé! Hẹn gặp lại các bạn ở bài viết tiếp theo!
