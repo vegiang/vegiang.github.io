@@ -10,11 +10,24 @@ featured: false
 ---
 _Ngoài nội dung cho các trang Social và Website, những năm gần đây, Content Writer còn có nhiệm vụ triển khai thêm eBbook. Nếu bất ngờ được giao cho task này, bạn sẽ làm gì? Để không phải bị động trong công việc, bạn hãy tham khảo bài viết này của mình nhé!_
 
-## 1. eBook trong Marketing doanh nghiệp
+# Mục lục
+1. [eBook trong Marketing doanh nghiệp](#eBook trong Marketing doanh nghiệp)
+   1. [Content Marketing và eBook](#Content Marketing và eBook)
+   2. [Khi nào eBook phát huy hiệu quả cao nhất](#Khi nào eBook phát huy hiệu quả cao nhất)
+2. [Nghiên cứu, tìm kiếm ý tưởng chủ đạo và lập dàn ý cho eBook](#Nghiên cứu, tìm kiếm ý tưởng chủ đạo và lập dàn ý cho eBook)
+   1. [Cách chọn content angle cho eBook](#Cách chọn content angle cho eBook)
+   2. [Lập dàn ý cho eBook trước khi viết](#Lập dàn ý cho eBook trước khi viết)
+3. [Triển khai nội dung chi tiết và trình bày](#Triển khai nội dung chi tiết và trình bày)
+   1. [Kinh nghiệm viết nội dung eBook chi tiết](#Kinh nghiệm viết nội dung eBook chi tiết)
+   2. [Công cụ hỗ trợ trình bày eBook đẹp và chuyên nghiệp](#Công cụ hỗ trợ trình bày eBook đẹp và chuyên nghiệp)
+4. [Biên tập và đóng gói sản phẩm](#Biên tập và đóng gói sản phẩm)
+5. [Quảng bá cho eBook như thế nào?](#Quảng bá cho eBook như thế nào?)
+
+## eBook trong Marketing doanh nghiệp <a name="eBook trong Marketing doanh nghiệp"></a>
 
 Trước khi bắt tay vào viết eBook bạn cần hiểu rõ vì sao mình phải thực hiện việc này và eBook mang lại lợi ích gì cho branding cũng như marketing thương hiệu lẫn sản phẩm.
 
-### 1.1 Content Marketing và eBook
+### Content Marketing và eBook <a name="Content Marketing và eBook"></a>
 
 eBook hay còn được gọi là sách điện tử - Electronic Book – đã không quá xa lạ với người dùng Internet. Vì là sách nên eBook được soạn thảo và xuất bản phục vụ nhiều mục đích khác nhau. Trong bài viết này, mình chỉ đề cập đến eBook trong phạm vi marketing cho doanh nghiệp vừa và nhỏ.
 
@@ -26,7 +39,7 @@ Là một phần của Content Marketing (Tiếp thị nội dung), làm nội d
 ![eBook ngành digital marketing](/images/sach-digital-marketing.jpg)
 _Chỉ riêng nich dạy digital marketing, eBook được sử dụng rộng rãi. Nguồn sách*_
 
-### 1.2 Khi nào eBook phát huy hiệu quả cao nhất
+### Khi nào eBook phát huy hiệu quả cao nhất <a name="Khi nào eBook phát huy hiệu quả cao nhất"></a>
 
 Ấn phẩm sách điện tử phù hợp nhất cho các campaign branding và xây dựng tệp khách hàng tiềm năng. Hầu như eBook không kén chọn sản phẩm, dịch vụ, chỉ là với mỗi lĩnh vực, hình thức và nội dung triển khai eBook sẽ khác nhau. Trong đó, sản phẩm nào càng có giá bán cao và customer journey dài hơi thì sử dụng eBook sẽ có hiệu quả đáng kể hơn. Cụ thể:
 
@@ -62,17 +75,17 @@ Với nhóm sản phẩm mới, thị trường nhỏ, mức độ nhận biết
 ![eBook hướng dẫn sử dụng sản phẩm chi tiết nhất](/images/ebook-huong-dan-su-dung.png)
 _eBook hướng dẫn sử dụng sản phẩm chi tiết nhất. Nguồn: trên ảnh_
 
-## 2. Nghiên cứu, tìm kiếm ý tưởng chủ đạo và lập dàn ý cho eBook
+## Nghiên cứu, tìm kiếm ý tưởng chủ đạo và lập dàn ý cho eBook <a name="Nghiên cứu, tìm kiếm ý tưởng chủ đạo và lập dàn ý cho eBook"></a>
 
 Sau khi đã xác định được sản phẩm cần viết eBook thuộc nhóm nào, bước tiếp theo chính là nghiên cứu và chọn ý tưởng cụ thể để triển khai dàn ý chi tiết nhất.
 
-### 2.1 Cách chọn content angle cho eBook
+### Cách chọn content angle cho eBook <a name="Cách chọn content angle cho eBook"></a>
 
 Content Angle là hướng tiếp cận, góc nhìn của nội dung. Cùng một mục đích nhấn mạnh lợi ích của sản phẩm thực phẩm chức năng, bạn có thể chọn các angle khác nhau như Ý kiến chuyên gia hay so sánh hàm lượng vitamin của sản phẩm với trái cây chẳng hạn.
 
 Khi bắt đầu soạn eBook, bạn cũng cần lựa chọn content angle phù hợp. Không chỉ giúp cuốn eBook của bạn khác biệt mà còn giúp thu hút đối tượng khách hàng tương tác với eBook của bạn tốt hơn. Ví dụ: Cùng là nội dung tuyển tập đề luyện thi IELTS, bạn có thể chọn angle focast – dự đoán format và đề mẫu cho các quý hay năm tới.
 
-### 2.2 Lập dàn ý cho eBook trước khi viết
+### Lập dàn ý cho eBook trước khi viết <a name="Lập dàn ý cho eBook trước khi viết"></a>
 
 Ouline của eBook có thể xem là phần mục lục. Bạn có thể sắp xếp nội dung phần nào trước, phần nào sau tránh trường hợp trùng lặp hay thiếu nội dung. Bước lập dàn ý này rất quan trọng, giúp bạn biết được quy mô của eBook này cũng như theo dõi được tiến độ viết về sau và dễ dàng biên tập thêm – bớt chi tiết nếu muốn.
 
@@ -81,11 +94,11 @@ Bố cục của một cuốn sách nói chung và eBook nói riêng thường c
 ![Phần mục lục thể hiện ouline chính của cuốn sách](/images/travel-english-booklet.jpg)
 _Phần mục lục thể hiện ouline chính của cuốn sách. Nguồn ảnh*
 
-## 3. Triển khai nội dung chi tiết và trình bày
+## Triển khai nội dung chi tiết và trình bày <a name="Triển khai nội dung chi tiết và trình bày"></a>
 
 Đến công đoạn viết từng phần, tùy vào quy mô của cuốn sách, bạn có thể phân cho nhiều người viết sau đó biên tập và ghép lại hoàn chỉnh. Ở đây, mình chỉ đề cập đến tình huống bạn chịu trách nhiệm tất cả các khâu. 
 
-### 3.1 Kinh nghiệm viết nội dung eBook chi tiết 
+### Kinh nghiệm viết nội dung eBook chi tiết <a name="Kinh nghiệm viết nội dung eBook chi tiết"></a>
 
 Trong điều kiện lý tưởng, bạn có thể bắt tay vào viết từ đầu đến cuối cuốn sách. Thực tế, việc duy trì được tinh thần và động lực viết nội dung dài hơi như eBook không đơn giản chút nào, bạn cần một số thủ thuật nho nhỏ để hoàn tất một cuốn eBook nhanh và chất lượng. Đó là:
 
@@ -97,7 +110,7 @@ Trong điều kiện lý tưởng, bạn có thể bắt tay vào viết từ đ
 
 + Sắp xếp công việc để viết liên tục, tránh trường hợp kéo dài thời gian viết vì nguy cơ bạn bỏ ngang rất cao đấy.
 
-### 3.2 Công cụ hỗ trợ trình bày eBook đẹp và chuyên nghiệp
+### Công cụ hỗ trợ trình bày eBook đẹp và chuyên nghiệp <a name="Công cụ hỗ trợ trình bày eBook đẹp và chuyên nghiệp"></a>
 
 Ở thời đại đòi hỏi tính visual cao của sản phẩm này, cuốn eBook của bạn không chỉ cần nội dung hay mà còn cần trình bày đẹp và sinh động. Khách hàng/ người đọc sẽ bỏ qua cuốn eBook của bạn ngay nếu không có ấn tượng ban đầu tốt. Để xử lý công tác dàn trang, thêm hình minh họa và làm template cho eBook, bạn cần sử dụng một số công cụ hỗ trợ.
 
@@ -133,13 +146,13 @@ _Soạn eBook trên Google Docs_
 
 - Nếu có nhiều file PDF, bạn có thể ghép chúng lại với nhau thành 1 file bằng các công cụ online miễn phí như https://www.adobe.com/acrobat/online/merge-pdf.html hoặc chức năng Preview trên máy Mac.
 
-## 4. Biên tập, đóng gói sản phẩm
+## Biên tập và đóng gói sản phẩm <a name="Biên tập và đóng gói sản phẩm"></a>
 
 Sau khi hoàn thành hết tất cả chi tiết, đến công đoạn biên tập, gọt giũa nội dung. Nếu bạn là người thực hiện từ đầu đến cuối cuốn eBook, bạn cần nhờ người khác đọc lại và review các lỗi cũng như điểm chưa hợp lý. Bước này rất quan trọng, những lỗi nho nhỏ như chính tả, typo hay hình ảnh không cân đối sẽ kéo chất lượng sản phẩm đi xuống.
 
 Khi đã hoàn tất, bạn cần xuất file eBook ở một số dạng file phổ biến như PDF, PRC, EPUB để khách hàng dễ đọc ở nhiều nền tảng và thiết bị số. 
 
-## 5. Quảng bá cho eBook như thế nào?
+## Quảng bá cho eBook như thế nào? <a name="Quảng bá cho eBook như thế nào?"></a>
 
 Một cuốn eBook thành công không chỉ dựa vào nội dung mà còn phụ thuộc rất nhiều vào cách đưa cuốn sách đấy đến với độc giả - ở đây là khách hàng của bạn. Hiện nay nhiều doanh nghiệp vừa và nhỏ sử dụng eBook để mở rộng tệp khách hàng tiềm năng và chăm sóc khách hàng thân thiết. 
 
