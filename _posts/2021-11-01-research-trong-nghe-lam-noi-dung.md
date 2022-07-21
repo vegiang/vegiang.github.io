@@ -10,7 +10,15 @@ featured: false
 ---
 _Nhiều bạn trẻ mới vào nghề content thường thắc mắc: bản thân chưa biết gì về ngành A, chưa từng dùng sản phẩm B liệu có làm content marketing cho nó được không?  Câu trả lời là được, nếu bạn chịu bỏ thời gian và công sức nghiên cứu, học hỏi. Vậy nghiên cứu như thế nào để có hiệu quả nhất, hãy theo dõi bài chia sẻ này của mình nhé!_
 
-## Điều làm nên sự khác biệt của mỗi content writer: Ý thức tự học, tự nghiên cứu
+# Mục lục
+1. [Điều làm nên sự khác biệt của mỗi content writer: Ý thức tự học, tự nghiên cứu](#Điều làm nên sự khác biệt của mỗi content writer: Ý thức tự học, tự nghiên cứu)
+2. [Cách thức để research đạt hiệu quả cao cho người làm nội dung quảng cáo](#Cách thức để research đạt hiệu quả cao cho người làm nội dung quảng cáo)
+   1. [Research để viết bài blog, content SEO](#Research để viết bài blog, content SEO)
+   2. [Research để viết content ads, content cho các trang social](#Research để viết content ads, content cho các trang social)
+3. [Tham khảo, học hỏi hay sao chép?](#Tham khảo, học hỏi hay sao chép?)
+4. [Đừng ngại cái mới! Hãy học hỏi mỗi ngày!](#Đừng ngại cái mới! Hãy học hỏi mỗi ngày!)
+
+## Điều làm nên sự khác biệt của mỗi content writer: Ý thức tự học, tự nghiên cứu <a name="Điều làm nên sự khác biệt của mỗi content writer: Ý thức tự học, tự nghiên cứu"></a>
 
 Không riêng gì nghề làm nội dung, để tiến bộ nhanh chóng và có chuyên môn vững chắc, người làm nghề bắt buộc phải luôn luôn trau dồi, luôn luôn học hỏi. Nếu rời khỏi trường đại học và ngừng học, theo thời gian bạn sẽ bị tụt lại và bị đào thải trên thị trường lao động ngày càng khắc nghiệt.
 
@@ -18,14 +26,14 @@ Người quản lý và khách hàng sẽ đánh giá được ngay trình độ
 
 Có nhiều bạn nhầm lẫn rằng thông tin có đầy trên Google, bạn chỉ cần “bê” về là được, không cần tốn nhiều công sức đọc hiểu, nghiên cứu làm gì. Tư tưởng này khiến cho nội dung blog website bây giờ nhan nhản nội dung sai, lỗi ngớ ngẩn như hình bên dưới vì các bạn làm nội dung nhưng không có kiến thức cơ bản, nền tảng.
 
-![ Sai thông tin về ngành hàng](/images/sai-khai-niem-co-ban.PNG)
+![Sai thông tin về ngành hàng](/images/sai-khai-niem-co-ban.PNG)
 _Bài viết về dịch vụ tư vấn mở quán cà phê, mà người viết không phân biệt nổi barista và bartender thì làm sao khách hàng tin tưởng được_
 
 Nội dung quảng cáo hay trước hết phải đúng. Để viết đúng bạn cần phải đọc nhiều và học nhiều. Trường lớp, các khóa học chỉ giúp bạn có kiến thức căn bản còn lại để đạt đến trình độ cao hơn trong nghề, bạn nên chủ động học tập.
 
 Một content writer chỉ cần là chuyên gia trong 1 – 2 lĩnh vực cũng đủ để bạn tiến xa trong nghề rồi. Thời gian đầu mới vào nghề, bạn có thể viết nhiều lĩnh vực và format nội dung, nhưng khi đã có kinh nghiệm, đa số người làm nội dung quảng cáo đều chỉ tập trung vào một số dạng nội dung cũng như lĩnh vực thế mạnh của mình mà thôi.
 
-## Cách thức để research đạt hiệu quả cao cho người làm nội dung quảng cáo
+## Cách thức để research đạt hiệu quả cao cho người làm nội dung quảng cáo <a name="Cách thức để research đạt hiệu quả cao cho người làm nội dung quảng cáo"></a>
 
 Trong  khuôn khổ bài viết này, mình sẽ gợi ý cho bạn – người mới vào nghề content writer và copywriter một số cách để research trước khi viết nội dung.
 
@@ -40,7 +48,7 @@ _Đọc thật nhiều tài liệu và take note các nội dung quan trọng tr
 
 Chỉ cần sau một thời gian tìm hiểu, bạn đọc bất kỳ một bài viết nào về ngành hàng FnB bạn đều hiểu, mà không cần tra cứu khái niệm thì bạn có tiến bộ rồi đấy.
 
-Do đó, **bước đầu tiên để nghiên cứu đó chính là search một số bài viết về ngành --> highlight những khái niệm chưa hiểu --> research để hiểu, note lại nếu cần --> Quay lại đọc tài liệu một lần nữa sau khi đã nắm rõ khái niệm.**
+Do đó, **bước đầu tiên để nghiên cứu đó chính là search một số bài viết về ngành -> highlight những khái niệm chưa hiểu -> research để hiểu, note lại nếu cần -> Quay lại đọc tài liệu một lần nữa sau khi đã nắm rõ khái niệm.**
 
 Bước tiếp theo, bạn cần mở rộng phạm vi nghiên cứu để tìm hiểu rộng hơn về ngành hàng. Cũng từ ví dụ viết bài bán máy pha cà phê, các khai niệm về nguyên liệu, thành phẩm pha được và cửa hàng, quán cà phê chính là nội dung liên quan mà bạn cần phát triển đến đáp ứng trọn vẹn nhu cầu người đọc.
 
@@ -48,7 +56,7 @@ Và cuối cùng, bạn cần cập nhật tin tức mới của ngành hàng. H
 
 Sau khi đã nắm nguyên tắc này, mình sẽ gợi ý cách làm chi tiết hơn ở bên dưới.
 
-### Research để viết bài blog, content SEO
+### Research để viết bài blog, content SEO <a name="Research để viết bài blog, content SEO"></a>
 
 Ở giai đoạn đầu, bạn sẽ được giao cho list keyword để viết bài. Nếu chưa từng nghiên cứu về lĩnh vực cũng như nhóm keyword này, bạn có thể áp dụng trình tự research sau của mình:
 
@@ -69,7 +77,9 @@ _Các bài viết content SEO đòi hỏi chỉnh chu về hình thức và già
 
 **Search nguyên keyword nhưng không ra kết quả hoặc kết quả không đáp ứng đúng thông tin thì làm sao?**
 
-_Thay đổi keyword_. Bạn dùng từ đồng nghĩa hay chia nhỏ angle xung quanh từ khóa đấy hoặc dùng tiếng Anh chẳng hạn. Theo kinh nghiệm của mình, có những keyword bạn search tiếng Việt có rất ít thông tin. Lý do có thể volume không cao nên người ta không đầu tư viết bài. Nếu bạn chuyển qua tiếng Anh bạn sẽ thu được nhiều thông tin từ nhiều nguồn. Công việc của bạn lúc này là chắt lọc lại thông tin mình cần và viết lại theo cách bạn hiểu là được.
+**Thay đổi keyword**. Bạn dùng từ đồng nghĩa hay chia nhỏ angle xung quanh từ khóa đấy hoặc dùng tiếng Anh chẳng hạn. Theo kinh nghiệm của mình, có những keyword bạn search tiếng Việt có rất ít thông tin. Lý do có thể volume không cao nên người ta không đầu tư viết bài. Nếu bạn chuyển qua tiếng Anh bạn sẽ thu được nhiều thông tin từ nhiều nguồn. Công việc của bạn lúc này là chắt lọc lại thông tin mình cần và viết lại theo cách bạn hiểu là được.
+
+> Xem thêm: [Bài viết chuẩn SEO](https://vegiang.com/bai-viet-chuan-seo-la-gi-chia-se-kinh-nghiem-tu-a-z-cho-nguoi-moi/)
 
 **Muốn bài viết unique và nổi trội thì phải làm thế nào?**
 
@@ -102,18 +112,20 @@ Và để nâng tầm bài viết của mình hơn nữa, bạn cần đọc và
 
 7. Phỏng vấn khách hàng, KOLs
 
-### Research để viết content ads, content cho các trang social
+### Research để viết content ads, content cho các trang social <a name="Research để viết content ads, content cho các trang social"></a>
 
 Nếu content SEO đòi hỏi hình thức chỉnh chu cho từng câu chữ thì content cho các nền tảng social đòi hỏi không chỉ là chữ mà còn về hình ảnh, âm thanh. Những câu headline, tagline cuốn hút đi cùng hình ảnh chất lượng là điều mà nhiều copywriter luôn luôn mong muốn. Vậy khi đảm nhận công việc này, bạn cần research như thế nào?
 
-Có một quan niệm rằng làm content cho social không cần phải đọc nhiều, chỉ cần lướt newfeed bắt trend là được. Suy nghĩ này rất tai hại về lâu dài nếu bạn làm content cho doanh nghiệp. Bạn cần nghiên cứu đọc hiểu các bước như content SEO, chỉ là không cần viết nhiều như vậy. Cái chính là bạn phải hiểu được khái niệm cơ bản về ngành và giá trị cốt lõi của sản phẩm. Từ đó bạn tìm tòi cách thể hiển sao cho người xem không bỏ qua bài viết của bạn sau 3s.
+Có một quan niệm rằng làm [content cho social](https://vegiang.com/Social-content-cach-xay-dung-noi-dung/) không cần phải đọc nhiều, chỉ cần lướt newfeed bắt trend là được. Suy nghĩ này rất tai hại về lâu dài nếu bạn làm content cho doanh nghiệp. Bạn cần nghiên cứu đọc hiểu các bước như content SEO, chỉ là không cần viết nhiều như vậy. Cái chính là bạn phải hiểu được khái niệm cơ bản về ngành và giá trị cốt lõi của sản phẩm. Từ đó bạn tìm tòi cách thể hiển sao cho người xem không bỏ qua bài viết của bạn sau 3s.
 
 ![Để biết xem mọi người đang quan tâm đến gì, đừng quên Google Trends](/images/google-trend.PNG)
 _Để biết xem mọi người đang quan tâm đến gì, đừng quên Google Trends_
 
 Không phải làm social cho sản phẩm nào cũng bắt trend. Mình rất mong các bạn làm nghề hiểu được điều này. Lồng ghép câu nói hay meme đang là trend chỉ phát huy tác dụng khi người xem cũng hiểu và biết đến nó, còn không nó sẽ là thảm họa. Một nhà hàng cao cấp, một brand thực phẩm chức năng ngoại nhập hay máy lọc nước khử độc thì đối tượng khách hàng của bạn không thể biết được những câu trending từ chương trình Rap Việt, chẳng hạn.
 
-**Vậy làm sao để research ra cách thể hiện trên social hiểu quả?** 
+> Có thể bạn quan tâm: [Kinh nghiệm viết bài PR](https://vegiang.com/lan-dau-viet-bai-pr-cach-viet-bai-quang-cao/)
+
+**Vậy làm sao để research ra cách thể hiện trên social media hiệu quả?** 
 
 _Ở bài viết này mình chia sẻ cách nghiên cứu cho content trên nền tảng Facebook còn các trang mạng xã hội về video như Youtube, Tik Tok khi nào mình làm thành công, mình sẽ chia sẻ kinh nghiệm sau nhé!_
 
@@ -135,7 +147,9 @@ _Hãy ghé thường xuyên hơn Library Ads của Facebook_
 
 Và cuối cùng, hãy cố gắng tham gia các cộng đồng lớn về content social cũng như marketing về ngành hàng đó để học hỏi thêm kinh nghiệm.
 
-## Tham khảo, học hỏi hay sao chép ?
+> Có thể bạn quan tâm: [Cách viết nội dung mô tả sản phẩm](https://vegiang.com/cach-viet-mo-ta-san-pham/)
+
+## Tham khảo, học hỏi hay sao chép? <a name="Tham khảo, học hỏi hay sao chép?"></a>
 
 Nội dung về cách research mình đã chia sẻ hết ở trên, ở hai heading cuối này, mình dành để nói nhiều hơn về mindset làm nghề content marketing nói chung. Có thể “trường phái” white hat mình theo đuổi không “được lòng” các sếp, nhưng để có career path lâu dài, không ăn xổi thì bạn có thể tham khảo.
 
@@ -152,7 +166,9 @@ _Đưa thông tin tổng hợp được –> kèm theo dẫn chứng thực tế
 
 Hãy học hỏi và biến chúng thành hiểu biết của mình, rồi truyền tải lại cho người dùng một cách tốt nhất.
 
-## Đừng ngại cái mới! Hãy học hỏi mỗi ngày!
+> Có thể bạn quan tâm: [Cách viết nội dung eBook](https://vegiang.com/cach-viet-noi-dung-ebook-trong-digital-marketing/)
+
+## Đừng ngại cái mới! Hãy học hỏi mỗi ngày! <a name="Đừng ngại cái mới! Hãy học hỏi mỗi ngày!"></a>
 
 Hiếm có content writer nào ngay từ đầu đã là chuyên gia về ngành hay sản phẩm nào đó, họ cũng phải bỏ thời gian ra nghiên cứu, tìm hiểu. Thực tế cho thấy để viết nội dung quảng cáo cho bất kỳ sản phẩm, ngành hàng, dịch vụ nào, bạn phải là người am hiểu nó nhất trong công ty. Bạn không hiểu sâu rộng và không tin tưởng vào sản phẩm hay thương hiệu thì bạn sẽ không thể nào truyền đạt đúng thông điệp đến người tiêu dùng, khách hàng.
 
@@ -170,4 +186,3 @@ Thay đổi cách làm một chút, bạn cần giải quyết B, bạn tự đi
 Hãy tập thói quen khi gặp vấn đề trong công việc bạn cần tự tìm tòi trước khi hỏi ai đó. Người bạn hỏi cũng tốn ít thời gian giải thích hơn, họ sẽ vui vẻ khi chỉ bảo bạn hơn, đồng thời bạn cũng hiểu biết sâu hơn. 
 
 Hy vọng với chia sẻ về chuyện research khi làm công việc content marketing này của mình giúp ích cho bạn. Đây là một trong hơn 10 bài viết về [nghề content](https://vegiang.com/tag/nghe-content) trên blog vegiang.com, hãy đón xem các bài viết tiếp theo nhé!
-
