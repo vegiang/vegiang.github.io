@@ -10,9 +10,19 @@ featured: true
 ---
 _Thiên tai, dịch bệnh và chiến tranh là ba thảm họa đối với loài người. Mình mới “được’’ trải nghiệm thiên tai và giờ là dịch bệnh. Cách đây 2 năm, Covid-19 nổi lên ở Vũ Hán (Trung Quốc) là một sự kiện gì đó xa xôi lắm với mình. Vậy mà không ngờ, chính mình giờ đây đang chịu ảnh hưởng nặng nề từ nó._
 
-(Còn tiếp…) 
+(Còn tiếp…)
 
-## Tháng 9/2021: Hai tuần TPHCM “Ai ở đâu ở yên đó”
+# Mục lục
+1. [Tháng 9/2021: Hai tuần TP.HCM “Ai ở đâu ở yên đó”](#Tháng 9/2021: Hai tuần TP.HCM “Ai ở đâu ở yên đó”)
+2. [Tháng 8/2021: Dịch bệnh chưa bao giờ gần mình đến vậy](#Tháng 8/2021: Dịch bệnh chưa bao giờ gần mình đến vậy)
+3. [Ngày 01/08/2021: Lúc mình xuống tinh thần nhất](#Ngày 01/08/2021: Lúc mình xuống tinh thần nhất)
+4. [Tháng 7/2021: Âm thanh lạnh lẽo](#Tháng 7/2021: Âm thanh lạnh lẽo]
+5. [Ngày 10/07/2021: Phong tỏa vì dịch bệnh và những lần đầu tiên](#Ngày 10/07/2021: Phong tỏa vì dịch bệnh và những lần đầu tiên)
+6. [Ngày 06/07/2021: Hẻm nhà mình bị phong tỏa](#Ngày 06/07/2021: Hẻm nhà mình bị phong tỏa)
+7. [Giữa năm 2021](#Giữa năm 2021)
+8. [Đầu năm 2020](#Đầu năm 2020)
+
+## Tháng 9/2021: Hai tuần TP.HCM “Ai ở đâu ở yên đó” <a name="Tháng 9/2021: Hai tuần TP.HCM “Ai ở đâu ở yên đó”"></a>
 
 Tình hình dịch Covid ở Sài Gòn vẫn chưa giảm nhiệt mà còn diễn biến xấu hơn: Số ca mắc mới ngoài cộng đồng còn cao hơn ở khu phong tỏa. Vì nguyên nhân này chính quyền TPHCM đã quyết định áp dụng biện pháp siết chặt hơn nữa, đó là “Ai ở đâu ở yên chỗ đó”. Người dân không được phép ra ngoài trừ lực lượng chức năng đi làm nhiệm vụ.
 
@@ -33,7 +43,7 @@ Gia đình bình thường còn lại muốn mua hàng hóa sẽ đổ dồn và
 ![Siêu thị những ngày giãn cách, nhân viên “3 tại chỗ” làm việc hết công suất](/images/sieu-thi-giai-doan-ai-o-dau-o-yen-cho-day-covid19.jpg)
 _Siêu thị những ngày giãn cách, nhân viên “3 tại chỗ” làm việc hết công suất_
 
-![ Siêu thị mùa covid](/images/sieu-thi-giai-doan-ai-o-dau-o-yen-cho-day-covid19-2021.jpg)
+![Siêu thị mùa covid](/images/sieu-thi-giai-doan-ai-o-dau-o-yen-cho-day-covid19-2021.jpg)
 
 Trải qua 4 tuần sống cùng chỉ thị mới, mình thấy khó nhất là 2 tuần đầu. Gần như siêu thị phải mất 4-5 ngày để trả đơn khách hàng đặt mua. Combo của phường thì không sát nhu cầu người dân nên mình chẳng đặt mua. Tổ dân phố có đặt mua chung rau củ nhưng cũng mất 2-3 ngày mới có hàng. Giá cả thì vô chừng, từ tháng 7 đến nay hàng hóa mình mua toàn đắt hơn 2-3 lần thậm chí có mặt hàng đắt gấp 5 lần.
 
@@ -48,7 +58,7 @@ _Tài khoản zalo của mình sau Chỉ thị mới_
 
 Nhìn lại việc áp dụng chỉ thị mới mình thấy thực tế cũng không quá rối loạn. Riêng mình rất thương các bạn nhân viên siêu thị, các bạn làm việc liên tục, gói hàng và đi giao tận nhà. Hàng hóa siêu thị so với các nguồn khác thì rẻ và tươi ngon hơn. Tình hình chắc phải hết tháng 9 này, Sài Gòn mới nới lỏng hơn. Hiện tại, đa số các ca F0 mới đều điều trị tại nhà, có bác sĩ hỗ trợ tư vấn, chỉ khi khó thở hay chuyển nặng mới đi bệnh viện mà thôi. Chị đồng nghiệp cũ của mình cũng mới mắc Covid, chị tiêm vaccine rồi nên chỉ bị sốt 2 ngày rồi bình thường lại. Thật may sao! 
 
-## Tháng 8/2021: Dịch bệnh chưa bao giờ gần mình đến vậy
+## Tháng 8/2021: Dịch bệnh chưa bao giờ gần mình đến vậy <a name="Tháng 8/2021: Dịch bệnh chưa bao giờ gần mình đến vậy"></a>
 
 Khi đã hơn 1 tháng giãn cách toàn thành phố theo chỉ thị 16 tăng cường, lướt mạng xã hội thấy anh chị đồng nghiệp cũ, học trò cũ để tang người thân mình thấy tình hình quả thật không ổn. Cho đến khi đứa bạn thân của mình nhắn: “Mày ơi, tao dương tính test nhanh rồi. Mất vị giác, sốt nhẹ chưa rõ ràng”…Mình thẫn thờ, không tin nổi vào mắt mình. Cô bạn ấy làm việc tại nhà mấy tháng nay, chỉ ra ngoài mua thức ăn với nhận hàng cứu trợ thôi mà.
 
@@ -57,7 +67,7 @@ Bạn ở xa mình, chỗ mình thì phong tỏa, ngoài động viên mình kh�
 ![Sáng sớm mở điện thoại thấy tin nhắn thế này](/images/tin-nhan-cua-ban.jpg)
 _Sáng sớm mở điện thoại thấy tin nhắn thế này, thật sự hoang mang_
 
-## 01/08: Lúc mình xuống tinh thần nhất
+## Ngày 01/08/2021: Lúc mình xuống tinh thần nhất <a name="Ngày 01/08/2021: Lúc mình xuống tinh thần nhất"></a>
 
 Đợt xét nghiệm cho cư dân hẻm từ tuần thứ 2 phong tỏa đã phát hiện tòa nhà mình ở có 1 ca dương tính, tòa nhà đối diện có 1 ca mới. Bạn đó ở lầu 3 còn hai chị em mình ở lầu 5. Nhà hàng xóm trước đó có 3 ca thì giờ số lượng ca dương tính đã hơn 10 người. Mỗi lần xét nghiệm là nguyên buổi đó hai chị em hồi hộp trực điện thoại xem y tế có gọi điện không. Thậm chí mình có list ra danh sách những thứ cần mang theo nếu phải đi cách ly tập trung.
 
@@ -78,13 +88,13 @@ _Lúc này mình đang đợi 30 phút sau tiêm vaccine. Tiêm về hai chị e
 
 Hai chị em cũng hay nói với nhau rằng giờ mình chờ tới lượt thôi, chỉ không biết lượt mắc covid tới trước hay tiêm vaccine tới trước. Cũng may được tiêm sớm, mình cảm thấy đỡ lo lắng hơn phần nào.
 
-## Tháng 7/2021: Âm thanh lạnh lẽo
+## Tháng 7/2021: Âm thanh lạnh lẽo <a name="Tháng 7/2021: Âm thanh lạnh lẽo"></a>
 
 Những ngày đầu bị phong tỏa, mình sợ nghe tiếng xe cứu thương dã man, nhất là vào đêm khuya. Có những hôm mình đếm được 8 xe cấp cứu chạy một lúc qua con đường gần nơi mình sống. Nghe âm thanh ấy mà rợn cả người. Trên báo đài, mạng xã hội người ta chỉ tập trung vào số ca mắc mới trong ngày ở Sài Gòn, nhưng ít ai quan tâm số ca tử vong. Trung bình phải 200- 300 ca tử vong 1 ngày so với số lượng mắc mới là 3000-4000 ca. Nhìn số liệu mà mình cảm thấy sợ.
 
 Một khi đã quen với tiếng còi xe inh ỏi giờ cao điểm, tiếng loa kẹo kéo và tiếng cười nói ở quán nhậu gần nhà, rồi bỗng chúng biến mất bạn sẽ cảm nhận cuộc sống bị đảo lộn đến thế nào. Sài Gòn vốn dĩ tấp nập giờ lại hóa yên tĩnh đến lạ.
 
-## 10/07: Phong tỏa vì dịch bệnh và những lần đầu tiên
+## Ngày 10/07/2021: Phong tỏa vì dịch bệnh và những lần đầu tiên <a name="Ngày 10/07/2021: Phong tỏa vì dịch bệnh và những lần đầu tiên"></a>
 
 Sống ở Sài Gòn 9 năm, lần đầu tiên mình biết thế nào là hàng xóm. Bình thường hiếm khi mọi người chào hỏi nhau chứ đừng nói kết bạn zalo. Thế mà đợt dịch này, tòa nhà mình ở đã có group chat chung, thông báo cho nhau lịch đi test, gom đơn mua chung thịt, trứng, rau. Mọi người chia sẻ cho nhau trái ớt, trái chanh. Khi giá rau đắt ngang giá thịt, chính quyền mang rau xanh đến cho cả hẻm…
 
@@ -95,7 +105,7 @@ _Những tin nhắn của cô tổ trưởng tổ dân phố_
 
 Sau nhiều ngày, mình học cách làm quen với điều kiện sống bức bối vì không được đi ra ngoài. Cứ xem như mình đang sống chung với lũ, ăn uống hạn chế hơn, không chi tiêu bừa bãi. Ngày thường mình hay ăn sáng ở ngoài, trưa tối thì tự nấu, bún miến phở gì đấy. Ấy thế mà giờ đây hai chị em mình có thể ăn cơm ngày 3 bữa. Thật kinh ngạc! Đúng như mùa bão lũ quê mình vậy. Cơ mà lũ này hơi lâu.
 
-## 06/07: Hẻm nhà mình bị phong tỏa
+## Ngày 06/07/2021: Hẻm nhà mình bị phong tỏa <a name="Ngày 06/07/2021: Hẻm nhà mình bị phong tỏa"></a>
 
 Ngày 6/7, mình ở nhà viết bài cho kịp deadline trả khách hàng. Chiều khoảng 5h, mình mở điện thoại ra check thông tin và không tin nổi vào mắt. Trên Fanpage của quận, tờ thông báo phong tỏa hẻm mình đang sống được đăng lên. Quyết định phong tỏa có hiệu lực từ 12h00 ngày hôm đó. Mình cuống cuồng cả lên. Giờ phải làm gì? Đồ ăn chưa mua! Hẻm này nhà nào có ca vậy? Chị mình đi làm chưa về!
 
@@ -112,15 +122,17 @@ Người ta bảo giãn cách vẫn đi mua lương thực được mà, nhưng 
 ![Chuyến hàng cứu trợ trong đêm](/images/rau-thit-cho-toa-nha.png)
 _Bị phong tỏa nên tòa nhà mình nhận rau thịt cứu trợ_
 
-## Giữa năm 2021
+## Giữa năm 2021 <a name="Giữa năm 2021"></a>
 
 Mình sẽ nhớ mãi Kỳ nghỉ lễ 30/4 – 1/5 năm nay. Vì chỉ ngay sau đó, dịch Covid-19 bùng lên ở miền Bắc. Sài Gòn bắt đầu giãn cách xã hội theo chỉ thị 15 (không được ăn uống tại quán, đóng cửa các dịch vụ giải trí…) sau khi phát hiện ổ dịch ở các building. Tiếp đến quận Gò Vấp phát hiện hơn 300 ca dương tính trong Hội thánh Phục Hưng rồi cả quận bị phong tỏa theo chỉ thị 16. Lúc đó mình hoang mang vì lần đầu Sài Gòn căng thẳng đến vậy.
 
 Chưa đến 1 tháng, dịch Covid-19 đã ổn ở ngoài Bắc thì Sài Gòn ghi nhận nhiều ổ dịch ở quận Bình Tân, chợ đầu mối Hóc Môn, Thủ Đức và các khu công nghiệp. Lúc này số ca mắc trong cộng đồng tăng từ hàng chục đến hàng trăm và rồi hàng nghìn. Khi chỉ thị phong tỏa từng phường từng quận không còn hợp lý nữa, dân chúng mong muốn một biện pháp cứng rắn hơn từ chính quyền. 
 
-Đầu tháng 7, học sinh bước vào kỳ thi THPT, mọi người râm ran thông tin thành phố sẽ phong tỏa ngay sau ngày thi cuối cùng, tức là vào ngày 9/7. Hai chị em mình đã lên kế hoạch đi mua thêm thực phẩm vào ngày 5/7. Nhưng không, thực tế khác dữ lắm…
+Đầu tháng 7, học sinh bước vào kỳ thi THPT, mọi người râm ran thông tin thành phố sẽ phong tỏa ngay sau ngày thi cuối cùng, tức là vào ngày 9/7. Hai chị em mình đã lên kế hoạch đi mua thêm thực phẩm vào ngày 5/7. Nhưng không, thực tế khác dữ lắm...
 
-## Đầu năm 2020
+> Xem thêm: [Nhật ký trưởng thành của Giang](https://vegiang.com/nhat-ky/)
+
+## Đầu năm 2020 <a name="Đầu năm 2020"></a>
 
 Lúc này dịch Covid-19 khiến mình không xuất ngoại được, các kế hoạch tạm ngưng. Lúc đó mình chỉ nghĩ: Ừ chắc tầm vài ba tháng là cuộc sống sẽ trở lại bình thường. Nhưng không, mọi việc chẳng theo dự định. Mình chờ đợi được đi lại tự do không phải cách ly. Nhưng không ngờ điều đó lại xa xỉ như vậy. Năm 2020 của mình đúng kiểu sống chậm, học tập thêm nhiều kĩ năng, rèn luyện sức khỏe thể lực. Covid lúc này vẫn còn xa lắm. Dù không ra ngoài nhưng mình vẫn đi lại nội địa bình thường. Mình bắt đầu học chụp hình, edit hình và viết blog đàng hoàng. 
 
