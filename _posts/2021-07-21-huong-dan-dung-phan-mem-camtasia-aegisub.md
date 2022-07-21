@@ -13,7 +13,20 @@ _Để tiếp nối chủ đề hướng dẫn chỉnh sửa hình ảnh lần t
 
 Giờ thì cùng tìm hiểu và thực hành bạn nhé!
 
-## Chức năng chính của Camtasia – Aegisub – Format Factory
+# Mục lục
+1. [Chức năng chính của Camtasia – Aegisub – Format Factory](#Chức năng chính của Camtasia – Aegisub – Format Factory)
+2. [Hướng dẫn dùng phần mềm Camtasia cơ bản](#Hướng dẫn dùng phần mềm Camtasia cơ bản)
+   1. [Cắt – ghép video với Camtasia](#Cắt – ghép video với Camtasia)
+   2. [Cách tách video và audio bằng Camtasia](#Cách tách video và audio bằng Camtasia)
+   3. [Chèn hiệu ứng, chuyển cảnh với Camtasia](#Chèn hiệu ứng, chuyển cảnh với Camtasia)
+3. [Hướng dẫn sử dụng phần mềm Aegisub để làm phụ đề cho video](#Hướng dẫn sử dụng phần mềm Aegisub để làm phụ đề cho video)
+   1. [Làm quen với các chức năng trên Aegisub và cách chèn phụ đề](#Làm quen với các chức năng trên Aegisub và cách chèn phụ đề)
+   2. [Chèn hiệu ứng Karaoke cho các dòng phụ đề](#Chèn hiệu ứng Karaoke cho các dòng phụ đề)
+4. [Hướng dẫn sử dụng phần mềm Format Factory](#Hướng dẫn sử dụng phần mềm Format Factory)
+   1. [Cách ghép và xuất file video + file Aegisub bằng Format Factory](#Cách ghép và xuất file video + file Aegisub bằng Format Factory)
+   2. [Các chức năng khác của Format Factory](#Các chức năng khác của Format Factory)
+
+## Chức năng chính của Camtasia – Aegisub – Format Factory <a name="Chức năng chính của Camtasia – Aegisub – Format Factory"></a>
 
 Trước khi tìm hiểu cách sử dụng, mình sẽ giới thiệu qua chức năng chính của ba phần mềm này.
 
@@ -35,11 +48,11 @@ Tuy nhiên,
 
 > Có thể bạn quan tâm: [Hướng dẫn dùng Photoshop, Canva cơ bản](https://vegiang.com/huong-dan-dung-photoshop-canva-co-ban-cho-content/)
 
-## Hướng dẫn dùng phần mềm Camtasia cơ bản
+## Hướng dẫn dùng phần mềm Camtasia cơ bản <a name="Hướng dẫn dùng phần mềm Camtasia cơ bản"></a>
 
 Trong khuôn khổ bài viết này, mình sẽ chia sẻ cách cắt, ghép, tách audio, chèn hiệu ứng chuyển cảnh.
 
-### 1. Cắt – ghép video với Camtasia
+### Cắt – ghép video với Camtasia <a name="Cắt – ghép video với Camtasia"></a>
 
 Đầu tiên, bạn mở phần mềm lên, chọn tạo Project mới. Tiếp đến, bạn cần nhập tất cả “nguyên liệu” của video bạn muốn biên tập vào Camtasia. Có hai cách để thực hiện bước này:
 
@@ -70,7 +83,7 @@ Tiếp đến bạn kéo thanh dọc đến điểm cần cắt và nhấn vào 
 ![cắt video](/images/cat-video.PNG)
 _1 – Kéo thanh này đến vị trí bạn muốn cắt. 2 – Nhấn vào biểu tượng Split để cắt. 3 – Di chuyển phần cắt đến nơi bạn muốn hoặc xóa_
 
-### 2. Cách tách video và audio bằng Camtasia
+### Cách tách video và audio bằng Camtasia <a name="Cách tách video và audio bằng Camtasia"></a>
 
 Trước tiên, bạn cần kéo thả video cần tách vào timeline, click chọn video đó. Bạn nhấn chuột phải và chọn dòng Separate Audio and Video. Phần video sẽ ở dưới và phần audio ở trên. Như hình bên dưới, bạn sẽ nhận thấy 2 phần này khác nhau. Nếu muốn xóa 1 trong hai phần, bạn click chọn, nhấn chuột phải và chọn Delete.
 
@@ -86,7 +99,7 @@ _Hai phần sau khi được tách ra_
 ![Xóa thành phần trên timeline](/images/xoa-thanh-phan.png)
 _Bước 3: Xóa 1 trong hai phần trên timeline, tùy vào nhu cầu_
 
-### 3. Chèn hiệu ứng, chuyển cảnh với Camtasia
+### Chèn hiệu ứng, chuyển cảnh với Camtasia <a name="Chèn hiệu ứng, chuyển cảnh với Camtasia"></a>
 
 Khi bạn ghép những video ngắn thành một video dài hơn, để nhấn mạnh những đoạn chuyển cảnh, bạn cần thêm hiệu ứng. Camtasia có hỗ trợ một số hiệu ứng trong phần Transition, Animation. Khi bạn click vào một trong hai phần này, các hiệu ứng sẽ đổ ra bên dưới Media Bin – Library. Bạn click vào 1 mẫu để xem demo và kéo thả xuống timeline để ghép vào video (đặt vào chỗ chuyển giữa 2 video).
 
@@ -113,11 +126,11 @@ _Chọn định dạng mp4 1080p cho video_
 ![đặt tên file video và nơi lưu trữ](/images/dat-ten-file-luu-camtasia.PNG)
 _Đặt tên file và đường dẫn lưu trữ file sau khi hoàn thành_
 
-## Hướng dẫn sử dụng phần mềm Aegisub để làm phụ đề cho video
+## Hướng dẫn sử dụng phần mềm Aegisub để làm phụ đề cho video <a name="Hướng dẫn sử dụng phần mềm Aegisub để làm phụ đề cho video"></a>
 
 Trong Camtasia cũng có chức năng Caption – phụ đề, nhưng việc canh thời gian xuất hiện từng dòng text của phần mềm này khá nhọc và dễ sai sót. Aegisub sẽ giúp bạn làm phụ đề bài hát, MV, video hay phim dễ dàng hơn nhiều.
 
-### 1. Làm quen với các chức năng trên Aegisub và cách chèn phụ đề
+### Làm quen với các chức năng trên Aegisub và cách chèn phụ đề <a name="Làm quen với các chức năng trên Aegisub và cách chèn phụ đề"></a>
 
 Đầu tiên, bạn cần chuẩn bị video và phụ đề. Phụ đề bạn soạn theo từng dòng trên file notepad hay word đều được.
 
@@ -149,7 +162,7 @@ Trên ô (3) bạn click vào Edit, một bảng điều chỉnh sẽ hiện ra.
 ![chỉnh font phụ đề](/images/chinh-font-phu-de.PNG)
 _Điều chỉnh font phụ đề_
 
-### 2. Chèn hiệu ứng Karaoke cho các dòng phụ đề
+### Chèn hiệu ứng Karaoke cho các dòng phụ đề <a name="Chèn hiệu ứng Karaoke cho các dòng phụ đề"></a>
 
 Cuối cùng, bạn thêm effect cho phụ đề. Chỉ cần gõ từ khóa “effect cho aegisub” trên thanh tìm kiếm của Youtube, bạn sẽ tìm được rất nhiều hiệu ứng cho dòng text và xem demo trước khi tải về, giải nén và sử dụng.
 
@@ -184,11 +197,11 @@ _Một file phụ đề bài hát hoàn chỉnh_
 
 Sau khi hoàn thành hết, bạn chọn biểu tượng Save trên thanh Menu để lưu và đặt tên cho File.
 
-## Hướng dẫn sử dụng phần mềm Format Factory
+## Hướng dẫn sử dụng phần mềm Format Factory <a name="Hướng dẫn sử dụng phần mềm Format Factory"></a>
 
 Trong phần mềm Format Factory có rất nhiều chức năng, mình chưa sử dụng hết chúng. Phạm vi bài viết này, mình sẽ chia sẻ cho bạn cách hoàn thiện file video có phụ đề và cách convert file với Format Factory.
 
-### 1. Cách ghép và xuất file video + file Aegisub bằng Format Factory
+### Cách ghép và xuất file video + file Aegisub bằng Format Factory <a name="Cách ghép và xuất file video + file Aegisub bằng Format Factory"></a>
 
 Mở phần mềm lên, bạn quan sát 3 vị trí: (1) Cột bên trái – các loại file (video, audio, picture, document) và đường dẫn lưu trữ file thành phẩm, (2) cột bên phải – khung làm việc, process xử lý file, (3) Menu trên cùng – các nút Dừng, Xóa list ở cột phải và Bắt đầu.
 
@@ -221,7 +234,7 @@ _Thêm file phụ đề Aegisub vào file video_
 ![Click vào nút Start để bắt đầu ghép file](/images/phan-mem-dang-process.PNG)
 _Sau khi bạn click vào, nút Start sẽ chuyển thành Pause. Bạn đợi để phần process 100%_
 
-### 2. Các chức năng khác của Format Factory
+### Các chức năng khác của Format Factory <a name="Các chức năng khác của Format Factory"></a>
 
 Chỉ riêng phần Video, Format Factory cho phép người dùng có thể chuyển đổi định dạng sang mkv, gif hay WebM. Bên cạnh đó, bạn có thể record màn hình máy tính, crop khung hình,…
 
@@ -245,3 +258,5 @@ Tuy vậy, mình vẫn muốn giới thiệu nó đến bạn, nếu bạn thấ
 Mình download miễn phí các phần mềm Aegisub và Format Factory trên mạng, còn Camtasia mình mang ra tiệm để cài đặt có tốn phí. Mình khuyến khích các bạn dùng phần mềm chỉnh sửa ảnh và video trả phí để đảm bảo an toàn cho máy tính và dùng được lâu dài hơn.
 
 Nếu có thắc mắc trong quá trình sử dụng, hãy gửi tin nhắn cho mình nhé, mình sẽ giải đáp. Chúc bạn thành công!
+
+> Xem thêm: [Kinh nghiệm làm nghề content](https://vegiang.com/tag/nghe-content)
