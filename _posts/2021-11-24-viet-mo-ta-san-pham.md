@@ -10,9 +10,15 @@ featured: false
 ---
 _Viết nội dung cho sản phẩm là một nhiệm vụ gần như quen thuộc đối với content writer làm việc cho doanh nghiệp. Để thực hiện tốt nhất công việc này ngay lần đầu tiên, bạn hãy tham khảo bài chia sẻ này của mình nhé!_
 
-Đối với sản phẩm dịch vụ, ngoài nội dung eBook, content writer thường đảm nhận 2 nhiệm vụ đó là: viết mới hoặc biên tập lại mô tả sản phẩm và tạo headline – câu chuyện ấn tượng cho sản phẩm chuẩn bị tung ra thị trường. 
+# Mục lục
+1. [Tiêu chí cơ bản nhất cho nội dung mô tả sản phẩm](#Tiêu chí cơ bản nhất cho nội dung mô tả sản phẩm)
+2. [Viết mô tả sản phẩm ở đâu?](#Viết mô tả sản phẩm ở đâu?)
+3. [Từ thông tin kỹ thuật đến ngôn ngữ quảng cáo](#Từ thông tin kỹ thuật đến ngôn ngữ quảng cáo)
+4. [Sản phẩm mới: Hãy mở đầu bằng một câu chuyện sinh động](#Sản phẩm mới: Hãy mở đầu bằng một câu chuyện sinh động)
 
-## Tiêu chí cơ bản nhất cho nội dung mô tả sản phẩm
+Đối với sản phẩm dịch vụ, ngoài nội dung eBook, content writer thường đảm nhận 2 nhiệm vụ đó là: viết mới hoặc biên tập lại mô tả sản phẩm và tạo headline – câu chuyện ấn tượng cho sản phẩm chuẩn bị tung ra thị trường.
+
+## Tiêu chí cơ bản nhất cho nội dung mô tả sản phẩm <a name="Tiêu chí cơ bản nhất cho nội dung mô tả sản phẩm"></a>
 
 Có nhiều phong cách cũng như format bạn có thể áp dụng cho dạng nội dung này, dù bạn chọn cách tiếp cận như thế nào, bạn cũng nên nắm vững các tiêu chí tối thiểu để cho nội dung mô tả sản phẩm đạt hiệu quả cao nhất
 
@@ -38,7 +44,7 @@ _Yếu tố SEO cũng được chú trọng ở trang sản phẩm trên website
 
 > Có thể bạn quan tâm: [Cách viết eBook trong Quảng Cáo Marketing](https://vegiang.com/cach-viet-noi-dung-ebook-trong-digital-marketing/)
 
-## Viết mô tả sản phẩm ở đâu? 
+## Viết mô tả sản phẩm ở đâu? <a name="Viết mô tả sản phẩm ở đâu?"></a>
 
 Mình đã gặp không ít trường hợp các bạn biên tập bê nguyên content sản phẩm từ website lên các trang mạng xã hội như Facebook, Intagram hoặc ngược lại copy content trên social rồi paste vào web. Việc làm này gây khó chịu cho người dùng và thể hiện sự không trau chuốt về mặt content trên môi trường số của thương hiệu. 
 
@@ -59,7 +65,7 @@ _Nội dung review, trải nghiệm sản phẩm được ưa chuộng trên n�
 
 + Website, các sàn thương mại điện tử: So với hai dạng nền tảng trên, website và sàn TMĐT mới là kênh bán hàng đích. Khách hàng đến đây mục đích chỉ xoay quanh chuyện mua hàng mà thôi. Có thể họ đang tham khảo giá hay xem thông tin và thậm chí chốt đơn thanh toán ngay. Vậy nên bạn hãy đầu tư cho content sản phẩm ở 2 kênh này nhé! Muốn tham khảo cách làm, bạn chỉ cần search các brand đầu ngành rồi xem website cũng như kênh Shopee của họ là sẽ nhận ra ngay. 
 
-## Từ thông tin kỹ thuật đến ngôn ngữ quảng cáo
+## Từ thông tin kỹ thuật đến ngôn ngữ quảng cáo <a name="Từ thông tin kỹ thuật đến ngôn ngữ quảng cáo"></a>
 
 Ở phần trước mình đã đề cập đến nội dung thay đổi theo nền tảng, còn ở phần này mình muốn chia sẻ khía cạnh nội dung về sản phẩm cần phù hợp với người đọc/ khách hàng. Phù hợp ở đây chính là đủ thông tin khách hàng muốn biết và cách thức trình bày hợp lý.
 
@@ -80,7 +86,7 @@ Cả hai yếu tố này bạn dễ dàng nhận ra ở những brand TMĐT lớ
 ![Ghé qua một gian hàng trên sàn TMĐT Shopee](/images/san-pham-tren-shopee.PNG)
 _Ghé qua một gian hàng trên sàn TMĐT Shopee bạn sẽ học được nhiều điều._
 
-## Sản phẩm mới: Hãy mở đầu bằng một câu chuyện sinh động
+## Sản phẩm mới: Hãy mở đầu bằng một câu chuyện sinh động <a name="Sản phẩm mới: Hãy mở đầu bằng một câu chuyện sinh động"></a>
 
 Để khách hàng nhớ đến thương hiệu đã là việc không đơn giản, mà còn nhớ đến một sản phẩm mới lại càng khó hơn. Vì vậy, khi tung sản phẩm mới ra thị trường, bạn chỉ cần cho khách hàng ấn tượng đến một vài đặc điểm của sản phẩm là được. Để làm được điều này, bạn không chỉ dừng lại ở các bài viết thông tin sản phẩm đính kèm với khuyến mãi mà nên khéo léo lồng ghép các yếu tố từ nhu cầu khách hàng để tạo thành một “câu chuyện” thay vì một “chiến dịch” đơn thuần. Đó cũng là mục đích mà kỹ năng storytelling đang được ưu chuộng hàng đầu trong ngành PR Marketing hiện nay.
 
