@@ -10,7 +10,7 @@ featured: true
 ---
 _Thiên tai, dịch bệnh và chiến tranh là ba thảm họa đối với loài người. Mình mới “được’’ trải nghiệm thiên tai và giờ là dịch bệnh. Cách đây 2 năm, Covid-19 nổi lên ở Vũ Hán (Trung Quốc) là một sự kiện gì đó xa xôi lắm với mình. Vậy mà không ngờ, chính mình giờ đây đang chịu ảnh hưởng nặng nề từ nó._
 
-(Còn tiếp…)
+(Phần tiếp theo: [Tôi của những ngày này](https://vegiang.com/toi-nhung-ngay-nay/)
 
 # Mục lục
 1. [Tháng 9/2021: Hai tuần TP.HCM “Ai ở đâu ở yên đó”](#Tháng 9/2021: Hai tuần TP.HCM “Ai ở đâu ở yên đó”)
