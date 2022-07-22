@@ -10,7 +10,19 @@ featured: false
 ---
 _Một chủ đề nữa trong series về [Nghề Content](https://vegiang.com/tag/nghe-content) mình muốn chia sẻ đó chính là Kịch bản event và livestream. Đây là phần công việc mà một copywriter được yêu cầu thực hiện khá thường xuyên. Nếu được giao nhiệm vụ này, nhưng chưa biết bắt đầu từ đâu, bạn hãy tham khảo bài viết này của mình nhé!_
 
-## Vì sao phải tổ chức sự kiện livestream trên các nền tảng mạng xã hội
+# Mục lục
+1. [Vì sao phải tổ chức sự kiện livestream trên các nền tảng mạng xã hội](#Vì sao phải tổ chức sự kiện livestream trên các nền tảng mạng xã hội)
+2. [Tổ chức sự kiện và livestream có liên quan với nhau không?](#Tổ chức sự kiện và livestream có liên quan với nhau không?)
+3. [Hãy tìm hiểu nền tảng mạng xã hội trước khi viết kịch bản livestream](#Hãy tìm hiểu nền tảng mạng xã hội trước khi viết kịch bản livestream)
+4. [Mẫu kịch bản tổ chức sự kiện cho công ty](#Mẫu kịch bản tổ chức sự kiện cho công ty)
+5. [Các format kịch bản livestream phổ biến](#Các format kịch bản livestream phổ biến)
+6. [Làm sao để tổ chức được sự kiện hay một buổi livestream thành công](#Làm sao để tổ chức được sự kiện hay một buổi livestream thành công)
+   1. [Như thế nào là một buổi livestream đạt hiệu quả?](#Như thế nào là một buổi livestream đạt hiệu quả?)
+   2. [Một mình có tổ chức được sự kiện và livestream hay không](#Một mình có tổ chức được sự kiện và livestream hay không)
+   3. [Livestream càng chỉnh chu, hình ảnh thương hiệu càng được cải thiện](#Livestream càng chỉnh chu, hình ảnh thương hiệu càng được cải thiện)
+   4. [Sự kiện càng lớn càng cần các đơn vị truyền thông bảo trợ](#Sự kiện càng lớn càng cần các đơn vị truyền thông bảo trợ)
+
+## Vì sao phải tổ chức sự kiện livestream trên các nền tảng mạng xã hội <a name="Vì sao phải tổ chức sự kiện livestream trên các nền tảng mạng xã hội"></a>
 
 Không gian mạng gắn liền với định kiến là ảo, không thật. Thương hiệu muốn rút ngắn khoảng cách với khách hàng của mình thì content thực tế như sự kiện của thương hiệu và livestream trực tiếp là lựa chọn hoàn hảo trên các nền tảng mạng xã hội.
 
@@ -25,13 +37,13 @@ Tổ chức một sự kiện và phát trực tiếp (livestream) trên mạng 
 
 - Tăng doanh số vượt bậc.
 
-## Tổ chức sự kiện và livestream có liên quan với nhau không ?
+## Tổ chức sự kiện và livestream có liên quan với nhau không? <a name="Tổ chức sự kiện và livestream có liên quan với nhau không?"></a>
 
 Trước khi mạng xã hội bùng nổ, sự kiện hay activation là hoạt động marketing không thể thiếu của đa số thương hiệu. Livestream chỉ là phát trực tiếp cho người dùng mạng xã hội tương tác, nhìn thấy các hoạt động này diễn ra như thế nào.
 
 Trong khi đó livestream không nhất thiết phải là sự kiện lớn. Tùy vào quy mô doanh nghiệp, livestream có thể thực hiện hàng ngày theo hoạt động thường nhật của cửa hàng chẳng hạn.
 
-## Hãy tìm hiểu nền tảng mạng xã hội trước khi viết kịch bản livestream
+## Hãy tìm hiểu nền tảng mạng xã hội trước khi viết kịch bản livestream <a name="Hãy tìm hiểu nền tảng mạng xã hội trước khi viết kịch bản livestream"></a>
 
 Mỗi nền tảng đều có “luật chơi” riêng, gọi là chính sách. Bạn dùng nền tảng đó để marketing, bạn buộc phải hiểu rõ chính sách. Càng nhiều người dùng tạo nội dung trên mạng xã hội thì chính sách càng khắc khe và chi tiết hơn. Livestream cũng là một format nội dung. Để không bị “ăn gậy” bạn cần tìm hiểu chính sách của Facebook, Tik Tok hay Youtube trong quá trình sản xuất nội dung.
 
@@ -46,7 +58,7 @@ Mình chia sẻ một vài chính sách của Facebook và Tik Tok để bạn d
 
 Tất cả các nền tảng không riêng gì Tik Tok đều nghiêm cấm bạo lực, tình dục, hàng hóa chất cấm, vi phạm pháp luật. Nếu vi phạm, tài khoản của bạn sẽ bị “bay màu”, không thể kháng được.
 
-## Mẫu kịch bản tổ chức sự kiện cho công ty
+## Mẫu kịch bản tổ chức sự kiện cho công ty <a name="Mẫu kịch bản tổ chức sự kiện cho công ty"></a>
 
 Khai trương cửa hàng, tiệc tổng kết cuối năm, hội nghị khách hàng, lễ trao giải,… là một số sự kiện các công ty thường tổ chức mỗi năm. Tùy quy mô và thời gian, nội dung kịch bản của chương trình sẽ khác nhau. Nếu được giao cho nhiệm vụ này, bạn hãy bình tĩnh mà thực hiện nhé! 
 
@@ -62,7 +74,7 @@ _Link kịch bản trao giải: https://bitly.com.vn/j2qnq7_
 ![Mẫu bài phát biểu của đại biểu trong sự kiện](/images/bai-phat-bieu.PNG)
 _Link bài phát biểu của đại biểu: https://bitly.com.vn/bo5zzf_
 
-## Format kịch bản livestream phổ biến
+## Các format kịch bản livestream phổ biến <a name="Các format kịch bản livestream phổ biến"></a>
 
 Nếu bạn chưa biết nên livestream gì trên kênh công ty, bạn có thể tham khảo các dạng nội dung sau. Đây là những mẫu phổ biến hiện nay. 
 
@@ -123,15 +135,17 @@ Trong bài viết này mình không list ra từng phần hay công thức từn
 
 Nhìn chung, nội dung của livestream bán hàng phải dẫn dắt được cảm xúc của khách hàng/ người xem. Do đó, bạn có thể lên plan từng phần sẽ thực hiện trong buổi livestream đó còn lại người host sẽ làm chủ buổi livestream đó cùng ekip thực hiện ăn ý để đạt được mục tiêu.
 
-## Làm sao để tổ chức được sự kiện hay một buổi livestream thành công
+> Xem thêm: [Cách xây dựng, duy trì và phát triển nội dung kênh social](https://vegiang.com/Social-content-cach-xay-dung-noi-dung/)
+
+## Làm sao để tổ chức được sự kiện hay một buổi livestream thành công <a name="Làm sao để tổ chức được sự kiện hay một buổi livestream thành công"></a>
 
 Người người nhà nhà livestream nên bạn nghĩ trên kênh bạn phụ trách cũng cần livestream. Với mindset như vậy, bạn sẽ thất vọng về hiệu quả của các buổi live đầu tiên. Tại sao lại như vậy? Làm thế nào để livestream thành công? Ở phần này mình sẽ list ra một số lưu ý để bạn có thể cải thiện chất lượng livestream trên kênh của bạn.
 
-**Như thế nào là một buổi livestream đạt hiệu quả?**
+### Như thế nào là một buổi livestream đạt hiệu quả? <a name="Như thế nào là một buổi livestream đạt hiệu quả?"></a>
 
 Đơn giản là đạt được mục đích livestream mà ekip dự định ban đầu. Live để sale off sản phẩm thì cần càng nhiều đơn hàng càng tốt. Live để giới thiệu sản phẩm hay sự kiện của công ty thì cần nhiều mắt xem. Live để tư vấn, trải nghiệm thì cần comment, tương tác và câu hỏi của người xem.
 
-**Một mình có tổ chức được sự kiện và livestream hay không**
+### Một mình có tổ chức được sự kiện và livestream hay không <a name="Một mình có tổ chức được sự kiện và livestream hay không"></a>
 
 Nếu bạn chỉ là nhân viên content thì bạn không thể gánh hết tất cả công việc của hạng mục này được. Nếu bạn dám nhận, dám làm thì hiệu quả không cao, điều này sẽ ảnh hưởng xấu đến hình ảnh thương hiệu. Do đó, để tổ chức livestream cần phải có kế hoạch cụ thể từ thời gian live, nhân sự đảm nhiệm các vị trí như kỹ thuật, nội dung, host, set up background, trả lời comment của người xem và chi phí thực hiện.
 
@@ -140,11 +154,11 @@ Nếu bạn là chủ shop, shop của bạn quy mô rất nhỏ, bạn có th�
 ![Tổ chức livestream](/images/set-up-livestream.jpg)
 _Tổ chức livestream cần có ekip làm việc ăn ý, nhịp nhàng. Nguồn ảnh: (*)_
 
-**Livestream càng chỉnh chu, hình ảnh thương hiệu càng được cải thiện**
+### Livestream càng chỉnh chu, hình ảnh thương hiệu càng được cải thiện <a name="Livestream càng chỉnh chu, hình ảnh thương hiệu càng được cải thiện"></a>
 
 Âm thanh, hình ảnh chất lượng thấp, chủ đề không rõ ràng, host dẫn chuyện ngắt quãng, không hấp dẫn là những lý do phổ biến khiến live ít người xem và tương tác. Dù cho thương hiệu của bạn mới, bạn cũng nên đầu tư một chút cho livestream trên kênh thật chỉnh chu trong khả năng của bạn nhé!
 
-**Sự kiện càng lớn càng cần các đơn vị truyền thông bảo trợ**
+### Sự kiện càng lớn càng cần các đơn vị truyền thông bảo trợ <a name="Sự kiện càng lớn càng cần các đơn vị truyền thông bảo trợ"></a>
 
 KOLs, các hãng tin lớn như Vnexpress, Thanh Niên hay Kenh14 tham gia vào cùng tổ chức sự kiện livestream sẽ đảm bảo thu hút số lượng người xem lớn. Thông thường các công ty muốn làm campaign brand sẽ thông qua agency để lên gói hoạt động truyền thông toàn diện từ các bài PR trên báo đến livestream talk show hoặc give away. 
 
