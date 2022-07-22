@@ -10,6 +10,22 @@ featured: false
 ---
 _Làm thế nào để lập kế hoạch nội dung? Bạn đã đọc hàng chục bài hướng dẫn rồi mà vẫn chưa biết bắt đầu từ đâu, trình bày file thế nào để gửi cho sếp? Vậy thì đọc tiếp bài này của mình đi, bạn sẽ không thất vọng đâu._
 
+# Mục lục
+1. [Trước khi làm file kế hoạch content, hãy đi tìm câu trả lời cho một số vấn đề](#Trước khi làm file kế hoạch content, hãy đi tìm câu trả lời cho một số vấn đề)
+   1. [Vấn đề 1: Kế hoạch kinh doanh ngắn và dài hạn](#Vấn đề 1: Kế hoạch kinh doanh ngắn và dài hạn)
+   2. [Vấn đề 2: Định hướng của thương hiệu và kế hoạch marketing chung](#Vấn đề 2: Định hướng của thương hiệu và kế hoạch marketing chung)
+   3. [Vấn đề 3: Ngân sách công ty có thể chi cho các hoạt động marketing](#Vấn đề 3: Ngân sách công ty có thể chi cho các hoạt động marketing)
+2. [Kế hoạch content marketing gồm những nội dung gì?](#Kế hoạch content marketing gồm những nội dung gì?)
+3. [Triển khai từng nội dung chính trong kế hoạch content như thế nào?](#Triển khai từng nội dung chính trong kế hoạch content như thế nào?)
+   1. [Phân tích thị trường và định vị thương hiệu](#Phân tích thị trường và định vị thương hiệu)
+   2. [Phân tích sản phẩm và thương hiệu (SWOT)](#Phân tích sản phẩm và thương hiệu (SWOT))
+   3. [Mục tiêu của kế hoạch nội dung](#Mục tiêu của kế hoạch nội dung)
+   4. [Tìm hiểu và phân tích insight khách hàng mục tiêu](#Tìm hiểu và phân tích insight khách hàng mục tiêu)
+   5. [Triển khai nội dung marketing đa kênh theo từng giai đoạn](#Triển khai nội dung marketing đa kênh theo từng giai đoạn)
+   6. [Đề xuất KPIs, cách đo lường, đánh giá và phân bố ngân sách](#Đề xuất KPIs, cách đo lường, đánh giá và phân bố ngân sách)
+4. [Mẫu file kế hoạch content marketing](#Mẫu file kế hoạch content marketing)
+5. [Một số lưu ý khác khi lập file kế hoạch nội dung marketing](#Một số lưu ý khác khi lập file kế hoạch nội dung marketing)
+
 **Tình huống 1**: Bạn đã vào [nghề content]( https://vegiang.com/tag/nghe-content) một thời gian, bỗng một ngày sếp bạn giao cho bạn lập kế hoạch content cho công ty, nhưng bạn chưa làm bao giờ. Dù bạn đã thú nhận với sếp điều này, sếp lại động viên: “Em cứ thử làm hết sức có thể đi.”
 
 **Tình huống 2**: Bạn vừa vào công ty mới, sếp đã bảo bạn hãy lập kế hoạch content marketing cho công ty. Mặc dù bạn đã “hành nghề” viết content vài năm nhưng chưa từng được giao nhiệm vụ này. Là nhân viên mới, bạn chưa quen nhiều thứ, lại không muốn từ chối cơ hội ghi điểm với sếp mà đồng nghiệp cũng không thân thiết để nhờ cậy.
@@ -21,9 +37,9 @@ Nếu lâm vào một trong 2 hoàn cảnh ở trên, bạn phải tự mình th
 
 Do đó, cái cốt lõi là bạn phải tự làm, hiểu cặn kẽ mọi chi tiết trong kế hoạch content của bạn. Bài viết này dựa trên trải nghiệm cá nhân của mình ở một công ty nhỏ. Sếp của mình, cũng là giám đốc công ty, đã giao cho mình làm kế hoạch lần đầu khi mình vừa mới vào công ty 2 tháng và mình lúc đó chỉ có 2 năm kinh nghiệm trong nghề.
 
-## Trước khi làm file kế hoạch content, hãy đi tìm câu trả lời cho một số vấn đề
+## Trước khi làm file kế hoạch content, hãy đi tìm câu trả lời cho một số vấn đề <a name="Trước khi làm file kế hoạch content, hãy đi tìm câu trả lời cho một số vấn đề"></a>
 
-**Vấn đề 1: Kế hoạch kinh doanh ngắn, dài hạn**
+### Vấn đề 1: Kế hoạch kinh doanh ngắn và dài hạn <a name="Vấn đề 1: Kế hoạch kinh doanh ngắn và dài hạn"></a>
 
 Mọi hoạt động của công ty đều nhằm mục đích thực hiện kế hoạch kinh doanh, content marketing cũng không ngoại lệ. Bạn không biết công ty đang tập trung đẩy mạnh doanh số cho sản phẩm nào trong quý tới thì làm sao bạn làm kế hoạch nội dung quảng cáo. Do đó, bạn hãy cố gắng hỏi sếp của mình về vấn đề này.
 
@@ -33,7 +49,7 @@ Nếu không nhận được file kế hoạch thì ít nhất bạn cũng phả
 
 - Sản phẩm nào mang lại doanh thu chính cho công ty, sản phẩm nào đang được công ty đầu tư phát triển.
 
-**Vấn đề 2: Định hướng của thương hiệu và kế hoạch marketing chung**
+### Vấn đề 2: Định hướng của thương hiệu và kế hoạch marketing chung <a name="Vấn đề 2: Định hướng của thương hiệu và kế hoạch marketing chung"></a>
 
 Kế hoạch content marketing của bạn là một phần của kế hoạch marketing chung. Nếu người làm kế hoạch content không đọc kỹ file master plan marketing trước thì bản kế hoạch nội dung đó sẽ “lệch pha” so với chiến lược chung.
 
@@ -41,13 +57,13 @@ Thông tin định hướng brand cũng vô cùng quan trọng. Bạn phải bi�
 
 Tất cả nhằm mục đích giúp kế hoạch nội dung của bạn là một thể thống nhất với toàn bộ chiến lược marketing của công ty.
 
-**Vấn đề 3: Ngân sách công ty có thể chi cho các hoạt động marketing**
+### Vấn đề 3: Ngân sách công ty có thể chi cho các hoạt động marketing <a name="Vấn đề 3: Ngân sách công ty có thể chi cho các hoạt động marketing"></a>
 
 Nếu bạn ngại hỏi thẳng sếp “Anh/chị có thể chi bao nhiêu tiền cho marketing/tháng?” hoặc sếp muốn bạn tự đề xuất thì bạn có thể quan sát những hoạt động marketing trước của công ty để xem mức độ “chịu chi” của sếp.
 
 Ví dụ, công ty đã từng chi trả XXX triệu đồng để mời sao hạng A tham gia sự kiện hay hàng quý chi XX để mua gói bài PR trên các báo lớn. Đó cũng là biểu hiện để bạn tự tin đề xuất một kế hoạch với ngân sách dư dả hơn.
 
-## Kế hoạch content marketing gồm những nội dung gì?
+## Kế hoạch content marketing gồm những nội dung gì? <a name="Kế hoạch content marketing gồm những nội dung gì?"></a>
 
 Để trình bày với sếp về kế hoạch tiếp thị nội dung bạn muốn thực hiện, bạn cần phân tích được 6 ý lớn sau:
 
@@ -65,11 +81,11 @@ Ví dụ, công ty đã từng chi trả XXX triệu đồng để mời sao h�
 
 Đây là hướng để bạn research và trình bày trong bản kế hoạch nội dung.  
 
-## Triển khai từng nội dung chính trong kế hoạch content như thế nào?
+## Triển khai từng nội dung chính trong kế hoạch content như thế nào? <a name="Triển khai từng nội dung chính trong kế hoạch content như thế nào?"></a>
 
 Với 6 pillar trên, mình sẽ lấy ví dụ cụ thể để bạn hiểu cách triển khai trong bản kế hoạch của bạn.
 
-### 1. Phân tích thị trường và định vị thương hiệu
+### Phân tích thị trường và định vị thương hiệu <a name="Phân tích thị trường và định vị thương hiệu"></a>
 
 Sở dĩ mình đẩy phần này lên đầu tiên vì bạn sẽ không biết đặt mục tiêu ra sao và làm gì nếu chưa biết thị trường hiện tại như thế nào và thị phần của thương hiệu là bao nhiêu. Vậy làm sao để phân tích thị trường?
 
@@ -95,7 +111,7 @@ Nhìn chung ở phần này, bạn cần đi tìm câu trả lời cho câu hỏ
 
 - So sánh số liệu performance các kênh marketing (website, social media, trade, TMĐT, cửa hàng/showroom, đại lý) của thương hiệu bạn và 3 đối thủ nổi bật trên thị thường.
 
-### 2. Phân tích sản phẩm và thương hiệu (SWOT)
+### Phân tích sản phẩm và thương hiệu (SWOT) <a name="Phân tích sản phẩm và thương hiệu (SWOT)"></a>
 
 Xuất phát điểm của mình không phải chuyên ngành kinh tế nên mãi sau này mới biết đến SWOT là gì. Có thể mình giải thích không chuẩn lý thuyết khi mình áp dụng nó khi phân thích sản phẩm và thương hiệu phục vụ mục đích marketing.
 
@@ -114,7 +130,7 @@ Sau khi biết được sản phẩm chủ đạo và sản phẩm đang đượ
 
 Hãy phát huy hết năng lực “ngoại giao” của mình để tổng hợp được những thông tin này. Ví dụ: bạn có thể hỏi phòng R&D về thông tin sản phẩm, nhân viên sale về doanh thu và nhân viên chăm sóc khách hàng về phản hồi của khách với sản phẩm đó. 
 
-### 3. Mục tiêu của kế hoạch nội dung
+### Mục tiêu của kế hoạch nội dung <a name="Mục tiêu của kế hoạch nội dung"></a>
 
 Sau khi “bắt bệnh” cho sản phẩm và thương hiệu của công ty, bạn sẽ đặt đươc mục tiêu cho bản kế hoạch nội dung. Ai chẳng muốn phát triển và đẩy mạnh marketing cho công ty để bùng nổ doanh số nhưng trong khả năng của doanh nghiệp, người làm kế hoạch cần đặt mục tiêu thực tế để thực hiện được kế hoạch đó.
 
@@ -122,7 +138,7 @@ Với bản kế hoạch nội dung, bạn ắt hẳn biết cần nâng cao, du
 
 Một lần nữa mình xin nhắc lại, mục tiêu của kế hoạch nội dung không được xa rời mục tiêu của kế hoạch marketing và kinh doanh chung.
 
-### 4. Tìm hiểu và phân tích insight khách hàng mục tiêu
+### Tìm hiểu và phân tích insight khách hàng mục tiêu <a name="Tìm hiểu và phân tích insight khách hàng mục tiêu"></a>
 
 Hẳn nhiên, bạn không xác định được insight của khách thì coi như thất bại đến 90% kế hoạch nội dung marketing rồi. Bởi khi bạn sản xuất nội dung mà người xem không mặn mà hay ít chuyển đổi thì coi như nội dung quảng cáo đó không thành công.
 
@@ -171,7 +187,7 @@ List ra như trên bạn sẽ biết được mình nên sản xuất nội dung
 
 Để đi tìm câu trả lời, bạn chịu khó trò chuyện nhiều hơn với các bạn tư vấn viên, nhân viên sale, xem feedback hay dành thời gian ra showroom cửa hàng ngồi quan sát khách hàng ra vào. Ngoài ra, bạn phân tích hình tượng các KOLs, người có cá tính giống với khách hàng mục tiêu.
 
-### 5. Triển khai nội dung marketing đa kênh theo từng giai đoạn
+### Triển khai nội dung marketing đa kênh theo từng giai đoạn <a name="Triển khai nội dung marketing đa kênh theo từng giai đoạn"></a>
 
 4 phần trên là lý luận định hướng cho phần này. Đây là nội dung quan trọng nhất của bản kế hoạch. Ở phần này, bạn phải trình bày cụ thể, có hình ảnh minh họa để sếp của bạn dễ hình dung.
 
@@ -194,7 +210,7 @@ _Mỗi kênh bạn có thể trình bày kế hoạch nội dung theo một form
 
 Format content đa dạng từ blog, post, video, podcast, bài PR, [livestream](https://vegiang.com/kich-ban-livestream-su-kien/), landing page… Bạn nên cân đối mục đích để sử dụng phù hợp nhất. Chọn kênh đăng tải từng format nội dung cũng rất quan trọng. Ví dụ cùng một angle về tính năng của sản phẩm, nếu bạn đăng tải lên kênh của cty sẽ ít người tin nhưng nó được 1 KOLs hay 1 tờ báo lớn đăng tải sẽ mang lại hiệu quả truyền thông lớn hơn gấp ngàn lần.
 
-### 6. Đề xuất KPIs, cách đo lường, đánh giá và phân bố ngân sách
+### Đề xuất KPIs, cách đo lường, đánh giá và phân bố ngân sách <a name="Đề xuất KPIs, cách đo lường, đánh giá và phân bố ngân sách"></a>
 
 Làm sao để đánh giá hiệu quả của kế hoạch? Đó là vấn đề bạn cần giải quyết ở phần này. Bạn nên đưa ra số liệu hiện tại và ước lượng được tăng trưởng theo từng tháng, từng quý của mỗi kênh. Nếu bạn có ngân sách cố định, bạn có thể phân bố để đạt được KPIs. Trường hợp sếp muốn bạn đề xuất, bạn cần cân nhắc thêm option (khoản bắt buộc và khoản có thể thêm vào).
 
@@ -206,7 +222,7 @@ Một số tiêu chí đánh giá bạn có thể tham khảo:
 
 - Tik Tok, Youtube: Lượt follower/ subscriber, view, lượt click về landing page hoặc mua hàng
 
-## Mẫu file kế hoạch content marketing
+## Mẫu file kế hoạch content marketing <a name="Mẫu file kế hoạch content marketing"></a>
 
 Cả 6 nội dung trên bạn nên tổng hợp bằng file excel (tốt nhất là dùng Google Sheets) phân thành nhiều cột, sheet chẳng hạn và file Google Slides (Powerpoint) để trình bày/ thuyết trình cho team, cho sếp.
 
@@ -214,7 +230,7 @@ Cả 6 nội dung trên bạn nên tổng hợp bằng file excel (tốt nhất 
 
 Nếu bạn đọc đến đoạn này mà vẫn muốn xem file kế hoạch mẫu để làm theo thì có thể liên hệ mình qua địa chỉ email tranhuongvegiang@gmail.com. Mình sẽ gửi file mẫu cho bạn. Thật ra file này là 1 phần nhỏ của mục số 5, vì lý do bảo mật mình không được public kế hoạch mình đã làm. Bạn thông cảm nhé!
 
-## Một số lưu ý khác khi lập file kế hoạch nội dung marketing
+## Một số lưu ý khác khi lập file kế hoạch nội dung marketing <a name="Một số lưu ý khác khi lập file kế hoạch nội dung marketing"></a>
 
 Trong quá trình thực hiện task này, mình có một số ý muốn chia sẻ với bạn – người lần đầu làm file kế hoạch. Những ý này khá chủ quan và thiên về trải nghiệm cá nhân, bạn có thể góp ý thảo luận với mình nếu có ý kiến trái chiều.
 
