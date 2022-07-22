@@ -10,6 +10,18 @@ featured: false
 ---
 _Nếu đọc 7749 bài hướng dẫn và clip trên youtube mà vẫn chưa từng một lần giải được rubik 3x3x3 thì bạn hãy đọc nốt bài này chia sẻ kinh nghiệm này của mình nhé!_
 
+# Mục lục
+1. [Quy ước và kí hiệu để xoay rubik 3x3x3](#Quy ước và kí hiệu để xoay rubik 3x3x3)
+2. [Trình tự xoay rubik 3x3x3 theo công thức đơn giản](#Trình tự xoay rubik 3x3x3 theo công thức đơn giản)
+   1. [Bước 1: Nhiệm vụ tạo chữ thập ở mặt U](#Bước 1: Nhiệm vụ tạo chữ thập ở mặt U)
+   2. [Bước 2: Nhiệm vụ giữ chữ thập mặt U + xếp ô trung tâm và ô cạnh trên của F,L,R,B cùng màu](#Bước 2: Nhiệm vụ giữ chữ thập mặt U + xếp ô trung tâm và ô cạnh trên của F,L,R,B cùng màu)
+   3. [Bước 3: Nhiệm vụ full 1 mặt U và 1 tầng mặt F, L, R, B](#Bước 3: Nhiệm vụ full 1 mặt U và 1 tầng mặt F, L, R, B)
+   4. [Bước 4: Nhiệm vụ giữ full một mặt U – xếp 2 tầng của các mặt F,L,R,B](#Bước 4: Nhiệm vụ giữ full một mặt U – xếp 2 tầng của các mặt F,L,R,B)
+   5. [Bước 5: Nhiệm vụ tạo chữ thập ở mặt D](#Bước 5: Nhiệm vụ tạo chữ thập ở mặt D)
+   6. [Bước 6: Nhiệm vụ tạo chữ thập cho 4 mặt F,R,L,B](#Bước 6: Nhiệm vụ tạo chữ thập cho 4 mặt F,R,L,B)
+   7. [Bước 7: Nhiệm vụ hoán đúng 4 ô góc](#Bước 7: Nhiệm vụ hoán đúng 4 ô góc)
+3. [Một số lưu ý khi chơi rubik 3x3x3](#Một số lưu ý khi chơi rubik 3x3x3)
+
 Sau món [Jigsaw Puzzle (ghép hình)](https://vegiang.com/bi-kip-choi-ghep-hinh-jigsaw-puzzle-cho-nguoi-moi/), xoay rubik là trò chơi mà mình mò mẫm tiếp theo. Mình chỉ xoay được khối 3x3x3 thôi, cơ bản nhất. Do đó, bài này không dành cho các cao thủ mà cho người mới chơi rubik mà hơi dừ tuổi như mình.
 
 Lần đầu mình chơi rubik là năm lớp 8. Bạn bè trong lớp chơi nhiều nên mình cũng mua một khối và thử chơi. Cũng trầy trật mãi mới xoay thành công. Bỏ một thời gian dài không xoay, mình quên cách chơi rubik 3x3x3 như thế nào. Mình đã học chơi lại và ghi chép các bước để không quên cách chơi thành bài chia sẻ dưới đây.
@@ -17,7 +29,7 @@ Lần đầu mình chơi rubik là năm lớp 8. Bạn bè trong lớp chơi nhi
 ![Khối rubik 3x3x3 của mình](/images/khoi-rubik3x3-cua-toi.jpg)
 _Hai khối rubik 12 tuổi của mình_
 
-## Quy ước và kí hiệu để xoay rubik 3x3x3
+## Quy ước và kí hiệu để xoay rubik 3x3x3 <a name="Quy ước và kí hiệu để xoay rubik 3x3x3"></a>
 
 Để dễ theo dõi, mình giới thiệu đến bạn các quy ước về mặt, ô/viên của khối rubik. Mình dùng theo quy ước tiếng Anh để bạn tra cứu thêm các hướng dẫn nước ngoài khác dễ dàng hơn.
 
@@ -60,7 +72,7 @@ _Nguồn ảnh: Instructables.com_
 
 Tiếp theo là 2 cách giải khối rubik 3x3x3 mà mình đã trải nghiệm:
 
-## Trình tự xoay rubik 3x3x3 theo công thức đơn giản  
+## Trình tự xoay rubik 3x3x3 theo công thức đơn giản <a name="Trình tự xoay rubik 3x3x3 theo công thức đơn giản"></a>
 
 Mình học cách xoay này qua channel youtube Rubik Cube.
 
@@ -69,7 +81,7 @@ Với cách này mình chia thành 7 bước, tương đương với 7 nhiệm v
 ![Thứ tự các bước xoay rubik 3x3x3](/images/tom-tat-cac-buoc-xoay-rubik3x3.PNG)
 _Hình này tóm tắt quy trình của cách xoay này. Tuy vậy, mình muốn hướng dẫn chi tiết hơn nên tách ra làm nhiều trường hợp trong 7 bước này. Nguồn ảnh: Thuthuatchoi.com_
 
-### Bước 1: Nhiệm vụ tạo chữ thập ở mặt U
+### Bước 1: Nhiệm vụ tạo chữ thập ở mặt U <a name="Bước 1: Nhiệm vụ tạo chữ thập ở mặt U"></a>
 
 Chọn màu trắng làm mặt U. Bạn xoay sao cho có được chữ thập màu trắng là được. Bước này tự bạn xoay xở. Cũng không khó lắm đâu.
 
@@ -79,7 +91,7 @@ _Lúc bắt đầu…_
 ![ Bước 1-1 xoay rubik 3x3](/images/xoay-rubik-3x3-b11.PNG)
 _…Sau khi hoàn thành nhiệm vụ._
 
-### Bước 2: Nhiệm vụ giữ chữ thập mặt U + xếp ô trung tâm và ô cạnh trên của F,L,R,B cùng màu
+### Bước 2: Nhiệm vụ giữ chữ thập mặt U + xếp ô trung tâm và ô cạnh trên của F,L,R,B cùng màu <a name="Bước 2: Nhiệm vụ giữ chữ thập mặt U + xếp ô trung tâm và ô cạnh trên của F,L,R,B cùng màu"></a>
 
 Đầu tiên bạn quan sát và xoay U sao cho ô trung tâm + ô cạnh trên cùng màu ở 2 mặt liên tiếp. Hai mặt không cùng màu bạn xoay theo công thức: R -> U’-> R . Tiếp đó trả ô trung tâm về cho mặt U.
 
@@ -89,7 +101,7 @@ _Khi bắt đầu bước 2_
 ![Bước 2-2 xoay rubik 3x3](/images/xoay-rubik-3x3-b22.PNG)
 _Lúc này nhiệm vụ được giải quyết như hình._
 
-### Bước 3: Nhiệm vụ full 1 mặt U và 1 tầng mặt F, L, R, B
+### Bước 3: Nhiệm vụ full 1 mặt U và 1 tầng mặt F, L, R, B <a name="Bước 3: Nhiệm vụ full 1 mặt U và 1 tầng mặt F, L, R, B"></a>
 
 Bạn quan sát xem ô màu trắng còn lại đang ở đâu. Bạn xoay những ô màu trắng đó về lại mặt U và hoàn thiện full U. Cùng lúc đó bạn cũng hoàn thành được tầng 1 của các mặt F,L,R,B, tạo thành chữ T cùng màu.
 
@@ -98,7 +110,7 @@ Bạn quan sát xem ô màu trắng còn lại đang ở đâu. Bạn xoay nhữ
 ![Bước 3-3 xoay rubik 3x3](/images/xoay-rubik-3x3-b33.PNG)
 _Kết thúc bước 3 ta được như hình trên._
 
-### Bước 4: Nhiệm vụ giữ full một mặt U – xếp 2 tầng của các mặt F,L,R,B
+### Bước 4: Nhiệm vụ giữ full một mặt U – xếp 2 tầng của các mặt F,L,R,B <a name="Bước 4: Nhiệm vụ giữ full một mặt U – xếp 2 tầng của các mặt F,L,R,B"></a>
 
 Tiếp bước 3, bạn chú ý đến chữ T ở các mặt F, L, R, B. Ở bước này bạn chỉ cần thay 2 ô cạnh cho cùng màu với chữ T vừa tạo ở các mặt đó là được.
 
@@ -116,7 +128,7 @@ Thực hiện tương tự lần lượt cho các ô cạnh ở tầng 2 của m
 
 ![Bước 4 – 3 xoay rubik 3x3](/images/xoay-rubik-3x3-b43.PNG)
 
-### Bước 5: Nhiệm vụ tạo chữ thập ở mặt D
+### Bước 5: Nhiệm vụ tạo chữ thập ở mặt D <a name="Bước 5: Nhiệm vụ tạo chữ thập ở mặt D"></a>
 
 -	Trường hợp 1: Bốn ô cạnh còn lại của chữ thập mặt D đang ở các mặt F,L,R,B.
 
@@ -142,7 +154,7 @@ _Lúc này bạn chọn trong F,L,R,B mặt không có 2 ô màu vàng liền k�
 
 ![Bước 5-6](/images/xoay-rubik-3x3-b57.PNG)
 
-### Bước 6: Nhiệm vụ tạo chữ thập cho 4 mặt F,R,L,B
+### Bước 6: Nhiệm vụ tạo chữ thập cho 4 mặt F,R,L,B <a name="Bước 6: Nhiệm vụ tạo chữ thập cho 4 mặt F,R,L,B"></a>
 
 Bạn xoay mặt D sao cho có 2 mặt liền kề trong F,B,R,L đúng ô màu chữ thập, 2 ô còn lại là sai màu. Bạn chọn mặt sai và xoay theo công thức như bước 5 trường hợp 2 sẽ giải quyết được nhiệm vụ của bước này.
 
@@ -155,7 +167,7 @@ _Mặt F, L liền kề có ô màu đúng_
 ![Bước 6-3](/images/xoay-rubik-3x3-b63.PNG)
 _Sau khi hoàn thành mặt B, R đã đúng màu_
 
-### Bước 7: Nhiệm vụ hoán đúng 4 ô góc
+### Bước 7: Nhiệm vụ hoán đúng 4 ô góc <a name="Bước 7: Nhiệm vụ hoán đúng 4 ô góc"></a>
 
 Trường hợp 4 ô góc dưới không đúng màu thì bạn chọn mặt nào làm R hay L để xoay đều được. 
 
@@ -181,7 +193,7 @@ _Trường hợp cả 4 ô góc đều đúng màu sai mặt. Bạn chọn mặt
 ![Bước 7](/images/xoay-rubik-3x3-hoan-thien.PNG)
 _Xoay đến khi hoàn thiện cả 6 mặt_
 
-## Một số lưu ý khi chơi rubik 3x3x3
+## Một số lưu ý khi chơi rubik 3x3x3 <a name="Một số lưu ý khi chơi rubik 3x3x3"></a>
 
 1. Cách xoay rubik 3x3x3 mình giới thiệu ở trên giúp bạn giải được khối rubik này nhưng không phải là cách giải nhanh để tính thời gian.
 
