@@ -10,7 +10,13 @@ featured: true
 ---
 _Khi viết những dòng này, mình đang chuẩn bị cho chặng đường tiếp theo trong sự nghiệp. Sau khi làm nghề content marketing gần 6 năm và có dịp để sống chậm (bất đắt dĩ vì Covid-19), mình đã suy nghĩ nghiêm túc hơn về nghề, hướng đi tiếp theo là gì. Nhân đây, mình cũng muốn tâm sự một chút về chủ đề này._
 
-## Khi mới vào nghề
+# Mục lục
+1. [Khi mới vào nghề](#Khi mới vào nghề)
+2. [Khi đã có 2-3 năm kinh nghiệm](#Khi đã có 2-3 năm kinh nghiệm)
+3. [Từ 5 năm làm content writer trở lên](#Từ 5 năm làm content writer trở lên)
+4. [Hãy kính nghiệp, cho dù bạn có bao nhiêu năm kinh nghiệm đi nữa](#Hãy kính nghiệp, cho dù bạn có bao nhiêu năm kinh nghiệm đi nữa)
+
+## Khi mới vào nghề <a name="Khi mới vào nghề"></a>
 
 Giai đoạn này các newbie thường hoang mang lắm đây. Vừa thiếu kinh nghiệm nghề vừa thiếu vốn sống, mình tận dụng lợi thế lúc đó của mình chính là còn trẻ và chịu khó để tích lũy kiến thức cho riêng mình.
 
@@ -24,7 +30,7 @@ Người ta nói, muốn thành công trong nghề thì bạn cần có mentor g
 
 Ở giai đoạn này, bạn thường dễ nản chí vì công việc nhiều, lương thưởng lại ít. Nhưng nếu có mục tiêu phấn đấu, bạn sẽ thu được trái ngọt sau này. 
 
-## Khi đã có 2-3 năm kinh nghiệm
+## Khi đã có 2-3 năm kinh nghiệm <a name="Khi đã có 2-3 năm kinh nghiệm"></a>
 
 Mình từng đọc ở đâu đấy rằng: để thành thạo một nghề hay một vài kỹ năng nào đấy chúng ta cần khoảng 10.000 giờ thực hành. Do đó, khi bạn làm việc nghiêm túc khoảng 2 đến 3 năm ắt hẳn bạn đã tích lũy không ít kinh nghiệm làm nghề rồi.
 
@@ -40,7 +46,7 @@ Lúc này, một số bạn content website sẽ thể hiện mong muốn đư�
 
 Ở giai đoạn này, điều mình mong muốn chính là trải nghiệm và va chạm nhiều hơn nữa trong công việc. Dù lương cao nhưng nhiệm vụ hàng ngày nhàm chán, làm đi làm lại không có gì mới mẻ cũng là lý do khiến mình chọn rời đi.
 
-## Từ 5 năm làm content writer trở lên
+## Từ 5 năm làm content writer trở lên <a name="Từ 5 năm làm content writer trở lên"></a>
 
 Mình đang ở giai đoạn này của sự nghiệp viết content. Lần gần nhất mình đi phỏng vấn cho công việc mới, CMO đã hỏi mình: "Em có dự định gì cho tương lai nghề nghiệp?" Mình trả lời rằng: "Em sẽ tiếp tục làm content."
 
@@ -50,13 +56,15 @@ Sở dĩ mình học hỏi các kỹ năng đó để phục vụ cho việc ho�
 
 Mình quyết định không rẽ qua làm full time ở các vị trí kỹ thuật dù cho lương ở những vị trí này cao hơn content nhiều (thật bất công quá mà ^^). Bởi lý do, làm nội dung quảng cáo hay trở thành một cây bút chuyên nghiệp là cả một chân trời rộng lớn, mình tự nhận thấy mình vẫn chưa đi đến level cao của nghề mà chuyển qua làm nghề khác thật không cam tâm.
 
-Mình đi lên từ [content SEO]( https://vegiang.com/bai-viet-chuan-seo-la-gi-chia-se-kinh-nghiem-tu-a-z-cho-nguoi-moi/) đến content marketing excutive đến specialist rồi leader team content. Những lĩnh vực, sản phẩm mình làm nội dung có dịch vụ du lịch, thẩm mỹ, nha khoa và F&B. Nhược điểm ở chỗ target audience của các sản phẩm này chỉ ở thị trường Việt Nam.
+Mình đi lên từ [content SEO](https://vegiang.com/bai-viet-chuan-seo-la-gi-chia-se-kinh-nghiem-tu-a-z-cho-nguoi-moi/) đến content marketing excutive đến specialist rồi leader team content. Những lĩnh vực, sản phẩm mình làm nội dung có dịch vụ du lịch, thẩm mỹ, nha khoa và F&B. Thêm vào đó, kỹ năng quản lý đội nhóm và lên kế hoạch công việc cho cá nhân, cho team mình đã tự rèn luyện không ít. Nhược điểm của quá trình làm việc của mình là ở chỗ target audience của các sản phẩm mình là marketing chỉ ở thị trường Việt Nam.
 
-Đó cũng là điều mình muốn hướng đến để khắc phục và nâng cao năng lực làm nghề của mình trong tương lai gần này. Và còn nhiều kế hoạch sáng tạo nội dung nữa mà mình muốn thử, dù không chắc sẽ mang lại thành công, nhưng mình vẫn muốn thử.
+Đó cũng là điều mình muốn hướng đến để học hỏi và cải thiện năng lực làm nghề của mình trong tương lai gần này. Và còn nhiều kế hoạch sáng tạo nội dung cho thương hiệu cá nhân nữa dù không chắc sẽ mang lại thành công, nhưng mình vẫn muốn thử thực hành.
 
-Còn bạn, nếu đã làm content 5 năm, bạn sẽ dự định sẽ phát triển sự nghiệp của mình như thế nào?
+_Còn bạn, nếu đã làm content 5 năm, bạn sẽ dự định sẽ phát triển sự nghiệp của mình như thế nào?_
 
-## Hãy kính nghiệp, cho dù bạn có bao nhiêu năm kinh nghiệm đi nữa
+Đa số khi nhắc đến con đường thăng tiến trong nghề, mọi người sẽ quan tâm đến title job của mình. Từ Intern đến Junior rồi Senior lên Leader team đến khi chức danh gắn thêm Manager hay Director. Nếu đặt mục tiêu lên quản lý, bạn có thể xem Job Description trên các mẩu tuyển dụng làm mục tiêu rèn luyện và tích lũy kinh nghiệm.
+
+## Hãy kính nghiệp, cho dù bạn có bao nhiêu năm kinh nghiệm đi nữa <a name="Hãy kính nghiệp, cho dù bạn có bao nhiêu năm kinh nghiệm đi nữa"></a>
 
 Chuyên nghiệp tức là kiếm tiền bằng nghề đó. Cần câu cơm của mình, mình phải thật sự tỉnh táo và chăm chút cho nó. Có một thực tế, đa phần người đi làm công ăn lương hay vướng phải đó là tự mãn với những gì đang có. 
 
