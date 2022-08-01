@@ -2,18 +2,19 @@
 layout: post
 title: Làm gì khi nội dung blog của bạn bị sao chép?
 image: '/images/cach-phat-hien-noi-dung-bi-sao-chep-avt.jpeg'
-description: "Nội dung website mà bạn tốn công sức tạo ra bị người khác sao chép không xin phép. khi phát hiện ra việc này, bạn sẽ làm gì? Bài viết hôm nay là trải nghiệm thực tế làm content của mình"
+description: "Nội dung website mà bạn tốn công sức tạo ra bị người khác sao chép không xin phép. Bạn sẽ làm gì khi phát hiện ra việc này? Bài viết hôm nay là trải nghiệm thực tế làm content của mình"
 permalink: lam-gi-khi-noi-dung-website-bi-sao-chep/
 tags: nghe-content
 categories: kinh-nghiem
 featured: false
 ---
-_Khi bài viết và hình minh họa bạn dành nhiều tâm huyết để tạo ra bắt đầu có người xem, cũng là lúc có người copy một ít hoặc hoàn toàn nội dung đó đem về đăng tải lên kênh của họ mà không xin phép bạn. Việc đó, nói ngắn gọn, là ăn cắp nội dung kỹ thuật số. Vậy khi phát hiện ra việc này, bạn sẽ làm gì?_ 
+_Khi bài viết và hình minh họa trên website mà bạn dành nhiều tâm huyết để tạo ra bắt đầu có người xem, cũng là lúc có người copy một ít hoặc hoàn toàn nội dung đó đem về đăng tải lên kênh của họ mà không xin phép bạn. Việc đó, nói ngắn gọn, là ăn cắp nội dung kỹ thuật số. Vậy khi phát hiện ra việc này, bạn sẽ làm gì?_ 
 
 # Mục lục
 1. [Làm sao để biết được có người lấy nội dung website của mình mà không xin phép?](#Làm sao để biết được có người lấy nội dung website của mình mà không xin phép?)
 2. [Phải làm gì khi biết được nội dung của mình bị copy?](#Phải làm gì khi biết được nội dung của mình bị copy?)
-3. [Chuyện nội dung trên blog Vegiang.com bị copy](#Chuyện nội dung trên blog Vegiang.com bị copy)
+3. [Cách để khắc phục tình trạng bị đánh cắp nội dung](#Cách để khắc phục tình trạng bị đánh cắp nội dung)
+4. [Chuyện nội dung trên blog Vegiang.com bị copy](#Chuyện nội dung trên blog Vegiang.com bị copy)
 
 ## Làm sao để biết được có người lấy nội dung website của mình mà không xin phép? <a name="Làm sao để biết được có người lấy nội dung website của mình mà không xin phép?"></a>
 
@@ -25,7 +26,7 @@ Nếu bài viết của bạn đang ở thứ hạng 3, bạn click vào xem bà
 
 -	Bài viết tự nhiên bị giảm traffic và tụt thứ hạng bất thường
 
-Đây cũng là dấu hiện nhận biết trên công cụ tìm kiếm cho vài website có nội dung giống của bạn.
+Đây cũng là dấu hiện nhận biết trên công cụ tìm kiếm khi có vài website có nội dung giống của bạn.
 
 -	Copy một đoạn văn bất kỳ và paste vào thanh công cụ tìm kiếm của Google
 
@@ -52,7 +53,7 @@ _Đây là kết quả mình lấy ví dụ bài viết Thăm quan Dinh Độc L
 Bạn vào tài khoản Google Search Console, click vào phần Liên kết để kiểm tra xem có bên nào đặt link website của bạn ở website của họ hay không. Nhiều khi do copy nguyên si và không để ý internal link của bài gốc nên thành ra vô tình đặt backlink cho web của bạn.
 
 ![Kiểm tra backlink để website mình có bị ảnh hưởng gì từ website khác hay không](/images/cach-phat-hien-noi-dung-bi-sao-chep4.PNG)
-_Kiểm tra backlink để website mình có bị ảnh hưởng gì từ website khác hay không_
+_Kiểm tra backlink để xem website mình có bị ảnh hưởng gì từ website khác hay không_
 
 ## Phải làm gì khi biết được nội dung của mình bị copy? <a name="Phải làm gì khi biết được nội dung của mình bị copy?"></a>
 
@@ -74,7 +75,7 @@ Cách để report cho Google khi phát hiện bài viết bị sao chép như s
 
 Google sẽ email cho bạn để thông báo về yêu cầu bạn gửi, do đó bạn nên điền email mình dùng thường xuyên để không bị lỡ thông tin. 
 
-Cách để khắc phục tình trạng bị đánh cắp nội dung
+## Cách để khắc phục tình trạng bị đánh cắp nội dung <a name="ách để khắc phục tình trạng bị đánh cắp nội dung"></a>
 
 Hãy trang bị cho website của mình những ứng dụng hoặc chức năng sau:
 
@@ -128,7 +129,7 @@ Lúc này mình tức lắm rồi. Mình phải có động thái thôi.
 
 Và mình đã phát hiện ra chuyện thú vị sau:
 
-Tên công ty và chủ sở hữu là giả mạo. Địa chỉ trên domain của link A là một homestay ở Quy Nhơn. B thực ra là một công ty quảng cáo ở Ninh Thuận. Chính email liên lạc đã chính tỏ điều đó. Domain chính của B là nguyenvanphung.com. B mua những domain có na ná thương hiệu có sẵn rồi copy bài viết nhằm có traffic và thu tiền quảng cáo.
+Tên công ty và chủ sở hữu là giả mạo. Địa chỉ trên domain của link A là một homestay ở Quy Nhơn. B thực ra là một công ty quảng cáo ở Ninh Thuận. Chính email liên lạc đã chính tỏ điều đó. Domain chính của B là nguyenvanphung.com. B mua những domain na ná thương hiệu có sẵn rồi copy bài viết nhằm có traffic và thu tiền quảng cáo.
 
 Mình đã gửi tin nhắn cho B. Đến giờ vẫn chưa được phản hồi dù B đã xem. Mình viết bài này và còn một số bài khác nữa “để dành” nếu B không gỡ link A đó và xin lỗi mình.
 
