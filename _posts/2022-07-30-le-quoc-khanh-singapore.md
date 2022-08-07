@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Không khí Lễ Quốc Khánh Singapore 2022
-image:  '/images/mung-quoc-ky-singapore-avt.jpg'
+image:  '/images/mung-quoc-ky-singapore-avt1.jpg'
 description: "Hình ảnh mới nhất về Lễ Quốc Khánh Singapore, các hoạt động văn hóa, giảm giá khuyến mãi và thông tin về màn diễn tập bắn pháo hoa hoành tráng tại Vịnh Marina "
 tags: trai-nghiem-singapore
 categories: kham-pha
@@ -22,6 +22,12 @@ _Cờ được treo bên ngoài tòa nhà_
 
 ![Lá cờ nhỏ bay phấp phới](/images/co-phuon-quoc-khanh-singapore.jpg)
 _Tòa nhà khách sạn Parkroyal Collection Pickering_
+
+![Mừng sinh nhật Singapore](/images/quoc-ky-singapore-tren-duong-pho1.jpg)
+_Mừng sinh nhật Singapore_
+
+![Dễ dàng bắt gặp quốc kỳ trên đường phố Singapore lúc này](/images/quoc-ky-singapore-tren-duong-pho23.jpg)
+_Dễ dàng bắt gặp quốc kỳ trên đường phố Singapore lúc này_
 
 Cuối tháng 7, ở các khu HDB hay Condo mình nhìn thấy nhiều căn hộ đã treo quốc kỳ bên ngoài cửa sổ. Càng gần ngày quốc khánh, càng nhiều gia đình treo cờ, chưa kể đến cờ nhỏ treo thành dây đầy màu sắc. Không khí rất khác biệt với ngày thường.
 
