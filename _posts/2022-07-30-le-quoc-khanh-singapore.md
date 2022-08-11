@@ -47,7 +47,7 @@ Cũng phải hơn 2 năm rồi, mình mới được trải nghiệm một sự 
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/qSevDK7NimY" frameborder="0" allowfullscreen></iframe>
 
-Sau khi đi dạo một vòng mình đã chọn được một chỗ ở Esplande Bridge. Chỗ ngồi cạnh sân khấu đến nhà hát Sầu riêng đã kín người từ lâu. Mình đứng được một lúc thì nhường chỗ cho gia đình người Malaya có thể trải tấm lót ngồi được cả nhà. Ngồi cạnh gia đình ấy cũng vui, hai anh chị có hai bé gái dễ thương tầm 3 đến 4 tuổi. Có vẻ chị vợ là người Nga thì phải, hai bé vừa nói tiếng Anh, tiếng Mã lai, tiếng Nga rồi cả tiếng Trung trong 3 tiếng ngồi xem diễn tập.
+Sau khi đi dạo một vòng mình đã chọn được một chỗ ở Esplanade Bridge. Chỗ ngồi cạnh sân khấu đến nhà hát Sầu riêng đã kín người từ lâu. Mình đứng được một lúc thì nhường chỗ cho gia đình người Malaya có thể trải tấm lót ngồi được cả nhà. Ngồi cạnh gia đình ấy cũng vui, hai anh chị có hai bé gái dễ thương tầm 3 đến 4 tuổi. Có vẻ chị vợ là người Nga thì phải, hai bé vừa nói tiếng Anh, tiếng Mã lai, tiếng Nga rồi cả tiếng Trung trong 3 tiếng ngồi xem diễn tập.
 
 ![Những tay săn ảnh cũng chuẩn bị vào vị trí](/images/dien-tap-quoc-khanh-singapore4.jpg)
 _Những tay săn ảnh cũng chuẩn bị vào vị trí_
