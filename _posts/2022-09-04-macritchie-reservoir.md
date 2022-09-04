@@ -9,12 +9,13 @@ permalink: MacRitchie-Reservoir-Singapore
 featured: true
 ---
 _MacRitchie Reservoir là điểm đến nổi tiếng với người yêu thiên nhiên tại Singapore vừa sở hữu cảnh quan xanh mướt, sạch sẽ trong lành vừa có nhiều hoạt động vui chơi thú vị. Nơi đây đã thu hút mình ngay từ lần đầu đặt chân đến. Dù hơi xa trung tâm thành phố nhưng cũng rất xứng đáng để mình bỏ thời gian trải nghiệm._
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
 # Mục lục
 1. [Thông tin cơ bản về MacRitchie Reservoir](# Thông tin cơ bản về MacRitchie Reservoir)
 2. [Top 11 hoạt động vui chơi được yêu thích nhất ở MacRitchie](# Top 11 hoạt động vui chơi được yêu thích nhất ở MacRitchie)
 3. [Kinh nghiệm cho người lần đầu đến tham quan MacRitchie Reservoir](# Kinh nghiệm cho người lần đầu đến tham quan MacRitchie Reservoir)
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
 ## Thông tin cơ bản về MacRitchie Reservoir <a name=" Thông tin cơ bản về MacRitchie Reservoir"></a>
 
