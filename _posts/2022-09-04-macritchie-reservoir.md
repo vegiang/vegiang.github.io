@@ -56,7 +56,7 @@ _Cầu zic zac ở MacRitchie. Ảnh: thesmartlocal.com_
 
 Ở vị trí trung tâm cầu là một vọng lâu. Mái che được xây dựng bề thế là nơi nghỉ chân của khách du lịch cũng là khán đài xem các sự kiện thể thao được tổ chức ở hồ nước MacRitchie.
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/4THVVoJQyFI" frameborder="0" allowfullscreen></iframe>
 ### 4. Đi bộ qua một cây cầu ngập nước
 
 Bạn đã đi qua một cây cầu thấp đến nổi chỉ cao bằng mặt nước hồ chưa? Đó chính là cây cầu đặc biệt ở MacRitchie. Với chiều dài 40 m, cây cầu được bao quanh khéo léo ở mặt nước hồ. Sau trận mưa to hay mực nước hồ tăng, nước sẽ ngập đến mắt cá chân du khách khi lội qua cây cầu này.
