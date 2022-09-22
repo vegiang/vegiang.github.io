@@ -8,29 +8,29 @@ categories: kinh-nghiem
 permalink: kinh-nghiem-xin-the-ltvp-singapore/
 featured: false
 ---
-_Mình đã xin thẻ Long-term Visit Pass Singapore thành công và muốn chia sẻ quy trình cũng như kinh nghiệm cho những bạn đang chuẩn bị apply. Bài viết này dựa vào trải nghiệm thực tế của cá nhân mình._
+_Mình đã xin thẻ Long-term Visit Pass Singapore thành công và muốn chia sẻ quy trình cũng như [kinh nghiệm](https://vegiang.com/kinh-nghiem/) cho những bạn đang chuẩn bị apply._
 
 # Mục lục
 1. [Mình apply thẻ Long-term Visit Pass theo diện nào?](# Mình apply thẻ Long-term Visit Pass theo diện nào?)
-2. [Thủ tục giấy tờ cần chuẩn bị để apply LTVP](# Thủ tục giấy tờ cần chuẩn bị để apply LTVP)
+2. [Thủ tục, giấy tờ cần chuẩn bị để apply LTVP](# Thủ tục, giấy tờ cần chuẩn bị để apply LTVP)
 3. [Quy trình của ICA với LTVP application](# Quy trình của ICA với LTVP application)
 4. [Bao lâu thì nhận được thẻ LTVP?](# Bao lâu thì nhận được thẻ LTVP?)
-5. [Chi phí xin thẻ LPVP 2022 là bao nhiêu?](# Chi phí xin thẻ LPVP 2022 là bao nhiêu?)
+5. [Chi phí xin thẻ LTVP 2022 là bao nhiêu?](# Chi phí xin thẻ LTVP 2022 là bao nhiêu?)
 6. [Một vài lưu ý để quá trình apply được nhẹ nhàng hơn](# Một vài lưu ý để quá trình apply được nhẹ nhàng hơn)
 
 ## Mình apply thẻ Long-term Visit Pass theo diện nào? <a name=" Mình apply thẻ Long-term Visit Pass theo diện nào? "></a>
 
-Chồng mình là PhD Student nên anh ấy có thể bảo lãnh cho mình. Trường đại học nơi anh ấy đang công tác sẽ tài trợ cho mình. Do đó, mọi thủ tục của mình đều được nhân viên của trường tư vấn cũng như cung cấp giấy tờ xác nhận cần thiết.
+Chồng mình là Ph.D Student nên anh ấy có thể bảo lãnh cho mình. Trường đại học nơi anh ấy đang công tác sẽ tài trợ cho mình. Do đó, mọi thủ tục của mình đều được nhân viên của trường tư vấn cũng như cung cấp giấy tờ xác nhận cần thiết.
 
-Thẻ Long-Term Visit Pass (LTVP) là thẻ đầu tiên ICA cấp cho đối tượng muốn ở lại Singapore lâu hơn thẻ Short-Term (30 ngày). Khi mình nhập cảnh thành công vào Singapore, mình được hệ thống của ICA cấp cho thẻ short term (còn được gọi là thẻ trắng) có số DE (Disembarkation/Embarkation). Lúc này, mình dùng Passport (Travel Document) và DE để điền các thông tin trong application form.
+Thẻ Long-Term Visit Pass (LTVP) là thẻ đầu tiên ICA cấp cho đối tượng người nước ngoài muốn ở lại Singapore lâu hơn thẻ Short-Term (30 ngày). Khi mình nhập cảnh thành công vào Singapore, mình được hệ thống của ICA cấp cho thẻ short term (còn được gọi là thẻ trắng) có số DE (Disembarkation/Embarkation). Lúc này, mình dùng Passport (Travel Document) và DE để điền các thông tin trong application form.
 
 Diện Long-Term Social Visit Pass của mình khác với các chị em người Việt lấy chồng người Singapore hay người Việt có Perment Resident bảo lãnh người thân qua Singapore.
 
 Rất ít trường hợp apply giống vợ chồng mình, nên tụi mình vừa làm vừa tìm hiểu nên cũng không hề dễ dàng, nhanh chóng gì cả.
 
-## Thủ tục giấy tờ cần chuẩn bị để apply LTVP <a name=" Thủ tục giấy tờ cần chuẩn bị để apply LTVP "></a>
+## Thủ tục, giấy tờ cần chuẩn bị để apply LTVP <a name=" Thủ tục, giấy tờ cần chuẩn bị để apply LTVP "></a>
 
-Như đã đề cập ở trên, tụi mình chuẩn bị giất tờ theo hướng dẫn của đơn vị tài trợ - Trường Đại học. Với nghiên cứu sinh Ph.D, chồng mình liên hệ Postgraduate Research Programmes & Research Administration của trường, đề đạt mong muốn và được người phụ trách hướng dẫn các bước tiếp theo. 
+Như đã đề cập ở trên, tụi mình chuẩn bị giấy tờ theo hướng dẫn của đơn vị tài trợ - Trường Đại học. Với nghiên cứu sinh Ph.D, chồng mình liên hệ Postgraduate Research Programmes & Research Administration của trường, đề đạt mong muốn và được người phụ trách hướng dẫn các bước tiếp theo. 
 
 ### Về phía người bảo lãnh/tài trợ
 
@@ -58,7 +58,7 @@ Là người được bảo lãnh, mình chuẩn bị những loại giấy tờ
 
 -	Ảnh thẻ 3x4 (phông trắng)
 
-Những giấy tờ này đều scan thành file hình để upload lên website của ICA. Ban đầu mình chuẩn bị như trên, sau mỗi giai đoạn ICA yêu cầu thì mình bổ sung thêm.
+Những giấy tờ này đều scan thành file hình để upload lên website của ICA. Ban đầu mình chuẩn bị như trên, sau mỗi giai đoạn ICA yêu cầu gì thì mình bổ sung thêm.
 
 ## Quy trình của ICA với LTVP application <a name=" Quy trình của ICA với LTVP application "></a>
 
@@ -66,7 +66,7 @@ Mình chia thành 3 giai đoạn từ lúc bắt đầu chuẩn bị hồ sơ đ
 
 ### Giai đoạn 1: Submit hồ sơ trên website của ICA
 
-Sau khi dịch thuật công chứng tất cả giấy chứng nhận gốc tiếng Việt, mình bay sang Singapore vì cả hai vợ chồng mình phải lên trình diện ICA để nhân viên ở đó hướng dẫn tiếp thủ tục. Lần này mình qua Singapore với thẻ trắng, nhập cảnh như khách du lịch với các giấy tờ sau:
+Sau khi dịch thuật công chứng tất cả giấy chứng nhận gốc tiếng Việt, mình bay sang [Singapore](https://vegiang.com/tag/trai-nghiem-singapore) vì cả hai vợ chồng mình phải lên trình diện ICA để nhân viên ở đó hướng dẫn tiếp thủ tục. Lần này mình qua Singapore với thẻ trắng, nhập cảnh như khách du lịch với các giấy tờ sau:
 
 -	Passport
 
@@ -79,7 +79,7 @@ Cùng các giấy tờ bản gốc của hồ sơ LTVP, mình nhập cảnh bìn
 ![Nhập cảnh vào Singapore](/images/kinh-nghiem-ltvp-nhap-canh-xuat-canh.jpg)
 _Nhập cảnh vào Singapore sau khi đã chuẩn bị đủ giấy tờ._
 
-Bước tiếp theo là đi đến ICA. Mình đi cùng chồng lên lầu 4 của tòa nhà và xếp hàng để trình bày trường hợp của mình và nhân viên sẽ đưa số thứ tự để vào tiếp bên trong.
+Bước tiếp theo là đi đến ICA. Mình đi cùng chồng lên lầu 4 của tòa nhà và xếp hàng để trình bày trường hợp của mình và nhân viên đưa số thứ tự để vào tiếp bên trong.
 
 Đến số của mình, nhân viên sau khi xem qua hồ sơ tụi mình chuẩn bị đã hỏi địa chỉ ở Singapore và địa chỉ email. Người ta cẩn thận viết lại và đưa cho tụi mình check 1 lần nữa cùng lời dặn thư sẽ đến trong 1-2 tuần làm việc (không tính thứ 7, Chủ nhật và ngày lễ) hãy check mail box để nhận thư.
 
@@ -89,13 +89,13 @@ _Đợi đến số thự tự để nộp hồ sơ LTVP lần đầu_
 Mình nhận được 2 thư, một thư có đường link trên website ICA và một thư chứa mã đăng nhập. Sau khi đăng nhập tài khoản, mình thấy được form đăng kí LTVP cùng hướng dẫn. 
 
 ![Hai lá thư ICA gửi vào mailbox của địa chỉ mình cung cấp](/images/kinh-nghiem-ltvp-thu-ica.jpg)
-_Hai lá thư ICA gửi vào mailbox của địa chỉ mình cung cấp_
+_Hai lá thư ICA gửi vào mailbox ở địa chỉ mình cung cấp_
 
 Lúc này mình cần phía trường (đơn vị sponsor) xác nhận lại hồ sơ theo mẫu ICA cấp. Sau khi nhận lại được bản xác nhận đó, mình submit tất cả các giấy tờ và thanh toán phí trên đường link mà ICA cung cấp lúc trước.
 
 ### Giai đoạn 2: Chờ ICA xem xét, bổ sung thêm hồ sơ nếu được yêu cầu
 
-Khi Submit thành công, mình nhận được email nói rằng ICA sẽ xử lý hồ sơ và trả kết quả trong vòng 6 tuần. Thời gian này đúng là chờ đợi mòn mỏi. Đến tuần thứ 5 mình nhận được mail phản hồi rằng hồ sơ của mình đã được chấp thuận nhưng còn thiếu giấy chứng cần bổ sung.
+Khi Submit thành công, mình nhận được email nói rằng ICA sẽ xử lý hồ sơ và trả kết quả trong vòng 6 tuần. Thời gian này đúng là chờ đợi mòn mỏi. Đến tuần thứ 5 mình nhận được mail phản hồi rằng hồ sơ của mình đã được chấp thuận nhưng còn thiếu một số giấy tờ cần bổ sung.
 
 ![Mail đầu tiên ICA gửi vào địa chỉ email của mình](/images/kinh-nghiem-ltvp-mail1.PNG)
 _Mail đầu tiên ICA gửi vào địa chỉ email của mình. Trong đó có báo quy trình thực hiện trong vòng 6 tuần._
@@ -109,7 +109,7 @@ _Một tháng sau mình mới nhận được email bổ sung giấy tờ._
 ![Một tuần sau khi upload giấy tờ, mình nhận được email này](/images/kinh-nghiem-ltvp-mail5.PNG)
 _Một tuần sau khi upload giấy tờ, mình nhận được email ICA đã nhận được hồ sơ bổ sung._
 
-Đó là giấy chứng nhận kết hôn và giấy tờ chứng minh chồng mình đang là sinh viên. Tụi mình cảm thấy lạ vì những giấy này anh chồng mình đã submit. Lúc này tụi mình như ngờ, có thể mình dịch công chứng không hợp lệ. Sau khi tra cứu đủ mọi thứ trên Google, mình định đi làm hợp pháp hóa bản dịch ở Sở Ngoại vụ nhưng cuối cùng chồng mình bảo có thể do lúc đó anh upload bị thiếu sót nên thử upload lại xem sao.
+Đó là giấy chứng nhận kết hôn và giấy tờ chứng minh chồng mình đang là sinh viên. Tụi mình cảm thấy lạ vì những giấy này anh chồng mình đã submit. Lúc này tụi mình nghi ngờ, có thể mình dịch công chứng không hợp lệ. Sau khi tra cứu đủ mọi thứ trên Google, mình định đi làm hợp pháp hóa bản dịch ở Sở Ngoại vụ nhưng cuối cùng chồng mình bảo có thể do lúc đó anh upload bị thiếu sót nên thử upload lại xem sao.
 
 Một tuần sau, mình nhận được mail ICA đã nhận được hồ sơ bổ sung.
 
@@ -142,7 +142,7 @@ Trường hợp của mình hơi gian nan vì làm trúng giai đoạn nghỉ l�
 
 Bạn chuẩn bị tinh thần từ lúc chuẩn bị hồ sơ đến lúc cầm được thẻ là từ 2 đến 3 tháng, nếu đơn vị sponsor cho bạn tương tự như mình.
 
-## Chi phí xin thẻ LPVP 2022 là bao nhiêu? <a name="Chi phí xin thẻ LPVP 2022 là bao nhiêu?"></a>
+## Chi phí xin thẻ LTVP 2022 là bao nhiêu? <a name="Chi phí xin thẻ LTVP 2022 là bao nhiêu?"></a>
 
 Mình thống kê lại những khoản phí đã tốn:
 
@@ -166,10 +166,10 @@ Phần này rất quan trọng, để tránh chờ đợi mệt mỏi như tụi
 
 -	Thường xuyên check email để không bị lỡ mail của ICA (check cả hộp thư quảng cáo và spam nhé)
 
--	LTVP là LTVP, Short term VP là Short term VP bạn đừng nhầm lẫn. Nếu chưa đến hạn nhận thẻ LTVP, bạn đang ở Singapore với thẻ Short Term thì cần tuân thủ quy định lưu trú 30 ngày. Gần hết hạn thẻ bạn phải đi gia hạn. Nếu không bạn phải về nước, còn ở lại sẽ phải đóng phạt mệt nghỉ đó.
+-	LTVP là LTVP, Short term VP là Short term VP bạn đừng nhầm lẫn. Nếu chưa đến hạn nhận thẻ LTVP, bạn đang ở Singapore với thẻ Short Term thì cần tuân thủ quy định lưu trú 30 ngày. Gần hết hạn thẻ, bạn phải đi gia hạn. Nếu không bạn phải về nước, còn ở lại sẽ phải đóng phạt mệt nghỉ đó.
 
 ![Email thông báo kết quả gia hạn short-term visa của mình](/images/kinh-nghiem-ltvp-mail2.PNG)
-_Email thông báo kết quả gia hạn short-term visa của mình. Thường mail sẽ có sau 24h submit. Như hình này là mình bị từ chối. Kinh nghiệm là bạn đừng gia hạn quá sớm. Hãy đợi đến cách deadline 2-3 ngày hãy submit.
+_Email thông báo kết quả gia hạn short-term visa của mình. Thường mail sẽ có sau 24h submit. Như hình này là mình bị từ chối. Kinh nghiệm là bạn đừng gia hạn quá sớm. Hãy đợi đến cách deadline 2-3 ngày hãy submit._
 
 -	Hãy walk-in lên ICA nếu làm thủ tục online không thành công.
 
@@ -189,8 +189,8 @@ _Mình đến lúc 8h sáng mà đến giờ vẫn chưa đến lượt._
 ![In IPA và mang hết tất cả giấy tờ lên collect thẻ](/images/kinh-nghiem-ltvp-ho-so.jpg)
 _In IPA và mang hết tất cả giấy tờ lên collect thẻ._
 
--	Nếu chưa nộp ảnh thẻ và chứng nhận vaccine trên hệ thống MOH, lúc lên nhận thẻ bạn phải đưa ra nhân viên, nếu không có người ta không cấp thẻ cho bạn và bạn phải ra về hẹn hôm khác đến đấy.
+-	Nếu chưa nộp ảnh thẻ và chứng nhận vaccine trên hệ thống MOH, lúc lên nhận thẻ bạn phải đưa cho nhân viên. Nếu không có, người ta không cấp thẻ cho bạn và bạn phải ra về hẹn hôm khác đến đấy.
 
-Cơ bản thủ tục làm thẻ LTVP của mình là như vậy. Theo mình thấy nếu bạn có hồ sơ đầy đủ, đơn vị/cá nhân sponsor của bạn mạnh thì thủ tục cũng thuận lợi hơn. Hy vọng bài viết này có ích cho bạn, đỡ lo lắng hơn trong lúc chờ đợi hồ sơ được xử lý. Nếu có gì thắc mắc, đừng ngần ngại nhắn tin cho trang Vệ Giang Blog nhé!
+Cơ bản thủ tục làm thẻ LTVP của mình là như vậy. Theo mình thấy nếu bạn có hồ sơ đầy đủ, đơn vị/cá nhân sponsor của bạn mạnh thì thủ tục cũng thuận lợi hơn. Hy vọng bài viết này có ích cho bạn, đỡ lo lắng hơn trong lúc chờ đợi hồ sơ được xử lý. Nếu có gì thắc mắc, đừng ngần ngại nhắn tin cho trang [Vệ Giang Blog](https://vegiang.com/) nhé!
 
 **Hình ảnh minh họa trong bài viết thuộc sở hữu của Vệ Giang’s Blog. Vui lòng không copy và sử dụng**
