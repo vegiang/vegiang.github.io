@@ -99,7 +99,7 @@ _Mẫu creative brief cho designer. Nguồn: Nguyễn Hoài Thương_
 ![Mẫu creative brief cho copywriter](/images/social-post-brief.PNG)
 _Mẫu creative brief cho copywriter. Nguồn: Nguyễn Hoài Thương_
 
-** _Hình ảnh trên là của chị Nguyễn Hoài Thương chia sẻ trên group Tâm sự content, mình để link google drive chính chủ để bạn xem bản đầy đủ hơn: https://bitly.com.vn/vu1c01_
+** _Hình ảnh trên là của chị Nguyễn Hoài Thương chia sẻ trên group Tâm sự content, mình để link google drive chính chủ để bạn xem bản đầy đủ hơn:https://drive.google.com/drive/folders/1QZKiRm4lA5PgdcGyIVXRNxzrfXAreSys?usp=sharing_
 
 ## Những lưu ý quan trọng về brief cho content writer <a name="Những lưu ý quan trọng về brief cho content writer"></a>
 
