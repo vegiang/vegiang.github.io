@@ -11,8 +11,11 @@ featured: true
 _Bạn đang tìm kiếm địa điểm vui chơi cuối tuần cùng gia đình hay nhóm bạn ở Singapore, East Coast Park là gợi ý thú vị. Tận hưởng không khí biển và nhiều hoạt động trải nghiệm hấp dẫn tại East Coast Park không hề khiến bạn thất vọng._
 
 # Mục lục
+
 1. [Vị trí và cách di chuyển đến East Coast Park](#Vị trí và cách di chuyển đến East Coast Park)
+
 2. [Đến East Coast Park chơi gì? Ăn uống ở đâu?](#Đến East Coast Park chơi gì? Ăn uống ở đâu?)
+
 3. [Vài lưu ý khi đến vui chơi ở East Coast Park](#Vài lưu ý khi đến vui chơi ở East Coast Park)
 
 Est Coast Park có đường ven biển thoáng mát, bãi cỏ xanh tươi được cắt tỉa cẩn thận và đặc biệt không có rác. Đây chính là ưu điểm của nơi này, thích hợp cho nhiều hoạt động vui chơi giải trí ngoài trời.
@@ -113,7 +116,7 @@ Phong cảnh biển cùng nhiều hoạt động thú vị của du khách là n
 Có các khu vực được chỉ định như Khu vực D (không bao gồm Cyclist Park và G) trong East Coast Park, nơi bạn có thể dựng lều tạm thời hoặc qua đêm. Để làm như vậy, trước tiên bạn cần phải xin giấy phép cắm trại. Bạn cần có địa chỉ cư trú và số ID hợp lệ ở Singapore để xin giấy phép cắm trại.
 
 ![Trải nghiệm cắm trại tại East Coast Park](/images/cam-trai-east-coast-park.jpg)
-_ Trải nghiệm cắm trại tại East Coast Park_
+_Trải nghiệm cắm trại tại East Coast Park_
 
 ### 10. Thể thao trên biển
 
