@@ -2,13 +2,13 @@
 layout: post
 title:  East Coast Park, địa điểm picnic lý tưởng ở Singapore
 image:  '/images/avt_kham-pha-east-coast-park-singapore.jpg'
-description: "Bạn đang tìm kiếm địa điểm vui chơi cuối tuần cùng gia đình hay nhóm bạn ở Singapore, East Coast Park là gợi ý thú vị"
+description: "Bạn đang tìm kiếm địa điểm vui chơi cuối tuần cùng bạn bè, người thân tại Singapore? East Coast Park sẽ là một gợi ý thú vị."
 tags: trai-nghiem-singapore
 categories: kham-pha
 permalink: dia-diem-east-coast-park-singapore
 featured: true
 ---
-_Bạn đang tìm kiếm địa điểm vui chơi cuối tuần cùng gia đình hay nhóm bạn ở Singapore, East Coast Park là gợi ý thú vị. Tận hưởng không khí biển và nhiều hoạt động trải nghiệm hấp dẫn tại East Coast Park không hề khiến bạn thất vọng._
+_Bạn đang tìm kiếm địa điểm vui chơi cuối tuần cùng bạn bè, người thân tại Singapore? East Coast Park sẽ là một gợi ý thú vị. Tận hưởng không khí biển và nhiều hoạt động trải nghiệm hấp dẫn tại East Coast Park không hề khiến bạn thất vọng._
 
 # Mục lục
 
