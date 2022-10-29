@@ -51,6 +51,20 @@ Bảo Tàng lịch sử TPHCM còn được công nhận là Di sản kiến tr�
 
 Từ cửa đi vào, bạn sẽ được hướng dẫn rẽ trái và bắt đầu tham quan. Từ đây bạn được dạo qua các thời kỳ lịch sử từ cổ đại đến các triều đại phong kiến và lịch sử hiện đại của nước nhà nói chung và vùng đất Phương Nam nói riêng. 
 
+![Bên trong bảo tàng lịch sử](/images/bao-tang-ls-tphcm1.JPG)
+
+![Cổ vật được trưng bày ở Bảo tàng lịch sử TPHCM](/images/bao-tang-ls-tphcm2.JPG)
+
+![Cổ vật ở Bảo tàng lịch sử](/images/bao-tang-ls-tphcm3.JPG)
+
+![Tham quan Bảo tàng lịch sử thành phố](/images/bao-tang-ls-tphcm4.JPG)
+
+![Cổ vật Bảo Tàng lịch s](/images/bao-tang-ls-tphcm5.JPG)
+
+![Đi dạo bảo tàng lịch sử thành phố tphcm](/images/bao-tang-ls-tphcm6.JPG)
+
+![Bảo tàng lịch sử thành phố HCM trưng bày cổ vật](/images/bao-tang-ls-tphcm7.JPG)
+
 Với hơn 37.000 cổ vật, bảo tàng lịch sử tập trung cung cấp cho khách tham quan thông tin về văn hóa – lịch sử. Bạn dễ dàng bị cuốn hút bởi các mẫu đồ thủ công mỹ nghệ cổ của Văn hóa Champa, Óc Eo xưa,.. Cho đến lễ phục của vua chúa thời phong kiến. Tất cả đều còn nguyên vẹn và rất tinh xảo. 
  
 ![Gian giữa của tòa nhà bảo tàng lịch sử thành phố](/images/cua-qua-gian-khac-bao-tang-lich-su-tphcm.jpg)
@@ -81,6 +95,6 @@ _Lần đầu chụp chế độ Padaroma hơi thất bại xíu_
 
 Giá vé: 30K/ người 
 
-(Theo quy định của Bảo Tàng, khách tham quan không được chụp hình (mình nhìn thấy biển No Camera). Do đó phần cổ vật mình không thể chụp lại, các bạn thông cảm nhé!)
+Update năm 2022: Vé chụp ảnh bằng máy: 40k/máy mua ở ngay cửa vào.
 
 > Xem thêm: Bài viết về [Sài Gòn](https://vegiang.com/tag/sai-gon-trong-toi) qua lăng kính của Giang
