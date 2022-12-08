@@ -20,6 +20,8 @@ _Đây là mẫu Portfolio của một Content Writer. Vị trí công việc m�
 
 **Youtube**: https://www.youtube.com/c/MoiSophie
 
+**Tik Tok**: https://www.tiktok.com/@ve_giang
+
 **Blog**: https://vegiang.com/
 
 ## Một số bài viết đã thực hiện cho các doanh nghiệp
