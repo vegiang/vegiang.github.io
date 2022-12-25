@@ -30,7 +30,7 @@ Nội dung chính vegiang.com đem đến cho bạn được chia thành 3 mục
 
 ## Mình là ai?
 
-Mình là người Quảng Ngãi, học tập và làm việc tại TPHCM. Những lĩnh vực mình chia sẻ ở blog này như học Ngoại ngữ, chụp ảnh, Sáng tạo nội dung là mảng mình có đam mê và hứng thú tìm hiểu.
+Mình là người Quảng Ngãi, học đại học rồi làm việc tại TPHCM và giờ mình đang ở Singapore. Những lĩnh vực mình chia sẻ ở blog này như học Ngoại ngữ, chụp ảnh, sáng tạo nội dung là mảng mình có đam mê và hứng thú tìm hiểu.
 Hãy giao lưu nhiều hơn với mình qua Trang blog vegiang.com này nhé!
 
 > Có thể bạn quan tâm: [PORTFOLIO CỦA GIANG](https://vegiang.com/porfolio-copywriter/)
