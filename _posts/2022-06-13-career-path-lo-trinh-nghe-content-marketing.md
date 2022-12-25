@@ -8,7 +8,7 @@ tags: nghe-content
 categories: kinh-nghiem
 featured: true
 ---
-_Khi viết những dòng này, mình đang chuẩn bị cho chặng đường tiếp theo trong sự nghiệp. Sau khi làm nghề content marketing gần 6 năm và có dịp để sống chậm (bất đắt dĩ vì Covid-19), mình đã suy nghĩ nghiêm túc hơn về nghề, hướng đi tiếp theo là gì. Nhân đây, mình cũng muốn tâm sự một chút về chủ đề này._
+_Khi viết những dòng này, mình đang chuẩn bị cho chặng đường tiếp theo trong sự nghiệp. Sau khi làm nghề content marketing gần 6 năm và có dịp để sống chậm (bất đắc dĩ vì Covid-19), mình đã suy nghĩ nghiêm túc hơn về nghề, hướng đi tiếp theo là gì. Nhân đây, mình cũng muốn tâm sự một chút về chủ đề này._
 
 # Mục lục
 1. [Khi mới vào nghề](#Khi mới vào nghề)
