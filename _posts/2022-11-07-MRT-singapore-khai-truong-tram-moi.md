@@ -47,3 +47,24 @@ _Hình mình chụp ở trạm Havelock_
 _Trạm này có 2 exit, cách nhau 1 con đường Havelock, bên dưới khách sạn Holiday Inn_
 
 Giờ thì đợi đến ngày mở cửa mình sẽ xuống thử Platform và update thêm thông tin đến bạn đọc [blog Vệ Giang](https://vegiang.com/) của mình nhé!
+
+![Trạm MRT Outram Park](/images/Outram-Park-MRT.jpg)
+_Trạm MRT Outram Park_
+
+![Trạm MRT Shenton way](/images/Shenton-way-MRT.jpg)
+_Trạm MRT Shenton way_
+
+![Trạm MRT Havelock](/images/tram-MRT-havelock.jpg)
+_Trạm MRT Havelock_
+
+![Trạm MRT Maxwell](/images/tram-MRT-maxwell.jpg)
+_Trạm MRT Maxwell_
+
+![Trạm MRT Maxwell gần Chùa Răng Phật](/images/tram-MRT-Maxwell-gan-chua-rang-phat.jpg)
+_Trạm MRT Maxwell gần Chùa Răng Phật_
+
+![Decor trạm MRT Great World](/images/decor-tram-MRT-great-world.jpg)
+_Decor trạm MRT Great World_
+
+
+
