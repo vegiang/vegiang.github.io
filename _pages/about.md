@@ -34,3 +34,6 @@ Mình là người Quảng Ngãi, học đại học rồi làm việc tại TPH
 Hãy giao lưu nhiều hơn với mình qua Trang blog vegiang.com này nhé!
 
 > Có thể bạn quan tâm: [PORTFOLIO CỦA GIANG](https://vegiang.com/porfolio-copywriter/)
+
+![bảo tàng Mỹ Thuật TP.HCM](/images/bao-tang-my-thuat-sai-gon.jpg)
+_Chụp ảnh phong cảnh là sở thích của mình. Hình minh họa trong blog chủ yếu do mình chụp._
