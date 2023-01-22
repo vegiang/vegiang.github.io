@@ -75,7 +75,7 @@ _Sơ đồ chương trình River Hongbao 2023_
 
 ![Gardens by the bay River Hongbao 2023](/images/tet-nguyen-dan-gardens-by-the-bay-4.jpg)
 
-![Chương trình Hongbao 2023 Gardens by the bay)(/images/Tet-nguyen-dan-Gardens-by-the-bay5.jpg)
+![Chương trình Hongbao 2023 Gardens by the bay](/images/Tet-nguyen-dan-Gardens-by-the-bay5.jpg)
 
 Nếu bạn nghĩ Orchard sẽ trang hoàng Tết hoành tráng thì bạn nhầm rồi. Khu Orchard chỉ đẹp mùa Giáng Sinh mà thôi. Mình có đến Orchard Tết này, ngoài POSM của Coca Cola thì không có gì đặc biệt cả.
 
