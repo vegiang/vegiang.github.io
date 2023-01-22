@@ -54,7 +54,7 @@ _Chợ Tết nhộn nhịp ở Chinatown._
 
 ![Chợ Tết Chinatown](/images/Chinatown-tet-2023-2.jpg)
 
-![Địa điểm chụp ảnh yêu thích của giới trẻ Singapore](/images/Chinatown-tet-2023-2.jpg)
+![Địa điểm chụp ảnh yêu thích của giới trẻ Singapore](/images/Chua-rang-phat-Chinatown-2023-tet.jpg)
 _Chùa Răng Phật là địa điểm chụp ảnh yêu thích của giới trẻ Singapore._
 
 ### 2. Gardens by the bay
