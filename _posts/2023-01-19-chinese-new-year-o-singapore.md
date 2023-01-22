@@ -2,13 +2,13 @@
 layout: post
 title:  Chinese New Year – Rộn ràng Tết Âm Lịch tại Singapore
 image:  '/images/Tet-nguyen-dan-Singapore-2023-avt.jpg'
-description: "Khác với Tết ở Việt Nam, Tết ở Singapore cho mình trải nghiệm khác lạ. Nếu du lịch Singapore dịp này, bạn cần lưu ý một vài điểm để có chuyến đi chơi đầu năm vui vẻ"
+description: "Khác với Tết ở Việt Nam, Tết Singapore cho mình trải nghiệm khác lạ. Nếu du lịch Singapore dịp này, bạn cần lưu ý một vài điểm để có chuyến đi chơi đầu năm vui vẻ"
 tags: trai-nghiem-singapore
 categories: kham-pha
 permalink: chinese-new-year-o-Singapore
 featured: false
 ---
-_Khác với Tết ở Việt Nam, Tết ở Singapore cho mình trải nghiệm khác lạ. Nếu du lịch Singapore dịp này, bạn cần lưu ý một vài điểm để có chuyến đi chơi đầu năm vui vẻ._
+_Khác với Tết ở Việt Nam, Tết Singapore cho mình trải nghiệm khác lạ. Nếu du lịch Singapore dịp này, bạn cần lưu ý một vài điểm để có chuyến đi chơi đầu năm vui vẻ._
 
 ## Không khí trước Tết Âm Lịch ở Singapore
 
@@ -24,13 +24,13 @@ Tuy vậy, đến ngày 28-30 âm lịch hầu như tất cả bánh kẹo, hoa 
 
 ![Chinese New Year ở Singapore](/images/Chinatown-tet-2023-5.jpg)
 
-## Ngày 3 ngày Tết ở Singapore
+## Ba ngày Tết ở Singapore
 
 Dịp Chinese New Year, Singapore chỉ cho nghỉ 1 ngày Mùng 1 Tết. Năm 2023, Mùng 1 Tết rơi vào cuối tuần nên mọi người được nghỉ thêm thứ 2. So với Trung Thu, Giáng Sinh và Tết Tây, Tết Âm Lịch có vẻ ít nhộn nhịp hơn. Đa số người gốc Hoa đều ở nhà, hàng quán người Hoa đóng cửa đến mùng 3. Trong khi đó, quán gốc Ấn hay Mã Lai thì mở xuyên Tết. 
 
 ![Ngày Tết ở Singapore 2023](/images/Chua-Rang-Phat-Chinatown-tet-2023-3.jpg)
 
-## Đến Singapore dịp Tết Âm Lịch đi đâu chơi
+## Đến Singapore dịp Tết Âm Lịch đi đâu chơi?
 
 Không đông đúc cũng không tăng giá vé tham quan, khách du lịch đến Singapore dịp Tết Âm Lịch như ngày thường, nhưng để trải nghiệm không khí Tết thì bạn nên đến hai địa điểm sau:
 
@@ -61,12 +61,12 @@ _Chùa Răng Phật là địa điểm chụp ảnh yêu thích của giới tr�
 
 ![Gardens by the bay Tết 2023](/images/tet-nguyen-dan-gardens-by-the-bay-1.jpg)
 
-Mình đến Garden by the Bay chiều 27 Tết. Nơi này được trang trí Tết rất hoành tráng. Chưa kể khu vực Supertree Grove còn được bố trí sân khấu, gian hàng trò chơi cũng nhiều. Chủ đề năm nay là River Hongbao 2023. Chương trình này diễn ra từ 20/01 đến 28/01/2023. Lịch mở cửa chương trình Tết ở Gardens by the bay chi tiết bên dưới:
+Mình đến Gardens by the Bay chiều 27 Tết. Nơi này được trang trí Tết rất hoành tráng, chưa kể khu vực Supertree Grove còn được bố trí sân khấu, gian hàng trò chơi cũng nhiều. Chủ đề năm nay là River Hongbao 2023. Chương trình này diễn ra từ 20/01 đến 28/01/2023. Lịch mở cửa chương trình Tết ở Gardens by the bay chi tiết bên dưới:
 
 ![Lịch mở cửa River Hongbao 2023](/images/gardens-by-the-bay-table.PNG)
 _Lịch mở cửa River Hongbao 2023._
 
-![Sơ đồ River Hongbao 2023)(/images/River-Hongbao-2023-gardens-by-the-bay.jpg)
+![Sơ đồ River Hongbao 2023](/images/River-Hongbao-2023-gardens-by-the-bay.jpg)
 _Sơ đồ chương trình River Hongbao 2023_
 
 ![Gardens by the bay 2023](/images/tet-nguyen-dan-gardens-by-the-bay-2.jpg)
@@ -82,6 +82,6 @@ Nếu bạn nghĩ Orchard sẽ trang hoàng Tết hoành tráng thì bạn nhầ
 ![Tết Nguyên Đán ở Orchard](/images/Tet-nguyen-dan-Orchard.jpg)
 _Trang trí ở Trung Tâm Thương mại Isetan Orchard._
 
-Ngoài ra các địa điểm tham quan khác vẫn mở cửa như bình thường, bạn có thể điểm trên website của địa điểm để mua vé và kiểm tra lịch.
+Ngoài ra các địa điểm tham quan khác vẫn mở cửa như bình thường, bạn có thể xem trên website của địa điểm đó để mua vé và kiểm tra lịch.
 
-Hy vọng bài viết này có ích cho du khách đến chơi Singapore dịp Tết. Mình sẽ cập nhật thông tin về tết ở [Singapore](https://vegiang.com/tag/trai-nghiem-singapore) trong bài viết này. Bạn đọc có thể theo dõi nhé! 
+Hy vọng bài viết này có ích cho du khách đến chơi Singapore dịp Tết. Mình sẽ cập nhật thông tin về tết ở [Singapore](https://vegiang.com/tag/trai-nghiem-singapore) ở đây.
