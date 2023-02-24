@@ -11,15 +11,15 @@ featured: false
 _Singapore có hệ thống cơ sở hạ tầng giao thông hiện đại và tiện lợi bậc nhất thế giới. Đi cùng với đó là nhiều khác biệt khiến du khách Việt Nam không quen khi lần đầu đến Singapore. Sau khi trải nghiệm các phương tiện ở Singapore, mình xin chia sẻ kinh nghiệm cá nhân khi di chuyển ở đảo quốc Sư tử, đặc biệt là bằng các phương tiện giao thông công cộng._
 
 # Mục lục
-1. [Có nên mua thẻ Ez-Link trước khi đến Singapore?](# Có nên mua thẻ Ez-Link trước khi đến Singapore?)
-2. [Các ứng dụng (app) giúp bạn không “lạc lối” ở Singapore](# Các ứng dụng (app) giúp bạn không “lạc lối” ở Singapore)
-3. [Hướng dẫn đi xe buýt ở Singapore](# Hướng dẫn đi xe buýt ở Singapore)
-4. [Cách đi MRT/ SMRT cho khách du lịch tại Singapore](# Cách đi MRT/ SMRT cho khách du lịch tại Singapore)
-5. [Book taxi/grab/gojek/ComfortRIDE ở Singapore như thế nào?](# Book taxi/grab/gojek/ComfortRIDE ở Singapore như thế nào?)
-6. [Cách di chuyển từ sân bay Changi Singapore về trung tâm thành phố](# Cách di chuyển từ sân bay Changi Singapore về trung tâm thành phố)
-7. [Lưu ý quan trọng khi di chuyển ở Singapore](# Lưu ý quan trọng khi di chuyển ở Singapore)
+1. [Có nên mua thẻ Ez-Link trước khi đến Singapore?](#Có nên mua thẻ Ez-Link trước khi đến Singapore?)
+2. [Các ứng dụng (app) giúp bạn không “lạc lối” ở Singapore](#Các ứng dụng (app) giúp bạn không “lạc lối” ở Singapore)
+3. [Hướng dẫn đi xe buýt ở Singapore](#Hướng dẫn đi xe buýt ở Singapore)
+4. [Cách đi MRT/ SMRT cho khách du lịch tại Singapore](#Cách đi MRT/ SMRT cho khách du lịch tại Singapore)
+5. [Book taxi/grab/gojek/ComfortRIDE ở Singapore như thế nào?](#Book taxi/grab/gojek/ComfortRIDE ở Singapore như thế nào?)
+6. [Cách di chuyển từ sân bay Changi Singapore về trung tâm thành phố](#Cách di chuyển từ sân bay Changi Singapore về trung tâm thành phố)
+7. [Lưu ý quan trọng khi di chuyển ở Singapore](#Lưu ý quan trọng khi di chuyển ở Singapore)
 
-## Có nên mua thẻ Ez-Link trước khi đến Singapore? <a name=" Có nên mua thẻ Ez-Link trước khi đến Singapore? "></a>
+## Có nên mua thẻ Ez-Link trước khi đến Singapore? <a name="Có nên mua thẻ Ez-Link trước khi đến Singapore? "></a>
 
 Ez-Link là một loại thẻ thanh toán phổ biến của Singapore. Người ta thường nạp tiền vào thẻ này và dùng nó để thanh toán vé đi các phương tiện công cộng và một số dịch vụ khác.
 
@@ -34,7 +34,7 @@ Ngoài ra còn có thẻ STP (Singapore Tourist Pass), đây là loại thể d�
 
 Bên cạnh Ezlink và STP, Mastercard/Visa hoặc thể NETs bank card cũng dùng để thanh toán vé đi xe buýt, MRT được. Những thẻ này mình chưa dùng để mua vé nên không rõ có bị charge phí hay chênh lệch ngoại tệ gì không.
 
-## Các ứng dụng (app) giúp bạn không “lạc lối” ở Singapore <a name=" Các ứng dụng (app) giúp bạn không “lạc lối” ở Singapore "></a>
+## Các ứng dụng (app) giúp bạn không “lạc lối” ở Singapore <a name="Các ứng dụng (app) giúp bạn không “lạc lối” ở Singapore "></a>
 
 Hãy cài sẵn trên điện thoại và tìm hiểu cách dùng app bản đồ, hướng dẫn đường đi ở Singapore để không bối rối khi ở đất khách bạn nhé!
 
@@ -72,7 +72,7 @@ _Chọn điểm khởi hành và điểm đến. Chọn hành trình phù hợp,
 
 Phương tiện giao thông ở Singapore bao gồm phương tiện công cộng (buýt, tàu điện ngầm, xe đạp (Anywheel) và phương tiện cá nhân. Bài viết này mình chỉ hướng dẫn cách sử dụng phương tiện công cộng (trừ xe đạp Anywheel). Hiện tại mình chưa [trải nghiệm]( https://vegiang.com/kham-pha/) thuê xe đạp Anywheel nên mình hẹn ở một bài biết khác bạn nha.
 
-## Hướng dẫn đi xe buýt ở Singapore <a name=" Hướng dẫn đi xe buýt ở Singapore "></a>
+## Hướng dẫn đi xe buýt ở Singapore <a name="Hướng dẫn đi xe buýt ở Singapore "></a>
 
 Ưu điểm của phương án đi xe buýt là có nhiều trạm nên ít phải đi bộ. Còn nhược điểm là đợi xe đến lâu hơn (5 đến 15 phút) và nhiều tuyến xe đi hơi lòng vòng.
 
@@ -91,7 +91,7 @@ Khi muốn xuống trạm kế tiếp, bạn nhấn chuông. Đợi xe dừng h�
 
 Điều mình thích xe buýt ở Singapore là không có tình trạng xe đang chạy mà phải nhảy xuống như xe buýt ở Việt Nam. Đó đúng là bộ môn thể thao mạo hiểm và khó quên thời sinh viên của mình.
 
-## Cách đi MRT/ SMRT cho khách du lịch tại Singapore <a name=" Cách đi MRT/ SMRT cho khách du lịch tại Singapore "></a>
+## Cách đi MRT/ SMRT cho khách du lịch tại Singapore <a name="Cách đi MRT/ SMRT cho khách du lịch tại Singapore "></a>
 
 Khác với đi xe buýt, đi tàu điện ngầm (MRT) cần chú ý các biển báo kỹ lưỡng hơn một chút. Mạng lưới MRT của Singapore được thể hiện qua sơ đồ này:
 
@@ -174,7 +174,7 @@ Cuối cùng là bạn tap thẻ để ra khỏi trạm MRT và tiếp tục hà
 ![Nếu tap thẻ báo lỗi như mình](/images/the-bao-loi-den-hoi-ticket-office.jpg)
 _Nếu tap thẻ báo lỗi như mình, hãy chụp ảnh và đến quầy vé để hỏi._
 
-## Book taxi/grab/gojek/ComfortRIDE ở Singapore như thế nào? <a name=" Book taxi/grab/gojek/ComfortRIDE ở Singapore như thế nào? "></a>
+## Book taxi/grab/gojek/ComfortRIDE ở Singapore như thế nào? <a name="Book taxi/grab/gojek/ComfortRIDE ở Singapore như thế nào? "></a>
 
 Tương tự như đặt xe ở Việt Nam, đi taxi hay các loại xe công nghệ khác ở Singapore cho bạn biết trước được giá hành trình đi qua app.
 
@@ -191,7 +191,7 @@ _Book grab car ở Singapore. Nguồn ảnh: vulcanpost_
 ![Dịch vụ xe comfortRIDE](/images/comfortdelgo_mothership.SG.jpg)
 _Dịch vụ xe comfortRIDE, mình thấy gợi ý trên Google maps nhưng chưa thử lần nào._
 
-## Cách di chuyển từ sân bay Changi Singapore về trung tâm thành phố <a name=" Cách di chuyển từ sân bay Changi Singapore về trung tâm thành phố "></a>
+## Cách di chuyển từ sân bay Changi Singapore về trung tâm thành phố <a name="Cách di chuyển từ sân bay Changi Singapore về trung tâm thành phố "></a>
 
 Khi nhập cảnh Singapore thành công, bạn lấy hành lý và đi theo lối ra, chọn phương tiện để về trung tâm. Bạn có thể chọn: taxi, bus, MRT hay đặt xe công nghệ. Trong bài chia sẻ này mình sẽ chọn những phương tiện được nhiều khách du lịch chọn nhất là MRT, Bus và taxi.
 
