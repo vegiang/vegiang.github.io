@@ -172,6 +172,12 @@ Sau khi đến trạm, bạn xuống tàu, hướng theo bảng Exit để di ch
 ![Bảng hướng dẫn lối ra ở trạm Havelock](/images/huong-dan-cac-exit-o-tram-MRT.jpg)
 _Trạm MRT Havelock mới khai trương của line nâu. Đây là bảng hướng dẫn các địa điểm tương ứng với Exit nào trong 5 exit của trạm. Ví dụ nếu bạn muốn ra đường Zion, bạn có thể đi exit 1,2,3_
 
+![MRT đang đông khách dịp Tết](/images/mrt-sing.jpg)
+_MRT được trang trí dịp Tết Nguyên Đán 2023 này._
+
+![MRT line mới vắng khách](/images/mrt-sing-2.jpg)
+_MRT line mới vắng khách._
+
 Cuối cùng là bạn tap thẻ để ra khỏi trạm MRT và tiếp tục hành trình.
 
 ![Nếu tap thẻ báo lỗi như mình](/images/the-bao-loi-den-hoi-ticket-office.jpg)
@@ -248,11 +254,17 @@ Bạn có thể dùng thẻ Ezlink, Mastercard/Visa hay NETs để thanh toán v
 
 ### Đi bằng taxi
 
-Tiện nhất là đi bằng taxi để về trung tâm thành phố vì chỗ đón xe taxi khá gần lối ra. Tuy vậy, bạn sẽ phải xếp hàng khá lâu để đến lượt và chi phí cũng đắt đỏ hơn rất nhiều.
+Tiện nhất là đi bằng taxi để về trung tâm thành phố vì chỗ đón xe taxi khá gần lối ra. Tuy vậy, chi phí đi taxi đắt đỏ hơn rất nhiều.
 
 ![Taxi ở Singapore](/images/taxi-singapore.jpg)
 
 Bạn muốn đón taxi ở sân bay Changi thì chỉ cần đi theo biển hướng dẫn lên xe theo sắp xếp của nhân viên sân bay. Taxi ở đây không cõng thêm phí sân bay mà tính theo đồng hồ bình thường. 
+
+![Biển báo nơi đón taxi về trung tâm](/images/doi-xe-taxi-changi.jpg)
+_Biển báo nơi đón taxi về trung tâm._
+
+![Taxi ở sân bay Changi Singapore](/images/taxi-san-bay-changi.jpg)
+_Người điều phối sẽ hướng dẫn bạn đến xe ở cây cột số mấy._
 
 Mình khá ấn tượng với taxi ở Singapore là bác tài tuổi hơi cao nên mình không nỡ để bác xách đồ bỏ vào cóp xe cho mình. Thêm vào đó, bác tài phóng xe cũng khá ghê, trên đường cao tốc vắng vẻ là đi toàn trên 100km/h. Đường xá ở Singapore chất lượng nên hành khách hay say xe như mình đây cảm thấy không khó chịu lắm.
 
@@ -266,6 +278,9 @@ _Lần đi taxi từ Changi về nhà của mình, bác tài chạy trên 100km/
 Mình muốn chia sẻ chi tiết một chút kinh nghiệm sử dụng phương tiện tự thân này ở Singapore. Đến đảo quốc sư tử, nếu dùng phương tiện giao thông công cộng là chủ yếu thì phải đi bộ rất nhiều. Điều này rất khác ở Việt Nam. Sau đây là một số thứ bạn cần chuẩn bị để đi bộ khoảng từ 8 đến 15 km/ ngày:
 
 1. Một đôi giày thật tốt: mềm, nhẹ và thỏai mái.
+
+![Đi bộ hơn 10.000 bước/ ngày là bình thường](/images/di-bo-8km-sing.jpg)
+_Đi bộ hơn 10.000 bước/ ngày là bình thường_
 
 2. Bình nước khoảng 600ml có thể fill thêm ở những nơi công cộng.
 
