@@ -27,8 +27,8 @@ Bạn có thể mua hoặc thuê thẻ ở Việt Nam trước khi đến Singap
 
 Mua ở sân bay thẻ mới với giá 10 SGD và có sẵn 5 SGD trong thẻ ở quầy đó luôn. Nếu bạn mua thẻ ở Việt Nam mà chưa nạp tiền hãy nạp tại Ticket Office gần cổng lối vào MRT ở Terminal 3 bằng tiền mặt.
 
-![Quầy mua vé phương tiện công cộng ở Sân bay Changi](/images/mua-the-MRT-nap-tien.PNG)
-_Quầy mua vé MRT ở Sân bay Changi_
+![Quầy mua vé phương tiện công cộng ở Sân bay Changi](/images/quay-ban-ve-mrt-changi-pianotohikoukicom.jpg)
+_Quầy mua vé MRT ở Sân bay Changi. Nguồn: pianotohikouki.com_
 
 Ngoài ra còn có thẻ STP (Singapore Tourist Pass), đây là loại thể dành riêng cho khách đến Singapore du lịch, sẽ mua vé di chuyển theo ngày. Có các mức: 1 ngày 3 SGD, 2 ngày 5 SGD, 3 ngày 10 SGD,… để du khách lựa chọn phù hợp với lịch trình.
 
@@ -138,6 +138,9 @@ _Tap thẻ để vào cửa_
 ![Thẻ đi tàu của bạn hết tiền, hãy tự nạp thêm ở đây](/images/cay-top-up-tien-vao-the.jpg)
 _Thẻ đi tàu của bạn hết tiền, hãy tự nạp thêm ở đây_
 
+![Cây nạp thẻ ezlink bằng tiền mặt](/images/cay-nap-nap-tien.jpg)
+_Cây nạp thẻ ezlink bằng tiền mặt_
+
 Tiếp theo là chọn platform. Ở mỗi line đều có hai điểm cuối ví dụ line đỏ: điểm đầu là Tuas Link và điểm cuối là Pasir Ris. Ở từng trạm (station) trên line này sẽ có 2 platform, 1 cái sẽ chạy hướng Tuas Link, cái còn lại sẽ đi về hướng Pasir Ris. Tùy vào trạm bạn muốn đến, bạn sẽ chọn platform phù hợp. Điểm này rất quan trọng, nếu chọn nhầm bạn sẽ đi ngược lại rất tốn thời gian.
 
 ![Xuống platform](/images/cuoi-cung-den-platform-cho-tau-den.jpg)
@@ -201,12 +204,12 @@ Sân bay Changi có 4 Nhà ga (Terminal) và trạm MRT về trung tâm đặt �
 
 Mỗi nhà ga của sân bay Changi đều rất rộng nhưng được bố trí khá hợp lý, bạn chỉ cần đi theo biển hướng dẫn là có thể đi đến những nơi bạn muốn.
 
-![Biển báo chỉ dẫn có khắp nơi ở sân bay Changi](/images/chu-y-ban-huong-di-den-MRT-changi-airport.PNG)
+![Biển báo chỉ dẫn có khắp nơi ở sân bay Changi](/images/bien-chi-dan-san-bay-changi.jpg)
 _Biển báo chỉ dẫn có khắp nơi ở sân bay Changi_
 
 Mình thường nhìn lên các ký hiệu trên biển báo ở phía bên trên để tìm hướng ra trạm MRT, như hình bên dưới.
 
-![Biển chỉ dẫn sân bay Changi](/images/bien-chi-dan-san-bay-singapore.PNG)
+![Biển chỉ dẫn sân bay Changi](/images/bien-chi-dan-changi.jpg)
 _Biển chỉ dẫn sân bay Changi_
 
 Sau khi nạp tiền vào tap thẻ để vào platform chờ tàu, bạn chọn Platform A hoặc Platform B để về trung tâm. 
@@ -247,6 +250,8 @@ Bạn có thể dùng thẻ Ezlink, Mastercard/Visa hay NETs để thanh toán v
 
 Tiện nhất là đi bằng taxi để về trung tâm thành phố vì chỗ đón xe taxi khá gần lối ra. Tuy vậy, bạn sẽ phải xếp hàng khá lâu để đến lượt và chi phí cũng đắt đỏ hơn rất nhiều.
 
+![Taxi ở Singapore](/images/taxi-singapore.jpg)
+
 Bạn muốn đón taxi ở sân bay Changi thì chỉ cần đi theo biển hướng dẫn lên xe theo sắp xếp của nhân viên sân bay. Taxi ở đây không cõng thêm phí sân bay mà tính theo đồng hồ bình thường. 
 
 Mình khá ấn tượng với taxi ở Singapore là bác tài tuổi hơi cao nên mình không nỡ để bác xách đồ bỏ vào cóp xe cho mình. Thêm vào đó, bác tài phóng xe cũng khá ghê, trên đường cao tốc vắng vẻ là đi toàn trên 100km/h. Đường xá ở Singapore chất lượng nên hành khách hay say xe như mình đây cảm thấy không khó chịu lắm.
@@ -273,9 +278,15 @@ Chuẩn bị đủ những thứ trên cùng ví tiền trong balo nhỏ chính 
 ![Vạch sang đường cho người đi bộ](/images/di-bo-singapore.jpg)
 _Vạch sang đường cho người đi bộ, bạn chỉ cần đi qua, xe sẽ dừng lại để bạn đi. Ở Singapore xe chạy rất nhanh, hãy cẩn thận đừng tự ý băng qua đường mà không tuân theo chỉ dẫn._
 
+![Nút nhấn xin qua đường](/images/bam-nut-qua-duong-sing.jpg)
+_Để qua đường ở chỗ giao nhau có đèn giao thông, hãy nhấn nút này để xin đường mà không phải đợi quá lâu._
+
 **Đi xe buýt và MRT**
 
 - Xếp hàng lần lượt và đừng chen lấn: Ở Singapore bạn sẽ thấy người dân tuân thủ rất tốt quy tắc này. Line xanh lá đi sân bay Changi có những khung giờ rất đông đúc nhưng hành khách vẫn xếp hàng ở hai bên cửa lên xuống tàu rất trật tự.
+
+![Xếp hàng đi MRT](/images/xep-hang-mrt-sing.jpg)
+_Mọi người xếp hàng lên xuống MRT._
 
 - Đừng ngồi vào chỗ ưu tiên: Trên các phương tiện công cộng luôn có các ghế dành cho đối tượng ưu tiên: người già, người khuyết tập và phụ nữ mang thai.
 
@@ -287,6 +298,9 @@ _Một số biển cấm ở trạm MRT_
 **Ở Singapore người ta đi bên tay trái**
 
 Đi bộ, làn đường đi xe và cả đi thang cuốn hãy đi về bên trái, ai đó muốn vượt bạn sẽ đi về bên phải. Đừng dàn hàng ngang khi đi bộ hay đi cầu thang, sẽ có nhiều người nhìn bạn với ánh mắt kỳ lạ và bạn sẽ liên tục “được” nghe tiếng “sorry” đó.
+
+![Người Sing đi bên trái](/images/di-ben-trai-singapore.jpg)
+_Người Singapore đi bên tay trái_
 
 **Làm gì khi bị lạc đường ở Singapore**
 
