@@ -100,7 +100,7 @@ Theo kinh nghiệm của mình, cách chơi xếp hình cơ bản bạn có th�
 
 1.	Tìm các mảnh cạnh, góc, viền của tranh trước. Các mảnh này dễ nhận ra nhất vì nó có 1 cạnh thẳng, bạn nhặt ra hết và tiến hành ghép vào bìa carton trước.
 
-2.	Sau khi đã hoàn thành viền tranh, bạn hãy nhóm các mảnh theo màu, cùng màu sẽ ở nhóm riêng và bắt đầu ghép theo nhóm màu, bạn có thể men theo viền tranh (nếu lớp thứ 2 sau phần viền dễ ghép)
+2.	Sau khi đã hoàn thành viền tranh, bạn hãy nhóm các mảnh theo màu, cùng màu sẽ ở nhóm riêng và bắt đầu ghép theo nhóm màu. Bạn có thể men theo viền tranh để xếp tiếp, nếu lớp thứ 2 sau phần viền dễ ghép.
 
 3.	Cứ thế bạn ghép hết nhóm này đến nhóm khác cho đến hết tranh.
 
