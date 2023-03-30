@@ -20,7 +20,7 @@ _Xuất hiện từ nhiều năm trước trò chơi ghép hình Jigsaw Puzzle k
     5. [Từ 1.500 đến 33.600 pieces](#Từ 1.500 đến 33.600 pieces)
 2. [Mua bộ tranh Jigsaw Puzzle ở đâu?](#Mua bộ tranh Jigsaw Puzzle ở đâu?)
 3. [Bộ khó của tranh được thể hiện ở điểm nào?](#Bộ khó của tranh được thể hiện ở điểm nào?)
-4. [Chuẩn bị những dụng cụ sau trước khi tiến hành ghép hình](#Chuẩn bị những dụng cụ sau trước khi tiến hành ghép hình)
+4. [Chuẩn bị những dụng cụ sau trước khi xếp hình puzzle](#Chuẩn bị những dụng cụ sau trước khi xếp hình puzzle)
 5. [Tip riêng cho tranh độ khó cao](#Tip riêng cho tranh độ khó cao)
 6. [Tạm kết](#Tạm kết)
 
@@ -80,7 +80,7 @@ Bức tranh có nhiều/ ít phần, nhưng màu sắc giống nhau nhiều, ho�
 
 Hãy ghi nhớ chi tiết quan trọng này khi chọn tranh nhé ! 
 
-## Chuẩn bị những dụng cụ sau trước khi tiến hành ghép hình <a name="Chuẩn bị những dụng cụ sau trước khi tiến hành ghép hình"></a>
+## Chuẩn bị những dụng cụ sau trước khi xếp hình puzzle <a name="Chuẩn bị những dụng cụ sau trước khi xếp hình puzzle"></a>
 
 Sau khi chọn được bức tranh ưng ý rồi, để tiến hành xếp hình, bạn cần chuẩn bị những dụng cụ sau:
 
@@ -90,23 +90,23 @@ Sau khi chọn được bức tranh ưng ý rồi, để tiến hành xếp hìn
 
 - Cuộn bao plastic trong, mỏng - Mình dùng luôn màn bọc thực phẩm – Để phủ ra ngoài tranh sau khi hoàn thành, để bảo vệ bề mặt tranh, nếu bạn chưa có điều kiện hoặc không muốn đóng khung tranh.
 
-- Kéo – băng keo – Để cố định mành bọc tranh và tấm bìa carton sau khi đã ghép xong tranh.
+- Kéo – băng keo – Để cố định màn bọc tranh và tấm bìa carton sau khi đã ghép xong tranh.
 
-Ngoài ra, bạn cần thêm hộp giấy, cái rổ nhỏ hay túi ni lông để phân loai mảnh ghép. Nếu bạn có chỗ bày mảnh ghép ra sẽ đỡ lẫn lộn và lạc mất.
+Ngoài ra, bạn cần thêm hộp giấy, cái rổ nhỏ hay túi ni lông để phân loại mảnh ghép. Nếu bạn có chỗ bày mảnh ghép ra sẽ đỡ lẫn lộn và lạc mất.
 
 ## Chiến lược chung khi chơi Jigsaw Puzzle áp dụng cho mọi tranh <a name="Chiến lược chung khi chơi Jigsaw Puzzle áp dụng cho mọi tranh"></a>
 
-Theo kinh nghiệm của mình, cách chơi ghép hình cơ bản bạn có thể áp dụng từ tranh dễ đến khó như sau (nhớ làm theo thứ tự các bước nhé )
+Theo kinh nghiệm của mình, cách chơi xếp hình cơ bản bạn có thể áp dụng từ tranh dễ đến khó như sau (nhớ làm theo thứ tự các bước nhé )
 
-1.	Tìm các mảnh cạnh, góc, viền của tranh trước.Các mảnh này dễ nhận ra nhất vì nó có 1 cạnh thẳng, bạn nhặt ra hết và tiến hành ghép vào bìa carton trước.
+1.	Tìm các mảnh cạnh, góc, viền của tranh trước. Các mảnh này dễ nhận ra nhất vì nó có 1 cạnh thẳng, bạn nhặt ra hết và tiến hành ghép vào bìa carton trước.
 
-2.	Sau khi đã hoàn thành viền tranh, bạn hãy nhóm các mảnh theo màu, cùng màu sẽ ở nhóm riêng và tiếng hành ghép theo nhóm màu, bạn có thể men theo viền tranh (nếu lớp thứ 2 sau phần viền dễ ghép)
+2.	Sau khi đã hoàn thành viền tranh, bạn hãy nhóm các mảnh theo màu, cùng màu sẽ ở nhóm riêng và bắt đầu ghép theo nhóm màu, bạn có thể men theo viền tranh (nếu lớp thứ 2 sau phần viền dễ ghép)
 
 3.	Cứ thế bạn ghép hết nhóm này đến nhóm khác cho đến hết tranh.
 
 ## Tip riêng cho tranh độ khó cao <a name="Tip riêng cho tranh độ khó cao"></a>
 
-Đối với tranh có độ khó tương đối, bạn không thể máy móc thực hiện xong phần viền đến lớp thứ 2 được. Như bức hồ sen này của mình, bạn thấy màu xanh lá quá nhiều. Nếu lần lượt ghép từ ngoài vào trong sẽ cực kỳ vô vọng và chán nản nhanh. Chiến lược của mình đối với tranh này là “xử” nhóm màu hồng trước, tức là hoa và búp sen.
+Đối với tranh có độ khó tương đối, bạn không thể máy móc thực hiện xong phần viền đến lớp thứ 2 được. Như bức hồ sen này của mình, bạn thấy màu xanh lá quá nhiều. Nếu lần lượt ghép từ ngoài vào trong sẽ cực kỳ vô vọng và nhanh chán. Chiến lược của mình đối với tranh này là “xử” nhóm màu hồng trước, tức là hoa và búp sen.
 
 ![Mình đã tìm các mảnh ghép phần hoa để ghép trước](/images/cach-ghep-hinh-ho-sen.jpg)
 
@@ -114,7 +114,7 @@ Theo kinh nghiệm của mình, cách chơi ghép hình cơ bản bạn có th�
 
 Theo chiến lược này, mình hào hứng hơn hẳn sau khi xong phần màu hồng, các mảnh xung quanh cũng dễ ghép hơn và mình nhanh chóng hoàn thành tranh này.
 
-Tùy vào từng tranh, bạn cần lên chiến lược trước khi tiến hành để đỡ tốn thời gian, nên đi từ ngoài và trong hay từ trong ra ngoài, đi chi tiết chính trước khi ghép phần nền trước, v.v….
+Tùy vào từng tranh, bạn cần lên chiến lược trước khi tiến hành ghép để đỡ tốn thời gian, nên đi từ ngoài và trong hay từ trong ra ngoài, đi chi tiết chính trước hay ghép phần nền trước, v.v….
 
 ## Tạm kết <a name="Tạm kết"></a>
 
