@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kinh nghiệm làm thủ tục nhận trợ cấp thất nghiệp tại TPHCM mới nhất 2021
+title: Kinh nghiệm làm thủ tục nhận trợ cấp thất nghiệp tại TPHCM mới nhất 2023
 image:  '/images/cong-trung-tam-tro-cap-that-nghiep-tan-binh.jpg'
 description: "Cập nhật thông tin thủ tục đăng ký nhận trợ cấp thất nghiệp, bảo hiểm xã hội tại TPHCM. Trải nghiệm thực tế đi nộp hồ sơ, lưu ý quan trọng khác."
 tags: tips
