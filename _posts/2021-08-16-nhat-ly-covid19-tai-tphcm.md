@@ -6,7 +6,7 @@ description: "Cách đây 2 năm, Covid-19 nổi lên ở Vũ Hán là một s�
 permalink: Covid-19-sai-gon-nhung-ngay-thang-khong-quen
 tags: nhat-ky-truong-thanh
 categories: nhat-ky
-featured: true
+featured: false
 ---
 _Thiên tai, dịch bệnh và chiến tranh là ba thảm họa đối với loài người. Mình mới “được’’ trải nghiệm thiên tai và giờ là dịch bệnh. Cách đây 2 năm, Covid-19 nổi lên ở Vũ Hán (Trung Quốc) là một sự kiện gì đó xa xôi lắm với mình. Vậy mà không ngờ, chính mình giờ đây đang chịu ảnh hưởng nặng nề từ nó._
 
