@@ -6,7 +6,7 @@ description: "Mình đã xin thẻ Long-term Visit Pass Singapore thành công v
 tags: tips
 categories: kinh-nghiem
 permalink: kinh-nghiem-xin-the-ltvp-singapore/
-featured: false
+featured: true
 ---
 _Mình đã xin thẻ Long-term Visit Pass Singapore thành công và muốn chia sẻ quy trình cũng như [kinh nghiệm](https://vegiang.com/kinh-nghiem/) cho những bạn đang chuẩn bị apply._
 
