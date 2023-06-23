@@ -26,7 +26,7 @@ Thẻ Long-Term Visit Pass (LTVP) là thẻ đầu tiên ICA cấp cho đối t�
 
 Diện Long-Term Social Visit Pass của mình khác với các chị em người Việt lấy chồng người Singapore hay người Việt có Perment Resident bảo lãnh người thân qua Singapore.
 
-Rất ít trường hợp apply giống vợ chồng mình, nên tụi mình vừa làm vừa tìm hiểu nên cũng không hề dễ dàng, nhanh chóng gì cả.
+Rất ít trường hợp apply giống vợ chồng mình, nên tụi mình vừa làm vừa tìm hiểu nên cũng không hề dễ dàng hay nhanh chóng gì cả.
 
 ## Thủ tục, giấy tờ cần chuẩn bị để apply LTVP <a name=" Thủ tục, giấy tờ cần chuẩn bị để apply LTVP "></a>
 
