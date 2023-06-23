@@ -6,7 +6,7 @@ description: "Mình đang chuẩn bị cho chặng đường tiếp theo trong s
 permalink: career-path-lo-trinh-nghe-content-marketing/
 tags: nghe-content
 categories: kinh-nghiem
-featured: true
+featured: false
 ---
 _Khi viết những dòng này, mình đang chuẩn bị cho chặng đường tiếp theo trong sự nghiệp. Sau khi làm nghề content marketing gần 6 năm và có dịp để sống chậm (bất đắc dĩ vì Covid-19), mình đã suy nghĩ nghiêm túc hơn về nghề, hướng đi tiếp theo là gì. Nhân đây, mình cũng muốn tâm sự một chút về chủ đề này._
 
