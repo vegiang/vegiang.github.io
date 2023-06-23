@@ -6,7 +6,7 @@ description: "Cập nhật thủ tục nhập cảnh vào Singapore mới nhất
 tags: trai-nghiem-singapore
 categories: kham-pha
 permalink: thu-tuc-nhap-canh-singapore-moi-nhat
-featured: false
+featured: true
 ---
 _Sau dịch Covid-19, Singapore có yêu cầu gì đối với khách du lịch nhập cảnh trong năm nay? Du khách đi một mình, nhất là nữ giới có bị làm khó như lời đồn? Và một số thông tin quan trọng khác liên quan đến chuyện nhập cảnh mình sẽ gửi đến bạn trong bài viết này._
 
