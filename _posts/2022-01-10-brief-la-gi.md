@@ -6,7 +6,7 @@ description: "Bạn mới bắt đầu dấn thân vào nghề content và đang
 permalink: brief-va-mau-brief-cho-content/
 tags: nghe-content
 categories: kinh-nghiem
-featured: true
+featured: false
 ---
 _Trước khi bắt tay vào thực hiện bất kỳ dự án marketing nào, thống nhất brief luôn là bước quan trọng nhất. Với content mới vào nghề, bạn cần tìm hiểu thật kỹ về brief cũng như cách thức làm việc hiệu quả với công cụ này._
 
