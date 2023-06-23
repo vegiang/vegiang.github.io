@@ -21,7 +21,7 @@ _Singapore có hệ thống cơ sở hạ tầng giao thông hiện đại và t
 
 ## Có nên mua thẻ Ez-Link trước khi đến Singapore? <a name="Có nên mua thẻ Ez-Link trước khi đến Singapore? "></a>
 
-Ez-Link là một loại thẻ thanh toán phổ biến của Singapore. Người ta thường nạp tiền vào thẻ này và dùng nó để thanh toán vé đi các phương tiện công cộng và một số dịch vụ khác.
+Ez-Link là một loại thẻ thanh toán phổ biến của Singapore. Người ta thường nạp tiền vào thẻ này và dùng nó để thanh toán vé đi các phương tiện công cộng cùng một số dịch vụ khác.
 
 Bạn có thể mua hoặc thuê thẻ ở Việt Nam trước khi đến Singapore thông qua các agency uy tín. Thường thì thẻ được mua từ Việt Nam đa số chưa được nạp tiền hoặc có số dư rất ít. Lần đầu mình đi mình mua ở sân bay Changi ngay khi vừa nhập cảnh vào Singapore chứ không mua từ trước.
 
