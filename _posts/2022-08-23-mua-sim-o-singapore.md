@@ -6,7 +6,7 @@ description: "Ở Singapore mua SIM có dễ không? Nên mua ở Việt Nam tr�
 tags: trai-nghiem-singapore
 categories: kham-pha
 permalink: mua-sim-o-singapore-nhu-the-nao
-featured: false
+featured: true
 ---
 _Dù ở bất kỳ đâu, điện thoại và Internet là thứ không thể thiếu, đặc biệt khi bạn đang ở nước ngoài. Bạn cần có SIM để liên lạc với mọi người, tra cứu Google Maps tìm đường hay đặt taxi, grab. Ở Singapore mua SIM có dễ không? Nên mua ở Việt Nam trước hay qua Singapore rồi mua? Mình sẽ giải đáp các thắc mắc đó ở bài viết này._
 
