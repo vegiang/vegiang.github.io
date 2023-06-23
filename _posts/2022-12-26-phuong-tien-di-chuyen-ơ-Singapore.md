@@ -6,7 +6,7 @@ description: "Mình xin chia sẻ kinh nghiệm cá nhân khi di chuyển ở đ
 tags: trai-nghiem-singapore
 categories: kham-pha
 permalink: kinh-nghiem-di-chuyen-tai-Singapore
-featured: false
+featured: true
 ---
 _Singapore có hệ thống cơ sở hạ tầng giao thông hiện đại và tiện lợi bậc nhất thế giới. Đi cùng với đó là nhiều khác biệt khiến du khách Việt Nam không quen khi lần đầu đến Singapore. Sau khi trải nghiệm các phương tiện ở Singapore, mình xin chia sẻ kinh nghiệm cá nhân khi di chuyển ở đảo quốc Sư tử, đặc biệt là bằng các phương tiện giao thông công cộng._
 
