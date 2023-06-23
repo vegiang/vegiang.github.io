@@ -6,7 +6,7 @@ description: "Hình ảnh mới nhất về Lễ Quốc Khánh Singapore, các h
 tags: trai-nghiem-singapore
 categories: kham-pha
 permalink: le-quoc-khanh-singapore-co-gi
-featured: true
+featured: false
 ---
 _Ngày 9/8 hàng năm là Quốc Khánh Cộng Hòa Singapore. Sau 2 năm vắng khách du lịch, năm nay Singapore đã mở cửa đón khách và điểm nhấn chính là dịp sinh nhật lần thứ 57 của đảo quốc này. Mình sẽ gửi đến bạn một số hình ảnh mới nhất về không khí chuẩn bị cho ngày Quốc khánh._
 
