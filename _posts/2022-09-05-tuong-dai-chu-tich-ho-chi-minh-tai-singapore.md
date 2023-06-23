@@ -6,7 +6,7 @@ description: "Một điểm đến chưa có một công ty du lịch nào đưa
 tags: trai-nghiem-singapore
 categories: kham-pha
 permalink: tuong-dai-chu-tich-ho-chi-minh-tai-singapore
-featured: false
+featured: true
 ---
 _Một điểm đến chưa có một công ty du lịch nào đưa vào chương trình tour, một nơi có khá ít thông tin trên Internet và là một nơi mang dấu ấn người Việt tại đảo quốc sư tử. Đó chính là Hồ Chí Minh Monument. Nhân dịp Lễ Quốc Khánh 2/9 mình đã đến thăm Tượng đài Bác Hồ ở Singapore._
 
