@@ -6,7 +6,7 @@ description: "Mình muốn kể cho bạn nghe về những em mèo siêu đáng
 tags: trai-nghiem-singapore
 categories: kham-pha
 permalink: nhung-chu-meo-o-singapore
-featured: false
+featured: true
 ---
 _Mặc kệ một list các chủ đề đang đợi tác giả siêu lười của [blog này](https://vegiang.com/) – là mình đây lên bài, mình ưu tiên viết về những chú mèo đáng yêu ở khu Tiong Bahru, Singapore._
 
