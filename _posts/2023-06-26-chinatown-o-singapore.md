@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Kinh nghiệm khám phá Chinatown Singapore chi tiết nhất
+title:  Cẩm nang khám phá Chinatown Singapore chi tiết nhất
 image:  '/images/Chinatown-Singapore-avt.jpg'
 description: "Nếu có dịp đi du lịch Singapore dịp Tết âm lịch hay Trung Thu, bạn đừng quên ghé thăm Chinatown để tận hưởng không khí văn hóa Trung Hoa đậm nét ở đây"
 tags: trai-nghiem-singapore
@@ -271,7 +271,7 @@ Với những du khách sành ăn thích đồ nướng kiểu Úc có thể ch�
 
 **Soi Candy Thai Noodle & Seafood Bar**
 
-![Nhà hàng Thái Lan ở Chinatown](/images/images/images/Soi-Candy-Thai-Noodle-Seafood-Bar.jpg)
+![Nhà hàng Thái Lan ở Chinatown](/images/Soi-Candy-Thai-Noodle-Seafood-Bar.jpg)
 
 Một quán ăn Thái Lan mình mới phát hiện ra ở gần Chùa Răng Phật. Với mình, đồ ăn Thái ở đây có vị nguyên bản, không gian độc đáo và giá cả phải chăng.
 
