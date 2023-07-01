@@ -32,7 +32,7 @@ Mình sẽ chia sẻ cách mình sử dụng cuốn sách này, bạn có thể 
 
 Ngoài ra, khi sử dụng tiếng Pháp có lúc nào đó mình nghi ngờ về ngữ pháp thì cuốn Nouvelle Grammaire du Français sẽ giúp mình tự điều chỉnh. Vậy nên đó là lý do mình gọi cuốn sách này là “gối đầu giường” hay cẩm nang.
 
-> [Download Nouvelle Grammaire du Français](https://drive.google.com/drive/folders/1PMYSKyNp_nQI7MzPL_q6qIY_vphUcoTX?usp=sharing)
+> [Download Nouvelle Grammaire du Français](https://drive.google.com/drive/u/2/folders/1PMYSKyNp_nQI7MzPL_q6qIY_vphUcoTX)
 
 Và trên này là chiếc link download xinh xinh, hãy tải về máy và ra tiệm in ngay để học bạn nhé! Chúc bạn học vui và đừng quên đón xem những tài hiệu hay trên blog vegiang.com.
 
