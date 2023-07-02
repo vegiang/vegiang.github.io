@@ -36,5 +36,21 @@ Ngoài ra, khi sử dụng tiếng Pháp có lúc nào đó mình nghi ngờ v�
 
 Và trên này là chiếc link download xinh xinh, hãy tải về máy và ra tiệm in ngay để học bạn nhé! Chúc bạn học vui và đừng quên đón xem những tài hiệu hay trên blog vegiang.com.
 
+**(UPDATED)**
+
+Một thời gian mình không để ý, link download file sách bị hỏng. Nguyên nhân là do đã có người đổi quyền owner file và XÓA luôn file đi. Lợi dụng sự bất cẩn của mình để làm một việc ích kỳ thật sự. Mình có được file này 
+
+miễn phí vì vậy cũng chia sẻ miễn phí cho các bạn học chung, cũng không ngờ có người xấu tính đến vậy. Cho phép mình được để mail của người đó ở đây. Chủ nhân của email này có nhìn thấy lời nhắn gửi này của mình, mong bạn 
+
+sống tử tế hơn. 
+
+Bạn đọc bài trên blog có gì sai sót đừng ngần ngại mà liên hệ mình qua fanpage hoặc email: tranhuongvegiang@gmail.com. Xin cảm ơn.
+
+![Folder bị xóa](/images/nguoi-xoa-trom-file.png)
+_Folder đã bị bạn HÀ MÈO thay đổi quyền sở hữu và XÓA nó đi_
+
+![Email của người đó](/images/nguoi-xoa-trom-file-1.png)
+_Email của bạn đọc "đáng mến" đấy_
+
 > Đừng quên làm bài tập trong [Cuốn Les 500 exercices de Grammaire]( http://vegiang.com/les-500-exercices-de-grammaire-avec-corriges-pdf/)
  
