@@ -99,10 +99,10 @@ _Khu vườn Raffles Gardens của Fort Canning Park._
 
 ![Cây xanh cổ thụ ở Raffles Gardens](/images/cay-xanh-raffles-gardens-fort-canning.jpg)
 
-![Timeball ở Raffles Gardens](/images/ timeball-fort-canning-park)
+![Timeball ở Raffles Gardens](/images/timeball-fort-canning-park.jpg)
 _Timeball ở Raffles Gardens_
 
-![Bảng thông tin của Timeball ở Raffles Gardens](/images/ timeball-cong-vien-fort-canning)
+![Bảng thông tin của Timeball ở Raffles Gardens](/images/timeball-cong-vien-fort-canning.jpg)
 _Bảng thông tin của Timeball ở Raffles Gardens_
 
 ![Từ đỉnh đồi Fort Canning, bạn có thể ngắm trung tâm thành phố Singapore](/images/doi-fort-canning.jpg)
