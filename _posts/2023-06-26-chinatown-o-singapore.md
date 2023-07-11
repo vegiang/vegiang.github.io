@@ -6,13 +6,15 @@ description: "Nếu có dịp đi du lịch Singapore dịp Tết âm lịch hay
 tags: trai-nghiem-singapore
 categories: kham-pha
 permalink: kinh-nghiem-kham-pha-chinatown-singapore
-featured: false
+featured: true
 ---
 # Mục lục
 1. [Hướng dẫn cách di chuyển đến Chinatown Singapore](#Hướng dẫn cách di chuyển đến Chinatown Singapore)
 2. [Thời điểm nào tốt nhất để ghé thăm Chinatown](#Thời điểm nào tốt nhất để ghé thăm Chinatown)
 3. [Chinatown Singapore checkin địa điểm nào nổi tiếng?](# Chinatown Singapore checkin địa điểm nào nổi tiếng?)
 4.[ Trải nghiệm của cá nhân khi đến Chinatown Singapore vui chơi](# Trải nghiệm của cá nhân khi đến Chinatown Singapore vui chơi)
+
+_Có một sự thật rằng cộng đồng người Hoa ở Singapore chiếm phần lớn dân số quốc đảo. Vì vậy, văn hóa người Hoa cũng thể hiện rõ nét ở Singapore thông qua nhiều ngày lễ, Tết trong năm. Nếu có dịp đi du lịch Singapore dịp Tết âm lịch hay Trung Thu, bạn đừng quên ghé thăm Chinatown để tận hưởng không khí văn hóa Trung Hoa đậm nét ở đây nhé!_
 
 ## Hướng dẫn cách di chuyển đến Chinatown Singapore <a name="Hướng dẫn cách di chuyển đến Chinatown Singapore"></a>
 
