@@ -12,7 +12,7 @@ featured: false
 1. [Từ hình ảnh “giếng trời” nổi tiếng ở Fort Canning](#Từ hình ảnh “giếng trời” nổi tiếng ở Fort Canning)
 2. [Đến một trong những địa danh lịch sử nổi tiếng của Singapore](#Đến một trong những địa danh lịch sử nổi tiếng của Singapore)
 3. [Fort Canning và 14 điểm checkin nổi bật nhất](#Fort Canning và 14 điểm checkin nổi bật nhất)
-4.[Điều mình thích nhất ở Fort Canning](#Điều mình thích nhất ở Fort Canning)
+4. [Điều mình thích nhất ở Fort Canning](#Điều mình thích nhất ở Fort Canning)
 
 _Thử hình dung một nơi ở Singapore: Đã từng là nơi ở của hoàng gia Mã Lai thế kỉ 17. Là nơi người Anh quyết định đầu hàng quân Nhật trong Thế chiến thứ hai. Và giờ đây, là nơi tổ chức nhiều sự kiện văn hóa quốc tế hấp dẫn. Đó chính là Công viên trên đỉnh đồi – Fort Canning Park. Hãy cùng mình khám phá địa danh rất được lòng khách quốc tế khi đến du lịch Singapore này nhé!_
 
