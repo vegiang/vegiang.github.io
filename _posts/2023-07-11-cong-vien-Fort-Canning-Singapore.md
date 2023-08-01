@@ -228,7 +228,7 @@ Những tác phẩm điêu khắc ở khu vườn này được tạo ra vào n�
 ![Vườn điêu khắc ASEAN](/images/ASEAN-Sculpture-Garden.jpg)
 _Vườn điêu khắc ASEAN ở Fort Canning_
 
->> Xem thêm: [Khám phá Singapore](https://vegiang.com/tag/trai-nghiem-singapore)
+> Xem thêm: [Khám phá Singapore](https://vegiang.com/tag/trai-nghiem-singapore)
 
 ### 12. Battlebox – đã đóng cửa
 
