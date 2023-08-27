@@ -6,7 +6,7 @@ description: "Cùng khám phá địa điểm du lịch nổi tiếng của Sing
 tags: trai-nghiem-singapore
 categories: kham-pha
 permalink: cong-vien-Fort-Canning-Singapore
-featured: false
+featured: true
 ---
 _Thử hình dung một nơi ở Singapore: Đã từng là nơi ở của hoàng gia Mã Lai thế kỉ 17. Là nơi người Anh quyết định đầu hàng quân Nhật trong Thế chiến thứ hai. Và giờ đây, là nơi tổ chức nhiều sự kiện văn hóa quốc tế hấp dẫn. Đó chính là Công viên trên đỉnh đồi – Fort Canning Park. Hãy cùng mình khám phá địa danh rất được lòng khách quốc tế khi đến du lịch Singapore này nhé!_
 
