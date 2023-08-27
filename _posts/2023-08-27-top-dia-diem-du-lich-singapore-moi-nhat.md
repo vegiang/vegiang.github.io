@@ -197,7 +197,7 @@ _Thư viện Library@Orchard Singapore. @ roamromer_
 Có quy mô lớn hơn Library@Orchard, thư viện quốc gia Singapore là thư viện lớn nhất nước. Bạn có thể vào National Library tham quan, chụp ảnh, tuy nhiên đừng gây ra tiếng ồn hay cản trở người khác đọc sách và học tập ở đây.
 
 ![Thư viên quốc gia Singapore](/images/National-Library-Singapore-8lo__ol8.jpg)
-_Kiến trúc hiện đại của Thư viện quốc gia Singapore. @ 8lo__ol8_
+_Kiến trúc hiện đại của Thư viện quốc gia Singapore.@8lo ol8_
 
 **Địa chỉ**: 100 Victoria St, Singapore 188064
 
