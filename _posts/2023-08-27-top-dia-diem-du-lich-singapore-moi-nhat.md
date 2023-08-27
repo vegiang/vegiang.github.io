@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Top 28+ địa điểm check in nghìn like đỉnh nhất Singapore – cập nhật 2023
-image:  '/images/avt_dia-diem-checkin-Singapore.jpg'
+image:  '/images/avt-top-dia-diem-singapore.jpg'
 description: "Mình xin giới thiệu những địa điểm checkin mới lạ và cực ăn ảnh tại Singapore. Nếu muốn có bộ ảnh du lịch đảo quốc Sư tử không đụng hàng thì đừng bỏ qua bài viết kỳ này nhé"
 tags: trai-nghiem-singapore
 categories: kham-pha
