@@ -67,7 +67,7 @@ _Một góc Caldwell House, Chijmes. @ chijmes.sg_
 Khu vườn bên vịnh – Garden by the bay thì đã quá quen thuộc với khách du lịch khi đến Singapore nhưng view hồ súng thì không phải ai cũng khám phá ra được. Đầm súng ở Garden by the bay gần đây được yêu thích hơn cả vì những bức ảnh checkin ấn tượng trên Instagram.
 
 ![Victoria Liy Pond](/images/Victoria-Lily-Pond-chervonkhoo.jpg)
-_Hình ảnh Victoria Lily Pond trên Instagram. @chervonkhoo_
+_Hình ảnh Victoria Lily Pond trên Instagram.@chervonkhoo_
 
 **Địa chỉ**: 18 Marina Gardens Dr, Singapore 018953
 
@@ -78,7 +78,7 @@ Nằm ở vị trí đắt địa nhất tại Chinatown, People’s Park Comple
 Điều khiến vị trí này thu hút giới trẻ đến check in chính là vibe giống Hồng Kông nhất ở Singapore của nó nằm ở tầng thượng gần sát tòa nhà.
 
 ![tòa nhà people’s park complex](/images/Peoples-Park-Complexhttan24_.jpg)
-_Theo chân @ httan24_ checkin People’s Park Complex_ 
+_Theo chân @ httan24_checkin People’s Park Complex_ 
 
 **Cách đi đến**: Bạn có thể đến Chinatown bằng MRT line xanh dương và xuống trạm Chinatown lối ra (Exit) C. Sau đó, bạn đi bộ đến People’s Park Complex và đi đến tầng 6 của tòa nhà để ra khu carpark chụp hình.
 
@@ -97,7 +97,7 @@ Không chỉ có giếng trời, Fort Canning Park còn có hơn 13 điểm chec
 Là một kiến trúc đẹp mắt và độc đáo bên bờ vịnh Marina, cầu Helix như một tác phẩm điêu khắc điệu nghệ bằng thép uốn lượn vắt qua, nối trung tâm Marina và bến phía nam của vịnh.
 
 ![Cầu Helix về đêm](/images/Helix-Bridge-jeancldn_.jpg)
-_Cầu Helix về đêm. @jeancldn__
+_Cầu Helix về đêm.@jeancldn__
 
 Helix Bridge là cầu đi bộ, nơi dạo mát ngắm cảnh đắc địa cho du khách đến du lịch Singapore. Về đêm, cầu Helix lên đèn đặc biệt đẹp hơn so với ban ngày.
 
@@ -108,7 +108,7 @@ Helix Bridge là cầu đi bộ, nơi dạo mát ngắm cảnh đắc địa cho
 Với ai yêu thích vẻ đẹp kiến trúc độc đáo của các tòa nhà, trường Lasalle College of the Arts là điểm đến xứng đáng để dành thời gian check in. Dường như bạn sẽ khó có thể tìm được một tòa nhà tương tự như vậy ở khu vực Đông Nam Á này.
 
 ![Một góc vườn trường Lasalle College of the Arts](/images/Lasalle-College-of-the-Arts_aishahsanusi_.jpg)
-_Tòa nhà kính của trường Lasalle College of the Arts. @ _aishahsanusi__
+_Tòa nhà kính của trường Lasalle College of the Arts.@_aishahsanusi__
 
 **Địa chỉ**: 01 McNally St, Singapore 187940
 
@@ -127,7 +127,7 @@ Tuy ở hơi xa trung tâm, trường đại học công nghệ Nanyang là ngô
 
 Tòa nhà Dimsum có tên là The Hive được xây dựng với kinh phí hơn 45 triệu SGD (hơn 700 tỷ đồng) vào năm 2015. Công trình này còn được lọt vào vòng chung kết cuộc thi kiến trúc thế giới (World Architecture Festival) cùng năm hoàn thành.
 
-![The Hive – NTU](/images/The-Hive-cocolocala_overseas1.jpg)
+![The Hive – NTU](/images/The-Hive-cocolocala_overseas_t2.jpg)
 _Checkin The Hive @ cocolocala_overseas_
 
 **Địa chỉ**: 50 Nanyang Ave, Singapore 639798
@@ -231,7 +231,7 @@ _Thác nước Jewel Changi Airport. @ in_fideles2_
 Bên bờ vịnh Marina, nhà hát Esplanade là điểm đến nổi bật thu hút khách tham quan. Esplanade có hình dáng mô phỏng trái sầu riêng nên nó còn có tên là Nhà hát trái sầu riêng. Nơi này là địa điểm diễn ra nhiều sự kiện văn hóa, buổi biểu diễn của các nghệ sĩ trên thế giới.
 
 ![Nhà hát Esplanade](/images/Esplanade-annatravelousandanna_portraitgrapy.jpg)
-_Nhà hát Esplanade, Singapore. @ annatravelousandanna_portraitgrapy _
+_Nhà hát Esplanade, Singapore.@annatravelousandanna_portraitgrapy_
 
 **Địa điểm**: 8 Raffles Avenue Singapore 039802
 
