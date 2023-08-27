@@ -78,7 +78,7 @@ Nằm ở vị trí đắt địa nhất tại Chinatown, People’s Park Comple
 Điều khiến vị trí này thu hút giới trẻ đến check in chính là vibe giống Hồng Kông nhất ở Singapore của nó nằm ở tầng thượng gần sát tòa nhà.
 
 ![tòa nhà people’s park complex](/images/Peoples-Park-Complexhttan24_.jpg)
-_Theo chân @ httan24_checkin People’s Park Complex_ 
+_Theo chân @httan24 checkin People’s Park Complex_ 
 
 **Cách đi đến**: Bạn có thể đến Chinatown bằng MRT line xanh dương và xuống trạm Chinatown lối ra (Exit) C. Sau đó, bạn đi bộ đến People’s Park Complex và đi đến tầng 6 của tòa nhà để ra khu carpark chụp hình.
 
@@ -231,7 +231,7 @@ _Thác nước Jewel Changi Airport. @ in_fideles2_
 Bên bờ vịnh Marina, nhà hát Esplanade là điểm đến nổi bật thu hút khách tham quan. Esplanade có hình dáng mô phỏng trái sầu riêng nên nó còn có tên là Nhà hát trái sầu riêng. Nơi này là địa điểm diễn ra nhiều sự kiện văn hóa, buổi biểu diễn của các nghệ sĩ trên thế giới.
 
 ![Nhà hát Esplanade](/images/Esplanade-annatravelousandanna_portraitgrapy.jpg)
-_Nhà hát Esplanade, Singapore.@annatravelousandanna_portraitgrapy_
+_Nhà hát Esplanade Singapore @annatravelousandanna portraitgrapy_
 
 **Địa điểm**: 8 Raffles Avenue Singapore 039802
 
