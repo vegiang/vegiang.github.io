@@ -282,7 +282,7 @@ Upper Seletar Reservoir Park được người dân địa phương lựa chọn
 
 Có một điều thú vị, cây wedding bên hồ này không phải là cây cô đơn, còn có một cây khác ở cạnh đó. Tuy vậy, cây wedding có frame hình hợp camera hơn nên nổi tiếng hơn.
 
-![Wedding Tree ở Upper Selatar Reservoir Park](/images/)
+![Wedding Tree ở Upper Selatar Reservoir Park](/images/wedding-tree-singapore.jpg)
 _Wedding Tree ở Upper Selatar Reservoir Park. @ vmri_7659_
 
 **Địa chỉ**: Mandai Rd Track 7, Singapore
