@@ -83,13 +83,13 @@ Ví dụ, công ty đã từng chi trả XXX triệu đồng để mời sao h�
 
 ## Triển khai từng nội dung chính trong kế hoạch content như thế nào? <a name="Triển khai từng nội dung chính trong kế hoạch content như thế nào?"></a>
 
-Với 6 pillar trên, mình sẽ lấy ví dụ cụ thể để bạn hiểu cách triển khai trong bản kế hoạch của bạn.
+Với 6 pillars trên, mình sẽ lấy ví dụ cụ thể để bạn hiểu cách triển khai trong bản kế hoạch của bạn.
 
 ### Phân tích thị trường và định vị thương hiệu <a name="Phân tích thị trường và định vị thương hiệu"></a>
 
-Sở dĩ mình đẩy phần này lên đầu tiên vì bạn sẽ không biết đặt mục tiêu ra sao và làm gì nếu chưa biết thị trường hiện tại như thế nào và thị phần của thương hiệu là bao nhiêu. Vậy làm sao để phân tích thị trường?
+Sở dĩ mình đẩy phần này lên đầu tiên vì bạn sẽ không biết đặt mục tiêu ra sao nếu bạn chưa biết thị trường hiện tại như thế nào và thị phần của thương hiệu cty bạn là bao nhiêu. Vậy làm sao để phân tích thị trường?
 
-Nếu một công ty lớn, người ta thậm chí còn thuê hẳn agency nghiên cứu thị trường và gửi báo cáo cho họ. Tuy nhiên, trường hợp bạn làm cho công ty vừa và nhỏ thì bạn làm sao để có được số liệu phân tích thị trường? 
+Nếu một công ty lớn, người ta thậm chí còn thuê hẳn agency nghiên cứu thị trường và gửi báo cáo cho họ. Tuy nhiên, trường hợp bạn làm cho công ty vừa và nhỏ thì bạn làm sao? 
 
 Về số liệu chung, mình gợi ý website https://www.statista.com/, bạn chọn market và region phù hợp. 
 
@@ -103,22 +103,22 @@ _Số liệu về website thông qua Google Analytics. Nguồn: Myriam Jessier/ 
 
 Nhìn chung ở phần này, bạn cần đi tìm câu trả lời cho câu hỏi:
 
-- Mặc hàng của công ty đang bán ở thị trường Việt Nam có tăng trưởng không?
+- Mặt hàng của công ty đang bán ở thị trường Việt Nam có tăng trưởng không?
 
 - Các kênh mua hàng phổ biến
 
 - Đối thủ cạnh tranh của thương hiệu
 
-- So sánh số liệu performance các kênh marketing (website, social media, trade, TMĐT, cửa hàng/showroom, đại lý) của thương hiệu bạn và 3 đối thủ nổi bật trên thị thường.
+- So sánh số liệu performance trên các kênh marketing (website, social media, trade, TMĐT, cửa hàng/showroom, đại lý) của thương hiệu bạn và 3 đối thủ nổi bật trên thị thường.
 
 ### Phân tích sản phẩm và thương hiệu (SWOT) <a name="Phân tích sản phẩm và thương hiệu (SWOT)"></a>
 
-Xuất phát điểm của mình không phải chuyên ngành kinh tế nên mãi sau này mới biết đến SWOT là gì. Có thể mình giải thích không chuẩn lý thuyết khi mình áp dụng nó khi phân thích sản phẩm và thương hiệu phục vụ mục đích marketing.
+Xuất phát điểm của mình không phải chuyên ngành kinh tế nên mãi sau này mới biết đến SWOT là gì. Có thể mình giải thích không chuẩn lý thuyết nên mình áp dụng nó để phân thích sản phẩm và thương hiệu phục vụ mục đích marketing.
 
 ![Dùng SWOT để phân tích sản phẩm của công ty](/images/mo-hinh-swot-toptrendingforex.jpg)
 _Dùng SWOT để phân tích sản phẩm của công ty. Nguồn ảnh: toptrendingforex_
 
-Sau khi biết được sản phẩm chủ đạo và sản phẩm đang được đầu tư của công ty, bạn cần thông tin để đi sâu phân tích nó. Mục đích là để nội dung marketing của bạn được sâu sát và không phản tác dụng. Bạn, với tư cách là người đi tiếp thị, mang thông điệp của thương hiệu đến khách hàng, cần phải hiểu rõ sản phẩm của công ty. Ở phần này bạn phải trả lời được các câu hỏi sau:
+Sau khi biết được sản phẩm nòng cốt và sản phẩm đang được đẩy mạnh của công ty, bạn cần thông tin để đi sâu phân tích nó. Mục đích là để nội dung marketing của bạn được sâu sát và không phản tác dụng. Bạn, với tư cách là người đi tiếp thị, mang thông điệp của thương hiệu đến khách hàng, cần phải hiểu rõ sản phẩm của công ty. Ở phần này bạn phải trả lời được các câu hỏi sau:
 
 - USP của sản phẩm là gì? Đặc điểm nào là độc đáo và cạnh tranh nhất của sản phẩm so với đối thủ khác trên thị trường?
 
@@ -132,9 +132,9 @@ Hãy phát huy hết năng lực “ngoại giao” của mình để tổng h�
 
 ### Mục tiêu của kế hoạch nội dung <a name="Mục tiêu của kế hoạch nội dung"></a>
 
-Sau khi “bắt bệnh” cho sản phẩm và thương hiệu của công ty, bạn sẽ đặt đươc mục tiêu cho bản kế hoạch nội dung. Ai chẳng muốn phát triển và đẩy mạnh marketing cho công ty để bùng nổ doanh số nhưng trong khả năng của doanh nghiệp, người làm kế hoạch cần đặt mục tiêu thực tế để thực hiện được kế hoạch đó.
+Sau khi “bắt bệnh” cho sản phẩm và thương hiệu của công ty, bạn sẽ đặt đưọc mục tiêu cho bản kế hoạch nội dung. Ai chẳng muốn phát triển và đẩy mạnh marketing cho công ty để bùng nổ doanh số nhưng trong khả năng của doanh nghiệp, người làm kế hoạch cần đặt mục tiêu thực tế để thực hiện được kế hoạch đó.
 
-Với bản kế hoạch nội dung, bạn ắt hẳn biết cần nâng cao, duy trì hay ưu tiên nội dung marketing gì để thực hiện mục đích marketing chung. Ở phần này, bạn cần xác định mục tiêu dài hạn và ngắn hạn của kế hoạch. Hiện thực hóa mục tiêu ngắn hạn để hoàn thành mục tiêu dài hạn của kế hoạch.
+Với bản kế hoạch nội dung, bạn ắt hẳn biết cần nâng cao, duy trì hay ưu tiên nội dung marketing nào để thực hiện mục đích marketing chung. Ở phần này, bạn cần xác định mục tiêu dài hạn và ngắn hạn của kế hoạch. Hiện thực hóa mục tiêu ngắn hạn để hoàn thành mục tiêu dài hạn của kế hoạch.
 
 Một lần nữa mình xin nhắc lại, mục tiêu của kế hoạch nội dung không được xa rời mục tiêu của kế hoạch marketing và kinh doanh chung.
 
@@ -142,13 +142,13 @@ Một lần nữa mình xin nhắc lại, mục tiêu của kế hoạch nội d
 
 Hẳn nhiên, bạn không xác định được insight của khách thì coi như thất bại đến 90% kế hoạch nội dung marketing rồi. Bởi khi bạn sản xuất nội dung mà người xem không mặn mà hay ít chuyển đổi thì coi như nội dung quảng cáo đó không thành công.
 
-_Vậy làm sao để xác định đúng insight của khách hàng mục tiêu?_
+_Vậy làm sao để xác định đúng insight khách hàng mục tiêu?_
 
 Câu hỏi này khó để trả lời. Với hiểu biết của mình, mình sẽ gợi ý bạn một số cách:
 
 **Cách lý thuyết**: Xem report demographic của kênh Social (như Fanpage, Youtube, Tik Tok) và Audience trên Google Analytic nếu có website. Cách này bạn quá quen thuộc nếu chăm chỉ đọc blog về marketing. 
 
-**Cách thực tế**: Với mình thông tin về khách hàng mục tiêu ở cách lý thuyết là chưa đủ. Mình cần “vẽ” chân dung khách hàng của mình chi tiết hơn nữa. Cụ thể, bạn nên trả lời những câu hỏi sau:
+**Cách thực tế**: Với mình thông tin về khách hàng mục tiêu ở cách lý thuyết là chưa đủ. Mình cần “vẽ” được chân dung khách hàng của mình chi tiết hơn nữa. Cụ thể, bạn nên trả lời những câu hỏi sau:
 
 -	Câu 1: Ai sẽ mua sản phẩm này?
 
@@ -175,21 +175,21 @@ _Xác định đúng insight khách hàng, kế hoạch của bạn đã win đ�
 
 -	Câu 3: Công ty nhiều mẫu mã mới, chăm sóc khách nhẹ nhàng chu đáo.
 
--	Câu 4: Họ thích mặc để đi chơi, lên hình đẹp, post lên mạng xã hội nhiều người khen, trầm trồ.
+-	Câu 4: Họ thích mặc để đi chơi, lên hình đẹp và post hình hay video lên mạng xã hội để nhiều người khen.
 
 -	Câu 5: Họ hình dung ra khi mặc bộ váy đó sẽ chụp hình đẹp, đi trên phố nhiều người ngoái nhìn, thu hút ánh nhìn khác giới…
 
--	Câu 6: Gu của họ là nhẹ nhàng, nữ tính, style “bánh bèo”, nhiều chi tiết phụ kiện. Họ đa số có tính cách mộng mơ. Thích đọc truyện xem phim ngôn tình Trung Quốc, Hàn Quốc. Thích lướt Instagram xem đồ đẹp, địa điểm du lịch, checkin, lên Tik Tok xem các idol. Nếu đang tìm người yêu, thì mẫu người của họ là người đàn ông trưởng thành, lớn hơn nhiều tuổi, từng trải và đặc biệt phải cưng chiều họ như công chúa.
+-	Câu 6: Gu của họ là nhẹ nhàng, nữ tính, style “bánh bèo”, nhiều chi tiết phụ kiện. Họ đa số có tính cách mộng mơ. Thích đọc truyện xem phim ngôn tình Trung Quốc, Hàn Quốc. Thích lướt Instagram xem đồ đẹp, địa điểm du lịch, checkin, lên Tik Tok xem các idol. Nếu đang tìm người yêu thì mẫu người của họ là người đàn ông trưởng thành, lớn hơn nhiều tuổi, từng trải và đặc biệt phải cưng chiều họ như công chúa.
 
 -	Câu 7: Họ chủ yếu mua sắm bằng cảm xúc, có thể mua tại cửa hàng hoặc mua online chốt đơn cũng nhanh chóng nếu thấy thích.
 
-List ra như trên bạn sẽ biết được mình nên sản xuất nội dung gì để bán được dòng sản phẩm này rồi đúng không?
+List ra các câu trả lời như trên bạn sẽ biết được mình nên sản xuất nội dung gì để bán được dòng sản phẩm này rồi đúng không?
 
-Để đi tìm câu trả lời, bạn chịu khó trò chuyện nhiều hơn với các bạn tư vấn viên, nhân viên sale, xem feedback hay dành thời gian ra showroom cửa hàng ngồi quan sát khách hàng ra vào. Ngoài ra, bạn phân tích hình tượng các KOLs, người có cá tính giống với khách hàng mục tiêu.
+Để đi tìm câu trả lời, bạn chịu khó trò chuyện nhiều hơn với các bạn tư vấn viên, nhân viên sale, xem feedback hay dành thời gian ra showroom cửa hàng ngồi quan sát khách hàng ra vào. Ngoài ra, bạn có thể phân tích hình tượng các KOLs, người có cá tính giống với khách hàng mục tiêu.
 
 ### Triển khai nội dung marketing đa kênh theo từng giai đoạn <a name="Triển khai nội dung marketing đa kênh theo từng giai đoạn"></a>
 
-4 phần trên là lý luận định hướng cho phần này. Đây là nội dung quan trọng nhất của bản kế hoạch. Ở phần này, bạn phải trình bày cụ thể, có hình ảnh minh họa để sếp của bạn dễ hình dung.
+4 phần trên là lý luận định hướng cho phần này. Đây là nội dung quan trọng nhất của bản kế hoạch. Ở phần này, bạn phải trình bày cụ thể và có hình ảnh minh họa cũng như biểu đồ để sếp của bạn dễ hình dung.
 
 Lúc này bạn sẽ đưa ra được kế hoạch nội dung cho từng kênh. Những ý chính bạn cần thể hiện là:
 
@@ -208,7 +208,7 @@ Hiện có 6 kênh tiếp thị nội dung phổ biến, đó là Website, Sàn 
 ![Mỗi kênh bạn có thể trình bày kế hoạch nội dung theo một format riêng](/images/mau-trinh-bay-alwaysbeinnovating.png)
 _Mỗi kênh bạn có thể trình bày kế hoạch nội dung theo một format riêng. Nguồn: alwaysbeinnovating_
 
-Format content đa dạng từ blog, post, video, podcast, bài PR, [livestream](https://vegiang.com/kich-ban-livestream-su-kien/), landing page… Bạn nên cân đối mục đích để sử dụng phù hợp nhất. Chọn kênh đăng tải từng format nội dung cũng rất quan trọng. Ví dụ cùng một angle về tính năng của sản phẩm, nếu bạn đăng tải lên kênh của cty sẽ ít người tin nhưng nó được 1 KOLs hay 1 tờ báo lớn đăng tải sẽ mang lại hiệu quả truyền thông lớn hơn gấp ngàn lần.
+Format content đa dạng từ blog, post, video, podcast, bài PR, [livestream](https://vegiang.com/kich-ban-livestream-su-kien/), landing page… Bạn nên cân đối mục đích để sử dụng phù hợp nhất. Chọn kênh đăng tải từng format nội dung cũng rất quan trọng. Ví dụ cùng một angle về tính năng của sản phẩm, nếu bạn đăng tải lên kênh của cty sẽ ít người tin, còn nếu nó được 1 KOLs hay 1 tờ báo lớn đăng tải sẽ mang lại hiệu quả truyền thông lớn hơn gấp ngàn lần.
 
 ### Đề xuất KPIs, cách đo lường, đánh giá và phân bố ngân sách <a name="Đề xuất KPIs, cách đo lường, đánh giá và phân bố ngân sách"></a>
 
