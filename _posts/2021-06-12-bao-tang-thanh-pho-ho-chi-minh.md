@@ -162,7 +162,7 @@ Ngoài ra, bên ngoài Bảo tàng trưng bày máy bay, trực thăng, xe tăng
 ![Súng thần công](/images/sung-than-cong-bao-tang-thanh-pho-ho-chi-minh.JPG)
 _Từ súng thần công…_ 
 
-![Trực thăng tại Bảo Tàng](/images/sung-than-cong-bao-tang-thanh-pho-ho-chi-minh.JPG)
+![Trực thăng tại Bảo Tàng](https://giangtta.github.io/truc-thang-o-bao-tang-thanh-pho-ho-chi-minh.JPG)
 _..đến trực thăng lịch sử được trưng bày tại Bảo Tàng Thành Phố Hồ Chí Minh_ 
 
 ## Thông tin từ A-Z cho chuyến tham quan Bảo tàng thành phố Hồ Chí Minh <a name="Thông tin từ A-Z cho chuyến tham quan Bảo tàng thành phố Hồ Chí Minh"></a>
