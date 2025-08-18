@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Du lịch Singapore 2025: Đi đâu chơi gì? Địa điểm du lịch nổi tiếng nhất   
+title: Du lịch Singapore 2025 | Đi đâu chơi gì? Địa điểm du lịch nổi tiếng nhất   
 image: '/images/dia-diem-du-lich-singapore-2025.jpg'
-description: "Thông tin địa điểm du lịch Singapore đặc sắc cần thiết để bạn lên lịch trình du lịch khám phá đảo quốc trong năm nay"
+description: "Thông tin địa điểm du lịch Singapore đặc sắc cần thiết để bạn lên lịch trình du lịch khám phá đảo quốc trong năm nay."
 tags: trai-nghiem-singapore
 categories: kham-pha
-permalink: dia-diem-du-lich-singapore-moi-nhat/
+permalink: du-lich-singapore-di-dau-choi-gi-dia-diem/
 featured: false
 ---
 
-_Lần đầu đến Singapore, bạn băn khoăn không biết nên ưu tiên đi chơi ở đâu và tò mò xem những điểm đến ấn tượng ở đảo quốc Sư tử như thế nào thì hãy tham khảo qua bài viết này của mình nhé!_
+_Hãy tham khảo bài viết này để chọn những điểm đến ưng ý nhất cho lịch trình du lịch Singapore bạn nhé!_
 
 # Mục lục
 1. [Địa điểm dành cho du khách yêu thích kiến trúc hiện đại](# Địa điểm dành cho du khách yêu thích kiến trúc hiện đại)
@@ -28,7 +28,7 @@ Mình giới thiệu đến bạn một số công trình tiêu biểu nhất tr
 
 Một “landmark” ở bờ vịnh Marina, tòa nhà hình con thuyền – Marina by Sands là một trong những biểu tượng xa hoa của Singapore. Khác với nhiều tòa nhà nổi tiếng khác trên thế giới, Marina by Sands không sở hữu chiều cao chọc trời mà gây ấn tượng bởi kiến trúc độc đáo gồm 3 tòa cao ốc nâng một “chiếc thuyền”.
 
-![Tòa nhà Marina Bay Sands](/ images/vinh-marina-by-sands.jpg)
+![Tòa nhà Marina Bay Sands](/images/vinh-marina-by-sands.jpg)
 _Tòa nhà hình còn thuyền Marina Bay Sands_
 
 Marina Bay Sands còn là khu nghỉ dưỡng phức hợp rộng 929.000 m2 bao gồm khách sạn 2.560 phòng, trung tâm hội nghị 120.000 m2, trung tâm mua sắm, bảo tàng Khoa học & Nghệ thuật, hai nhà hát, sáu nhà hàng và một casino. 
@@ -113,7 +113,7 @@ _Đảo xanh Pulau Ubin của Singapore. Nguồn ảnh: Singapore Pass_
 
 Hòn đảo này còn được gọi là đảo Rùa. Đảo Kusu ngoài có không khí trong lành và cảnh đẹp thiên nhiên hoang sơ, còn có đền thờ Đại Bá Công (Thần Tài) được xây dựng từ năm 1923. Hằng năm, người Singapore thường đến đảo Kusu vào tháng 9 và tháng 11 để hành hương cầu may mắn, phú quý.
 
-![Đảo Kusu](/images/ dao-kusu-singapore-Thailande-et-Asie.JPG)
+![Đảo Kusu](/images/dao-kusu-singapore-Thailande-et-Asie.JPG)
 _Đảo Kusu xanh mát. Nguồn Ảnh: Thailande et Asie_
 
 Địa chỉ: Đi tàu khoảng 30 phút từ Marina South Pier
@@ -122,7 +122,7 @@ _Đảo Kusu xanh mát. Nguồn Ảnh: Thailande et Asie_
 
 Một địa điểm ngắm cảng biển đẹp cách trung tâm Singapore không xa, công viên Labrador mang đến nhiều trải nghiệm cảnh đẹp cho du khách đến đây hiking ngắm cảnh. Từ trạm MRT Labrador Park, quãng đường đi bộ đến Labrador Nature Reserve xuyên qua rừng ngập mặn còn hoang sơ với nhiều loại động vật như cá, rắn, bọ cạp, cá sấu, rồng đất, chim chóc,…
 
-![Labrador Nature Reserve](/images/ Labrador-Nature-Reserve-The-straits-times.jpg)
+![Labrador Nature Reserve](/images/Labrador-Nature-Reserve-The-straits-times.jpg)
 _Khu bảo tồn thiên nhiên Labrador. Nguồn ảnh: The Straits Times_
 
 Đoạn đường ven biển của công viên Labrador còn có một số di tích lịch sử như Mũi Rồng, đường hầm thời thuộc địa Anh và không gian picnic cho nhóm gia đình, bạn bè.
@@ -177,7 +177,7 @@ _Chơi trò chơi ở G-Max Reverse. Nguồn ảnh: Khajochiblog_
 
 Trung tâm khoa học Singapore là nơi vui chơi quen thuộc của giới trẻ Singpore. Nếu đến đây bạn sẽ hiểu được vì sao đảo quốc này là phát triển mọi mặt đến như vậy, khi họ thật sự đầu tư để nuôi dưỡng khát vọng khoa học của thế hệ kế tiếp. Quy mô của trung tâm này khiến du khách quốc tế yêu khoa học phải ganh tỵ.
 
-![Trung tâm khoa học Singapore](/images/ Singapore-Science-Centre-singapore-pass.JPG)
+![Trung tâm khoa học Singapore](/images/Singapore-Science-Centre-singapore-pass.JPG)
 _Trung tâm khoa học Singapore. Nguồn ảnh: Singapore Pass_
 
 Với 14 khu trưng bày, Singapore Science Centre sắp đặt hàng ngàn hiện vật một cách trực quan sinh động nhất. Ngoài ra, nơi đây còn có rạp phim Ommi Theatre và khu tuyết trong nhà lớn nhất Singapore – Snow City.
@@ -207,13 +207,14 @@ Cách Bảo tàng quốc gia không xa, công viên trên đỉnh đồi Fort Ca
 
 [Công viên Fort Canning]( https://vegiang.com/cong-vien-Fort-Canning-Singapore)
 
-![Fort Canning Park](/images/ doi-fort-canning.jpg)
-_Công viên xanh mát Fort Cannin giữa lòng thành phố_
+![Fort Canning Park](/images/doi-fort-canning.jpg)
+_Công viên xanh mát Fort Canning giữa lòng thành phố_
 
 ### 3. Tiong Bahru Heritage Trail
 
 Ít được nhắc đến trong các tour du lịch Singapore, con đường di sản Tiong Bahru là một nét đẹp khác của Singapore. Đó là những tòa nhá cổ kính, bầu không khí yên tĩnh, những tiệm café, tiệm bánh ngọt hay quán ăn mang phong vị hoài niệm.
-
+![Cung đường di sản Tiong Bahru](/images/https://unsplash.com/photos/ImTwLJ4J2aI)
+_Cung đường di sản Tiong Bahru_
 Những căn nhà hay chung cư ở khu Tiong Bahru không cao tầng hiện đại như khu khác vì đây là con đường di sản, được bảo tồn nguyên vẹn nhất có thể từ những năm 1920 của thế kỷ trước.
 
 Địa chỉ: Từ trạm MRT Redhill đến Outram Park, xung quanh Tiong Bahru Market
@@ -231,7 +232,7 @@ _Chinetown Heritage Centre. Nguồn ảnh: Apple Maps_
 
 Với chiều dài 1,35km, con đường di sản Tiểu Ấn đưa du khách đi tham quan vài ngôi đền thờ đạo Bà La Môn, nhiều bức tranh tường sinh động hay những căn shop house đầy màu sắc đặc trưng của cộng đồng người Ấn ở Singapore.
 
-![Cung đường di sản Little India](/images/ Little-India-Heritage-Trail-Singapore.jpg )
+![Cung đường di sản Little India](/images/Little-India-Heritage-Trail-Singapore.jpg )
 _Cung đường di sản Little India_
 
 Địa chỉ: Gần trạm MRT Little India (NE7/DT12)
@@ -264,14 +265,14 @@ _Trung tâm thương mại Musfasa ở Little India_
 
 Không sầm uất như 2 khu trên, Bugis Street với lợi thế gần khu trung tâm cũng là diểm đến ăn uống và mua sắm thú vị cho khách du lịch. Bạn có thể ghé khu food court ở đây hoặc những quán ăn ở shop house. Mua sắm đồ lưu niệm ở đây cũng khá tiện lợi.
 
-![Phố mua sắm Bugis](/images/ bugis-street.jpg)
-_ Phố mua sắm hiện đại Bugis_
+![Phố mua sắm Bugis](/images/bugis-street.jpg)
+_Phố mua sắm hiện đại Bugis_
 
 ### 4. Orchard Street
 
 Nếu bạn muốn trải nghiệm ăn uống mua sắm cao cấp hơn thì đưng bỏ qua con phố hàng xa xỉ bậc nhất của Singapore – Orchard. Ở đây vào buổi tối cuối tuần lúc nào cũng đông đúc, store của các thương hiệu nổi tiếng trải dài khắp con phố.
 
-![Khu mua sắm Orchard](/images/ orchard-street.jpg)
+![Khu mua sắm Orchard](/images/orchard-street.jpg)
 _Khu mua sắm Orchard Street_
 
 Nơi này đặc biệt lung linh vào dịp mua sắm cuối năm, Giáng Sinh = Năm mới được trang trí rất đẹp.
@@ -280,7 +281,7 @@ Nơi này đặc biệt lung linh vào dịp mua sắm cuối năm, Giáng Sinh 
 
 Khu trung tâm thương mại ở tòa nhà hình con thuyền bên vịnh Marina là một trong những biểu tượng của Singapore. Bước vào đây, bạn có thể chọn trải nghiệm ăn uống từ cao cấp fine dining cho đến khu food court (giá cả sẽ cao hơn những khu food court ở ngoài) và mua sắm tại nhiều store của các thương hiệu xa xỉ nổi tiếng thế giới
 
-![Bên trong Marina by Sands](/images/ Marina-by-Sands-singapore.jpg)
+![Bên trong Marina by Sands](/images/Marina-by-Sands-singapore.jpg)
 _Bên trong trung tâm thương mai Marrina By Sands_
 
 Bên cạnh đó, Singapore còn có những khu ẩm thực riêng biệt, vừa nhiều quầy hàng vừa có chỗ ngồi dùng tại chỗ.
