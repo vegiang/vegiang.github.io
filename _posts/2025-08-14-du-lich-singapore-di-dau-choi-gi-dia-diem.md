@@ -18,7 +18,7 @@ _Hãy tham khảo bài viết này để chọn những điểm đến ưng ý n
 4. [Địa điểm dành cho người thích văn hóa lịch sử Singapore](# Địa điểm dành cho người thích văn hóa lịch sử Singapore)
 5. [Gợi ý cho du khách yêu thích ăn uống, mua sắm tại Singapore](# Gợi ý cho du khách yêu thích ăn uống, mua sắm tại Singapore)
 
-## Địa điểm dành cho du khách yêu thích kiến trúc hiện đại
+## Địa điểm dành cho du khách yêu thích kiến trúc hiện đại <a name="Địa điểm dành cho du khách yêu thích kiến trúc hiện đại"></a>
 
 Một trong những niềm tự hào của Singapore là kiến trúc đô thị đi trước thời đại. Minh chứng cho điều này chính là nhiều tòa nhà, công trình nhân tạo đồ sộ và độc đáo thu hút khách du lịch trong và ngoài nước đến tham quan trải nghiệm. 
 
@@ -77,7 +77,7 @@ _Thác nước Jewel trong sân bay Changi_
 
 Jewel Changi có mặt tiền hình mái vòm đặc biệt được làm bằng kính và thép làm tăng thêm sức hấp dẫn của nó với tư cách là một trong những trung tâm hàng không hàng đầu thế giới. Đến Jewel Changi bạn đừng bỏ lỡ thác nước nhân tạo trong nhà và nhiều điểm vui chơi độc đáo khác ở đây nhé!
 
-## Địa điểm du lịch Singapore cho người yêu thiên nhiên
+## Địa điểm du lịch Singapore cho người yêu thiên nhiên <a name="Địa điểm du lịch Singapore cho người yêu thiên nhiên"></a>
 
 Tuy là đất nước có diện tích khá nhỏ, chính phủ Singapore và người dân bản địa vẫn dành sự ưu ái cho việc bảo tồn cảnh quan thiên nhiên. Bạn sẽ không khỏi ngạc nhiên khi lạc vào “rừng” nhiệt đới chỉ cách trung tâm thành phố sầm uất chừng vài km. 
 
@@ -129,7 +129,7 @@ _Khu bảo tồn thiên nhiên Labrador. Nguồn ảnh: The Straits Times_
 
 Địa chỉ: 91 Labrador Villa Rd Singapore 119190
 
-## Các công viên trò chơi chủ đề ở Singapore
+## Các công viên trò chơi chủ đề ở Singapore <a name="Các công viên trò chơi chủ đề ở Singapore"></a>
 
 Singapore là điểm đến được nhiều gia đình cũng như các bạn trẻ lựa chọn bởi đảo quốc sở hữu những tổ hợp công viên trò chơi và vườn thú quy mô lớn. Không phải đi xa mà vẫn được trải nghiệm nhiều trò chơi thú vị đẳng cấp thế giới thì còn gì bằng. 
 
@@ -184,7 +184,7 @@ Với 14 khu trưng bày, Singapore Science Centre sắp đặt hàng ngàn hi�
 
 Địa chỉ: 15 Science Centre Road, Singapore 609081
 
-## Địa điểm dành cho người thích văn hóa lịch sử Singapore
+## Địa điểm dành cho người thích văn hóa lịch sử Singapore <a name="Địa điểm dành cho người thích văn hóa lịch sử Singapore"></a>
 
 Đảo quốc sư tử có nền văn hóa đa dạng, trong đó chiếm số đông phải kể đến cộng đồng người Mã Lai bản địa, người Hoa và người Ấn. Đi cùng với đó là lịch sử lâu dài của Singapore bị ảnh hưởng bởi vương quốc Mã Lai xưa, thực dân Anh và đế quốc Nhật đô hộ. Những dấu ấn lịch sử ấy vẫn còn tồn tại ở nhiều nơi trên quốc đảo cho đến ngày nay.
 
@@ -239,7 +239,7 @@ _Cung đường di sản Little India_
 
 Ngoài hai heritage trail mình nhắc đến ở trên, Singapore còn có 20 cung đường di sản khác đó là Toa Payoh, Hougang, Pasir Ris, Orchard, Tampines, Bedok, Jubilee, Jurong, Queenstown, Bukit Timah, Balestier, Ang Mo Kio, Jalan Besar, Kampong Glam, World War 2, Yishun – Sembawang, Sembawang, Sentosa. 
 
-## Gợi ý cho du khách yêu thích ăn uống, mua sắm tại Singapore
+## Gợi ý cho du khách yêu thích ăn uống, mua sắm tại Singapore <a name="Gợi ý cho du khách yêu thích ăn uống, mua sắm tại Singapore"></a>
 
 Một chuyến du lịch sẽ không thể hoàn hảo nếu thiếu đi tiết mục khám phá ẩm thực và đi shopping. Singapore chiêu đãi du khách nhiều lựa chọn cho trải nghiệm này. 
 
