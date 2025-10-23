@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Một chiều đi dạo Labrador Nature Reserve Singapore
-image:  'images/Cay-Labrador-Nature-Reserve.jpg'
+image:'images/Cay-Labrador-Nature-Reserve.jpg'
 description: "Một trong những điểm đến tràn ngập không khí thiên nhiên trong lành tại Singapore, khu bảo tồn Labrador vừa có biển vừa có rừng ngập mặn và nhiều cây cổ thụ xanh tốt"
 tags: trai-nghiem-singapore
 categories: kham-pha
@@ -46,7 +46,7 @@ _Nhìn kỹ sẽ phát hiện được vài “em” sinh vật đáng yêu._
 
 Cuối con đường qua rừng ngập mặn là đến một cảnh quan khác: Biển và công viên ven biển. Mình cảm nhận đúng kiểu vừa chui ra khỏi đường hầm. Không khí biển khác hẳn, lộng gió và thoáng đãng. 
 
-![Lối ra biển cuối con đường xuyên rừng](/ images/rung-ngap-man-Labrador-Nature-Reserve-lr.jpg)
+![Lối ra biển cuối con đường xuyên rừng](/images/rung-ngap-man-Labrador-Nature-Reserve-lr.jpg)
 _ Lối ra biển cuối con đường xuyên rừng_
 
 Tuyệt vời nhất là những cây cổ thụ với tán cây to lớn, bên dưới là thảm cỏ xanh mát được cắt tỉa ngay ngắn.
@@ -91,7 +91,7 @@ _Ngắm hoàng hôn cảng biển ở Labrador_
 
 Một chiều rảnh rỗi hay tâm trạng không tốt đi dạo ở Labrador là một lựa chọn không tồi. Tất cả các ảnh mình chụp đều là ảnh gốc không chỉnh sửa. Chỉ nhìn ảnh thôi ắt hẳn bạn cũng cảm nhận được khung cảnh đẹp tựa trên phim ở Labrador rồi nhỉ.
 
-![Đi dạo ở cung đường ven biển Labrador Nature Reserve](/ images/Bo-bien-Labrador-Nature-Reserve-ld.jpg)
+![Đi dạo ở cung đường ven biển Labrador Nature Reserve](/images/Bo-bien-Labrador-Nature-Reserve-ld.jpg)
 _Đi dạo ở cung đường ven biển Labrador Nature Reserve_
 
 ![Biển Labrabor](/images/Bo-bien-Labrador-Nature-Reserve.jpg)
