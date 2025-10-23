@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Một chiều đi dạo Labrador Nature Reserve Singapore
-image:'images/Cay-Labrador-Nature-Reserve.jpg'
+image: 'images/Cay-Labrador-Nature-Reserve.jpg'
 description: "Một trong những điểm đến tràn ngập không khí thiên nhiên trong lành tại Singapore, khu bảo tồn Labrador vừa có biển vừa có rừng ngập mặn và nhiều cây cổ thụ xanh tốt"
 tags: trai-nghiem-singapore
 categories: kham-pha
