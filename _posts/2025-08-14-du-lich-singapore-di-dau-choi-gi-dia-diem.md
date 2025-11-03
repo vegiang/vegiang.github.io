@@ -6,7 +6,7 @@ description: "Thông tin địa điểm du lịch Singapore đặc sắc cần t
 tags: trai-nghiem-singapore
 categories: kham-pha
 permalink: du-lich-singapore-di-dau-choi-gi-dia-diem/
-featured: false
+featured: true
 ---
 
 _Hãy tham khảo bài viết này để chọn những điểm đến ưng ý nhất cho lịch trình du lịch Singapore bạn nhé!_
