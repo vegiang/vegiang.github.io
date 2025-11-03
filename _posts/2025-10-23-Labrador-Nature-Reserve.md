@@ -6,7 +6,7 @@ description: "Một trong những điểm đến tràn ngập không khí thiên
 tags: trai-nghiem-singapore
 categories: kham-pha
 permalink: khu-bao-ton-thien-nhien-Labrador-Nature-Reserve/
-featured: false
+featured: true
 ---
 _Vừa có rừng cây, bãi cỏ và biển, cung đường đi xuyên khu bảo tồn Labrador với mình mang một vẻ đẹp riêng. Vài tiếng đi dạo buổi chiều ở đây là trải nghiệm thư thái và khó quên._
 
