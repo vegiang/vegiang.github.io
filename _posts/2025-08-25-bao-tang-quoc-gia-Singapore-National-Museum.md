@@ -6,7 +6,7 @@ description: "Ghé thăm bảo tàng Quốc gia Singapore, tìm hiểu văn hóa
 tags: trai-nghiem-singapore
 categories: kham-pha
 permalink: bao-tang-quoc-gia-Singapore-National-Museum/
-featured: false
+featured: true
 ---
 _Tất cá các điểm tham quan văn hóa ở Singapore đều miễn phí với dân địa phương còn khách du lịch phải mua vé, giá vé không rẻ chút nào nếu đổi ra tiền Việt. Bảo tàng quốc gia cũng vậy, riêng ngày 1/1 hàng năm, nơi đây mở cửa miễn phí cho khách du lịch. Lần đầu mình thăm quan nơi đây cũng vào dịp này. Đó là một trải nghiệm rất đáng nhớ, mình sẽ kể trong bài viết này, hy vọng giúp bạn có thêm kinh nghiệm khám phá bảo tàng thuận lợi hơn._
 
