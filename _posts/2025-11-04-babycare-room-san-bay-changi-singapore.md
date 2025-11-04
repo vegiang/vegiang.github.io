@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sân bay Changi Singapore | Trải nghiệm 10 điểm tiện ích cho mẹ bỉm
-image: ‘images/phong-cho-me-be-sb-Changi.jpg’
+image: ‘/images/phong-cho-me-be-sb-Changi.jpg’
 description: "Một góc nhìn trải nghiệm sân bay Changi Singapore hoàn toàn khác, từ một mẹ bỉm, hy vọng có ích cho những ai đang nuôi con nhỏ muốn đi di lịch Singapore"
 tags: trai-nghiem-singapore
 categories: kham-pha
@@ -17,21 +17,21 @@ _Bên ngoài phòng mẹ và bé ở Sân bay Changi_
 
 Nhu cầu của mẹ bỉm có con dưới 2 tuổi chính là hút sữa hoặc cho bé ti, vệ sinh, thay bỉm cho bé, sạc máy hút sữa. Nếu bé dùng sữa ngoài thì nước nóng rất cần thiết để pha sữa hay tiệt trùng dụng cụ pha sữa.
 
-![Bên trong phòng babycare nhỏ](images/san-bay-Changi-Singapore-cham-b.jpg)
+![Bên trong phòng babycare nhỏ](/images/san-bay-Changi-Singapore-cham-b.jpg)
 _Bên trong phòng babycare nhỏ_
 
 Dù là địa điểm công cộng nhưng sân bay Changi Singapore thực sự đã làm rất tốt để đáp ứng nhu cầu này của mẹ bỉm và em bé.
 
 Ở mỗi tầng đều có vài khu WC. Gần khu WC có riêng một phòng dành cho mẹ và bé. Biểu tượng và bảng hướng dẫn có dán ở ngoài cửa. 
 
-![Bên ngoài cửa phòng babycare lớn](images/baby-care-room-changi-singapore.JPG)
+![Bên ngoài cửa phòng babycare lớn](/images/baby-care-room-changi-singapore.JPG)
 _Bên ngoài cửa phòng babycare lớn_
 
 Thường thì sẽ có một điểm chính với nhiều phòng nhỏ và những phòng nhỏ rải rác ở khắp nơi. Do đó, nếu thấy phòng bận bạn đừng đợi hãy đi tìm phòng khác ở gần đó.
 
 Ở mỗi phòng mẹ và bé có những khu: ghế ngồi cho mẹ hút sữa hoặc cho bé ti, bàn thay bỉm, bồn rửa tay rửa mặt, máy nước nóng, bồn cầu và bồn tiểu cho em bé. Kinh nghiệm cá nhân của mình là thường quan sát các bảng hướng dẫn trước khi sử dụng tiện ích.
 
-![Bên trong khu chung của phòng babycare lớn](images/ben-trong-tien-ich-me-be-sb-changi.jpg)
+![Bên trong khu chung của phòng babycare lớn](/images/ben-trong-tien-ich-me-be-sb-changi.jpg)
 _Bên trong khu chung của phòng babycare lớn_
 
 ![Bàn thay bỉm cho em bé](/images/tien-ich-cham-be-Singapore.jpg)
