@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sân bay Changi Singapore | Trải nghiệm 10 điểm tiện ích cho mẹ bỉm
-image: ‘/images/phong-cho-me-be-sb-Changi.jpg’
+image: ‘images/phong-cho-me-be-sb-Changi.jpg’
 description: "Một góc nhìn trải nghiệm sân bay Changi Singapore hoàn toàn khác, từ một mẹ bỉm, hy vọng có ích cho những ai đang nuôi con nhỏ muốn đi di lịch Singapore"
 tags: trai-nghiem-singapore
 categories: kham-pha
